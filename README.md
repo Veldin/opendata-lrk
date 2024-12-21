@@ -1,6 +1,10 @@
 # Welcome to [opendata-lrk](https://github.com/Veldin/opendata-lrk)!
 
-This repository contains a rehosted version of the dataset titled **"[Gegevens kinderopvanglocaties LRK](https://data.overheid.nl/dataset/8f7b9021-7c70-4b84-a291-b932382cd0b6)"**, which includes all registered childcare locations from the **Landelijk Register Kinderopvang (LRK)**.
+This repository contains a rehosted version of the following datasets:
+
+**"[Gegevens kinderopvanglocaties LRK](https://data.overheid.nl/dataset/8f7b9021-7c70-4b84-a291-b932382cd0b6)"**, which includes all registered childcare locations from the **Landelijk Register Kinderopvang (LRK)**.
+
+**"[Gegevens kinderopvanglocaties RBK](https://data.overheid.nl/dataset/198fb882-7491-49ea-85ab-5fa94c1afa4b)"**, which includes This dataset contains all registered foreign childcare locations from the **Register buitenlandse kinderopvang (RBK)**.
 
 ## Licence
 This dataset is distributed under the **Creative Commons Zero (CC-0) 1.0 Universal License**
