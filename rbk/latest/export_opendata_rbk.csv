@@ -53,9 +53,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000015210;DGO;De Vrolijke Vriendjes;Geregistreerd;2017-11-08;2025-07-13;Plezantstraat 348;9100;Sint-Niklaas;België;
 000015222;BSO;Kinderopvang 't Mauriaantje;Geregistreerd;2017-11-08;2025-07-05;Pater Damiaanstraat 23;3740;Bilzen;België;
 000015362;DGO;Wiebelwijs;Geregistreerd;2017-12-08;2025-07-07;Ottergemsesteenweg Zuid 808 bus B8;9000;Gent;België;
-000015428;DGO;Kinderdagverblijf Helmetje;Niet meer geregistreerd;2017-12-21;2021-12-21;Dr. Elle Lambottestraat 130;1030;Schaarbeek;België;
 000015441;GOO;Broux,  M.;Geregistreerd;2017-12-21;2025-09-16;Hoelbeekstraat 39;3746;Hoelbeek;België;
-000015453;GOO;Krysiak, K.;Niet meer geregistreerd;2017-12-22;2021-12-22;Sandstrasse 1;46446;Emmerich;Duitsland;
 000015465;BSO;Hamont;Geregistreerd;2017-12-29;2025-10-05;Kloosterstraat 15;3930;Hamont-Achel;België;
 000015490;DGO;Baby Boom;Niet meer geregistreerd;2018-01-05;2022-01-05;Montebellostraat 18;2018;Antwerpen;België;
 000015519;DGO;Paboes Diepenbeek;Geregistreerd;2018-01-05;2025-07-01;Reigersstraat 8;3590;Diepenbeek;België;
@@ -964,6 +962,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 077371240;DGO;'t Prutske;Geregistreerd;2024-03-28;2028-03-28;Burgemeester Henrylaan 5;3650;Dilsen;België;
 079797854;DGO;Kita St. Mariä Himmelfahrt;Geregistreerd;2024-04-12;2028-04-12;Südwall 14;41379;Brüggen;Duitsland;
 079973504;DGO;Kinderdagverblijf Meneertjes en Mevrouwtjes;Geregistreerd;2024-08-25;2028-08-25;Provincieweg 144;9552;Borsbeke;België;
+080666693;DGO;OS Orehek Kranj;Geregistreerd;2024-09-30;2028-09-30;Zasavska cesta 53A;4000;Kranj;Slovenië;
 081818841;GOO;De Riddertjes;Geregistreerd;2024-10-24;2028-10-24;Steenweg op Kleine Brogel 68;3950;Kaulille;België;
 082319583;DGO;Montessori Sanje;Geregistreerd;2024-10-03;2028-10-03;Juvanova Ulica 27;1000;Ljubljana;Slovenië;
 082403107;DGO;Kinderdagverblijf Rotem;Geregistreerd;2024-09-08;2028-09-08;Hoogbaan 134;3650;Rotem (Dilsen-Stokkem);België;
