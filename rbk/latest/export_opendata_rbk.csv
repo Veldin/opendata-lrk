@@ -522,10 +522,10 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000021714;GOO;De Ploppertjes bij Xenia;Niet meer geregistreerd;2020-12-08;2024-12-08;Bergstraat 56 bus A;3770;Val-Meer;België;
 000021726;DGO;Internationaler Kindergarten DAI;Geregistreerd;2020-12-10;2028-08-27;Friedrich-Ebert-Anlage 28;69117;Heidelberg;Duitsland;
 000021738;DGO;Kath. Tageseinrichtung für Kinder 'Regenbogenland';Niet meer geregistreerd;2020-12-16;2024-12-16;Krokusweg 1;41334;Nettetal;Duitsland;
-000021751;GOO;Rkia Nait Oukhedou;Geregistreerd;2020-12-21;2024-12-21;Koningin Astridlaan 110;3680;Maaseik;België;
-000021763;DGO;ISF International Daycare;Geregistreerd;2020-12-21;2024-12-21;Waterloose Steenweg 280;1640;Sint-Genesius-Rode;België;
+000021751;GOO;Rkia Nait Oukhedou;Niet meer geregistreerd;2020-12-21;2024-12-21;Koningin Astridlaan 110;3680;Maaseik;België;
+000021763;DGO;ISF International Daycare;Niet meer geregistreerd;2020-12-21;2024-12-21;Waterloose Steenweg 280;1640;Sint-Genesius-Rode;België;
 000021775;DGO;Clara di Luna;Geregistreerd;2020-12-22;2024-12-22;Kastanjedreef 1;8300;Knokke;België;
-000021787;DGO;Het Bijennnestje;Geregistreerd;2020-12-21;2024-12-21;Nieuweweg 88;3770;Riemst;België;
+000021787;DGO;Het Bijennnestje;Niet meer geregistreerd;2020-12-21;2024-12-21;Nieuweweg 88;3770;Riemst;België;
 000021799;GOO;Berghe van den- Clays, D.;Geregistreerd;2020-12-23;2024-12-23;Bergstraat 35;9170;Sint-Gillis-Waas;België;
 000021817;GOO;Schellekens, K;Geregistreerd;2021-01-07;2025-01-07;Wachelbergen 96;2990;Wuustwezel;België;
 000021829;BSO;'t Kalf;Geregistreerd;2021-01-06;2025-01-06;Eeckbergstraat 10;9170;Sint-Gillis-Waas;België;
@@ -901,6 +901,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 007623069;DGO;Troetelland Mol;Geregistreerd;2024-04-18;2028-04-18;Europawijk 100;2400;Mol;België;
 008489178;DGO;Kinderdagverblijf  't Wiekernestje;Geregistreerd;2024-06-19;2028-06-19;Sint-Jacobstraat 8;3960;Bree;België;
 008640233;DGO;KDV Dol-Fijn Geel;Geregistreerd;2024-07-14;2028-07-14;Technische Schoolstraat 12;2440;GEEL;België;
+009393043;DGO;Duimelot;Geregistreerd;2024-05-17;2028-05-17;Marktplein 14;3910;Pelt;België;
 009413406;DGO;Totso;Geregistreerd;2024-10-12;2028-10-12;Luikersteenweg 234;3920;Lommel;België;
 011269248;GOO;De Jagher, N.;Geregistreerd;2024-10-02;2028-10-02;Tilburgseweg 135;2382;Poppel;België;
 011673977;DGO;Alles Kids Kinderopvang;Geregistreerd;2024-03-19;2028-03-19;Kaulillerweg 69 bus 3;3910;Sint-Huibrechts-Lille;België;
