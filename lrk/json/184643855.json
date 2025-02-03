@@ -3,7 +3,7 @@
     "type_oko": "BSO",
     "opc": "Nee",
     "actuele_naam_oko": "2Spelende Beren",
-    "aantal_kindplaatsen": 40,
+    "aantal_kindplaatsen": 36,
     "status": "Ingeschreven",
     "inschrijfdatum": "01-01-2010",
     "opvanglocatie_adres": "Guntersteinweg 62 ",
@@ -20,7 +20,9 @@
     "correspondentie_adres": "Postbus 16555",
     "correspondentie_postcode": "2500BN",
     "correspondentie_woonplaats": "'S-GRAVENHAGE",
+    "contact_persoon": "J. Poot",
     "contact_telefoon": "'070-3934391'",
+    "contact_emailadres": "poot@2samen.nl",
     "cbs_code": "518",
     "verantwoordelijke_gemeente": "'s-Gravenhage",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2175e40a-76b9-4442-894f-ca4a95e80b99"
