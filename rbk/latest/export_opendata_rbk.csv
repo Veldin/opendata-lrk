@@ -57,8 +57,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000015593;BSO;'t Klim-Op-Ke Heusden-centrum;Geregistreerd;2018-01-23;2026-01-14;Kerkenblookstraat 7;3550;Heusden-Zolder;België
 000015623;GOO;Berndsen, P.;Geregistreerd;2018-01-26;2026-06-17;Alte 's-Heerenbergerstrasse 46;46446;Emmerich;Duitsland
 000015672;GOO;Caubergh, D.;Geregistreerd;2018-02-05;2026-01-13;Steenweg 251;3621;Rekem;België
-000015684;GOO;Linsen, N.;Niet meer geregistreerd;2018-02-08;2022-02-08;St. -Dionysiuskerkstraat 1;3680;Opoeteren;België
-000015696;DGO;EV.-ref. Kita Kirchstraße;Niet meer geregistreerd;2018-02-08;2022-02-08;Kirchstraße 19 A;48455;Bad Bentheim;Duitsland
 000015702;GOO;Nykamp, H.;Geregistreerd;2018-02-12;2027-01-30;Wöstener Schulweg 6;49824;Laar;Duitsland
 000015714;DGO;Het droomwolkje;Niet meer geregistreerd;2018-02-13;2022-02-13;Gitschotellei 97;2600;Berchem;België
 000015726;DGO;Outlaw Kita Kleikamp;Niet meer geregistreerd;2018-02-13;2022-02-13;Kleikamp 2;48356;Nordwalde;Duitsland
@@ -960,6 +958,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 071363427;DGO;Zonnetje Pelt;Geregistreerd;2024-04-03;2028-04-03;Holvenstraat 183;3900;Pelt;België
 073038659;BSO;Totso;Geregistreerd;2024-08-21;2028-08-21;Luikersteenweg 234;3920;Lommel;België
 073164100;DGO;Tageseinrichtung für Kinder Libelle;Geregistreerd;2024-05-24;2028-05-24;Preussenstrasse 84;41464;Neuss;Duitsland
+073569008;GOO;Duijsters, L.;Geregistreerd;2025-01-14;2029-01-14;Windmolenstraat 35;3930;Hamont;België
 076550229;DGO;Kindergarten St. Elisabeth;Geregistreerd;2024-11-11;2028-11-11;Roghmannstrasse 11;47559;Kranenburg;Duitsland
 077371240;DGO;'t Prutske;Geregistreerd;2024-03-28;2028-03-28;Burgemeester Henrylaan 5;3650;Dilsen;België
 079797854;DGO;Kita St. Mariä Himmelfahrt;Geregistreerd;2024-04-12;2028-04-12;Südwall 14;41379;Brüggen;Duitsland
