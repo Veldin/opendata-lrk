@@ -1,0 +1,990 @@
+lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_inschrijving;adres;postcode;plaats;land
+000000164;DGO;Kinderdagverblijf 't Kroontje;Geregistreerd;2014-02-10;2027-07-25;Grens 92;2370;Arendonk;België
+000000280;DGO;'t Speelhuis;Geregistreerd;2014-03-06;2027-10-02;Justitielaan 10;3910;Neerpelt (Pelt);België
+000000334;DGO;Kinderopvang Kumari;Geregistreerd;2004-11-28;2025-10-11;Im Langental 58a;52538;Selfkant-Hillensberg;Duitsland
+000001053;DGO;Krippe Senfkorn;Geregistreerd;2007-03-26;2026-01-13;Wilsumer Strasse 2-4;49824;Emlichheim;Duitsland
+000001156;DGO;Ev.-luth. Kindergarten Arche Noah;Geregistreerd;2007-08-21;2025-06-03;Westersand 3;49824;Emlichheim;Duitsland
+000001284;DGO;Kindergarten Amselstrolche;Geregistreerd;2008-01-16;2025-10-20;Amselstrasse 3;49843;Uelsen;Duitsland
+000001776;DGO;Kindertagesstätte Vechtespatzen;Geregistreerd;2010-04-26;2026-01-10;Hauptstrasse 47;49824;Laar;Duitsland
+000002021;DGO;Evangelisch-Reformierte Kindertagesstätte Bunde;Geregistreerd;2010-11-01;2025-10-12;Lindenstrasse 2;26831;Bunde;Duitsland
+000002203;DGO;Ev.-ref. Kita Regenbogen;Geregistreerd;2012-12-03;2025-12-01;Schulstraße 22;48455;Bad Bentheim;Duitsland
+000003876;GOO;Paula Vries;Geregistreerd;2014-03-14;2027-04-25;Smeetsstraat 36;3640;Molenbeersel;België
+000003992;DGO;Miep & Lies;Geregistreerd;2014-04-02;2027-01-13;Kapelstraat 2;3930;Hamont;België
+000004005;DGO;Ikke 2;Geregistreerd;2014-04-03;2026-11-14;Nieuwstraat 11;2910;Essen;België
+000004583;BSO;Robbedoes Maaseik;Geregistreerd;2014-04-30;2025-09-03;Sportlaan 6;3680;Maaseik;België
+000004704;BSO;Kinderclub;Geregistreerd;2014-05-16;2025-07-23;Frans van Hamstraat 5-7;3920;Lommel;België
+000004790;BSO;(B)engeltje;Geregistreerd;2014-05-06;2026-02-01;Kerkstraat 39;3740;Bilzen;België
+000005034;BSO;BKO Wuustwezel Huis van het kind;Geregistreerd;2014-05-14;2026-01-21;Gasthuisdreef 6a;2990;Wuustwezel;België
+000005320;DGO;Villa Patapoef Rekem;Geregistreerd;2014-05-23;2026-01-04;Heirbaan 272 bus 1;3621;Rekem (Lanaken);België
+000005836;DGO;'t Herderhöfke;Geregistreerd;2014-06-04;2025-11-17;Sieberg 18;3770;Herderen;België
+000005897;BSO;Robbedoes Maaseik locatie Neeroeteren;Geregistreerd;2014-04-30;2025-09-14;Kleeskensmolenweg 14;3680;Neeroeteren-Maaseik;België
+000005976;BSO;Happy Kidz;Geregistreerd;2014-06-06;2026-02-08;Commandant Giddelostraat 8;3620;Lanaken;België
+000005988;DGO;De Kleine Hummel;Geregistreerd;2014-06-12;2026-01-31;Hoekstraat 20;3910;Neerpelt;België
+000006002;DGO;Patapoef;Geregistreerd;2014-06-06;2026-05-12;Peperstraat 26;3770;Millen;België
+000006130;BSO;'t Speel-nestje;Geregistreerd;2014-06-17;2025-10-26;Nelisveld 11;3640;Kinrooi;België
+000006464;GOO;Timmermans, E.;Geregistreerd;2014-06-30;2025-11-05;Heirbaan 309;3621;Rekem (Lanaken);België
+000006853;DGO;Kath. KiGa St. Marien;Geregistreerd;2014-07-11;2026-03-25;Zum Jägersberg 5;49716;Meppen;Duitsland
+000007328;DGO;Kath. Kindertageseinrichtung St. Gertrud;Geregistreerd;2014-07-15;2025-09-01;Messweg 15;52538;Selfkant Tüddern;Duitsland
+000007377;DGO;Tageseinrichtung für Kinder Zipfelmütze;Geregistreerd;2014-08-15;2026-01-14;Kirchstrasse 95;47574;Goch;Duitsland
+000007468;DGO;Kath. Tageseinrichtung für Kinder Leegmeer;Geregistreerd;2014-08-25;2025-12-06;Am Hasenberg 1;46446;Emmerich;Duitsland
+000007705;DGO;De Bengelboot;Geregistreerd;2014-08-21;2026-03-17;Donkerstraat 4;2387;Baarle-Hertog;België
+000008333;BSO;Domino - Schoonbeek;Geregistreerd;2014-10-29;2026-03-22;Schoolstraat 23;3740;Schoonbeek;België
+000008564;DGO;Kath. Tageseinrichtung für Kinder St. Franziskus;Geregistreerd;2014-11-20;2025-12-28;Franziskanerstrasse 37;47652;Weeze;Duitsland
+000008679;BSO;Kinderdagverblijf 't Kroontje;Geregistreerd;2014-02-10;2027-07-25;Grens 92-94;2370;Arendonk;België
+000008758;GOO;Vlassak, H.;Geregistreerd;2014-12-10;2026-11-15;Krekelhoeve 7;3930;Hamont-Achel;België
+000008862;DGO;Merlijntje;Geregistreerd;2014-12-17;2026-04-14;De Lalainglaan 11;2960;Brecht;België
+000010182;BSO;De Malle Molen;Geregistreerd;2015-06-18;2027-03-08;Schoolstraat 55;2460;Lichtaart (Kasterlee);België
+000010510;GOO;Doldersum, S.;Geregistreerd;2015-08-24;2028-07-01;Oelstrasse 57;49824;Emlichheim;Duitsland
+000010583;DGO;Kath. Integrative Tageseinrichtung für Kinder St. Josef;Geregistreerd;2015-08-31;2027-04-02;Marienstrasse 63;47638;Straelen;Duitsland
+000012294;BSO;BKO Lochristi Lobos;Geregistreerd;2016-06-03;2027-11-24;Boskapellaan 65;9080;Lochristi;België
+000012439;GOO;Roncen, T.;Geregistreerd;2016-06-30;2026-07-05;1 Chemin de Gacôgne;58140;Vauclaix;Frankrijk
+000012476;DGO;Happy Kidz;Geregistreerd;2016-07-07;2028-01-17;Commandant Giddelostraat 8;3620;Lanaken;België
+000012580;DGO;Pitoeke VOF;Geregistreerd;2016-08-02;2028-05-23;Kammenstraat 74;2910;Essen;België
+000012634;DGO;Kidz-Inn;Geregistreerd;2016-08-09;2028-01-19;Van de Wiellei 112;2930;Brasschaat;België
+000012944;BSO;Kinderopvang Robbedoes;Geregistreerd;2016-10-05;2028-05-22;Kogelstraat 5;3740;Bilzen;België
+000013717;DGO;AWO-Kita Kinderburg;Geregistreerd;2017-02-28;2028-08-27;Zum Hallenbad 2;47559;Kranenburg;Duitsland
+000013882;DGO;Städt. Tageseinrichtung für Kinder Reutershagweg;Geregistreerd;2017-03-27;2025-03-18;Reutershagweg 19;52074;Aachen;Duitsland
+000014540;DGO;'t Vlindertje;Geregistreerd;2017-07-20;2025-03-04;Plasstraat 37;2940;Hoevenen;België
+000014679;DGO;Ev. Kindergarten Arche Noah;Geregistreerd;2017-08-17;2025-05-10;Wagnerstrasse 7;48691;Vreden;Duitsland
+000014692;DGO;Kinderdagverblijf  De Boelekes;Geregistreerd;2017-08-24;2025-06-16;Maastrichterstraat 1 bus B;3690;Zutendaal;België
+000014941;DGO;Mini-creche Ieniemienie;Geregistreerd;2017-09-18;2028-11-22;Nieuwstraat 2;9971;Lembeke;België
+000015210;DGO;De Vrolijke Vriendjes;Geregistreerd;2017-11-08;2025-07-13;Plezantstraat 348;9100;Sint-Niklaas;België
+000015222;BSO;Kinderopvang 't Mauriaantje;Geregistreerd;2017-11-08;2025-07-05;Pater Damiaanstraat 23;3740;Bilzen;België
+000015362;DGO;Wiebelwijs;Geregistreerd;2017-12-08;2025-07-07;Ottergemsesteenweg Zuid 808 bus B8;9000;Gent;België
+000015441;GOO;Broux,  M.;Geregistreerd;2017-12-21;2025-09-16;Hoelbeekstraat 39;3746;Hoelbeek;België
+000015465;BSO;Hamont;Geregistreerd;2017-12-29;2025-10-05;Kloosterstraat 15;3930;Hamont-Achel;België
+000015519;DGO;Paboes Diepenbeek;Geregistreerd;2018-01-05;2029-01-17;Reigersstraat 8;3590;Diepenbeek;België
+000015593;BSO;'t Klim-Op-Ke Heusden-centrum;Geregistreerd;2018-01-23;2026-01-14;Kerkenblookstraat 7;3550;Heusden-Zolder;België
+000015623;GOO;Berndsen, P.;Geregistreerd;2018-01-26;2026-06-17;Alte 's-Heerenbergerstrasse 46;46446;Emmerich;Duitsland
+000015672;GOO;Caubergh, D.;Geregistreerd;2018-02-05;2026-01-13;Steenweg 251;3621;Rekem;België
+000015702;GOO;Nykamp, H.;Geregistreerd;2018-02-12;2027-01-30;Wöstener Schulweg 6;49824;Laar;Duitsland
+000015763;DGO;Troetelhuisje;Niet meer geregistreerd;2018-02-20;2022-02-20;Bauwinlaan 1;2950;Kapellen;België
+000015787;DGO;Gemeindekindergarten Anna Polmans;Niet meer geregistreerd;2018-03-07;2022-03-07;Kockskamp 25;41366;Schwalmtal;Duitsland
+000015799;DGO;Micro crèche Celeste People & Baby;Niet meer geregistreerd;2018-03-09;2022-03-09;80 boulevard de la Tour Maubourg;75007;Parijs;Frankrijk
+000015805;GOO;Het Speelhuisje;Niet meer geregistreerd;2018-03-09;2022-03-09;Patoor Woltersplein 1;3620;Veldwezelt;België
+000015817;BSO;Domino-Campus Demerhof;Geregistreerd;2018-02-13;2025-10-13;Eikenlaan 24;3740;Bilzen;België
+000015829;DGO;Tierlantijn Essen;Geregistreerd;2018-03-12;2026-02-22;Hofstraat 14;2910;Essen;België
+000015830;BSO;'t Egeltje - Platanen- Wachtlokaal Kazerne;Niet meer geregistreerd;2018-03-12;2022-03-12;Kazerneweg 14;2950;Kapellen;België
+000015842;DGO;Kinderclub Asilo Nido;Niet meer geregistreerd;2018-02-19;2022-02-19;Via S. Tomaso de Calvi 5;24127;Bergamo;Italië
+000015854;DGO;Roda-Kindertreff;Niet meer geregistreerd;2018-03-09;2022-03-09;Ritzerfelder Strasse 25;52134;Herzogenrath;Duitsland
+000015866;DGO;BVBA Het Girafke;Niet meer geregistreerd;2018-03-15;2022-03-15;Kerkestraat 35;3971;Heppen;België
+000015878;GOO;Van Scharrel, K.;Niet meer geregistreerd;2018-03-14;2018-09-30;Hakenstrasse 2;48455;Bad Bentheim;Duitsland
+000015891;GOO;Het Vosje;Niet meer geregistreerd;2018-03-20;2022-03-20;Raamstraat 32;3621;Rekem;België
+000015908;BSO;Stekelbees Baarle Hertog Centrum;Niet meer geregistreerd;2018-03-22;2022-04-22;Molenbaan 1;2387;Baarle Hertog;België
+000015921;GOO;Biesmans, K.;Geregistreerd;2018-03-26;2026-03-16;De La Brassinnestraat 36;3770;Riemst;België
+000015933;GOO;Winters, J.;Niet meer geregistreerd;2018-04-04;2022-04-04;Zavelstraat 57;3900;Overpelt;België
+000015945;GOO;Schlebach, J.;Geregistreerd;2018-03-02;2025-02-18;Von der Helmstrasse 128;41199;Mönchengladbach;Duitsland
+000015957;DGO;Chrippe am Hügeli;Niet meer geregistreerd;2018-03-29;2022-03-29;Heilighüsli 9;8053;Zürich;Zwitserland
+000015969;GOO;Rzeha, A.;Niet meer geregistreerd;2018-03-30;2020-05-22;Deventer Weg 24a;48683;Ahaus-Alstätte;Duitsland
+000015970;DGO;F.V. Kleine wereld;Geregistreerd;2018-03-29;2026-02-01;Europawijk 100;2400;Mol;België
+000015982;DGO;Plumes et Compagnie;Niet meer geregistreerd;2018-04-03;2022-04-03;22 place des Voges;92400;Courbevoie;Frankrijk
+000015994;DGO;Your little Star;Niet meer geregistreerd;2018-04-09;2022-04-09;Bist 73 A;2180;Ekeren;België
+000016007;BSO;'t Egeltje Putte;Geregistreerd;2018-03-27;2026-02-08;Sint Dionysiusstraat 30;2950;Kapellen;België
+000016020;GOO;Brenke, A.;Niet meer geregistreerd;2018-04-13;2019-07-31;Flutstrasse 33;47533;Kleve;Duitsland
+000016044;DGO;Les Petites Canailles;Niet meer geregistreerd;2018-04-24;2022-02-24;36 Rue Pierret;92200;Neuilly sur Seine;Frankrijk
+000016068;DGO;Wistik;Niet meer geregistreerd;2018-05-02;2022-05-02;Eksaarde-dorp 17;9160;Eksaarde;België
+000016081;BSO;De Speelboot;Niet meer geregistreerd;2018-05-03;2022-05-03;boekhoutedorp 3;9961;Boekhoute;België
+000016093;DGO;Tageseinrichtung für Kinder Rappelkiste;Geregistreerd;2018-05-07;2026-03-08;Emmericher Strasse 15a;46446;Emmerich;Duitsland
+000016111;DGO;Peelsnestje;Niet meer geregistreerd;2018-04-18;2022-04-18;Peelsestraat 64;2380;Ravels;België
+000016123;GOO;Huisje 'Trippel, Trappel';Geregistreerd;2018-05-17;2026-02-22;Bunzingpad 4;3620;Neerharen;België
+000016135;DGO;Kindertagesstätte für Kath. Kindertagesstätte Regenbogen St. Joseph;Niet meer geregistreerd;2018-05-18;2022-05-18;Zum Vechtetal 11;49824;Emlichheim;Duitsland
+000016147;GOO;Vond;Niet meer geregistreerd;2018-05-16;2022-05-16;Vond 33;2382;Poppel;België
+000016159;DGO;Kindergarten Schmetterling;Niet meer geregistreerd;2018-05-16;2022-05-16;Am Heumarkt 23;1030;Wenen;Oostenrijk
+000016160;GOO;Van Steen, C.;Geregistreerd;2018-05-22;2025-12-13;Vaartstraat 46;2380;Ravels;België
+000016172;DGO;Didadoe;Niet meer geregistreerd;2018-05-22;2022-05-22;Boelenstraat 22;3900;Overpelt;België
+000016184;DGO;De Flamingo;Niet meer geregistreerd;2018-05-18;2022-05-18;Heistraat 23;9190;Stekene;België
+000016196;BSO;Pinokkio Kinderopvang Hees VZW;Geregistreerd;2018-05-24;2026-06-11;Heesstraat Z/N;3740;Hees (Bilzen);België
+000016202;DGO;Ter Duinen;Geregistreerd;2018-05-28;2026-02-18;Duinenstraat 15;3920;Lommel;België
+000016214;DGO;L'envol ASBL;Niet meer geregistreerd;2018-05-23;2022-05-23;Avenue Rodin 5-7;1050;Elsene;België
+000016238;BSO;Stekelbees Herentals;Niet meer geregistreerd;2018-05-31;2022-05-31;Nonnenstraat 14;2200;Herentals;België
+000016251;GOO;Goessens, G.;Niet meer geregistreerd;2018-06-01;2022-06-01;Strodorp 30;3620;Veldwezelt;België
+000016263;BSO;Stekelbees Zandhoven-centrum;Niet meer geregistreerd;2018-06-01;2022-06-01;Beggard 4;2240;Zandhoven;België
+000016275;GOO;Possuelos, J.;Niet meer geregistreerd;2018-06-01;2021-02-08;27 R Rousselet;75007;Parijs;Frankrijk
+000016287;DGO;Clara's Hofke;Niet meer geregistreerd;2018-06-04;2022-06-04;Kloosterbaan 3;2370;Arendonk;België
+000016299;BSO;'t Pierelierke;Geregistreerd;2018-06-05;2026-05-09;Heimeulenstraat 26 bus A;2328;Meerle (Hoogstraten);België
+000016329;BSO;'t Ankertje Centrum;Geregistreerd;2018-06-06;2026-02-24;Wijkstraat 16 bus 2;3590;Diepenbeek;België
+000016342;BSO;De Speelvogel Hechtel;Niet meer geregistreerd;2018-06-06;2022-06-06;Don Boscostraat 8;3940;Hechtel-Eksel;België
+000016354;DGO;Städt. Tageseinrichtung für Kinder 'Brunssumstrasse' Familienzentrum;Niet meer geregistreerd;2018-06-06;2022-06-06;Brunssumstrasse 36;52074;Aachen;Duitsland
+000016366;GOO;Duis, A.;Niet meer geregistreerd;2018-06-07;2019-04-03;Buchweizenkamp 59;26817;Rhauderfehn;Duitsland
+000016421;GOO;Brill-de Hoop, J.;Niet meer geregistreerd;2018-06-13;2023-01-10;Rather Mauspfad 81;51107;Köln;Duitsland
+000016445;GOO;Houx-Verhouven, J.;Niet meer geregistreerd;2018-06-13;2022-06-13;Akazienweg 12;41334;Nettetal;Duitsland
+000016457;BSO;De Piraat Kleuters;Niet meer geregistreerd;2018-06-13;2022-06-13;Kloosterwal 11;3740;Bilzen;België
+000016469;DGO;'t Blommeke;Geregistreerd;2018-06-14;2026-01-19;Gasthuisstraat 18;3620;Lanaken;België
+000016482;DGO;Kath. Kindertagesstätte St. Johannes der Täufer;Niet meer geregistreerd;2018-06-14;2022-06-14;Nordring 28;48455;Bad Bentheim;Duitsland
+000016494;BSO;'t Kadeeke;Geregistreerd;2018-06-20;2026-04-28;Spileind 45;3650;Dilsen-Stokkem;België
+000016500;BSO;IBO 't Kadeeke;Geregistreerd;2018-06-20;2026-05-17;Borreshoefstraat 10;3650;Dilsen-Stokkem;België
+000016512;BSO;Moppies;Niet meer geregistreerd;2018-06-19;2022-06-19;St. Catarinastraat;3740;Bilzen;België
+000016524;GOO;Garbereder-Teriete, M.;Niet meer geregistreerd;2018-06-22;2019-04-01;Galaterstrasse 72;52074;Aachen;Duitsland
+000016536;GOO;Kabalin, K.;Niet meer geregistreerd;2018-06-26;2021-12-13;150 Rue Janton;92300;Levallois Perret;Frankrijk
+000016548;GOO;Marseille, M.;Niet meer geregistreerd;2018-06-26;2022-06-26;Heinrich-Houben-Strasse 19;41334;Nettetal;Duitsland
+000016561;DGO;'t Oogappeltje;Niet meer geregistreerd;2018-06-27;2022-06-27;Eltenbos 70 bus B;3920;Lommel;België
+000016573;DGO;Kinderdagverblijven Dol-Fijn vzw;Niet meer geregistreerd;2018-06-27;2022-06-27;Tijl en Nelestraat 71;2300;Turnhout;België
+000016585;DGO;Kindertagestätte Rappelkiste;Niet meer geregistreerd;2018-06-28;2022-06-28;Fabrikstrasse 3;48955;Gronau;Duitsland
+000016603;DGO;Mrs Cameron Day Nursery;Niet meer geregistreerd;2018-07-03;2022-07-03;Flat 2 Springfield, Sidgewick Avenue;CB3 9DS;Cambridge;Groot Brittannië
+000016615;DGO;Hopsa;Geregistreerd;2018-06-27;2026-03-04;van Eycklaan 14;3680;Maaseik;België
+000016627;DGO;Het Lindehofje;Geregistreerd;2018-06-27;2026-03-03;d'Aspremont Lyndenlaan 1;3621;Rekem;België
+000016640;DGO;babilou Up Site;Niet meer geregistreerd;2018-07-09;2022-07-09;Akenkaai 55;1000;Brussel;België
+000016664;DGO;Familienzentrum Lindenbaum E.V.;Niet meer geregistreerd;2018-07-10;2022-07-10;Hochstrasse 28;52538;Gangelt;Duitsland
+000016676;DGO;Tageseinrichtung für Kinder Villa Luna;Niet meer geregistreerd;2018-07-06;2022-07-06;Weisshausstrasse 2;52066;Aachen;Duitsland
+000016688;BSO;BKO- Meer;Geregistreerd;2018-07-11;2026-05-17;Terbeeksestraat 6A;2321;Meer (Hoogstraten);België
+000016718;DGO;CVE Les p'tits Kangourous;Niet meer geregistreerd;2018-07-11;2021-10-31;Chemin de la Redoute 38;1260;Nyon;Zwitserland
+000016743;GOO;Pippeloentje;Niet meer geregistreerd;2018-07-13;2022-07-13;1 septemberstraat 2;3790;Voeren;België
+000016755;DGO;Littles Preschool Education-Nursery;Niet meer geregistreerd;2018-07-12;2022-07-12;Diligianni;14561;;Griekenland
+000016767;GOO;Valkenberg, E.;Niet meer geregistreerd;2018-07-17;2018-08-30;Nijverheidslaan 162;3620;Lanaken;België
+000016779;DGO;Integrative Tageseinrichtung für Kinder St. Martinus Pfalzdorf;Niet meer geregistreerd;2018-07-17;2022-07-17;Hevelingstrasse 114;47574;Goch;Duitsland
+000016780;BSO;VZW De Kangoeroe;Niet meer geregistreerd;2018-07-17;2022-07-17;Leeuwerikstraat 8;3960;Bree;België
+000016792;GOO;Nelissen, K.;Niet meer geregistreerd;2018-07-18;2022-07-18;Heserhof 7;3620;Veldwezelt;België
+000016809;DGO;Integrative AWO Kindertagesstätte;Niet meer geregistreerd;2018-07-18;2022-07-18;Planckstrasse 8;52531;Übach-Palenberg;Duitsland
+000016810;DGO;Kath. Kindergarten St. Mauritius;Niet meer geregistreerd;2018-07-19;2022-07-19;An der Mauritiuskirche 3 A;49477;Ibbenbüren;Duitsland
+000016822;BSO;IBO Scooby-Doo- Kaulille;Geregistreerd;2018-07-20;2026-05-04;Koedriesstraat 10 A;3950;Kaulille (Bocholt);België
+000016834;DGO;Ukkepuk;Niet meer geregistreerd;2018-07-20;2022-07-20;Lindestraat 36;3910;Sint-Huibrechts-lille;België
+000016846;BSO;Stekelbees Meerle;Niet meer geregistreerd;2018-07-23;2022-07-23;Gemeenteplein 3;2320;Hoogstraten-Meerle;België
+000016858;GOO;Fernando, J.R.;Niet meer geregistreerd;2018-07-24;2022-07-24;Dr. Govaertsplantsoen 23;2387;Baarle-Hertog;België
+000016871;DGO;Duimelot;Niet meer geregistreerd;2018-07-25;2022-07-25;Marktplein 14;3910;Neerpelt;België
+000016883;GOO;Van Cuyck, M.;Niet meer geregistreerd;2018-07-31;2022-07-31;Overbroekstraat 27;3830;Wellen;België
+000016895;DGO;De Ukkies;Geregistreerd;2018-07-31;2026-03-16;Erasmuslaan 14;3500;Hasselt;België
+000016901;DGO;Partena Kinderopvang-Tovereik;Niet meer geregistreerd;2018-07-31;2022-07-31;Jezus Eiklaan 37;3080;Tervuren;België
+000016913;DGO;Kinderspel;Niet meer geregistreerd;2018-08-01;2022-08-01;Terelststraat 19;2650;Edegem;België
+000016925;DGO;AWO Kita am Gesundheitspark;Niet meer geregistreerd;2018-08-03;2018-10-31;Moritz-von-Nassau Strasse 30;46446;Emmerich am Rhein;Duitsland
+000016937;GOO;Cradock , A.E.;Niet meer geregistreerd;2018-08-06;2022-08-06;Mission Hall Cottage, Watersplace Farm;SG12 7QQ;Wareside, Ware, Herts;Groot Brittannië
+000016949;GOO;Greinert, J.;Niet meer geregistreerd;2018-08-07;2019-07-31;Brucknerstrasse 15;52511;Geilenkirchen;Duitsland
+000016950;GOO;Verhoeven, Karin;Niet meer geregistreerd;2018-08-09;2022-08-09;Vogelkerslaan 60;2960;Brecht;België
+000016962;GOO;Tijink, I.;Niet meer geregistreerd;2018-08-28;2022-08-28;Mersch 20;48455;Bad Bentheim;Duitsland
+000016974;DGO;Kiekeboe;Niet meer geregistreerd;2018-08-14;2022-08-14;Opheldingsweg 27 bus B;3520;Zonhoven;België
+000016998;DGO;Kinderkrippe Weidenkörbchen;Niet meer geregistreerd;2018-08-15;2022-08-15;Bloher Landstrasse 2;26160;Bad Zwischenahn;Duitsland
+000017000;DGO;Kath Kindergartens  St. Norbert;Niet meer geregistreerd;2018-08-17;2022-08-17;Norbertplatz 3;46399;Bocholt;Duitsland
+000017012;DGO;Ev. – ref. Kindergarten Tabaluga;Niet meer geregistreerd;2018-08-22;2022-08-22;Am Kindergarten 1;49843;Uelsen;Duitsland
+000017024;DGO;Tageseinrichtung für Kinder Kinderreich;Niet meer geregistreerd;2018-08-24;2022-08-24;Borheggenstrasse 18;52538;Gangelt;Duitsland
+000017036;DGO;Kath. Tageseinrichtung für Kinder St. Georg;Geregistreerd;2018-08-27;2026-04-06;Obere Laak 2;46446;Emmerich;Duitsland
+000017048;DGO;Kinderkrippe 'Am Wäldchen';Niet meer geregistreerd;2018-08-27;2022-08-27;Pastor-Kersten-Str. 176;26810;Westoverledingen;Duitsland
+000017061;DGO;Tierlantijn Kapellen;Niet meer geregistreerd;2018-08-28;2022-08-28;Kapelsestraat 37;2950;Kapellen;België
+000017073;DGO;De Kleine Schat;Niet meer geregistreerd;2018-08-29;2022-08-29;Polderstraat 1;2260;Westerlo;België
+000017085;GOO;Geubbelmans, A;Niet meer geregistreerd;2018-08-31;2022-08-31;Veldstraat 55;2491;Olmen;België
+000017097;DGO;De Zonnewijzer;Niet meer geregistreerd;2018-08-31;2022-08-31;Grensstraat 114;1150;Sint-Pieters_Woluwe;België
+000017103;BSO;Pierewiet-Nachtegalenpark;Geregistreerd;2018-09-03;2026-04-13;Blookbergstraat 1;3690;Zutendaal;België
+000017139;DGO;Kindergarten Villa Kunterbunt;Niet meer geregistreerd;2018-09-04;2022-09-04;Kleverstrasse 22;47559;Kranenburg;Duitsland
+000017140;GOO;Hermes, M.;Niet meer geregistreerd;2018-09-10;2023-07-31;Dorenburgstrasse 27;26899;Rhede;Duitsland
+000017152;DGO;Ev.-ref. Kindergarten Sonnenschein;Niet meer geregistreerd;2018-09-10;2022-09-10;Ernst-Buermeyer-Strasse 34;48455;Bad Bentheim-Gildehaus;Duitsland
+000017176;DGO;Baby Lounge;Niet meer geregistreerd;2018-09-11;2022-09-11;Leugenberg 98;2180;Ekeren;België
+000017206;GOO;De Beijer, K.;Niet meer geregistreerd;2018-09-13;2022-09-13;Heilaar 9;2370;Arendonk;België
+000017218;DGO;Kotertjeseiland;Niet meer geregistreerd;2018-09-17;2022-09-17;Doornplasstraat 123a;9031;Drongen;België
+000017231;GOO;Vossen, L.;Niet meer geregistreerd;2018-09-17;2022-09-17;Abroxweg 9;3960;Beek;België
+000017243;GOO;Boulet, C.;Niet meer geregistreerd;2018-09-17;2022-09-17;Herreweg 11;3740;Bilzen;België
+000017255;BSO;Kinderopvang Kiekeboe;Niet meer geregistreerd;2018-09-17;2022-09-17;Riemsterweg 273;3740;Kleine - Spouwen;België
+000017267;DGO;Droomhuis;Niet meer geregistreerd;2018-09-20;2022-09-20;Bogaardestraat 171;9990;Maldegem;België
+000017280;DGO;AWO Kindertagesstätte Storchennest (Kranenburg);Geregistreerd;2018-09-21;2026-08-26;Grabenstrasse 1;47559;Kranenburg;Duitsland
+000017292;DGO;Villa Vrolijk Kaulille;Niet meer geregistreerd;2018-09-21;2022-09-21;Kaulillerdorp 78;3950;Kaulille;België
+000017309;DGO;Mansion House Day Nursey;Niet meer geregistreerd;2018-09-21;2022-09-21;Apsley Road;OX2 7QX;Oxford;Groot Brittannië
+000017310;DGO;Hopscoth International Kindergarten;Niet meer geregistreerd;2018-09-20;2022-09-20;Agias Triados 93;166 72;Vari;Griekenland
+000017322;DGO;Il Paese Dei Balocchi;Niet meer geregistreerd;2018-09-21;2019-02-16;Via Giovanni Paolo I n. 02/04;37029;San Pietro Cariano - Pedemonte (VR);Italië
+000017334;DGO;Escola Infantil Kasperle;Niet meer geregistreerd;2018-09-24;2022-09-24;c. Gran de Gràcia 97;8012;Barcelona;Spanje
+000017346;DGO;Onze Vriendjes;Niet meer geregistreerd;2018-09-25;2022-09-25;Frans Vekemansstraat 145;1120;Neder-Over-Heembeek (Brussel);België
+000017358;GOO;Rampen, J.;Niet meer geregistreerd;2018-09-25;2022-09-25;Avergat 53;3770;Kanne;België
+000017371;DGO;UAB Vaikystes Sodas- Laisves Sodelis;Niet meer geregistreerd;2018-09-21;2022-09-21;Latviu G. 16A;8123;Vilnius;Litouwen
+000017383;DGO;BébHibou;Geregistreerd;2018-09-27;2026-06-08;Kleine Omstraat 7 bus 1;3620;Veldwezelt;België
+000017395;DGO;Villa Vrolijk;Niet meer geregistreerd;2018-09-27;2022-09-27;Haagdoornstraat 66;3910;Neerpelt;België
+000017401;GOO;Hinders, H.;Niet meer geregistreerd;2018-07-06;2022-07-06;Hörn 1;26817;Rhauderfehn;Duitsland
+000017413;GOO;Kliesing, S.;Niet meer geregistreerd;2018-07-06;2022-07-06;Hörn 1;26817;Rhauderfehn;Duitsland
+000017425;BSO;De Appelboom;Niet meer geregistreerd;2018-10-01;2022-10-01;Langstraat 29 bus 5;3770;Riemst;België
+000017437;GOO;Mimount, K.;Niet meer geregistreerd;2018-10-01;2022-10-01;Essen-Oldenburgstraat 9;2910;Essen;België
+000017449;BSO;BKO-Wortel Gemeentelijke Kleuterschool;Geregistreerd;2018-10-03;2026-05-31;Rooimans 5;2323;Wortel (Hoogstraten);België
+000017450;GOO;Demey, C.;Niet meer geregistreerd;2018-10-04;2022-10-04;Biezenstraat 10;3500;Hasselt;België
+000017462;BSO;'t Zeehuisje;Niet meer geregistreerd;2018-10-08;2022-10-08;Bremlaan 37;8300;Knokke;België
+000017486;DGO;St. Birgitta;Niet meer geregistreerd;2018-10-12;2022-10-12;Mörikestrasse 9;48683;Ahaus-Alstätte;Duitsland
+000017498;DGO;Sloeberke;Niet meer geregistreerd;2018-10-16;2022-10-16;Brusselbaan 252;1600;Sint-Pieters-Leeuw;België
+000017504;GOO;Bemelmans, G.;Niet meer geregistreerd;2018-10-16;2022-10-16;Sneppenlaan 12;3630;Maasmechelen;België
+000017516;DGO;Dol-Fijn;Niet meer geregistreerd;2018-10-17;2022-10-17;Kerkstraat 12 C;9190;Stekene;België
+000017528;GOO;Dybowska, K.;Niet meer geregistreerd;2018-10-17;2022-01-26;Dürerstrasse 26;47623;Kevelaer;Duitsland
+000017541;DGO;Kath. Tageseinrichtung für Kinder St. Bartholomäus;Niet meer geregistreerd;2018-10-19;2022-10-19;Kirchensträsschen 3;41372;Niederkrüchten;Duitsland
+000017553;BSO;Stekelbees Oud-Turnhout;Niet meer geregistreerd;2018-10-23;2022-10-23;Van Der Berkenlaan 13;2360;Oud-Turnhout;België
+000017565;DGO;Bibelotje;Niet meer geregistreerd;2018-10-24;2022-10-24;Steenweg op Oosthoven 250;2300;Turnhout;België
+000017577;GOO;Nemegeer, H.;Niet meer geregistreerd;2018-10-24;2022-10-24;Stroperstraat 12;9170;Sint-Gillis-Waas;België
+000017589;DGO;Kindergarten St. Georg;Niet meer geregistreerd;2018-10-26;2022-10-26;Achter de Hoef 17;47608;Geldern;Duitsland
+000017590;BSO;Initiatief Buitenschoolse opvang De Zandloper6;Niet meer geregistreerd;2018-10-29;2022-10-29;Zandakker 16;9991;Adegem;België
+000017607;DGO;Het Toverbos;Niet meer geregistreerd;2018-10-25;2022-10-25;Heikant 39;2370;Arendonk;België
+000017619;DGO;Narnia Nursey School;Niet meer geregistreerd;2018-10-30;2022-10-30;ground floor, block 15, Rockfield Dundrumj;Dublin 16;Dublin;Ierland
+000017620;DGO;'t Kroontje Oud-Turnhout;Geregistreerd;2018-11-01;2026-06-01;Koningin Fabiolalaan 7;2360;Oud-Turnhout;België
+000017632;DGO;Oby & Co;Niet meer geregistreerd;2018-11-01;2022-11-01;Aarschotsesteenweg 9;2230;Herselt;België
+000017644;DGO;Linden Tree Nursery Schools;Niet meer geregistreerd;2018-11-02;2022-11-02;52-54 Webb's Road;SW11 65F;battersea London;Groot Brittannië
+000017656;DGO;Crèche Secrets d'Enfants;Niet meer geregistreerd;2018-11-05;2022-11-05;5 rue Charlot;75003;Parijs;Frankrijk
+000017668;DGO;TotUP;Niet meer geregistreerd;2018-11-09;2022-11-09;Avenue des Morgines 12;1213;Petit-Lancy;Zwitserland
+000017681;DGO;Kita Lebenshilfe- Wiesenzauber;Niet meer geregistreerd;2018-11-12;2022-11-12;Twistedener Strasse 257;47623;Kevelaer;Duitsland
+000017711;DGO;Pinnochio;Niet meer geregistreerd;2018-11-16;2022-11-16;J.H. Leynenstraat 2;3990;Peer;België
+000017723;DGO;Het Duizendpootje;Geregistreerd;2018-11-16;2026-06-17;Kerkplein 3;3665;As;België
+000017735;DGO;Chibi;Niet meer geregistreerd;2018-11-16;2022-11-16;Voetsveldweg 44;3971;Heppen;België
+000017747;DGO;Kath. Kindergartens Don Bosco;Niet meer geregistreerd;2018-11-21;2022-11-21;Liemarstr. 22;48691;Vreden;Duitsland
+000017759;DGO;Kabouterberg;Niet meer geregistreerd;2018-11-21;2022-11-21;Herestraat 49;3000;Leuven;België
+000017760;DGO;Mannetje Maan;Niet meer geregistreerd;2018-11-27;2022-11-27;Moerstraat 10 bus A;9070;Heusden;België
+000017772;BSO;Stekelbees Wuustwezel-locatie Loenhout;Niet meer geregistreerd;2018-11-29;2022-11-29;Pastoriestraat 11;2990;Wuustwezel;België
+000017784;DGO;Hopsakee;Niet meer geregistreerd;2018-11-30;2022-11-30;Roerstraat 2;3920;Lommel;België
+000017796;GOO;Clijsters, N.;Niet meer geregistreerd;2018-11-30;2022-11-30;Greuwkensstraat 9;3640;Molebeersel;België
+000017802;DGO;DRK Familienzentrum Nettetopia;Niet meer geregistreerd;2018-12-07;2022-12-07;Obere Färberstrasse 35;41334;Nettetal;Duitsland
+000017814;GOO;van Scharrel, K.;Niet meer geregistreerd;2019-01-24;2023-01-24;Hakenstrasse 2;48455;Bad Bentheim;Duitsland
+000017826;BSO;'t Speelhuis;Niet meer geregistreerd;2018-12-18;2023-12-18;Pastorieweg 19;8310;Sint-Kruis;België
+000017838;DGO;Bolleke De Beer;Geregistreerd;2018-12-18;2026-09-23;Minderhoutsestraat 71;2322;Minderhout;België
+000017851;DGO;AWO-Kita Am Gesundheitszentrum;Niet meer geregistreerd;2018-12-10;2022-12-10;Moritz-von-Nassau-Strasse 30;46446;Emmerich am Rhein;Duitsland
+000017863;BSO;Stekelbees Kalmthout Nieuwmoer;Niet meer geregistreerd;2018-12-18;2022-12-18;Wuustwezelsteenweg 19;2920;Kalmthout;België
+000017887;GOO;Neuy, E.;Niet meer geregistreerd;2018-12-20;2022-08-31;Hassumerstrasse 267B;47574;Goch;Duitsland
+000017899;DGO;De Mereltjes;Niet meer geregistreerd;2018-12-24;2022-12-24;Hasseltsesteenweg 16;3700;Tongeren;België
+000017905;DGO;De Kleine Uks;Geregistreerd;2019-01-03;2026-08-08;Antoine Coppenslaan 33;2300;Turnhout;België
+000017929;DGO;KOL De Hummeltjes;Niet meer geregistreerd;2019-01-04;2023-01-04;Haeckstraat 61 bus 1;1080;Sint-Jans-Molenbeek;België
+000017930;GOO;Vossen, C. (Cassie);Niet meer geregistreerd;2019-01-07;2023-01-07;Burgemeester Marresbaan 27;3770;Riemst;België
+000017942;BSO;Kikoen Balen;Niet meer geregistreerd;2019-01-09;2023-01-09;Schoolstraat 13/2;2491;Olmen;België
+000017954;GOO;Müller-Waauff, S.;Niet meer geregistreerd;2019-01-07;2023-01-07;Bergstrasse 12-14;4710;Lontzen;België
+000017966;DGO;Koekendoos;Niet meer geregistreerd;2019-01-11;2023-01-11;Du Montstraat 55;2100;Deurne;België
+000017978;BSO;De Mikado;Niet meer geregistreerd;2019-01-11;2023-01-11;Onderwijsstraat 21;2540;Hove;België
+000017991;BSO;'t Warreltje;Niet meer geregistreerd;2019-01-17;2023-01-17;Eykantpad 4;2381;Ravels;België
+000018016;DGO;'t speelvogeltje;Niet meer geregistreerd;2019-01-17;2023-01-17;Sint-Bavostraat 59;2610;Wilrijk;België
+000018028;DGO;De Welpjes;Niet meer geregistreerd;2019-01-18;2023-01-18;Bilzersteenweg 350;3700;Tongeren;België
+000018041;DGO;'t Knuffeltje 2;Niet meer geregistreerd;2019-01-21;2023-01-21;Dorpsstraat 11;9130;Kieldrecht;België
+000018053;GOO;Schoefs, D.;Niet meer geregistreerd;2019-01-21;2023-01-21;Pannestraat 5;3770;VAL-MEER;België
+000018065;GOO;Howling, L. M.;Niet meer geregistreerd;2019-01-21;2023-01-21;6 Red House Close;SG12 9NW;Hertfordshire;Groot Brittannië
+000018077;DGO;Bambini;Niet meer geregistreerd;2019-01-22;2023-01-22;Hendrik van Zellestraat 14;2360;Oud-Turnhout;België
+000018089;GOO;Zaghdoud, H.;Niet meer geregistreerd;2019-01-21;2023-01-21;Ungarnstrasse 1 a;52070;Aachen;Duitsland
+000018090;DGO;De Gelmeltjes;Niet meer geregistreerd;2019-01-24;2023-01-24;Gelmelstraat 79/81;2320;Hoogstraten;België
+000018119;DGO;Kinderopvang Winnie;Niet meer geregistreerd;2019-01-28;2023-01-28;Eindeken 44;9940;Lembeke;België
+000018120;DGO;Engeltjes en Bengeltjes;Niet meer geregistreerd;2019-01-30;2023-01-30;Horststraat 20;2370;Arendonk;België
+000018132;DGO;Kath. Kita St. Ursula;Geregistreerd;2019-02-01;2027-01-17;Pastor-Franz-Brauer-Strasse 6;49740;Haselünne;Duitsland
+000018144;GOO;Verstraeten, T.;Niet meer geregistreerd;2019-02-01;2023-02-01;Heesstraat 56;3640;Kinrooi;België
+000018168;BSO;Pardoes KDV Familia;Niet meer geregistreerd;2019-02-04;2023-02-04;Halmstraat 3;3600;Genk;België
+000018193;DGO;Maison d'enfants Winnie & Compagnie;Niet meer geregistreerd;2019-02-13;2023-02-13;Rue Léon Mignon 56;1030;Schaerbeek;België
+000018211;BSO;Kinderclub Loewie;Geregistreerd;2019-02-14;2027-02-02;Gemeenteheistraat 1 B;2400;Mol;België
+000018223;GOO;Niemegeers, I.;Geregistreerd;2019-02-18;2027-01-20;L. Pasteurstraat 20;3620;Lanaken;België
+000018235;GOO;Francis, A.;Niet meer geregistreerd;2019-02-18;2023-02-18;47 Chapelfields  Stanstead Abbotts;SG12 8HZ;Ware Hertfordshire;Groot Brittannië
+000018247;GOO;Vlaeminck-Daniëls Pierre, A.;Niet meer geregistreerd;2019-02-18;2023-02-18;Bevrijdingslaan 135;9200;Appels;België
+000018260;DGO;Pagadder;Niet meer geregistreerd;2019-02-21;2023-02-21;Lange Ridderstraat 52;2000;Antwerpen;België
+000018272;GOO;Reynaers, S.;Niet meer geregistreerd;2019-02-20;2023-02-20;Chr. Plantijnplein 10;3620;Lanaken;België
+000018284;GOO;Berning, S.;Niet meer geregistreerd;2019-02-22;2023-02-22;Ingeborg-Bachmann-Strasse 4;46414;Rhede;Duitsland
+000018296;DGO;Kath. Tageseinrichtung für Kinder St. Hubertus;Geregistreerd;2019-02-25;2027-01-12;Karl-Arnold-Strasse 8;52538;Selfkant;Duitsland
+000018314;DGO;De Speelboom-Turnhout;Niet meer geregistreerd;2019-03-01;2023-03-01;Campus Blairon 798;2300;Turnhout;België
+000018326;DGO;De troetelbeertjes bvba;Niet meer geregistreerd;2019-03-01;2023-03-01;Hooistraat 14;2235;Hulshout;België
+000018338;GOO;Verlaak, S.;Geregistreerd;2019-03-04;2027-02-07;Daalstraat 8 B;3640;Kinrooi;België
+000018351;DGO;Kath. Tageseinrichtung für Kinder St. Lambertus;Niet meer geregistreerd;2019-03-05;2023-03-05;Am Jugendheim 5;41836;Hückelhoven;Duitsland
+000018363;DGO;KDV 't Kabouterhuis;Niet meer geregistreerd;2019-03-07;2023-03-07;Brouwerijstraat 26 bus A;9880;Aalter;België
+000018399;DGO;Knabbel en Babbel;Niet meer geregistreerd;2019-03-13;2023-03-13;Massinweg 12;3511;Stokrooie-Hasselt;België
+000018405;GOO;Calbas, A.  (Aysen en Fazli);Niet meer geregistreerd;2019-03-15;2023-03-15;Veenderweg 39;3550;Heusden-Zolder;België
+000018417;DGO;Het Letterbos;Niet meer geregistreerd;2019-03-13;2023-03-13;Kortstraat 19;3550;Heusden-Zolder;België
+000018430;GOO;Peeters, H.;Niet meer geregistreerd;2019-03-19;2023-03-19;Blauwbossen 24;2322;Minderhout;België
+000018442;DGO;Alles Kids Kinderopvang;Niet meer geregistreerd;2019-03-18;2023-03-18;Kaulillerweg 69 bus 3;3910;Neerpelt;België
+000018466;DGO;Beau-Fort-Boutique Overpelt;Niet meer geregistreerd;2019-03-18;2023-03-18;Astridlaan 1;3900;Overpelt;België
+000018478;DGO;Kita Greifswalder Strasse;Geregistreerd;2019-03-26;2026-10-24;Greifswalder Strasse 38;20099;Hamburg;Duitsland
+000018491;DGO;'t Kadeeke 2;Niet meer geregistreerd;2019-03-26;2023-03-26;Beersebaan 15 A;2350;Vosselaar;België
+000018508;DGO;Paint Pots;Niet meer geregistreerd;2019-03-26;2023-03-26;Ground Floor, Bracken House, Charles Street;M1 7BD;Manchester;Groot Brittannië
+000018521;GOO;Peters, S.;Niet meer geregistreerd;2019-03-27;2023-03-01;Scheffenthum 20;47559;Kranenburg;Duitsland
+000018533;DGO;Kindertageseinrichtung Sternschnuppe;Niet meer geregistreerd;2019-03-27;2023-03-27;Twistedener Strasse 255;47623;Kevelaer;Duitsland
+000018545;DGO;Bridges Pre-school Nursery-Silverburn;Niet meer geregistreerd;2019-03-28;2023-03-28;Claymore Drive;AB23 8GD;Bridge of Don, Aberdeen;Groot Brittannië
+000018557;DGO;IL PAESE dei BALOCCHI;Niet meer geregistreerd;2019-03-11;2023-03-11;Via Giovanni Paolo I n. 02/04;37029;San Pietro in Cariano;Italië
+000018569;GOO;Van der Ploeg-Meineke, S.;Niet meer geregistreerd;2019-03-28;2021-02-28;Birkenweg 35;49843;Uelsen;Duitsland
+000018570;BSO;Domino Eigenbilzen;Niet meer geregistreerd;2019-04-01;2023-04-01;Eigenbilzenplein 4;3740;Bilzen;België
+000018582;DGO;Katholischer Kindergarten Marienheim;Niet meer geregistreerd;2019-04-02;2023-04-02;Pfarrer-Erbel-Weg 2;52525;Waldfeucht;Duitsland
+000018594;DGO;Emilien-Kindergartens;Niet meer geregistreerd;2019-04-02;2023-04-02;Geiststrasse 60;48151;Münster;Duitsland
+000018600;BSO;De Ballon - Centrum;Niet meer geregistreerd;2018-06-04;2022-06-04;Kapelstraat 36;3660;Opglabbeek;België
+000018612;DGO;Familienzentrum Bullerbü;Niet meer geregistreerd;2019-04-10;2023-04-10;Matthias-Claudius-Strasse 14;47652;Weeze;Duitsland
+000018624;DGO;De Toverschommel Hoogstraten;Niet meer geregistreerd;2019-04-12;2023-04-12;Vrijheid 144;2320;Hoogstraten;België
+000018636;DGO;Le centre de la Petite Enfance - Site Wali/Clovis;Niet meer geregistreerd;2019-04-11;2023-04-11;Boulevard Clovis 75-79;1000;Brussels;België
+000018648;GOO;Tauscher,R.;Niet meer geregistreerd;2019-03-15;2023-03-15;Am Schuetzenhaus 21;47533;Kleef;Duitsland
+000018661;DGO;Mace Montessori School Limited;Niet meer geregistreerd;2019-04-30;2023-04-30;30-40 Dalling Road;W6 0JB;London;Groot Brittannië
+000018673;GOO;Valentin, J.;Niet meer geregistreerd;2019-05-02;2023-05-02;Meisenweg 1 a;47623;Kevelaer;Duitsland
+000018703;DGO;AWO-Kindertagesstätte 'Nottbäumchen';Niet meer geregistreerd;2019-05-07;2023-05-07;Lüttelforster Weg 40;41366;Schwalmtal;Duitsland
+000018740;DGO;Safari Kid Chiswick;Niet meer geregistreerd;2019-05-10;2023-05-10;Unit A & B, Edmunds House/ Colonial Drive;W4 5HA;Londen;Groot Brittannië
+000018764;DGO;Krippe Schiessstand (Am Schachtelhalm);Niet meer geregistreerd;2019-05-17;2023-05-17;Schiessstand 11;23122;Oldenburg;Duitsland
+000018776;GOO;Beckmann, R.;Niet meer geregistreerd;2019-05-17;2022-02-28;Hinrich-Wilhelm-Kopf-Strasse 11;49824;Neugnadenfeld;Duitsland
+000018806;DGO;Kindertreff Rainerring;Niet meer geregistreerd;2019-05-22;2023-05-22;Erzherzog Rainer-Ring 9;2500;Baden;Oostenrijk
+000018818;DGO;Ine Mine;Niet meer geregistreerd;2019-05-28;2023-05-28;Esdoornstraat 3;3510;Kermt;België
+000018831;DGO;Städtische Tageseinrichtung für Kinder Am Kleebach;Niet meer geregistreerd;2019-05-28;2023-05-28;Am Kleebach 24;52080;Aachen;Duitsland
+000018843;DGO;Städt. Tageseinrichtung für Kinder Spatzennest;Geregistreerd;2019-05-29;2027-01-13;Eibenweg 5 d;47906;Kempen;Duitsland
+000018855;GOO;Kriescher, M.;Niet meer geregistreerd;2019-05-31;2022-11-30;Rathausstrasse 1;52459;Inden;Duitsland
+000018867;DGO;Vrtec Pingvin;Niet meer geregistreerd;2019-05-29;2023-05-29;Popoviceva 16;1000;Ljubljana;Slovenië
+000018879;DGO;Punkt Przedszkolny City Kids 2;Niet meer geregistreerd;2019-06-05;2023-06-05;Vl. Energctyczna 12;53-330;Wroclaw;Polen
+000018892;DGO;De Vlinderkes;Niet meer geregistreerd;2019-06-11;2023-06-11;Heidestraat 106;3581;Beverlo;België
+000018909;DGO;Kommunale Tageseinrichtung für Kinder Oberkrüchten;Niet meer geregistreerd;2019-06-11;2023-06-11;Alte Burgstrasse 11;41372;Niederkrüchten;Duitsland
+000018910;DGO;Noddy's Nursery(Gwendolen Ave) ;Niet meer geregistreerd;2019-06-12;2023-06-12;2 Gwendolen Avenue;SW15 6EH;Londen;Groot Brittannië
+000018934;DGO;kinderdagverblijf 't Wiekernestje;Niet meer geregistreerd;2019-06-14;2023-06-14;Sint- Jacobstraat 8;3960;Bree;België
+000018946;DGO;Kindertagesstätte Astrid Lindgren Gronau-Epe e.V.;Niet meer geregistreerd;2019-06-18;2023-06-18;Laurenzstrasse 65;48599;Gronau;Duitsland
+000018958;DGO;'t Droomertje 2;Niet meer geregistreerd;2019-06-19;2023-06-19;Vosstraat 18;2140;Borgerhout;België
+000018971;GOO;Vandenberk, N.;Niet meer geregistreerd;2019-06-07;2023-06-07;Mudakkers 94;3920;Lommel;België
+000018983;DGO;Kiddy Academy Day Nursery;Niet meer geregistreerd;2019-06-21;2023-06-21;Lowerson Raod 13;L11 8LW;Liverpool;Groot Brittannië
+000018995;DGO;Inklusive Kindertagesstätte 'Bullerbü'e.v.;Niet meer geregistreerd;2019-06-21;2023-06-21;Dorfstrasse 40;47574;Goch;Duitsland
+000019033;DGO;Tutjes en Dutjes;Niet meer geregistreerd;2019-06-26;2023-06-26;Kloosterstraat 5;3940;Hechtel;België
+000019045;DGO;Vrtec Ledina;Niet meer geregistreerd;2019-06-27;2023-06-27;Cufarjeva ulica 14;1000;Ljubljana;Slovenië
+000019069;DGO;Threshers Day Nursery;Niet meer geregistreerd;2019-06-28;2023-06-28;193 High Street, St. Mary Cray;BR5 4AX;Orpington Kent;Groot Brittannië
+000019070;GOO;Pass, R.;Niet meer geregistreerd;2019-07-01;2023-07-01;Monseigneur Cardijnstraat 2A;3620;Lanaken;België
+000019082;GOO;Eerens, L.;Niet meer geregistreerd;2019-07-01;2023-07-01;Strodorp 130;3620;Veldwezelt;België
+000019094;DGO;Fledglings at the Palace;Niet meer geregistreerd;2019-07-02;2023-07-02;c/o Fulham Palace, Bishop's Avenue;SW6 6EA;Londen;Groot Brittannië
+000019100;DGO;Asilo nido I Bambini del Circo Massimo;Niet meer geregistreerd;2019-07-01;2023-07-01;Via del Circo Massimo 9;153;Rome;Italië
+000019112;DGO;Minnie Mouse;Niet meer geregistreerd;2019-07-02;2023-07-02;Nieuwmoersesteenweg 86;2910;Essen;België
+000019124;DGO;Municipal Enxaneta;Niet meer geregistreerd;2019-07-05;2023-07-05;Carrer de Jaén 22;8012;Barcelona;Spanje
+000019173;DGO;Elterninitiative Kindergarten Gänseblümchen e.V.;Niet meer geregistreerd;2019-07-11;2023-07-11;Rindener Strasse 5b;47533;Kleve;Duitsland
+000019185;GOO;Garbereder, M.;Niet meer geregistreerd;2019-07-15;2023-07-15;Galaterstrasse 72;52074;Aachen;Duitsland
+000019197;GOO;Nuiten, L.;Geregistreerd;2019-07-15;2027-02-21;Postbaan 15;2910;Essen;België
+000019203;DGO;JaxiJozi I;Niet meer geregistreerd;2019-07-16;2023-07-16;Langemarkstraat 42;2600;Berchem;België
+000019215;DGO;Städtische Kindertagesstätte 'Im Moorhock';Niet meer geregistreerd;2019-07-17;2023-07-17;Im Moorhock 71;48127;Münster;Duitsland
+000019227;BSO;IBO 't Sjamajeeke Genenbos;Niet meer geregistreerd;2019-07-16;2023-07-16;Genenbosstraat 86/01;3560;Lummen;België
+000019239;BSO;Gezelleke;Niet meer geregistreerd;2019-07-19;2023-07-19;Guido Gezellestraat 20;8790;Waregem;België
+000019240;DGO;Städt. Kita Am Rodenbusch;Niet meer geregistreerd;2019-07-23;2023-07-23;Am Rodenbusch 19;47608;Geldern;Duitsland
+000019252;DGO;Kath. Kindergarten St. Marien;Geregistreerd;2019-07-24;2027-02-13;Hubertusweg 27;47665;Sonsbeck;Duitsland
+000019264;GOO;Janiszewski, K.;Niet meer geregistreerd;2019-07-26;2023-07-26;Ahornweg 29;47624;Kevelaer;Duitsland
+000019276;BSO;TIC-TAC;Niet meer geregistreerd;2019-07-31;2023-07-31;Gran Via de les Corts Catalanes 499;8015;Barcelona;Spanje
+000019288;GOO;Schüring, T.;Niet meer geregistreerd;2019-08-06;2023-08-06;Theophanostrasse 1;48691;Vreden;Duitsland
+000019306;DGO;The Co-operative Childcare Islington;Niet meer geregistreerd;2019-08-12;2023-08-12;10 Galway Street;EC1 V3SW;Londen;Groot Brittannië
+000019318;GOO;Akgül-Beskes, N.;Niet meer geregistreerd;2019-08-12;2023-08-12;Caudebec Ring 46;41334;Nettetal;Duitsland
+000019331;GOO;Lang, B.;Niet meer geregistreerd;2019-08-11;2022-11-13;Nikolaus Beckerstrasse 57;52511;Geilenkirchen;Duitsland
+000019343;GOO;Kaminski, S.;Niet meer geregistreerd;2019-08-13;2020-11-10;Königstrasse 2;47574;GOCH;Duitsland
+000019355;DGO;Partena Kinderopvang- Meneer Nielson;Niet meer geregistreerd;2019-08-13;2023-08-13;Evergemsesteenweg 193 bus 001;9032;Wondelgem;België
+000019367;DGO;'t Lijsternest;Niet meer geregistreerd;2019-08-15;2023-08-15;Alfred Solvaylaan 3;1170;Watermaal-Bosvoorde;België
+000019379;GOO;Diel, L.;Niet meer geregistreerd;2019-08-16;2020-04-10;Annastrasse 1;52511;Geilenkirchen;Duitsland
+000019380;DGO;Grémio de Instrucao Liberal de Campo de Ourique;Niet meer geregistreerd;2019-08-21;2023-08-21;Largo Dr. Antonio Viana;1250-096;Lissabon;Portugal
+000019392;GOO;Nanu, I.;Niet meer geregistreerd;2019-08-22;2023-08-22;Ijsvogelstraat 16;3630;Maasmechelen;België
+000019409;DGO;Tageseinrichtung für Kinder Lebensfluss;Niet meer geregistreerd;2019-08-26;2023-08-26;Ackerstrasse 95;47533;Kleve;Duitsland
+000019410;GOO;Ellermann, A.;Niet meer geregistreerd;2019-08-26;2023-08-26;Kurze Strasse 5;49733;Haren;Duitsland
+000019422;DGO;Headstart Nursery School;Niet meer geregistreerd;2019-08-26;2023-08-26;16 Queen Charlotte Street;EH6 6AT;Edinburgh;Groot Brittannië
+000019434;DGO;AWO Kita Sonnenschein;Niet meer geregistreerd;2019-08-28;2023-08-28;Mittelmannstrasse 15;46414;Rhede;Duitsland
+000019446;DGO;De Toverschommel;Niet meer geregistreerd;2019-09-03;2023-09-03;Pastoor de Katerstraat 1A bus 0-1;2387;Baarle-Hertog;België
+000019458;DGO;Kindertagesstätte Spatzennest;Niet meer geregistreerd;2019-09-03;2023-09-03;Pestalozzistr. 7;6766;Bitterfeld-Wolfen;Duitsland
+000019471;DGO;Pusteblume e.V.;Niet meer geregistreerd;2019-09-04;2023-09-04;Heinrichstrasse 6;47574;Goch;Duitsland
+000019483;DGO;Kath. KiGa St. Johannes;Niet meer geregistreerd;2019-09-04;2023-09-04;Maximilianstrasse 5;49733;Haren-Rütenbrock;Duitsland
+000019495;DGO;Kath. Tageseinrichtung für Kinder St. Markus;Niet meer geregistreerd;2019-09-04;2024-03-31;Rosendaler Weg 4;47551;Bedburg-Hau;Duitsland
+000019501;DGO;Kath. Tageseinrichtung für Kinder St. Marien;Niet meer geregistreerd;2019-09-06;2023-09-06;Marienstrasse 29;52146;Würselen;Duitsland
+000019513;BSO;IBO Koetshuis;Niet meer geregistreerd;2019-09-13;2023-09-13;Borstelsstraat 140;3010;Kessel-Lo;België
+000019525;GOO;Lonneux, J.;Niet meer geregistreerd;2019-09-16;2023-09-16;Sinnichstraat 51;3793;Teuven;België
+000019537;DGO;He Berenbos;Geregistreerd;2019-09-16;2027-07-24;Mieksebaan 144;2960;Brecht;België
+000019549;GOO;Lemmens, K.;Niet meer geregistreerd;2019-09-16;2023-09-16;Vlasbrei 2;3640;Molenbeersel;België
+000019550;DGO;Mama Bear's Day Nursery;Niet meer geregistreerd;2019-09-17;2023-09-17;17 Oakfield Road, Clifton;BS8 2AW;Bristol;Groot Brittannië
+000019562;DGO;Kindertagesstätte Wilde Wiese;Niet meer geregistreerd;2019-09-18;2023-09-18;Hochstrasse 20 a;48683;Ahaus;Duitsland
+000019598;GOO;Engelen Poppie;Niet meer geregistreerd;2019-09-25;2023-09-25;Petronellahof 6;3621;Rekem;België
+000019604;DGO;Scuola Materna Leone XII;Niet meer geregistreerd;2019-09-30;2023-09-30;Via San Nicolao 42;55100;Lucca;Italië
+000019616;GOO;Menzel, I.;Niet meer geregistreerd;2019-10-01;2023-10-01;Köstersweg 39;47533;Kleve;Duitsland
+000019628;BSO;Kinderclub De Spetter;Niet meer geregistreerd;2019-10-10;2023-10-10;Pastorijstraat 7;2330;Merksplas;België
+000019641;DGO;Kath. Kindertagesstätte St. Stephanus;Niet meer geregistreerd;2019-10-11;2023-10-11;Am Kloster 14;D-41812;Erkelenz;Duitsland
+000019653;GOO;Vaesen, L.;Niet meer geregistreerd;2019-10-14;2023-10-14;Bleekstraat 7;3930;Achel;België
+000019665;DGO;Tageseinrichtung für Kinder Rasselbande;Niet meer geregistreerd;2019-10-14;2023-10-14;Steppenbergallee 7-11;52074;Aachen;Duitsland
+000019677;DGO;'t Lozana'tje;Niet meer geregistreerd;2019-10-16;2023-10-16;Lange Lozanastraat 108;2018;Antwerpen;België
+000019689;GOO;Gras, C.;Niet meer geregistreerd;2019-10-16;2021-03-10;Freiheitsstrasse 18;52531;Übach-Palenberg;Duitsland
+000019690;DGO;De Tovertuin Natuurlijk;Niet meer geregistreerd;2019-10-17;2023-10-17;Kleinvenstraat 2;3640;Kinrooi;België
+000019707;DGO;Kath. Kindertagesstätte St. Elisabeth;Niet meer geregistreerd;2019-10-22;2023-10-22;Vinzenzplatz 1a;40211;Düsseldorf;Duitsland
+000019719;GOO;Maes, S;Niet meer geregistreerd;2019-10-23;2023-10-23;Leustraat 22;3640;Kinrooi;België
+000019720;DGO;Tstokpaardje;Niet meer geregistreerd;2019-10-25;2023-10-25;Stokt 23;2440;Geel;België
+000019732;DGO;'t Kroontje;Niet meer geregistreerd;2019-10-28;2023-10-28;Schutterstraat 29 bus A;2370;Arendonk;België
+000019744;DGO;Kinderdagverblijf Nininakri;Niet meer geregistreerd;2019-10-30;2023-10-30;Grote Baan 78;2380;Ravels;België
+000019756;DGO;Kinderdagverblijf 't Zwaluwnestje;Niet meer geregistreerd;2019-10-31;2023-10-31;Maurits Sabbestraat 119;2800;Mechelen;België
+000019781;BSO;BKO De Sloebertjes;Geregistreerd;2019-11-11;2027-06-28;Kerkstraat 89;2940;Hoevenen (Stabroek);België
+000019793;DGO;Toverland;Niet meer geregistreerd;2019-11-12;2023-11-12;Sint-Aldegondisstraat 9;3740;Kleine-Spouwen;België
+000019823;DGO;Kindergarten Wehr;Niet meer geregistreerd;2019-11-18;2023-11-18;Severinusstrasse 6;52538;Selfkant-Wehr;Duitsland
+000019835;DGO;Kita Räuberkiste;Niet meer geregistreerd;2019-11-25;2023-11-25;Tullastrasse 25;76131;Karlsruhe;Duitsland
+000019859;DGO;Les Couleurs du Temps;Niet meer geregistreerd;2019-11-16;2023-11-16;29 Boulevard Saint-Jacques;75014;Parijs;Frankrijk
+000019860;DGO;Shining Futures;Niet meer geregistreerd;2019-11-25;2023-11-25;Treshold Centre 1 Ada Place;E2 9BA;Londen;Groot Brittannië
+000019872;GOO;Mulders, S.;Niet meer geregistreerd;2019-11-26;2023-11-26;Lindenlaan 31;3680;Maaseik;België
+000019896;BSO;Kinderclub Patjoepelke Hoogstraat;Niet meer geregistreerd;2019-11-27;2023-11-27;Hoogstraat 51;9160;Lokeren;België
+000019902;BSO;Patjoepelke Staakte;Geregistreerd;2019-11-27;2027-09-12;Hoogstraat 192;9160;Lokeren;België
+000019914;DGO;'t Speelhuis Achel;Geregistreerd;2019-12-02;2027-06-21;Thomas Watsonlaan 103;3930;Hamont-Achel;België
+000019951;GOO;Bibilouke;Niet meer geregistreerd;2019-12-06;2023-12-06;De Merodelaan 43;3620;Lanaken;België
+000019963;DGO;AWO-Kindertagesstätte Wassenberg;Geregistreerd;2019-12-09;2027-11-27;Breiter Weg 35;41849;Wassenberg;Duitsland
+000019975;GOO;Brenke, A.;Niet meer geregistreerd;2019-12-10;2023-07-16;Flutstrasse 33;47533;Kleve;Duitsland
+000019987;BSO;De Zandloper-Centrum;Niet meer geregistreerd;2019-12-10;2023-12-10;Bergakker 2a;2350;Vosselaar;België
+000019999;DGO;St George's Nursery School;Niet meer geregistreerd;2019-12-10;2023-12-10;2 Grace Road;LE2 8AD;Leicester;Groot Brittannië
+000020011;DGO;Arnold-Jansen-Kindergarten;Niet meer geregistreerd;2019-12-11;2023-12-11;Boxteler Strasse 23;47574;Goch;Duitsland
+000020023;GOO;Caeyers, C.;Niet meer geregistreerd;2019-12-13;2023-12-13;Logen 143;2440;Geel;België
+000020035;DGO;KidsEnZo;Niet meer geregistreerd;2019-12-11;2023-12-11;Grotlaan 54;3680;Neeroeteren;België
+000020047;GOO;Vermeer, C.;Geregistreerd;2019-12-12;2027-02-10;Wassenbergstrasse 40;46446;Emmerich am Rhein;Duitsland
+000020072;GOO;Cianciola, T.;Niet meer geregistreerd;2019-12-13;2023-12-13;Linwood Road 2;SG12 7 JQ;Ware;Groot Brittannië
+000020084;DGO;De Klodsberg;Niet meer geregistreerd;2019-12-15;2023-12-15;Klodsbergweg 23;3520;Zonhoven;België
+000020096;GOO;Gerritzma, T.;Niet meer geregistreerd;2019-12-16;2022-06-21;Rickenstrasse 49;47589;Uedem;Duitsland
+000020114;DGO;Kindergarten Hexenkessel;Niet meer geregistreerd;2019-12-19;2023-12-19;Zwingenbergerstrasse 104;47802;Krefeld;Duitsland
+000020126;DGO;Kind Jezus;Niet meer geregistreerd;2019-12-27;2023-12-27;Graatakker 4;2300;Turnhout;België
+000020138;DGO;Kath. Tageseinrichtung für Kinder St. Vincentius;Niet meer geregistreerd;2019-12-30;2023-12-30;Gruenewaldsweg 1;46459;Rees;Duitsland
+000020151;GOO;List, P.;Niet meer geregistreerd;2020-01-02;2022-08-31;Grasriete 97;49824;Emlichheim;Duitsland
+000020163;DGO;Cambridge Day Nursery;Niet meer geregistreerd;2020-01-06;2024-01-06;67a Milton Road;CB4 1XA;Cambridge;Groot Brittannië
+000020175;GOO;De Bosvriendjes;Niet meer geregistreerd;2020-01-07;2024-01-07;Bosstraat 5;3620;Lanaken;België
+000020187;DGO;De Sijsjes;Niet meer geregistreerd;2020-01-16;2024-01-16;Pastorijstraat 30;3530;Houthalen;België
+000020199;DGO;Kinderopvang Marmotje;Niet meer geregistreerd;2020-01-13;2024-01-13;Bezelaerstraat 45;2830;Blaasveld;België
+000020205;DGO;Daltoncrèche;Niet meer geregistreerd;2020-01-14;2024-01-14;Boomkensstraat 52;3500;Hasselt;België
+000020229;DGO;Colégio Santiago;Niet meer geregistreerd;2020-01-17;2024-01-17;Rua Al Berto 3-A;2790-279;Carnaxide;Portugal
+000020230;DGO;Rire et Grandir;Niet meer geregistreerd;2020-01-21;2020-05-08;Rue du Brochet 54-64;1050;Ixelles;België
+000020242;DGO;De Melkherberg;Niet meer geregistreerd;2020-01-21;2024-01-21;Terlicht 221;9450;Heldergem;België
+000020266;DGO;Ukkie-Pukkie Kleit;Geregistreerd;2020-01-24;2027-11-10;Kleitkalseide 109;9990;Maldegem;België
+000020278;DGO;Dol-Fijn;Niet meer geregistreerd;2020-01-27;2024-01-27;Karel van Nyenlaan 12;2340;Beerse;België
+000020291;DGO;Kinderdagverblijf Baby Wellness;Niet meer geregistreerd;2020-01-28;2024-01-28;Maastrichterstraat 1 bus C;3690;Zutendaal;België
+000020308;DGO;Städt. Kita An der Friedensburgbij friedens;Niet meer geregistreerd;2020-01-28;2024-01-28;An der Friedensburg 28-30;52511;Geilenkirchen;Duitsland
+000020321;BSO;Kindertagesstätte für Hort Trinitatis;Geregistreerd;2020-01-29;2027-09-20;Birkenallee 21;49808;Lingen;Duitsland
+000020333;DGO;Städt. Tageseinrichtungfür Kinder Röhlenend;Niet meer geregistreerd;2020-01-28;2024-01-28;Röhlenend 10;41751;Viersen;Duitsland
+000020345;DGO;Kindertagesstätte Mullewapp;Niet meer geregistreerd;2020-02-03;2024-02-03;Von Broichhausen Allee 3;47906;Kempen;Duitsland
+000020357;GOO;Grüne, C.;Niet meer geregistreerd;2020-02-03;2024-02-03;Siegfriedstrasse 10;47906;Kempen;Duitsland
+000020369;DGO;Dierentrein;Niet meer geregistreerd;2020-02-10;2024-02-10;Lange Kievitstraat 92;2018;Antwerpen;België
+000020370;DGO;De Toverbloesem;Geregistreerd;2020-02-10;2027-09-06;Daaleindestraat 48;3720;Kortessem;België
+000020382;DGO;Tageseinrichtung für Kinder 'Regenbogen';Niet meer geregistreerd;2020-02-13;2024-02-13;Mühlenstrasse 87;47589;Uedem;Duitsland
+000020394;GOO;Moeke Greet;Niet meer geregistreerd;2020-02-14;2024-02-14;Bloemstraat 15;2470;Retie;België
+000020400;GOO;Stevens, N.;Geregistreerd;2020-02-14;2027-11-14;Heirbaan 66;3620;Neerharen;België
+000020436;DGO;Tageseinrichtung für Kinder Montessori Kinderhaus Kellen;Niet meer geregistreerd;2020-02-19;2024-02-19;Gildeweg 6;47533;Kleve;Duitsland
+000020448;GOO;Reinowsky, G.;Niet meer geregistreerd;2020-02-19;2023-12-19;Lambeer 41 a;47533;Kleve;Duitsland
+000020461;GOO;Chahoub, M.;Niet meer geregistreerd;2020-02-20;2022-06-28;Schönauer Friede 5;52072;Aachen;Duitsland
+000020503;DGO;Villa Wapiwi;Niet meer geregistreerd;2020-02-18;2024-02-18;Burgemeester Jos. Chalmetlaan 50 bus A;9060;Zelzate;België
+000020515;DGO;Kommunale Tageseinrichtung für Kinder Schalbruch;Geregistreerd;2020-03-05;2027-10-24;Ahornstrasse 1 a;52538;Selfkant;Duitsland
+000020527;DGO;De Ballon;Niet meer geregistreerd;2020-03-05;2024-03-05;Pompstraat 22;3012;Wilsele;België
+000020588;DGO;Het Appeltje;Niet meer geregistreerd;2020-03-26;2024-03-26;Zonneveldweg 9;3830;Wellen;België
+000020606;DGO;Den Toeter BV;Niet meer geregistreerd;2020-03-27;2024-03-27;Achterstraat 27;2980;Zoersel;België
+000020618;DGO;Kath. Kindergarten St. Josef;Niet meer geregistreerd;2020-03-26;2024-03-26;Birkenstrasse 16;48683;Ahaus;Duitsland
+000020631;DGO;Duimelot;Geregistreerd;2020-04-03;2027-11-20;Wouwerstraat 29;2480;Dessel;België
+000020643;DGO;La Petite Nursery;Niet meer geregistreerd;2020-04-14;2024-04-14;2Ashworth Road;W9 1JY;Londen;Groot Brittannië
+000020655;GOO;Baerten, R.;Niet meer geregistreerd;2020-04-03;2024-04-03;Eikenbeekstraat 10;3740;Bilzen;België
+000020667;DGO;Choechoekes;Geregistreerd;2020-04-03;2027-09-29;Nuropstraat 36;3793;Teuven;België
+000020679;DGO;Kinderdagverblijf De Boomhut;Niet meer geregistreerd;2020-04-09;2024-04-09;Nieuwstraat 30;2910;Essen;België
+000020680;DGO;CJD Kita Gronau;Niet meer geregistreerd;2020-04-21;2024-04-21;Beckerhookstrasse 84;48599;Gronau;Duitsland
+000020692;DGO;'t Prutske17;Niet meer geregistreerd;2020-04-17;2024-04-17;Grasmushof 3;3000;Leuven;België
+000020709;GOO;Van Vooren, N.;Niet meer geregistreerd;2020-04-20;2024-04-20;Rechtstro 22;9185;Wachtebeke;België
+000020746;DGO;Zazoe FV;Niet meer geregistreerd;2020-05-15;2024-05-15;Sint-Gillisstraat 23;9170;De Klinge;België
+000020758;GOO;Zerda, A.;Geregistreerd;2020-05-18;2028-01-25;Omselweg 66;3960;Bree;België
+000020771;DGO;kath. Tageseinrichting für Kinder St. Lambertus;Niet meer geregistreerd;2020-03-24;2024-03-24;Op de Berg 18;52538;Selfkant;Duitsland
+000020783;GOO;Wouters, L;Niet meer geregistreerd;2020-05-14;2024-05-14;Kerkstraat 43;3770;Riemst;België
+000020795;DGO;Inklusive Tageseinrichtung für Kinder 'Lebensgarten';Niet meer geregistreerd;2020-05-22;2024-05-22;Pastor-Frankese-Strasse 24;47589;Uedem;Duitsland
+000020813;DGO;La Petite Ecole A.S.B.L.;Niet meer geregistreerd;2020-05-29;2024-05-29;Rue de la Station 96;1410;Waterloo;België
+000020825;DGO;De Molenvriendjes;Niet meer geregistreerd;2020-06-02;2024-06-02;Molenweg 48-50;2930;Brasschaat;België
+000020862;GOO;Tinkerbell;Niet meer geregistreerd;2020-06-05;2024-06-05;Groenstraat 83;3621;Rekem;België
+000020874;BSO;De Apenstaart;Geregistreerd;2020-06-10;2028-05-24;Reinpadstraat 169;3600;Genk;België
+000020898;DGO;A.D. Wombat;Niet meer geregistreerd;2020-06-05;2024-06-05;Schiepse Bos 1;3600;Genk;België
+000020904;DGO;Johanniter Kindertageseinrichtung 'Wurmtal-Piraten';Niet meer geregistreerd;2020-06-10;2024-06-10;Im Mühlenhof 6-10;52531;Übach-Palenbach;Duitsland
+000020916;GOO;Pies, J.;Geregistreerd;2020-06-19;2025-12-31;Selma-Bruch-Strasse 56;47906;Kempen;Duitsland
+000020941;DGO;Babelut;Niet meer geregistreerd;2020-06-23;2024-06-23;Langebaan 23;2980;Zoersel;België
+000020965;DGO;Kolping Kindergarten Kalkar-Altkalkar e.V;Niet meer geregistreerd;2020-06-25;2024-06-25;Karl-Leisner-Platz 8;47546;Kalkar;Duitsland
+000020977;DGO;DRK-Kindergarten Rudolf-Kinau-Weg;Niet meer geregistreerd;2020-06-30;2024-06-30;Rudolf-Kinau-Weg 1;26160;Bad Zwischenahn;Duitsland
+000020989;DGO;Kinderopvang Vlijtingen;Geregistreerd;2020-07-02;2028-01-09;St. -  Albanusstraat 22;3770;Vlijtingen (Riemst);België
+000020990;DGO;DolFijntjes;Niet meer geregistreerd;2020-07-04;2024-07-04;Dorpsstraat 88;9980;Sint-Laureins;België
+000021003;DGO;Kath. Tageseinrichtung für Kinder Brigittenheim;Niet meer geregistreerd;2020-07-07;2024-07-07;Kirchplatz 7;41334;Nettetal;Duitsland
+000021015;DGO;Beau-Fort Kinderopvang;Niet meer geregistreerd;2020-06-19;2024-06-19;Balendijk 300;3920;Lommel;België
+000021027;DGO;DRK-Kindertagesstätte  'Pusteblume';Niet meer geregistreerd;2020-07-14;2024-07-14;Bentheimer Strasse 150;48529;Nordhorn;Duitsland
+000021039;DGO;Luierland;Geregistreerd;2020-07-03;2028-01-17;Brugstraat 8 bus A;3630;Maasmechelen;België
+000021040;BSO;Scooby-Doo Bocholt;Geregistreerd;2020-07-18;2028-02-15;Brugstraat 38;3950;Bocholt;België
+000021064;BSO;VZW Pinoccio;Niet meer geregistreerd;2020-07-26;2024-07-26;Jef Van Hoofstaat 3;3960;Bree;België
+000021076;GOO;Collier, I.;Niet meer geregistreerd;2020-07-29;2024-07-29;Kleinaartstraat 11;3832;Ulbeek;België
+000021106;DGO;De Deugnietjes;Geregistreerd;2020-08-04;2028-02-24;Molsebaan 49;2470;Retie;België
+000021118;DGO;O Graines d'éveil;Niet meer geregistreerd;2020-08-11;2024-08-11;Elf Novemberlaan 57;1040;Etterbeek;België
+000021131;GOO;Mohamed, D.;Niet meer geregistreerd;2020-06-05;2024-06-05;Hinter der Mauer 101;47574;Goch;Duitsland
+000021143;DGO;Kath. Tageseinrichtung für Kinder St. Anna;Niet meer geregistreerd;2020-08-14;2024-08-14;Happelter Strasse 3;41334;Nettetal;Duitsland
+000021155;DGO;'t Filofantje;Niet meer geregistreerd;2020-08-21;2024-08-21;Crevestraat 29;9180;Moerbeke;België
+000021167;DGO;Kath. Kindergarten St. Cyriakus;Niet meer geregistreerd;2020-08-19;2024-08-19;Kardinal-Galen-Strasse 27;47652;Weeze;Duitsland
+000021179;DGO;Winnie-Tooh;Geregistreerd;2020-08-17;2028-03-14;Roerstraat 1;3600;Genk;België
+000021180;DGO;Parkvilla;Niet meer geregistreerd;2020-08-17;2024-08-17;Speelpleinstraat 61;2170;Merksem;België
+000021192;DGO;Kath. Kindertagesstätte St. Elisabeth;Niet meer geregistreerd;2020-08-17;2024-08-17;Jülicher Strasse 68;52070;Aachen;Duitsland
+000021209;DGO;Escuela Infantil La Abeja Maya;Niet meer geregistreerd;2020-08-28;2024-08-28;Islas Bahamas 33;28035;Madrid;Spanje
+000021210;DGO;Ev.-ref. Kindergarten Kleiner Seestern;Niet meer geregistreerd;2020-08-28;2024-08-28;Carl-van-der-Linde-Str. 6;49828;Neuenhaus;Duitsland
+000021234;GOO;Cinar, Y.;Niet meer geregistreerd;2020-09-03;2024-09-03;Dr.-Jan-Strasse 13;48599;Gronau;Duitsland
+000021246;DGO;Kindertagesstätte KinderReich Kaldenkirchen;Niet meer geregistreerd;2020-09-03;2024-09-03;Trappistenweg 5;41334;Nettetal;Duitsland
+000021258;DGO;Ev.-ref. Kita Sperberstrasse;Niet meer geregistreerd;2020-09-04;2024-09-04;Sperberstrasse 5;48455;Bad Bentheim;Duitsland
+000021271;GOO;Martins, L.;Niet meer geregistreerd;2020-09-14;2024-09-14;15 Christian Close;EN11 9FF;Hoddesdon, Hertfordshire;Groot Brittannië
+000021283;DGO;Kribbelkrab;Niet meer geregistreerd;2020-09-16;2024-09-16;Gevaertlaan 154 bus A;2260;Westerlo;België
+000021295;DGO;Katholischer Kindergarten St. Martin;Niet meer geregistreerd;2020-09-09;2024-09-09;Möllersweg 7;47559;Kranenburg-Zyfflich;Duitsland
+000021301;GOO;Spalding, T.S.;Niet meer geregistreerd;2020-09-11;2024-09-11;43 Martins Drive;SG13 7TA;Hertford/Hertfordshire;Groot Brittannië
+000021313;GOO;Onthaalouder Anouk;Niet meer geregistreerd;2020-09-15;2024-09-15;Bloemendaal 28;3650;Dilsen-Stokkem;België
+000021337;DGO;De Kaboutertjes;Niet meer geregistreerd;2020-09-25;2024-09-25;Vestendreef 2;3440;Zoutleeuw;België
+000021349;DGO;Ukkepuk;Niet meer geregistreerd;2020-09-25;2024-09-25;Auguste Reyerslaan 52;1030;Schaarbeek;België
+000021350;GOO;Hummelkeshof;Niet meer geregistreerd;2020-09-29;2024-09-29;Geistingen 52;3640;Kinrooi;België
+000021362;BSO;Rinkelbel;Geregistreerd;2020-09-30;2028-04-19;Prins Leopoldstraat 42;8310;Sint-Kruis (Brugge);België
+000021374;DGO;Kath. Tageseinrichtung für Kinder  St. Mariä Himmelfahrt;Niet meer geregistreerd;2020-10-06;2024-10-06;Südwall 14;41379;Brüggen;Duitsland
+000021398;GOO;Fockenier, L.;Niet meer geregistreerd;2020-10-06;2024-10-06;Brahmslaan 10;2960;Brecht;België
+000021404;DGO;Kath. Kindergarten St. Joseph;Niet meer geregistreerd;2020-09-29;2024-09-29;Vietmeierstrasse 2;48599;Gronau;Duitsland
+000021428;DGO;Bambinos Childcare Centre;Niet meer geregistreerd;2020-10-16;2024-10-16;31 Houndiscombe Road;PL4 6EU;Plymouth;Groot Brittannië
+000021441;GOO;Hamacher, D.;Geregistreerd;2020-10-16;2025-09-20;Arnold-Janssen-Strasse 25;41334;Nettetal;Duitsland
+000021453;GOO;Lambertz, I.;Niet meer geregistreerd;2020-10-21;2024-10-21;An der Schanz 20;52064;Aachen;Duitsland
+000021465;GOO;Kuppens, C.;Niet meer geregistreerd;2020-10-19;2024-10-19;Sevensstraat 9;3640;Kinrooi;België
+000021477;DGO;Kinderdagverblijf Achter de maan;Niet meer geregistreerd;2020-10-19;2024-10-19;Onze-Lieve-Vrouwstraat 31;2600;Berchem;België
+000021490;DGO;Gemeindkindergarten Waldfeucht;Niet meer geregistreerd;2020-10-21;2024-10-21;Hirtenweg 15;52525;Waldfeucht;Duitsland
+000021519;DGO;Little Star Daycare;Niet meer geregistreerd;2020-10-21;2024-10-21;Via Cassia 344;191;Rome;Italië
+000021520;DGO;Kath. Tageseinrichtung für Kinder St. Lambertus Breyell;Niet meer geregistreerd;2020-10-29;2024-10-29;Loirfeld 10;41334;Nettetal;Duitsland
+000021532;DGO;Kindertageseinrichtung Familienzentrum Wittekindshof;Niet meer geregistreerd;2020-10-28;2024-10-28;Volker-Grabkowsky-Str. 7;48599;Gronau;Duitsland
+000021556;DGO;Zoem Zoem;Niet meer geregistreerd;2020-11-03;2024-11-03;Frankrijklei 144;2000;Antwerpen;België
+000021568;BSO;De Kindervilla;Niet meer geregistreerd;2020-10-30;2024-10-30;Dorpsstraat 86;9800;Astene;België
+000021581;DGO;Babilou Montgomery;Niet meer geregistreerd;2020-11-04;2024-11-04;Tervurenlaan 54;1040;Etterbeek;België
+000021593;DGO;DRK INKITA Kaldenkirchen;Geregistreerd;2020-11-04;2028-07-11;Severusstrasse 1;41334;Nettetal;Duitsland
+000021623;BSO;De Muntmereltjes;Geregistreerd;2020-10-26;2028-07-02;Muntstraat 14;3700;Tongeren;België
+000021647;GOO;Verschueren, M.;Niet meer geregistreerd;2020-11-24;2024-11-24;Akkerloopstraat 64;2322;Minderhout;België
+000021659;GOO;Oktopus;Niet meer geregistreerd;2020-11-23;2024-11-23;Poelstraat 9;3650;Dilsen;België
+000021660;BSO;Spinibo;Niet meer geregistreerd;2020-11-27;2024-11-27;Boekfos 30;1730;Asse;België
+000021684;DGO;Asilo Nido Il Bocciolo;Niet meer geregistreerd;2020-11-27;2022-03-31;Via ai Magi 4;6945;Origlio;Zwitserland
+000021696;DGO;De Lachebexkes;Niet meer geregistreerd;2020-11-26;2024-11-26;Mellaerstraat 1;3560;Lummen;België
+000021702;DGO;Kinderdagverblijf Précoly;Niet meer geregistreerd;2020-12-04;2024-12-04;Kapellensteenweg 64 bus 1;2920;Kalmthout;België
+000021714;GOO;De Ploppertjes bij Xenia;Niet meer geregistreerd;2020-12-08;2024-12-08;Bergstraat 56 bus A;3770;Val-Meer;België
+000021726;DGO;Internationaler Kindergarten DAI;Geregistreerd;2020-12-10;2028-08-27;Friedrich-Ebert-Anlage 28;69117;Heidelberg;Duitsland
+000021738;DGO;Kath. Tageseinrichtung für Kinder 'Regenbogenland';Niet meer geregistreerd;2020-12-16;2024-12-16;Krokusweg 1;41334;Nettetal;Duitsland
+000021751;GOO;Rkia Nait Oukhedou;Niet meer geregistreerd;2020-12-21;2024-12-21;Koningin Astridlaan 110;3680;Maaseik;België
+000021763;DGO;ISF International Daycare;Niet meer geregistreerd;2020-12-21;2024-12-21;Waterloose Steenweg 280;1640;Sint-Genesius-Rode;België
+000021775;DGO;Clara di Luna;Niet meer geregistreerd;2020-12-22;2024-12-22;Kastanjedreef 1;8300;Knokke;België
+000021787;DGO;Het Bijennnestje;Niet meer geregistreerd;2020-12-21;2024-12-21;Nieuweweg 88;3770;Riemst;België
+000021799;GOO;Berghe van den- Clays, D.;Niet meer geregistreerd;2020-12-23;2024-12-23;Bergstraat 35;9170;Sint-Gillis-Waas;België
+000021817;GOO;Schellekens, K;Niet meer geregistreerd;2021-01-07;2025-01-07;Wachelbergen 96;2990;Wuustwezel;België
+000021829;BSO;'t Kalf;Niet meer geregistreerd;2021-01-06;2025-01-06;Eeckbergstraat 10;9170;Sint-Gillis-Waas;België
+000021830;DGO;Het Bengelbos;Niet meer geregistreerd;2021-01-08;2025-01-08;Echelstraat 33 bus 2;2360;Oud-Turnhout;België
+000021842;GOO;Bouchti, A.;Niet meer geregistreerd;2021-01-11;2025-01-11;Hohenstauffenallee 18;52064;Aachen;Duitsland
+000021854;DGO;Kinderkrippe Elly & Stoffl;Niet meer geregistreerd;2020-12-24;2024-12-24;Anni-Albers-Strasse 11;80807;München;Duitsland
+000021866;BSO;De Klinge;Niet meer geregistreerd;2021-01-06;2025-01-06;Hulststraat 44;9170;Sint-Gillis-Waas;België
+000021878;DGO;Bright Horizons Woodstock Road Day Nursery and Preschool;Niet meer geregistreerd;2021-01-13;2025-01-13;92 Woodstock Road;OX2 7ND;Oxford;Groot Brittannië
+000021891;GOO;De Laurier, M.;Niet meer geregistreerd;2021-01-21;2025-01-21;Andre Dumontlaan 13;3600;Genk;België
+000021908;DGO;Emielendoortje;Geregistreerd;2021-01-21;2028-08-12;Hulststraat 17;3600;Genk;België
+000021921;GOO;Haast, B.;Niet meer geregistreerd;2021-01-28;2025-01-28;Veldstraat 73;2940;Stabroek;België
+000021933;DGO;An Hennessen;Niet meer geregistreerd;2021-02-02;2025-02-02;Haaptstrooss 19;9665;Liefrange;Luxemburg
+000021945;DGO;Kath. Kindergarten St. Nikolaus Rhede;Niet meer geregistreerd;2021-01-28;2025-01-28;Kolpingstrasse 1-3;26899;Rhede (Ems);Duitsland
+000021957;DGO;'t Koleneindje;Niet meer geregistreerd;2021-02-02;2025-02-02;Koleneind 52;3930;Hamont;België
+000021970;GOO;Jonkers, S.;Niet meer geregistreerd;2021-02-08;2025-02-08;Emmersstraat 7;3920;Lommel;België
+000021982;GOO;Schuchard, K.;Niet meer geregistreerd;2021-02-09;2025-02-09;Norbert Neeckxlaan 91;3920;Lommel;België
+000021994;DGO;De Drebberkes;Niet meer geregistreerd;2021-02-10;2025-02-10;Sint-Jozefsplein 4;3840;Rijkel;België
+000022007;GOO;Hagemann, I.;Niet meer geregistreerd;2021-02-11;2025-01-13;Krumme Strasse 8 B;47559;Kranenburg;Duitsland
+000022019;GOO;Geuzens, H.;Geregistreerd;2021-02-15;2025-02-15;Margrietstraat 17;3930;Hamont;België
+000022032;DGO;International Kindergarten OÜ;Geregistreerd;2021-02-17;2025-02-17;Väike-Ameerika Street 39;10129;Tallinn;Estland
+000022044;GOO;Lepik, K.;Geregistreerd;2021-02-17;2025-02-17;Käänu 3;13516;Tallinn / Tiskre;Estland
+000022056;GOO;Mulder, C.;Niet meer geregistreerd;2021-02-22;2024-02-18;Pastor-Janssen-Weg 6a;47533;Kleve;Duitsland
+000022068;DGO;Il Giardino Dell'Infanzia;Geregistreerd;2021-02-23;2025-02-23;Via Salara Vecchia 52/7;65129;Pescara;Italië
+000022081;GOO;Keuyk, M.;Geregistreerd;2021-02-24;2025-02-24;An der Mortel 6;47638;Straelen;Duitsland
+000022093;GOO;Gierschner, A.;Niet meer geregistreerd;2021-03-04;2021-07-20;Beyersweg 20;47608;Geldern;Duitsland
+000022111;DGO;Niepubliczny Dwujezyczny Zlobek KIDS&Co.;Geregistreerd;2021-03-04;2025-03-04;Domaniewska 48;02-672;Warschau;Polen
+000022123;GOO;Kuru, T.;Geregistreerd;2021-03-05;2025-03-05;Verbindingslaan 60;3600;Genk;België
+000022135;DGO;Evang. Kindertagesstätte Eppstein;Geregistreerd;2021-03-08;2025-03-08;Rossertstrasse 24a- 26;65817;Eppstein;Duitsland
+000022147;DGO;AWO Tageseinrichtung für Kinder;Geregistreerd;2021-03-08;2025-03-08;Mertens Kotten 7;48599;Gronau;Duitsland
+000022172;DGO;Privat-gewerbliche Tageseinrichtung für Kinder;Geregistreerd;2021-03-09;2025-03-09;Neanderstrasse 1;40233;Düsseldorf;Duitsland
+000022196;DGO;Ev. Tageseinrichtung für Kinder;Geregistreerd;2021-03-11;2025-03-11;Hansastrasse 7;46446;Emmerich;Duitsland
+000022202;GOO;Hilven, K.;Geregistreerd;2021-03-15;2025-03-15;Weg naar Opoeteren 242;3660;Opglabbeek;België
+000022214;DGO;De Katjes;Geregistreerd;2021-03-16;2025-03-16;H. Boulengerlaan 7a;3080;Tervuren;België
+000022226;BSO;BKO Brecht - locatie Sint-Job;Geregistreerd;2021-03-24;2025-03-24;Hogebaan 4;2960;Brecht;België
+000022238;DGO;De Lus Kinderdagverblijf;Geregistreerd;2021-03-24;2025-03-24;De Hulsten 12;2980;Zoersel;België
+000022251;DGO;Casa dei Bambini Scuola Montessori;Geregistreerd;2021-04-02;2025-04-02;Piazza San Gerolama 6;20133;Milaan;Italië
+000022263;DGO;SIA Skolmeistars;Geregistreerd;2021-04-02;2025-04-02;Lielirbesstraat 13-4;LV-1046;Riga;Letland
+000022275;BSO;IBO de Hoelahoep;Geregistreerd;2021-04-02;2028-11-21;Lembeke-Dorp 42;9971;Lembeke;België
+000022287;DGO;Villa Kakelbont;Geregistreerd;2021-04-15;2025-04-15;Hundelgemsesteenweg 70;9820;Merelbeke;België
+000022305;GOO;Janssen, K.;Geregistreerd;2021-04-20;2025-04-20;Heirstraat 111 A;3630;Maasmechelen;België
+000022329;DGO;ITUITU, SL;Geregistreerd;2021-05-11;2025-05-11;CL. ALEJANDRO VI, 6;46005;Valencia;Spanje
+000022330;DGO;Kribbeliet Poppel;Geregistreerd;2021-06-25;2025-06-25;Tilburgseweg 202;2382;Poppel;België
+000022342;GOO;Van Tol, N.;Geregistreerd;2021-05-07;2025-05-07;Dokter Gommersstraat 24;2328;Meerle;België
+000022354;DGO;Kindertagesstätte Ankerplatz;Geregistreerd;2021-05-07;2025-05-07;Am  Sportzentrum 4;49733;Haren;Duitsland
+000022378;DGO;Kindertageseinrichtung Am Gievenbach;Geregistreerd;2021-05-16;2025-05-16;Toppheideweg 21;48161;Münster;Duitsland
+000022408;DGO;Sonnenscheinkindergarten;Geregistreerd;2021-05-21;2025-05-21;Falkenstrasse 7;46459;Rees;Duitsland
+000022445;GOO;Schmitz, S;Niet meer geregistreerd;2021-06-03;2024-09-17;Hanxlerstrasse 15;52538;Gangelt;Duitsland
+000022457;GOO;De Olde Marskamp, Y.;Geregistreerd;2021-05-06;2025-05-06;Mühlenstrasse 48;49824;Emlichheim;Duitsland
+000022469;GOO;De Wiebelteentjes;Geregistreerd;2021-06-04;2025-06-04;Kuipersstraat 13;3950;Bocholt;België
+000022470;DGO;Kinderdagverblijf Inieminie;Geregistreerd;2021-06-07;2025-06-07;Kattenberg 89;2460;Kasterlee;België
+000022482;DGO;Städt. Tageseinrichtung für Kinder Mühlenkinder;Geregistreerd;2021-06-10;2025-06-10;Güdderather Mühlenweg 2;41199;Mönchengladbach;Duitsland
+000022494;DGO;Kinderdagverblijf Klein Begijnhof;Geregistreerd;2021-06-02;2025-06-02;Klein Begijnhof 3;2800;Mechelen;België
+000022500;DGO;De Bengelboot;Geregistreerd;2021-06-15;2025-06-15;Leopoldstraat 38;2330;Merksplas;België
+000022512;BSO;Schülertreff Hilfswerk Baden;Geregistreerd;2021-06-16;2025-06-16;Pfarrplatz 1-3;2500;Baden;Oostenrijk
+000022536;DGO;Les Lucioles;Geregistreerd;2021-06-16;2025-06-16;Rue de Sluse 17;4600;Visé;België
+000022548;BSO;Wigo;Geregistreerd;2021-06-25;2025-06-25;Sint-Jansstraat 107;2910;Essen;België
+000022561;BSO;Mariaberg;Geregistreerd;2021-06-25;2025-06-25;Kloosterstraat 76;2910;Essen;België
+000022573;GOO;Cornelissen, C.;Geregistreerd;2021-06-29;2025-06-29;Den Holdert 22;3930;Hamont-Achel;België
+000022585;DGO;Eve la Nichée;Geregistreerd;2021-07-02;2025-07-02;Boulevard Carl-Vogt 46;1205;Geneve;Zwitserland
+000022597;GOO;Stolk, L.;Geregistreerd;2021-07-01;2025-07-01;Kraaienberg 70;2910;Essen;België
+000022603;GOO;Leroi, C.;Geregistreerd;2021-07-01;2025-07-01;Zandstraat 17;3590;Diepenbeek;België
+000022615;DGO;Integrative Kita und Krippe Regenbogen;Geregistreerd;2021-07-13;2025-07-13;Mückenweg 100;48527;Nordhorn;Duitsland
+000022627;DGO;Paradijsje;Geregistreerd;2021-07-16;2025-07-16;Zevenbonderstraat 78 bus 2;3600;Genk;België
+000022639;DGO;De Regenboog;Geregistreerd;2021-07-01;2025-07-01;Kloosterstraat 23;2990;Wuustwezel;België
+000022640;DGO;Kinderopvang Het Engeltje;Geregistreerd;2021-07-23;2025-07-23;Maantjessteenweg 81;2170;Merksem;België
+000022652;DGO;Kath. Kindergarten St. Antonius Epe;Geregistreerd;2021-07-30;2025-07-30;Saarstrasse 42;48599;Gronau-Epe;Duitsland
+000022664;DGO;'t Kinderhof;Geregistreerd;2021-08-03;2025-08-03;Pastorijstraat 19;3500;Sint-Lambrechts-Herk;België
+000022676;DGO;Tageseinrichtung für kinder ' Kind und Kegel';Geregistreerd;2021-08-02;2025-08-02;Branderhoferweg 53;52066;Aachen;Duitsland
+000022688;DGO;Llar d'infants municipal de Castell-Platja d'Aro;Geregistreerd;2021-08-04;2025-08-04;Carrer de Rosa Sensat 4;17249;Castell-Platja d'Aro;Spanje
+000022706;DGO;Kinderkrippe Hergenrath;Geregistreerd;2021-08-05;2025-08-05;Asteneter Strasse 23;4728;Hergenrath;België
+000022743;DGO;Kita Regenbogen;Geregistreerd;2021-08-10;2025-08-10;Freisenbrock 15;48366;Laer;Duitsland
+000022755;DGO;AWO Kita Nierspiraten;Geregistreerd;2021-08-11;2025-08-11;Pfalzdorfer Str. 79 A;47574;Goch;Duitsland
+000022767;GOO;Möllerhaus, A.;Geregistreerd;2021-08-17;2027-04-24;Jahnstrasse 27;49767;Twist;Duitsland
+000022779;DGO;DRK-Kindertagesstätte Grashüpfer;Geregistreerd;2021-08-17;2025-08-17;Akazienstrasse 22;47495;Rheinberg;Duitsland
+000022792;DGO;Hoppaz;Geregistreerd;2021-08-31;2025-08-31;Wilrijkstraat 12;2650;Edegem;België
+000022822;DGO;Kindertagesstätte Schurzelter Strasse;Geregistreerd;2021-08-31;2025-08-31;Schurzelter strasse 21;52074;Aachen;Duitsland
+000022846;DGO;Kindertagesstätte  Holtmannshof;Geregistreerd;2021-09-03;2025-09-03;Holtmannsweg 1;48157;Münster;Duitsland
+000022871;GOO;Colla, M.;Geregistreerd;2021-09-10;2025-09-10;Gratumtraat 4;3630;Maasmechelen;België
+000022895;DGO;Kinderdagverblijf Pinguin;Geregistreerd;2021-09-17;2025-09-17;Graaf Jansdijk 1;8380;Zeebrugge;België
+000022913;GOO;Kinderopvang De Boelekes;Niet meer geregistreerd;2021-09-20;2021-10-30;Int Boelarvelt 18;3770;Zichen-Zussen-Bolder (Riemst);België
+000022925;DGO;WABE e.V. Kindertagesstätte Spiel(t)raum;Geregistreerd;2021-09-20;2025-09-20;Nettelkroog 1;25462;Rellingen;Duitsland
+000022937;DGO;DRK-Kindergarten 'Am Heggeströper';Geregistreerd;2021-10-01;2025-10-01;Magdalenastrasse 34;52538;Gangelt;Duitsland
+000022949;DGO;Clube do Bibe;Geregistreerd;2021-09-30;2025-09-30;Encosta das Oliveiras-Apt. 1154;8126-914;Vilamoura;Portugal
+000022950;DGO;DRK Kindergarten Bullerbü;Geregistreerd;2021-10-04;2025-10-04;Katharina-Heinroth-Strasse 1;49828;Neuenhaus;Duitsland
+000022962;DGO;Espace de Vie Enfantine Tour de Pinchat;Geregistreerd;2021-09-30;2025-09-30;Chemin de la Tour de Pinchat 2;1234;Vessy;Zwitserland
+000022974;BSO;Achel;Geregistreerd;2021-10-05;2025-10-05;Pastoor Bungenerslaan 14;3930;Hamont-Achel;België
+000022986;DGO;Les Bébés Explorateurs;Geregistreerd;2021-10-06;2025-10-06;17 Rue Pasteur;75011;Parijs;Frankrijk
+000022998;DGO;Deutsches Rotes Kreuz Kindertagesstätte Coesfeld;Geregistreerd;2021-10-07;2025-10-07;Buesweg 22;48653;Coesfeld;Duitsland
+000023012;DGO;Het Pippertje;Geregistreerd;2021-10-18;2025-10-18;Verhoevenlei 75;2930;Brasschaat;België
+000023024;DGO;Mooie Bambino;Geregistreerd;2021-10-19;2025-10-19;Hardenvoort 17;2060;Antwerpen;België
+000023036;DGO;Vincerola International Montessori Day Nursery and Preschool;Geregistreerd;2021-10-14;2025-10-14;Campus - Boulevard 60;52074;Aachen;Duitsland
+000023048;DGO;DRK Familienzentrum Kinderhaus Purzelbaum;Geregistreerd;2021-10-20;2025-10-20;Severusstrasse 1;41334;Nettetal;Duitsland
+000023061;DGO;De Kabouterboerderij;Geregistreerd;2021-10-20;2025-10-20;Gyselstraat 55;9100;Nieuwkerken-Waas (Sint-Niklaas);België
+000023073;DGO;Ikke;Geregistreerd;2021-10-25;2025-10-25;Nieuwstraat 17;2910;Essen;België
+000023085;BSO;Het Speelhuis;Geregistreerd;2021-10-20;2025-10-20;Blijde-Inkomststraat 34;3500;Hasselt;België
+000023097;DGO;Vrtec Skofja Loka;Geregistreerd;2021-10-29;2025-10-29;Podlubnik 1 d;4220;Skofja Loka;Slovenië
+000023103;DGO;Kindertagesstätte Trinitatis;Geregistreerd;2021-10-27;2025-10-27;Kuckuckstrasse 23;49808;Lingen;Duitsland
+000023115;DGO;Het Kabouterbos;Geregistreerd;2021-10-29;2025-10-29;Kapelsestraat 57;2950;Kapellen;België
+000023139;DGO;Hada,  Un Mundo Mágico;Geregistreerd;2021-10-29;2025-10-29;C/ Malvarrosa 1;46183;L'Eliana;Spanje
+000023152;BSO;Hemelrijk;Geregistreerd;2021-11-05;2025-11-05;Kerkstraat 50;9910;Knesselare;België
+000023176;DGO;Kath. Kindergarten St. Elisabeth;Geregistreerd;2021-11-11;2025-11-11;Nelkenweg 4-6;48599;Gronau;Duitsland
+000023188;DGO;Kindertagesstätte Fägnäscht;Niet meer geregistreerd;2021-11-20;2022-11-30;Loëstrasse 99;7000;Chur;Zwitserland
+000023206;GOO;De Riemster Hummelkes;Geregistreerd;2021-11-22;2025-11-22;Burgemeester Schiepersstraat 11;3770;Riemst;België
+000023218;GOO;Brinkman, M.;Geregistreerd;2021-11-22;2025-11-22;Haftenkamper Diek 10;49846;Hoogstede;Duitsland
+000023231;DGO;Enfance Conseil Kotkot;Geregistreerd;2021-11-24;2025-11-24;19 Rue Paul Bert;75011;Parijs;Frankrijk
+000023243;BSO;Stibo De Harp;Geregistreerd;2021-11-30;2025-11-30;Pollepelstraat 17;9000;Gent;België
+000023255;BSO;Uilennestje;Geregistreerd;2021-11-30;2025-11-30;Coupure Rechts 54;9000;Gent;België
+000023267;DGO;Ev. Tageseinrichtung für Kinder Jona;Geregistreerd;2021-11-25;2025-11-25;Heinestrasse 80A;47623;Kevelaar;Duitsland
+000023279;DGO;De Moekes;Geregistreerd;2021-12-03;2025-12-03;Roomstraat 42;9160;Lokeren;België
+000023280;DGO;De Witte Wolk;Geregistreerd;2021-12-08;2025-12-08;Frederik Peltzerstraat 6;2500;Lier;België
+000023292;DGO;Groepsopvang HUPSAKEE;Geregistreerd;2021-12-15;2025-12-15;Stationsstraat 182;3620;Lanaken;België
+000023309;DGO;Tingeling;Geregistreerd;2021-12-20;2025-12-20;Kreek 1;9130;Kieldrecht;België
+000023310;DGO;Kinderdagverblijf Koetje Boe;Geregistreerd;2021-12-21;2025-12-21;Oudstrijdersstraat 16;2910;Essen;België
+000023334;BSO;Villa Kakelbont Rekem;Geregistreerd;2021-12-28;2025-12-28;Populierenlaan 30;3621;Rekem (Lanaken);België
+000023346;GOO;Nijntje Konijntje;Geregistreerd;2022-01-03;2026-01-03;Kasteelstraat 57;9060;Zelzate;België
+000023358;GOO;Het Toverbos;Geregistreerd;2022-01-05;2026-01-05;Nieuwe Boekhoutestraat 5 B bus 2;9968;Bassevelde;België
+000023371;GOO;Smets, H.;Geregistreerd;2022-01-04;2026-01-04;Jaak Vandersandenstraat 70;3740;Bilzen;België
+000023395;GOO;Martens, K.;Niet meer geregistreerd;2022-01-05;2023-07-31;Blinke 39;26789;Leer;Duitsland
+000023401;BSO;Buitenschoolse Opvang Hasselt locatie 't Noppertje;Geregistreerd;2022-01-12;2026-01-12;Oppenstraat 1;3512;Stevoort;België
+000023413;DGO;Little World;Geregistreerd;2022-01-11;2026-01-11;Mechelsesteenweg 190 bus 17;2018;Antwerpen;België
+000023425;DGO;Bué Bebé Bercário e Creche Lda;Geregistreerd;2022-01-12;2026-01-12;Avenida Cabo Bojador Lote 7, r/c, Loja J e B;8600-644;Lagos;Portugal
+000023437;GOO;Cairo, L.;Geregistreerd;2022-01-20;2026-01-20;Meistraat 179;2480;Dessel;België
+000023449;DGO;Kindertagesstaette Foehrenstrolche;Geregistreerd;2022-01-24;2026-01-24;Foehrenstrasse 14;48531;Nordhorn;Duitsland
+000023450;GOO;Mama Inne;Geregistreerd;2022-01-25;2026-01-25;Elshoutlaan 7;2960;Sint-Job-in-'t Goor;België
+000023474;DGO;Beau-fort De Vosjes;Geregistreerd;2022-01-31;2026-01-31;Koning Leopoldlaan 134;3920;Lommel;België
+000023486;DGO;BébHibou 2;Geregistreerd;2022-02-01;2026-02-01;Lindestraat 105;3620;Veldwezelt;België
+000023498;BSO;Pistache Kidscorner;Geregistreerd;2022-01-27;2026-01-27;Willy Staeslei 83;2180;Ekeren (Antwerpen);België
+000023504;DGO;Stoomboot;Geregistreerd;2022-02-02;2026-02-02;Madrasstraat 58;2000;Antwerpen;België
+000023516;BSO;BKO Voeren;Geregistreerd;2022-01-31;2026-01-31;Hoeneveldje 5 blok M;3798;s Gravenvoeren;België
+000023528;DGO;Villa Vrolijk Lille;Geregistreerd;2022-01-27;2026-01-27;Jos Verlindenstraat 35;3910;Sint-Huibrechts-Lille (Pelt);België
+000023541;DGO;Wonderland;Geregistreerd;2022-02-07;2026-02-07;August van Putlei 93 bus 1;2150;Borsbeek;België
+000023553;DGO;Asilo Nido Il Sole;Geregistreerd;2022-02-08;2026-02-08;Piazzetta Simone Martini 4;50026;San Casciano Val di Pesa (FI);Italië
+000023565;BSO;'t Egeltje Zilverenhoek;Geregistreerd;2022-02-08;2026-02-08;Antwerpsesteenweg 146;2950;Kapellen;België
+000023577;DGO;Amedé;Geregistreerd;2022-02-09;2026-02-09;Heizijde 110;2300;Turnhout;België
+000023589;GOO;Adams, A.;Geregistreerd;2022-02-11;2026-02-11;Elsterweg 3;3770;Riemst;België
+000023590;DGO;De Toverboom;Geregistreerd;2022-02-14;2026-02-14;Hasseltsesteenweg 93;3720;Kortessem;België
+000023607;DGO;Kinderdagverblijf kikin bv;Geregistreerd;2022-02-15;2026-02-15;Groenstraat 18;9820;Bottelare (Merelbeke);België
+000023620;GOO;Fassin, A.;Geregistreerd;2022-02-23;2026-02-23;Rue Max Houben 3;4800;Lambermont;België
+000023644;GOO;Kinderopvang De Muizies;Geregistreerd;2022-03-08;2026-03-08;Rittenweg 18;3660;Opglabbeek;België
+000023656;GOO;Het Kinderbos;Geregistreerd;2022-03-09;2026-03-09;Bosstraat 270;3060;Bertem;België
+000023668;DGO;Tageseinrichtung für Kinder Lebensquelle;Geregistreerd;2022-03-16;2026-03-16;Schulstrasse 29;47559;Kranenburg;Duitsland
+000023681;DGO;Kath. Kindertagesstätte Pusteblume;Geregistreerd;2022-03-17;2026-03-17;Kornblumenweg 11;77656;Offenburg;Duitsland
+000023711;GOO;'t Zandkasteeltje;Geregistreerd;2022-03-25;2026-03-25;Zandstraat 116;9900;Eeklo;België
+000023723;DGO;Kath. Kindertageseinrichtung St. Josef;Geregistreerd;2022-03-28;2026-03-28;Bahnhofstrasse 34;46459;Rees-Haldern;Duitsland
+000023747;BSO;Villa Nella;Geregistreerd;2022-04-04;2026-04-04;Brouwerijstraat 26;9880;Aalter;België
+000023772;DGO;Minitoba;Geregistreerd;2022-04-12;2026-04-12;Manitobalaan 48;8200;Sint-Andries;België
+000023784;BSO;Villa Kakelbont Veldwezelt;Geregistreerd;2022-04-15;2026-04-15;Berenhofstraat 12;3620;Veldwezelt (Lanaken);België
+000023796;BSO;De Speelvogel Kik;Geregistreerd;2022-04-21;2026-04-21;Vriendschapsplein 2 bus 3;3940;Hechtel-Eksel;België
+000023802;GOO;Diel, L.;Geregistreerd;2022-04-28;2025-05-31;Annastrasse 8;52511;Geilenkirchen;Duitsland
+000023814;DGO;Bright Little Stars Nursery;Geregistreerd;2022-04-29;2026-04-29;13 Forrester Way;E15 1GL;Londen;Groot Brittannië
+000023826;GOO;Hijink, M.;Geregistreerd;2022-05-12;2026-05-12;Zum Kämpken 20;46399;Bocholt;Duitsland
+000023838;DGO;CVBA Kidsies - KDV Pinkelotje;Geregistreerd;2022-05-09;2026-05-09;Durmstraat 30;9030;Mariakerke;België
+000023851;DGO;Kath. Tageseinrichtung für Kinder St. Lambertus;Geregistreerd;2022-05-10;2026-05-10;Kranenburger Str. 29a;47533;Kleve;Duitsland
+000023863;GOO;Backasch, N.;Niet meer geregistreerd;2022-05-10;2023-12-13;Mühlenstege 8;47533;Kleve;Duitsland
+000023875;BSO;BKO Baarle-centrum;Geregistreerd;2022-05-13;2026-05-13;Molenbaan 1 bus 2;2387;Baarle-Hertog;België
+000023887;BSO;Kinderclub 't Bieke;Geregistreerd;2022-05-13;2026-05-13;Toemaathoek 1 bus1;2400;Mol;België
+000023899;DGO;Kindertageseinrichtung Pusteblume;Geregistreerd;2022-05-16;2026-05-16;An der Essseite 183 F;48599;Gronau;Duitsland
+000023905;BSO;Pelterkids Herent;Geregistreerd;2022-05-19;2026-05-19;Herent 122;3910;Neerpelt (Pelt);België
+000023917;GOO;Ansems, P.;Geregistreerd;2022-05-23;2026-05-23;Alphenseweg 15;2387;Baarle-Hertog;België
+000023929;GOO;Motscha, L.;Niet meer geregistreerd;2022-05-24;2022-09-30;Pfarrer-Wissing-Strasse 28;46397;Bocholt;Duitsland
+000023930;BSO;Pelterkids Neerpelt-Centrum;Geregistreerd;2022-05-20;2026-05-20;Jaak Tassetstraat 20 bus 1;3910;Neerpelt (Pelt);België
+000023942;DGO;Busy Bees Day Nursery at Salford;Geregistreerd;2022-05-28;2026-05-28;Statham Street;M6 6PU;Salford;Groot Brittannië
+000023966;DGO;Kath. Kindertageseinrichtung St. Marien;Geregistreerd;2022-05-25;2026-05-25;Osnabrückerstrasse 339;48429;Rheine;Duitsland
+000023978;BSO;Pelterkids Grote Heide;Geregistreerd;2022-06-03;2026-06-03;Grote Heide 14;3910;Neerpelt (Pelt);België
+000024004;DGO;La Fée Clochette;Geregistreerd;2022-06-07;2026-06-07;Rue du Clocher 35;1040;Etterbeek;België
+000024028;BSO;Pelterkids Boseind;Geregistreerd;2022-06-09;2026-06-09;Haagdoornstraat 65;3910;Neerpelt (Pelt);België
+000024041;DGO;Bongo;Geregistreerd;2022-06-14;2026-06-14;Dorpsstraat 126;2940;Stabroek;België
+000024053;DGO;AWO-Kita Heinz-Trox- Strasse;Geregistreerd;2022-06-24;2026-06-24;Heinz-Trox-Strasse 22;46419;Isselburg;Duitsland
+000024065;DGO;Royal Kids Sarl;Geregistreerd;2022-06-28;2026-06-28;206 Route de Longwy;1940;Luxemburg;Luxemburg
+000024077;DGO;Clara's Hofke;Geregistreerd;2022-07-01;2026-07-01;Kloosterbaan 3;2370;Arendonk;België
+000024089;GOO;De tovertuin natuurlijk;Geregistreerd;2022-06-28;2026-06-28;Kleinvenstraat 2;3640;Kinrooi;België
+000024090;GOO;Van Eyck, E.;Geregistreerd;2022-07-01;2026-07-01;Watertorenstraat 22;3930;Hamont-Achel;België
+000024119;DGO;De Toverschommel;Geregistreerd;2022-07-11;2026-07-11;Otterstraat 29 bus 1;2300;Turnhout;België
+000024132;GOO;Verbeeck, B.;Geregistreerd;2022-07-19;2026-07-19;Zandstraat 35;2470;Retie;België
+000024144;DGO;De Wondere Wereld;Geregistreerd;2022-07-12;2026-07-12;August Dierckxlaan 55;2970;Schilde;België
+000024156;BSO;Gabbers en Co Koninginnepad;Geregistreerd;2022-07-18;2026-07-18;Koninginnepad 6;2300;Turnhout;België
+000024168;DGO;Tageseinrichtung für Kinder Villa Luna;Geregistreerd;2022-07-18;2026-07-18;Weisshausstrasse 2;52066;Aachen;Duitsland
+000024181;BSO;Pelterkids Overpelt-Centrum;Geregistreerd;2022-07-19;2026-07-19;Ravotterkespad 1;3900;Overpelt (Pelt);België
+000024193;GOO;Queffeulou, E.;Niet meer geregistreerd;2022-07-20;2024-12-03;7 Place de L'Eglise;22140;Tonquédec;Frankrijk
+000024211;DGO;Städt. Tageseinrichtung für Kinder;Geregistreerd;2022-07-25;2026-07-25;Am Höfling 10;52066;Aachen;Duitsland
+000024223;BSO; 't Huis;Geregistreerd;2022-07-28;2026-07-28;Dorpsstraat 22 A-B;3630;Vucht (Maasmechelen);België
+000024247;DGO;'t Debberke 1;Geregistreerd;2022-08-04;2026-08-04;Boudewijnlaan 148;3630;Mechelen-Aan-De-Maas;België
+000024259;BSO;Kinderclub Pardoes;Geregistreerd;2022-08-08;2026-08-08;Sluis 159;2400;Mol;België
+000024260;BSO;Kinderclub Windekind;Geregistreerd;2022-08-08;2026-08-08;Achterbos 27;2400;Mol;België
+000024272;DGO;Kinderdagverblijf Piccolini;Geregistreerd;2022-08-16;2026-08-16;Herseltsesteenweg 269;3200;Aarschot;België
+000024284;BSO;Gabbers en Co Fabriekstraat;Geregistreerd;2022-08-16;2026-08-16;Fabriekstraat 14;2300;Turnhout;België
+000024296;DGO;Rheia Hasselt;Geregistreerd;2022-08-17;2026-08-17;Canadastraat 9;3500;Hasselt;België
+000024302;DGO;Didadoe;Geregistreerd;2022-08-18;2026-08-18;Boelenstraat 22;3900;Overpelt;België
+000024314;BSO;BKO De Rakkertjes;Geregistreerd;2022-08-20;2026-08-20;Kleine Molenweg 23;2940;Stabroek;België
+000024326;GOO;Hülss, S.;Niet meer geregistreerd;2022-08-19;2023-12-17;Bree 26;48691;Vreden;Duitsland
+000024338;DGO;Kindertageseinrichtung Menzingerstrasse;Geregistreerd;2022-08-22;2026-08-22;Menzingerstrasse 13;80638;München;Duitsland
+000024351;BSO;BKO Zoersel;Geregistreerd;2022-08-23;2026-08-23;Achterstraat 20;2980;Zoersel;België
+000024363;BSO;Pelterkids Haspershoven;Geregistreerd;2022-08-31;2026-08-31;Leopoldlaan 45;3900;Overpelt (Pelt);België
+000024375;GOO;Beunen-Raaijmakers;Geregistreerd;2022-09-02;2026-09-02;Alte Versteigerung 12;47638;Straelen;Duitsland
+000024387;DGO;Bethanien Familienzentrum Inklusive Kindertagesstätte Kaiserpark;Geregistreerd;2022-08-30;2026-08-30;Gangesallee 1;41366;Schwalmtal;Duitsland
+000024405;DGO;Kita Rappelkiste;Geregistreerd;2022-09-06;2026-09-06;Fabrikstrasse 3;48599;Gronau;Duitsland
+000024417;GOO;Scheer, W.;Niet meer geregistreerd;2022-09-09;2024-12-31;Hermann-Löns-Str.3 a;41372;Niederkrüchten;Duitsland
+000024430;DGO;Kindertagesstätte am Heideweg;Geregistreerd;2022-09-14;2026-09-14;Heideweg 10;48529;Nordhorn;Duitsland
+000024442;DGO;Achter de maan Berchem 2;Geregistreerd;2022-09-15;2026-09-15;Frans Beckersstraat 25;2600;Berchem;België
+000024454;GOO;Jochems, S.;Geregistreerd;2022-09-15;2026-09-15;Dalweg 3;2328;Meerle;België
+000024478;GOO;Spaas, I.;Geregistreerd;2022-09-19;2026-09-19;Luikersteenweg 683;3501;Wimmertingen;België
+000024491;DGO;Het Aardsbijtje;Geregistreerd;2022-09-20;2026-09-20;Broekstraat 21;2440;Geel;België
+000024508;BSO;De Kast-Trollekes;Geregistreerd;2022-09-20;2026-09-20;Kapelstraat 3;2460;Kasterlee;België
+000024521;DGO;Under The Rainbow / Feketerigó Alapitvány Családi Bölcsöde Hálózat;Geregistreerd;2022-09-23;2026-09-23;Feketerigó u. 26;1029;Boedapest;Hongarije
+000024545;DGO;Dol-Fijn Arendonk;Geregistreerd;2022-09-28;2026-09-28;Hazegewoud 12;2370;Arendonk;België
+000024569;DGO;Kinderdagverblijf Spijker;Geregistreerd;2022-09-29;2026-09-29;Gelmelstraat 58;2320;Hoogstraten;België
+000024570;DGO;Partena Kinderopvang - Tovereik;Geregistreerd;2022-09-28;2026-09-28;Jezus Eiklaan 37;3080;Tervuren;België
+000024582;DGO;zkdv 't bijenkorfje 2;Geregistreerd;2022-09-21;2026-09-21;Vaartstraat 14;2330;Merksplas;België
+000024612;DGO;Outlaw Kita Steintorfeldmark;Geregistreerd;2022-10-05;2026-10-05;Steintorfeldmark 99;48565;Steinfurt;Duitsland
+000024624;DGO;Dol-Fijn;Geregistreerd;2022-10-10;2026-10-10;Tijl-en-Nelestraat 71;2300;Turnhout;België
+000024636;GOO;Mannarino, S.;Geregistreerd;2022-10-11;2026-08-08;Fuchsweg 4;47652;Weeze;Duitsland
+000024661;GOO;List, P.;Geregistreerd;2022-09-01;2026-09-01;Grasriete 97;49824;Emlichheim;Duitsland
+000024673;DGO;Droomhuis;Geregistreerd;2022-10-20;2026-10-20;Bogaardestraat 171;9990;Maldegem;België
+000024697;GOO;Moermans, M.;Geregistreerd;2022-10-20;2026-10-20;Boyen 9;3650;Stokkem;België
+000024715;DGO;De Kleine Kameleon;Geregistreerd;2022-10-24;2026-10-24;Heikampstraat 35;3630;Maasmechelen;België
+000024727;DGO;Kath. Kindergarten St. Helena;Geregistreerd;2022-10-28;2026-10-28;Barloer Ringstrasse 68;46399;Bocholt;Duitsland
+000024739;BSO;Pelterkids Holheide;Geregistreerd;2022-10-25;2026-10-25;Holvenstraat 82;3900;Overpelt (Pelt);België
+000024740;BSO;Pelterkids Lindelhoeven;Geregistreerd;2022-10-25;2026-10-25;Parkstraat 19;3900;Overpelt (Pelt);België
+000024752;DGO;Le Jardin d 'Eden Europa;Geregistreerd;2022-10-31;2026-10-31;Tweekerkenstraat 18-20 bus 0;1000;Brussel;België
+000024776;DGO;Villa Vrolijk Kaulille;Geregistreerd;2022-11-03;2026-11-03;Kaulillerdorp 78;3950;Kaulille;België
+000024788;BSO;Domino Munsterbilzen;Geregistreerd;2022-11-03;2026-11-03;Waterstraat 4;3740;Munsterbilzen (Bilzen);België
+000024818;DGO;Het Toverbos;Geregistreerd;2022-11-10;2026-11-10;Heikant 39;2370;Arendonk;België
+000024831;DGO;AWO-Kindertagesstätte;Geregistreerd;2022-11-09;2026-11-09;Wankumer Str. 8;47669;Wachtendonk;Duitsland
+000024843;DGO;Brabbel;Geregistreerd;2022-11-15;2026-11-15;Regentstraat 9;2060;Antwerpen;België
+000024855;DGO;De Kinderkopjes;Geregistreerd;2022-11-16;2026-11-16;Leegstraat 17 c;9960;Assenede;België
+000024879;DGO;Baby Louise;Geregistreerd;2022-11-18;2026-11-18;Louizalaan 119;1000;Brussel;België
+000024892;DGO;Zwilly-Zwolly;Geregistreerd;2022-11-23;2026-11-23;Kampweg 142 bus A;2990;Wuustwezel;België
+000024909;GOO;Navarro, N.;Geregistreerd;2022-11-18;2028-04-24;171 Chemin des Faisses;34480;Puissalicon;Frankrijk
+000024910;GOO;Vandenberg, A.-S.;Geregistreerd;2022-11-25;2026-11-25;Elsaute 23;4890;Thimister;België
+000024922;DGO;Het Paddenstoeltje bvba;Geregistreerd;2022-11-28;2026-11-28;Brugstraat 6;3970;Leopoldsburg;België
+000024946;GOO;Tijink, I.;Niet meer geregistreerd;2023-01-01;2023-09-01;Mersch 20;48455;Bad Bentheim;Duitsland
+000024958;DGO;Villa Vrolijk Neerpelt;Geregistreerd;2022-11-29;2026-11-29;Haagdoornstraat 66;3910;Neerpelt (Pelt);België
+000024971;GOO;Wiggins, C.;Geregistreerd;2022-12-01;2026-12-01;15 Demontfort Rise;SG12 ODQ;Ware, Hertfordshire;Groot Brittannië
+000024983;DGO;Atlantis;Geregistreerd;2022-12-15;2026-12-15;Hanendreef 16 bus A;2930;Brasschaat;België
+000024995;DGO;Kinderdagverblijf Eigenwijs;Geregistreerd;2022-12-15;2026-12-15;Fortbaan 79;2900;Schoten;België
+000025008;DGO;Private Kindergarten -  Hopscotch;Geregistreerd;2022-12-12;2026-12-12;Agias Triados 93;19400;Koropi;Griekenland
+000025021;BSO;Kinderparadijs-Centrum;Geregistreerd;2022-12-14;2026-12-14;Mulkerstraat 1;3700;Tongeren;België
+000025033;BSO;Kinderopvang 't Ittertuintje;Geregistreerd;2022-12-15;2026-12-15;Opitterkiezel 240;3960;Bree;België
+000025045;DGO;Calimera;Geregistreerd;2022-12-19;2026-12-19;Sint-Bernardsesteenweg 460 bus A;2660;Hoboken;België
+000025057;DGO;Babytown;Geregistreerd;2022-12-16;2026-12-16;Tereken 138;9100;Sint-Niklaas;België
+000025069;DGO;Kinderdagverblijf Baloe;Geregistreerd;2022-12-21;2026-12-21;Breestraat 173;9200;Dendermonde;België
+000025070;DGO;Kath. Kindergartens Don Bosco;Geregistreerd;2022-12-21;2026-12-21;Liemarstrasse 22;48691;Vreden;Duitsland
+000025082;DGO;TotUP;Geregistreerd;2022-12-27;2026-12-27;Avenue des Morgines 12;1213;Petit-Lancy;Zwitserland
+000025094;DGO;Kindertagesstätte Sterntaler;Geregistreerd;2022-12-30;2026-12-30;Mühlenstrasse 50;47574;Goch;Duitsland
+000025100;DGO;KDV De Vlindertjes;Geregistreerd;2023-01-05;2027-01-05;Kolonel Bourgstraat 123;1140;Evere;België
+000025136;DGO;Kinderopvang 't Nestje;Geregistreerd;2023-01-11;2027-01-11;Baleman 14;2450;Meerhout;België
+000025148;DGO;Babypaleis;Geregistreerd;2023-01-13;2027-01-13;Turnhoutsebaan 33;2460;Kasterlee;België
+000025173;GOO;Matenaers, L.;Geregistreerd;2023-01-18;2026-08-24;Königstrasse 2;47574;Goch;Duitsland
+000025197;BSO;BKO-Meersel-Dreef;Geregistreerd;2023-01-19;2027-01-19;Kapelweg 2;2328;Meerle (Hoogstraten);België
+000025203;GOO;Verjans, M.;Geregistreerd;2023-01-30;2027-01-30;Heiligestraat 17;3770;Herderen;België
+000025215;DGO;Kinder in Wien;Geregistreerd;2023-02-02;2027-02-02;Elisabethallee 97;1130;Wenen;Oostenrijk
+000025227;DGO;Biebelebontseberg;Geregistreerd;2023-02-01;2027-02-01;Kortrijkstraat 7-9;8580;Avelgem;België
+000025240;DGO;Kay International Pre-School UG;Geregistreerd;2023-02-06;2027-02-06;Königsplatz 5;53173;Bonn;Duitsland
+000025252;DGO;KDV Wiebel;Geregistreerd;2023-02-08;2027-02-08;Drapstraat 49 bus A;9220;Hamme;België
+000025264;GOO;Jespers, W.;Geregistreerd;2023-02-08;2027-02-08;Heimeulenstraat 9;2328;Meerle;België
+000025276;DGO;Bambini;Geregistreerd;2023-02-07;2027-02-07;Hendrik van Zellestraat 14;2360;Oud-Turnhout;België
+000025306;DGO;Tageseinrichtung für Kinder Kinderreich Gangelt;Geregistreerd;2023-02-14;2027-02-14;Im Hatskestal 15;52538;Gangelt;Duitsland
+000025318;DGO;Lutgardis;Geregistreerd;2023-02-20;2027-02-20;Emile de Becolaan 59;1050;Elsene;België
+000025331;GOO;Joosten, K.;Geregistreerd;2023-02-20;2027-02-20;Kaulillerweg 100;3950;Bocholt;België
+000025343;GOO;Bayer, C.;Geregistreerd;2023-02-21;2025-08-31;Stefanstrasse 11;52223;Stolberg;Duitsland
+000025355;DGO;Awo Kita Lütticher Strasse;Geregistreerd;2023-02-24;2027-02-24;Lütticherstrasse 30;52511;Geilenkrichen;Duitsland
+000025367;DGO;ESCOLA CASA DA FLORESTA;Geregistreerd;2023-02-28;2027-02-28;Sitio do Barcal, N° 9;1500-154;Lissabon;Portugal
+000025379;BSO;De Mereltjes Hasseltsesteenweg;Geregistreerd;2023-02-24;2027-02-24;Hasseltsesteenweg 16;3700;Tongeren;België
+000025380;DGO;Aruküla vaba Waldorfkool;Geregistreerd;2023-02-27;2027-02-27;Tallinn mnt 38;75201;Aruküla;Estland
+000025392;GOO;Brinkmans, K.;Geregistreerd;2023-02-21;2027-02-21;Weerterweg 54A;3950;Bocholt;België
+000025409;DGO;Tageseinrichtung für Kinder Klatschmohn;Geregistreerd;2023-02-28;2027-02-28;Helleter Feldchen 75-77;52146;Würselen;Duitsland
+000025410;GOO;Vandois Di Luisa, R.;Niet meer geregistreerd;2023-03-07;2023-10-24;7  Rue Edith Duhamel;6230;Villefranche sur Mer;Frankrijk
+000025422;DGO;Zonnetje Eksel - Kerkstraat;Geregistreerd;2023-03-14;2027-03-14;Kerkstraat 6 bus 8;3941;Eksel ( Hechtel-Eksel);België
+000025446;DGO;Asilo Infantile Regina Margherita;Geregistreerd;2023-03-17;2027-03-17;Via dei Baroni 8;51100;Pistoia;Italië
+000025458;DGO;DRK-Kindertagesstätte Abenteuerland;Geregistreerd;2023-03-20;2027-03-20;Florianstrasse 1;41372;Niederkrüchten;Duitsland
+000025501;DGO;Goed Gemutst VZW;Geregistreerd;2023-03-23;2027-03-23;Paesteblookstraat 7;3600;Genk;België
+000025525;DGO;Kath. Tageseinrichtung für Kinder St. Lambertus;Geregistreerd;2023-03-27;2027-03-27;Pfarrer-Erbel-Weg 2;52525;Waldfeucht;Duitsland
+000025537;GOO;Lecoque, B.;Geregistreerd;2023-03-29;2027-03-29;Sint Odilialaan 41;3930;Hamont-Achel;België
+000025549;DGO;Tageseinrichtung für Kinder Elmpt;Geregistreerd;2023-04-04;2027-04-04;Overhetfelder Strasse  23;41372;Niederkrüchten;Duitsland
+000025550;GOO;Plasschaert, N.;Geregistreerd;2023-04-05;2027-04-05;Stationsstraat 62;9990;Maldegem;België
+000025562;BSO;BKO-Meerle;Geregistreerd;2023-04-18;2027-04-18;Gemeenteplein 3;2328;Meerle (Hoogstraten);België
+000025574;DGO;Elterninitiative Kindergarten Purzelbaum;Geregistreerd;2023-05-01;2027-05-01;Rathenaustrasse  17;47533;Kleve;Duitsland
+000025604;BSO;Pardoes;Geregistreerd;2023-04-27;2027-04-27;Halmstraat 3;3600;Genk;België
+000025628;DGO;Kath. Tageseinrichtung für Kinder St. Lambertus;Geregistreerd;2023-05-10;2027-05-10;Wurmaue 9;52525;Heinsberg;Duitsland
+000025653;DGO;Het Mierennestje;Geregistreerd;2023-05-16;2027-05-16;Acacialaan 18;2920;Kalmthout;België
+000025665;DGO;Le centre de la petite enfance - Site Wali Clovis;Geregistreerd;2023-05-16;2027-05-16;Boulevard Clovis 75-79;1000;Brussel;België
+000025689;BSO;Kinderdorp Zelem;Geregistreerd;2023-06-01;2027-06-01;Kruisstraat 35;3545;Zelem (Halen);België
+000025690;GOO;Haase, A.;Geregistreerd;2023-06-05;2028-01-27;Buchenweg 4a;48455;Bad Bentheim;Duitsland
+000025707;GOO;Hermes, M.;Geregistreerd;2023-06-05;2027-06-05;Flaarweg 1;26899;Rhede;Duitsland
+000025720;DGO;Vaikystes Sodas;Geregistreerd;2023-06-07;2027-06-07;Luksines G. 29;11332;Vilnius;Litouwen
+000025756;DGO;Kinderspel Lommel;Geregistreerd;2023-06-12;2027-06-12;Eltenbos 70;3920;Lommel;België
+000025768;DGO;De Toverschommel Hoogstraten;Geregistreerd;2023-06-15;2027-06-15;Vrijheid 144;2320;Hoogstraten;België
+000025781;GOO;Rossel-Bertels, A.;Geregistreerd;2023-06-20;2028-01-03;Ernst-Buermeyer-Str. 43;48455;Bad Bentheim-Gildehaus;Duitsland
+000025793;DGO;Tageseinrichtung für Kinder Rosengarten;Geregistreerd;2023-06-22;2027-06-22;Schulstrasse 1;41849;Wassenberg;Duitsland
+000025811;GOO;Van der Voorden, N.;Geregistreerd;2023-06-22;2027-06-22;Groot Eyssel 15;2328;Meerle;België
+000025835;DGO;Het Venneke 2;Geregistreerd;2023-06-26;2027-06-26;Groenelaan 44;2970;Schilde;België
+000025860;DGO;Bio Nido The Lounge;Geregistreerd;2023-07-07;2025-09-30;Corso Elvezia 27;6900;Lugano;Zwitserland
+000025872;DGO;'t Toreke;Geregistreerd;2023-07-13;2027-07-13;Fabrystraat 44;1200;Sint-Lambrechts-Woluwe;België
+000025884;DGO;Baby-Oase;Geregistreerd;2023-07-11;2027-07-11;Hörlgasse 9/7;1090;Wenen;Oostenrijk
+000025902;GOO;Woortmann, N.;Geregistreerd;2023-07-14;2025-08-31;Nord-Süd-Strasse 5;26892;Dörpen;Duitsland
+000025914;DGO;Goed Gemutst VZW;Geregistreerd;2023-07-19;2027-07-19;Windeken 6;3600;Genk;België
+000025926;DGO;Tageseinrichtung für Kinder Villa Luna gGmbH;Geregistreerd;2023-07-23;2027-07-23;Luise-Rainer-Strasse 12;40235;Düsseldorf;Duitsland
+000025938;GOO;Hermans, C.;Geregistreerd;2023-07-28;2027-07-28;Bolderstraat 46;3770;Riemst;België
+000025951;BSO;De Piraat Kleuters;Geregistreerd;2023-07-28;2027-07-28;Kloosterwal 11;3740;Bilzen;België
+000025963;GOO;Weckauf, D;Geregistreerd;2023-08-01;2025-03-12;Schillerstrasse 1;52224;Stolberg;Duitsland
+000025999;DGO;De Vlinderkes;Geregistreerd;2023-08-09;2027-08-09;Korspelsesteenweg 161 bus 3;3581;Beverlo (Beringen);België
+000026001;DGO;Le Jardin D'Eden;Geregistreerd;2023-08-11;2027-08-11;Winston Churchillaan 157;1180;Ukkel;België
+000026025;GOO;Martens, S.;Geregistreerd;2023-08-17;2028-02-12;Franz-Schneider-Strasse 11A;47574;Goch;Duitsland
+000026037;DGO;De Kleine Maya's;Geregistreerd;2023-08-18;2027-08-18;Melkerijstraat 57;9185;Wachtebeke;België
+000026049;DGO;Biebabeloe;Geregistreerd;2023-08-18;2027-08-18;Peerderbaan 77;3910;Sint-Huibrechts-Lille;België
+000026050;DGO;Baby-P;Geregistreerd;2023-08-25;2027-08-25;Weg Naar As 17 bus 16;3600;Genk;België
+000026062;DGO;Karbonkeltje;Geregistreerd;2023-08-25;2027-08-25;Maesensveld 3;3900;Overpelt;België
+000026074;GOO;Hermans, A.-M.;Geregistreerd;2023-08-28;2027-08-28;Nachtegalenlei 54;2900;Schoten;België
+000026086;DGO;ABB Kinderkrippe Chinderhuus;Geregistreerd;2023-08-30;2027-04-29;Wiesenstrasse 30;5400;Baden;Zwitserland
+000026104;DGO;Kita St. Konrad;Geregistreerd;2023-09-09;2027-09-09;An der konradkirche 3;48155;Münster;Duitsland
+000026116;GOO;Kasrioui, M.;Geregistreerd;2023-09-07;2027-09-07;Essen-Oldenburgstraat 9;2910;Essen;België
+000026128;DGO;'t Knuffeltje;Geregistreerd;2023-09-10;2027-09-10;Kouterstraat 4;9170;Sint-Gillis-Waas;België
+000026141;DGO;Kindervilla Killesberg Park Preschool & Kindergarten;Geregistreerd;2023-09-11;2027-09-11;Maybachstrasse 18;70469;Stuttgart;Duitsland
+000026153;GOO;Ristic Milic, M.;Geregistreerd;2023-09-13;2027-09-13;Britof 117;4000;Kranj;Slovenië
+000026165;DGO;Kindergarten Abenteuerland;Geregistreerd;2023-09-25;2027-09-25;Antoniusstrasse 4;49744;Geeste;Duitsland
+000026177;GOO;Werdmann, V.;Geregistreerd;2023-09-25;2027-09-25;Am Markt 4;26896;Heede;Duitsland
+000026189;DGO;De Toverschommel;Geregistreerd;2023-09-27;2027-09-27;Pastoor De Katerstraat 1A bus 0-1;2387;Baarle-Hertog;België
+000026190;GOO;Kustermans, S.;Geregistreerd;2023-09-28;2027-09-28;den Uil 12;2910;Essen;België
+000026207;GOO;Janiszewski, K.;Niet meer geregistreerd;2023-09-27;2024-06-24;Ahornweg 29;47624;Kevelaer;Duitsland
+000026220;DGO;Kindergarten Kleiner Leuchtturm;Geregistreerd;2023-09-28;2027-09-28;Dorfstrasse 17;49824;Emlichheim;Duitsland
+000026232;DGO;Konijn Rute;Geregistreerd;2023-09-28;2027-09-28;Opstalpad 2;9050;Gentbrugge;België
+000026268;DGO;Koekeloere;Geregistreerd;2023-10-04;2027-10-04;Boudewijnssteeg 10;2018;Antwerpen;België
+000026281;DGO;Kinderhaus e.V.;Geregistreerd;2023-10-05;2027-07-31;Kirchplatz St. Josef 2;46395;Bocholt;Duitsland
+000026323;DGO;Atelier Montessori;Geregistreerd;2023-10-11;2027-10-11;Rua Dom Luis de Noronha 9c;1050-043;Lissabon;Portugal
+000026335;DGO;Ev.-luth. Johannes Kindergarten;Geregistreerd;2023-10-13;2027-10-13;Prinzenstrasse 15;49828;Neuenhaus;Duitsland
+000026359;DGO;Bright Horizons Clapham Day Nursery and Preschool;Geregistreerd;2023-10-14;2027-10-14;4-14 Bromells Road;SW4 0BG;Londen;Groot Brittannië
+000026360;DGO;De Kleine Ontdekker;Geregistreerd;2023-10-18;2027-10-18;Baron A. de Heuschstraat 57;3721;Vliermaalroot;België
+000026384;DGO;N Family Club Woodchurch Road;Geregistreerd;2023-10-20;2027-10-20;13 Woodchurch Road;NW6 3PL;Londen;Groot Brittannië
+000026396;BSO;Kinderclub De Spetter;Geregistreerd;2023-10-25;2027-10-25;Pastorijstraat 7;2330;Merksplas;België
+000026426;DGO;Crèche Scoubidou;Geregistreerd;2023-11-02;2027-11-02;Chemin des Colombettes 5;1202;Geneve;Zwitserland
+000026463;DGO;AWO-Kindertagesstätte Nottbäumchen;Geregistreerd;2023-11-05;2027-11-05;Lüttelforsterweg 40;41366;Schwalmtal;Duitsland
+000026475;DGO;Crèche Collective Municipale - Moussy;Geregistreerd;2023-11-08;2027-11-08;2-6 Rue de Moussy;75004;Paris;Frankrijk
+000026499;DGO;Kindertagesstätte KinderReich Lobberich;Geregistreerd;2023-11-09;2027-11-09;Ingenhovenweg 19 a;41334;Nettetal;Duitsland
+000026505;DGO;'t Bremhuisje;Geregistreerd;2023-11-09;2027-11-09;Bremlaan 37;8300;Knokke;België
+000026517;DGO;Hummelkeshof;Geregistreerd;2023-11-14;2027-11-14;Geistingen 42;3640;Kinrooi;België
+000026529;DGO;Kath. Tageseinrichtung für Kinder St. Peter;Geregistreerd;2023-11-19;2027-11-19;Talstrasse 65;40217;Düsseldorf;Duitsland
+000026530;DGO;'t Kroontje;Geregistreerd;2023-11-15;2027-11-15;Schutterstraat 29 bus A;2370;Arendonk;België
+000026542;DGO;Kinderrijk;Geregistreerd;2023-11-20;2027-11-20;Groenveldstraat 38;3001;Heverlee;België
+000026554;DGO;Kath. Tageseinrichtung für Kinder St. Lambertus;Geregistreerd;2023-11-21;2027-11-21;Johann-Finken-Strasse 6;41334;Nettetal;Duitsland
+000026578;DGO;Toverland;Geregistreerd;2023-12-01;2027-12-01;Sint Aldegondisstraat 9;3740;Kleine-Spouwen;België
+000026608;DGO;La Flûte Enchantée;Geregistreerd;2023-11-30;2027-11-30;Avenue D'Auderghem 230;1040;Etterbeek;België
+000026633;DGO;De Moerheide;Geregistreerd;2023-12-06;2027-12-06;Hospicestraat 15;9180;Moerbeke-Waas;België
+000026645;GOO;Bardi, C.;Geregistreerd;2023-12-08;2027-12-08;5 Rue Des Jardins;34460;Cessenon Sur Orb;Frankrijk
+000026669;BSO;'t Alvermanneke;Geregistreerd;2023-12-09;2027-12-09;Dijkbeemdenweg 18;3520;Zonhoven;België
+000026694;DGO;De Mereltjes;Geregistreerd;2023-12-28;2027-12-28;Hasseltsesteenweg 16;3700;Tongeren;België
+000026712;DGO;Kindervreugd;Geregistreerd;2024-01-09;2028-01-09;Dorp 45;9185;Wachtebeke;België
+000026748;DGO;Daisy Fays;Geregistreerd;2024-01-11;2028-01-11;Carnon Downs;TR3 6JG;Truro, Cornwall;Groot Brittannië
+000026773;GOO;Symphorien, A.;Geregistreerd;2024-01-15;2027-11-23;51 Peludon;32140;Masseube;Frankrijk
+000026785;BSO;Kinderclub ' T Krekeltje;Geregistreerd;2024-01-16;2028-01-16;Don Boscostraat 37A;2400;Mol;België
+000026797;GOO;Amlal, L.;Geregistreerd;2024-01-17;2028-01-17;Diestersteenweg  465 bus A;3680;Maaseik;België
+000026803;BSO;Kadee Gruitrode;Geregistreerd;2024-01-18;2028-01-18;Breekiezel 27;3670;Gruitrode (Oudsbergen);België
+000026815;GOO;Navila, N.;Geregistreerd;2024-01-23;2028-01-23;Schaapsdijk 2;3900;Overpelt (Pelt);België
+000026827;DGO;Anneloesje Kinderopvang;Geregistreerd;2024-01-30;2028-01-30;Huffelplein 10;2990;Loenhout;België
+000026840;DGO;KidsEnZo;Geregistreerd;2024-01-29;2028-01-29;Grotlaan 54;3680;Neeroeteren;België
+000026876;GOO;Groenen, W.;Geregistreerd;2024-02-04;2028-02-04;Koeketerstraat 16;3920;Lommel;België
+000026888;GOO;Hetjens, H.;Geregistreerd;2024-02-07;2027-02-28;Grafscherweg 59;47652;Weeze;Duitsland
+000026918;DGO;Kath. Tageseinrichtung für Kinder St. Vincentius;Geregistreerd;2024-02-07;2028-02-07;Knobbenhof 30;47574;Goch;Duitsland
+000026931;DGO;Kath. KiGa St. Johannes;Geregistreerd;2024-02-05;2028-02-05;Maximilianstrasse 5;49733;Haren-Rütenbrock;Duitsland
+000026943;DGO;Städt. Kindertagesstätte Löwenzahn;Geregistreerd;2024-02-13;2028-02-13;Hof Zum Ahaus 22;48683;Ahaus;Duitsland
+000026955;DGO;Familienzentrum Lindenbaum e.V.;Geregistreerd;2024-02-14;2028-02-14;Hochstrasse 28;52538;Gangelt;Duitsland
+000026979;DGO;KDV Munsterbilzen Ferm Bruno;Geregistreerd;2024-02-21;2028-02-21;Kruisbosstraat 16;3740;Munsterbilzen;België
+000026980;GOO;Atauil, Y.;Geregistreerd;2024-02-23;2028-02-23;Konijnenstraat 32 bus 1;1930;Zaventem;België
+000026992;DGO;De Sijsjes;Geregistreerd;2024-02-16;2028-02-16;Pastorijstraat 30;3530;Houthalen-Helchteren;België
+000027029;GOO;Hanenkamp, D.;Geregistreerd;2024-03-07;2028-01-17;Hohenkörbender Weg 29;48527;Nordhorn;Duitsland
+000027030;DGO;Kath. Kindertageseinrichtung St. Ludger;Geregistreerd;2024-03-11;2028-12-20;Aloysianastrasse 24;46399;Bocholt-Holtwick;Duitsland
+000246803;DGO;Dapper maantje Rijkevorsel;Geregistreerd;2024-11-22;2028-11-22;Middelstede 56;2310;Rijkevorsel;België
+000422289;DGO;CJD Kita Gronau;Geregistreerd;2024-06-26;2028-06-26;Beckerhookstrasse 84;48599;Gronau;Duitsland
+001331723;DGO;Ev. Kindergarten Arche Noah;Geregistreerd;2024-06-12;2028-06-12;Moltkestrasse 25;48599;Gronau;Duitsland
+001936992;DGO;Stiftung GFZ Kita 4;Geregistreerd;2024-04-02;2028-04-02;Pflanzschulstrasse  30;8004;Zurich;Zwitserland
+002952002;DGO;Bornebyen Vandvaerket;Geregistreerd;2024-08-15;2028-08-15;Studiestraede 54;1554;Kopenhagen;Denemarken
+002977898;DGO;Doremi;Geregistreerd;2025-01-03;2029-01-03;Meerlaarstraat 214;2430;Laakdal (Vorst);België
+004056905;BSO;De Speelplaneet;Geregistreerd;2024-05-08;2028-05-08;Netestraat 36;2480;Dessel;België
+006369789;DGO;Kieke-Boe & Co;Geregistreerd;2024-10-18;2028-10-18;Koolmijnlaan 5.1;3530;Houthalen;België
+006999268;DGO;Kath. Tageseinrichtung  für Kinder St. Martin;Geregistreerd;2024-06-10;2028-06-10;Kirchstrasse 17;47608;Geldern;Duitsland
+007198541;GOO;Eilers, J.;Geregistreerd;2024-10-24;2027-06-30;Kolpingstrasse 13;49751;Sögel;Duitsland
+007623069;DGO;Troetelland Mol;Geregistreerd;2024-04-18;2028-04-18;Europawijk 100;2400;Mol;België
+008489178;DGO;Kinderdagverblijf  't Wiekernestje;Geregistreerd;2024-06-19;2028-06-19;Sint-Jacobstraat 8;3960;Bree;België
+008640233;DGO;KDV Dol-Fijn Geel;Geregistreerd;2024-07-14;2028-07-14;Technische Schoolstraat 12;2440;GEEL;België
+009393043;DGO;Duimelot;Geregistreerd;2024-05-17;2028-05-17;Marktplein 14;3910;Pelt;België
+009413406;DGO;Totso;Geregistreerd;2024-10-12;2028-10-12;Luikersteenweg 234;3920;Lommel;België
+011269248;GOO;De Jagher, N.;Geregistreerd;2024-10-02;2028-10-02;Tilburgseweg 135;2382;Poppel;België
+011673977;DGO;Alles Kids Kinderopvang;Geregistreerd;2024-03-19;2028-03-19;Kaulillerweg 69 bus 3;3910;Sint-Huibrechts-Lille;België
+014519082;DGO;Tageseinrichtung Für Kinder SOS-Kinderhaus;Geregistreerd;2024-06-06;2028-06-06;Kalkarer Strasse 10;47533;Kleve;Duitsland
+015865010;DGO;Zonnetje Maasmechelen;Geregistreerd;2024-10-30;2028-10-30;Eisdenweg 26;3630;Maasmechelen;België
+017366306;DGO;Happy Ones Brusselstraat;Geregistreerd;2024-05-28;2028-05-28;Brusselstraat 96;1702;Groot-Bijgaarden;België
+018560908;GOO;Janssen, P.;Geregistreerd;2024-06-20;2028-06-20;Bettemishoeve 5;3910;Neerpelt;België
+019323669;DGO;Ev. Integrative Kindertagesstätte;Geregistreerd;2024-07-09;2028-07-09;Niersstrasse 1 a;47574;Goch;Duitsland
+020717015;GOO;Joormann-Framke, M.;Niet meer geregistreerd;2024-04-19;2024-07-24;Uferstrasse 3;46399;Bocholt;Duitsland
+022694298;DGO;Joost-e-Fien;Geregistreerd;2024-06-23;2028-06-23;Braemtstraat 47;1210;Sint-Joost-ten-Node;België
+026021638;GOO;Van de Pol, E.;Geregistreerd;2024-08-09;2028-08-09;Nieuwstraat 18;2382;Poppel (Ravels);België
+026433539;DGO;Tageseinrichtung für Kinder Elternverein Schierwaldenrath;Geregistreerd;2024-07-13;2028-07-13;Palz 35;52538;Gangelt;Duitsland
+026445049;DGO;Städtische Tageseinrichtung für Kinder Mullewapp;Geregistreerd;2024-08-23;2028-08-23;Höfgenweg 22;41068;Mönchengladbach;Duitsland
+027311910;GOO;Ajanovic, J.;Geregistreerd;2024-08-28;2026-01-01;Viersener Strasse 40;41751;Viersen;Duitsland
+028049020;DGO;Biki;Geregistreerd;2024-03-14;2028-03-14;Baron de Celleslaan 14;2650;Edegem;België
+028272687;DGO;Kindertagesstätte Laerer Löwenzahn;Geregistreerd;2024-04-03;2028-04-03;Winkel 1;48366;Laer;Duitsland
+028533252;DGO;Vuggestue Lilletop;Geregistreerd;2024-09-22;2028-09-22;Gamle Carlsberg Vej 5;1799;Kopenhagen;Denemarken
+030052427;DGO;Kita Die Spürnasen;Geregistreerd;2024-10-31;2028-10-31;Berliner Strasse 58;49824;Emlichheim;Duitsland
+030112990;BSO;Ukke-Puk Basisschool 't Willerke;Geregistreerd;2024-09-05;2028-09-05;Langstraat 4;3740;Bilzen - Waltwilder;België
+030357809;DGO;Ninano;Geregistreerd;2024-07-01;2028-07-01;Brugstraat 106 bus GV;2960;Sint-Job-in 't Goor;België
+030463233;DGO;Babybulles;Geregistreerd;2024-08-27;2028-08-27;rue Saint Germain 166;4861;Soiron;België
+030714199;DGO;'t Vliegertje;Geregistreerd;2024-11-24;2028-11-24;Hoekstraat 50;3910;Neerpelt;België
+033273169;DGO;le jardin d'enfants;Geregistreerd;2024-12-28;2028-12-28;Schotlandstraat 10;1060;Sint-Gillis;België
+034013441;DGO;A.D. Wombat;Geregistreerd;2024-10-25;2028-10-25;Synaps Park 1920;3600;Genk;België
+037011157;GOO;Van den Brink, V;Geregistreerd;2024-06-05;2028-06-05;Hoofdstraat 3;3640;Molenbeersel;België
+039320017;DGO;Pistache Baby Corner;Geregistreerd;2024-06-05;2028-06-05;Lage Kaart 462 D;2930;Brasschaat;België
+039327619;DGO;De Kleine Held;Geregistreerd;2025-01-29;2029-01-29;Wagenstraat 2;3740;Bilzen;België
+039385620;DGO;Kinderkrippe Glückspilze;Geregistreerd;2024-09-17;2026-03-31;Tödistrasse 25;8810;Horgen;Zwitserland
+039420760;GOO;Bosniakowski, D.;Geregistreerd;2024-09-13;2028-12-18;May 22;41334;Nettetal;Duitsland
+040202914;GOO;Toedeloe;Geregistreerd;2025-01-14;2029-01-14;Pelgrimlaan 5;3511;Kuringen (Hasselt);België
+040753876;DGO;Knuffelboom;Geregistreerd;2024-07-17;2028-07-17;Corneel Heymanslaan 10;9000;GENT;België
+041288269;DGO;Kindertagesstätte JONA;Geregistreerd;2024-04-12;2028-04-12;Auf der Gaste 26;26826;Weener;Duitsland
+041651911;DGO;Neuze Neuze;Geregistreerd;2024-10-02;2028-10-02;Antwerpsebaan 150;2040;Antwerpen;België
+041769727;GOO;Vandenberk, N.;Geregistreerd;2024-09-17;2028-09-17;Mudakkers 94;3920;Lommel;België
+042222990;DGO;Krysalis;Geregistreerd;2024-09-02;2028-09-02;111 Rue de Bruxelles;67000;Strasbourg;Frankrijk
+042650057;GOO;Randow, S.;Geregistreerd;2024-06-18;2028-06-18;Wilhelmstrasse 19;48455;Bad Bentheim;Duitsland
+043375492;GOO;Erlingen, C.;Geregistreerd;2025-01-17;2029-01-17;Oude Baan 57;3680;Maaseik;België
+044777681;GOO;Eckelt, B.;Geregistreerd;2024-04-23;2028-04-23;Poststrasse 5;49733;Haren;Duitsland
+045059299;DGO;Kita Carlo;Geregistreerd;2024-09-13;2028-09-13;Elsenpass 4;46395;Bocholt;Duitsland
+045550177;GOO;Rasfeld, A.;Geregistreerd;2024-08-09;2026-02-28;Denekamperstrasse 121;48529;Nordhorn;Duitsland
+047533778;DGO;Wigwam;Geregistreerd;2024-11-19;2028-11-19;Diestsesteenweg 379C;3010;Kessel-Lo (Leuven);België
+047849113;DGO;Pinkeltje;Geregistreerd;2024-08-12;2028-08-12;Vierhoevenstraat 30;2950;Kapellen;België
+047890964;DGO;AWO Viktoria Tageseinrichtung für Kinder;Geregistreerd;2024-05-21;2028-05-21;Bismarckstrasse 143;52066;Aachen;Duitsland
+048443189;DGO;Little Green House;Geregistreerd;2024-07-01;2028-07-01;Modulis Business Park, Route Suisse 162;1290;Versoix;Zwitserland
+048461726;DGO;Kinderdagverblijf Claartje;Geregistreerd;2024-09-25;2028-09-25;Clarissendreef 7;2300;Turnhout;België
+049245831;DGO;Molleke;Geregistreerd;2025-01-14;2029-01-14;Rivierstraat 11;2400;Mol;België
+050339527;DGO;Bilingual 'Wild Fox' Preschool with a Montessori Profile;Geregistreerd;2024-07-13;2028-07-13;Wejherowska 56;81-042;Gdynia;Polen
+052339671;DGO;Ladybug Creche & Montessori;Geregistreerd;2024-10-24;2025-12-31;85 Ranelagh Road;D06 FX53;Dublin;Ierland
+052340739;DGO;De Hummeltjes;Geregistreerd;2024-04-02;2028-04-02;Zuster Stanislaslaan 1;3500;Hasselt;België
+052526902;DGO;Zonnetje Brecht;Geregistreerd;2024-03-29;2028-03-29;Oostmalsebaan 13D;2960;Brecht;België
+053591185;GOO;de Ren, K.;Geregistreerd;2024-06-07;2028-06-07;Leopold Scheiperslaan31;2950;Kapellen;België
+053863847;DGO;'t Kriebelhuis;Geregistreerd;2024-05-15;2028-05-15;Peerstraat 176;9000;Gent;België
+054730831;DGO;Kath. Kindergarten St. Ursula;Geregistreerd;2024-07-01;2028-07-01;Martin-Heyden-Str. 30;52511;Geilenkirchen;Duitsland
+055293797;DGO;Maylou;Geregistreerd;2024-04-30;2028-04-30;61 Rte de Magescq;40550;Leon;Frankrijk
+057224602;DGO;Tutters & Bellen De Zoo;Geregistreerd;2025-01-10;2029-01-10;Provinciestraat 55;2018;Antwerpen;België
+057584680;DGO;Kath. Tageseinrichtung für Kinder  Liebfrauen;Geregistreerd;2024-10-16;2028-10-16;Kalkarer Str. 34;47574;Goch;Duitsland
+058029370;BSO;De Hummelhoek;Geregistreerd;2024-05-08;2028-05-08;Kerkstraat 20A;2480;Dessel;België
+060500463;DGO;Kath. Tageseinrichtung für Kinder St. Markus;Geregistreerd;2024-04-09;2028-04-09;Büchel 18;52224;Stolberg;Duitsland
+061136712;DGO;Familienzentrum Morgenstern;Geregistreerd;2024-09-26;2028-09-26;Rolandstrasse 33;47533;Kleve;Duitsland
+066510053;GOO;Kreinbrink, A.;Geregistreerd;2024-11-25;2028-11-25;Dorfstrasse 20;48455;Bad Bentheim;Duitsland
+066539195;DGO;Kemelrijk;Geregistreerd;2024-10-07;2028-10-07;Kemelstraat 53;9190;Stekene;België
+067674859;DGO;Kath. KiGa St. Ansgar;Geregistreerd;2024-10-14;2028-10-14;Lange Wiese 20;49733;Haren;Duitsland
+068510068;DGO;Kindertagesstätte KinderReich Kaldenkirchen;Geregistreerd;2024-11-29;2028-11-29;Trappistenweg 5;41334;Nettetal;Duitsland
+069810308;DGO;Caritas-Kindertagesstätte Familienzentrum Zauberstern;Geregistreerd;2024-09-02;2028-09-02;Triftstrasse 145;47533;Kleve;Duitsland
+070960604;DGO;Twinky's;Geregistreerd;2024-08-19;2028-08-19;Diestersesteenweg 22;3583;Paal-Beringen;België
+071363427;DGO;Zonnetje Pelt;Geregistreerd;2024-04-03;2028-04-03;Holvenstraat 183;3900;Pelt;België
+073038659;BSO;Totso;Geregistreerd;2024-08-21;2028-08-21;Luikersteenweg 234;3920;Lommel;België
+073164100;DGO;Tageseinrichtung für Kinder Libelle;Geregistreerd;2024-05-24;2028-05-24;Preussenstrasse 84;41464;Neuss;Duitsland
+073569008;GOO;Duijsters, L.;Geregistreerd;2025-01-14;2029-01-14;Windmolenstraat 35;3930;Hamont;België
+076550229;DGO;Kindergarten St. Elisabeth;Geregistreerd;2024-11-11;2028-11-11;Roghmannstrasse 11;47559;Kranenburg;Duitsland
+077371240;DGO;'t Prutske;Geregistreerd;2024-03-28;2028-03-28;Burgemeester Henrylaan 5;3650;Dilsen;België
+079797854;DGO;Kita St. Mariä Himmelfahrt;Geregistreerd;2024-04-12;2028-04-12;Südwall 14;41379;Brüggen;Duitsland
+079973504;DGO;Kinderdagverblijf Meneertjes en Mevrouwtjes;Geregistreerd;2024-08-25;2028-08-25;Provincieweg 144;9552;Borsbeke;België
+080466722;DGO;Blydhove;Geregistreerd;2025-01-14;2029-01-14;Generaal Lemanlaan 145 A;8310;Assebroek;België
+080666693;DGO;OS Orehek Kranj;Geregistreerd;2024-09-30;2028-09-30;Zasavska cesta 53A;4000;Kranj;Slovenië
+081818841;GOO;De Riddertjes;Geregistreerd;2024-10-24;2028-10-24;Steenweg op Kleine Brogel 68;3950;Kaulille;België
+082319583;DGO;Montessori Sanje;Geregistreerd;2024-10-03;2028-10-03;Juvanova Ulica 27;1000;Ljubljana;Slovenië
+082403107;DGO;Kinderdagverblijf Rotem;Geregistreerd;2024-09-08;2028-09-08;Hoogbaan 134;3650;Rotem (Dilsen-Stokkem);België
+083692137;BSO;De Bijenkorf;Geregistreerd;2024-12-12;2028-12-12;Generaal Lemanstraat 28;3500;Hasselt;België
+084525095;DGO;ASBL Creche de L' ULB;Geregistreerd;2024-04-11;2028-04-11;Av. Antoine Depage 15;1000;Brussel;België
+084683211;GOO;Keens, L.;Geregistreerd;2024-11-07;2026-05-20;Weezerstrasse 63;47623;Kevelaer;Duitsland
+085347024;GOO;De Angelis, N.;Geregistreerd;2024-04-09;2028-04-09;Rue de Tongres 2;4600;Vise;België
+085723204;DGO;Peutertuin;Geregistreerd;2024-04-09;2028-04-08;Willem de Croylaan 8;3001;Heverlee;België
+085854645;DGO;Zazoe FV;Geregistreerd;2024-08-05;2028-08-05;Sint-Gillisstraat 23;9170;De Klinge;België
+086789533;DGO;Städt. Tageseinrichtung für Kinder;Geregistreerd;2024-03-21;2028-03-21;Himmelgeisterstrasse 236;40225;Düsseldorf;Duitsland
+087519902;DGO;DOL-FIJN;Geregistreerd;2024-06-16;2028-06-16;Leermarkt 35;2800;Mechelen;België
+087685243;DGO;Babilou Montgomery;Geregistreerd;2025-01-16;2029-01-16;Tervurenlaan 54;1040;Etterbeek;België
+088140118;DGO;Havkatten;Geregistreerd;2024-08-30;2028-08-30;Amager Strandvej 178;2300;Kopenhagen;Denemarken
+089065402;DGO;Kinderdagverblijf Ernestine;Geregistreerd;2024-04-18;2028-04-18;Gewijde Boomstraat 9 bus 1;1050;Elsene;België
+090296096;GOO;Montazer, A.;Geregistreerd;2024-08-19;2028-08-19;Grensstraat 40;2910;Essen;België
+090763701;GOO;Volckaerts, A.;Geregistreerd;2024-04-10;2028-04-10;Clos des Poplis 11;1332;Genval;België
+091141904;DGO;Les p'tits loups d'galou;Geregistreerd;2024-06-22;2028-06-22;Rue de Spa 157C;4970;Francorchamps;België
+092860989;DGO;KDV Piepss BV;Geregistreerd;2024-09-10;2028-09-10;August Van de Wielelei 288;2100;Deurne;België
+093270999;DGO;Kinderdagverblijf De Boomhut;Geregistreerd;2024-06-13;2028-06-13;Nieuwstraat 30;2910;Essen;België
+094042998;DGO;Kinderdagverblijf Olli;Geregistreerd;2024-04-19;2028-04-19;Tielendorp 44;2460;Tielen;België
+094619931;BSO;Het Klokhuisje;Geregistreerd;2024-06-20;2028-06-20;Daaleindestraat 5;3720;Kortessem;België
+094704259;DGO;Kindertagesstätte Gädemji;Geregistreerd;2024-07-18;2025-03-31;Rathausgasse 8;7250;KLOSTERS;Zwitserland
+094727879;GOO;Rijcken, M.L.;Geregistreerd;2024-10-31;2028-10-31;Achelsendijk 51;3910;Pelt;België
+094898558;DGO;Kath. Kindertagesstätte Regenbogenland;Geregistreerd;2024-08-07;2028-08-07;Dorfstrasse 20;49777;Gross Berssen;Duitsland
+095138973;DGO;Päiväkoti Roba;Geregistreerd;2024-04-09;2028-04-09;Iso Roobertinkatu 23;00120;Helsinki;Finland
+099182968;DGO;Den Toeter BV;Geregistreerd;2024-06-12;2028-06-12;Achterstraat 27;2980;Zoersel;België
