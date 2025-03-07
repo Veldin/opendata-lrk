@@ -3,7 +3,7 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "actuele_naam_oko": "Peterinck-van der Mark",
-    "aantal_kindplaatsen": 4,
+    "aantal_kindplaatsen": 6,
     "status": "Ingeschreven",
     "inschrijfdatum": "02-06-2020",
     "opvanglocatie_adres": "Kieftendijk 6 ",
@@ -15,5 +15,6 @@
     "cbs_code": "1859",
     "verantwoordelijke_gemeente": "Berkelland",
     "gastouderbureau_1": "146575891",
+    "gastouderbureau_2": "207294847",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6805be78-c4e9-4069-9c00-55e89c707b37"
 }
