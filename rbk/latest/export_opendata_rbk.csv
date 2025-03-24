@@ -58,7 +58,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000015702;GOO;Nykamp, H.;Geregistreerd;2018-02-12;2027-01-30;Wöstener Schulweg 6;49824;Laar;Duitsland
 000015817;BSO;Domino-Campus Demerhof;Geregistreerd;2018-02-13;2025-10-13;Eikenlaan 24;3740;Bilzen;België
 000015829;DGO;Tierlantijn Essen;Geregistreerd;2018-03-12;2026-02-22;Hofstraat 14;2910;Essen;België
-000015908;BSO;Stekelbees Baarle Hertog Centrum;Niet meer geregistreerd;2018-03-22;2022-04-22;Molenbaan 1;2387;Baarle Hertog;België
 000015921;GOO;Biesmans, K.;Geregistreerd;2018-03-26;2026-03-16;De La Brassinnestraat 36;3770;Riemst;België
 000015933;GOO;Winters, J.;Niet meer geregistreerd;2018-04-04;2022-04-04;Zavelstraat 57;3900;Overpelt;België
 000015957;DGO;Chrippe am Hügeli;Niet meer geregistreerd;2018-03-29;2022-03-29;Heilighüsli 9;8053;Zürich;Zwitserland
@@ -879,6 +878,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 009413406;DGO;Totso;Geregistreerd;2024-10-12;2028-10-12;Luikersteenweg 234;3920;Lommel;België
 011269248;GOO;De Jagher, N.;Geregistreerd;2024-10-02;2028-10-02;Tilburgseweg 135;2382;Poppel;België
 011673977;DGO;Alles Kids Kinderopvang;Geregistreerd;2024-03-19;2028-03-19;Kaulillerweg 69 bus 3;3910;Sint-Huibrechts-Lille;België
+014165284;BSO;Bengelbende Burgstraat;Geregistreerd;2025-02-13;2029-02-13;Burgstraat 27;2440;Geel;België
 014519082;DGO;Tageseinrichtung Für Kinder SOS-Kinderhaus;Geregistreerd;2024-06-06;2028-06-06;Kalkarer Strasse 10;47533;Kleve;Duitsland
 015865010;DGO;Zonnetje Maasmechelen;Geregistreerd;2024-10-30;2028-10-30;Eisdenweg 26;3630;Maasmechelen;België
 016141313;DGO;Het Bengelbos;Geregistreerd;2025-02-08;2029-02-08;Echelstraat 33 bus 2;2360;Oud-Turnhout;België
