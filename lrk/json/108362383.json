@@ -6,11 +6,15 @@
     "aantal_kindplaatsen": 6,
     "status": "Ingeschreven",
     "inschrijfdatum": "01-05-2025",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Affligemstraat 11 ",
+    "opvanglocatie_postcode": "4826KJ",
+    "opvanglocatie_woonplaats": "Breda",
+    "bag_id": "0758010000004835",
     "naam_houder": "Teems Noerkajeva",
     "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "149711980",
+    "gastouderbureau_1": "144894154",
+    "gastouderbureau_2": "149711980",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7bf20e1c-ec79-4e8f-9bf8-35f00bfe3b00"
 }
