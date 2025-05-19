@@ -62,10 +62,8 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000016007;BSO;'t Egeltje Putte;Geregistreerd;2018-03-27;2026-02-08;Sint Dionysiusstraat 30;2950;Kapellen;België
 000016093;DGO;Tageseinrichtung für Kinder Rappelkiste;Geregistreerd;2018-05-07;2026-03-08;Emmericher Strasse 15a;46446;Emmerich;Duitsland
 000016123;GOO;Huisje 'Trippel, Trappel';Geregistreerd;2018-05-17;2026-02-22;Bunzingpad 4;3620;Neerharen;België
-000016135;DGO;Kindertagesstätte für Kath. Kindertagesstätte Regenbogen St. Joseph;Niet meer geregistreerd;2018-05-18;2022-05-18;Zum Vechtetal 11;49824;Emlichheim;Duitsland
 000016160;GOO;Van Steen, C.;Geregistreerd;2018-05-22;2025-12-13;Vaartstraat 46;2380;Ravels;België
 000016172;DGO;Didadoe;Niet meer geregistreerd;2018-05-22;2022-05-22;Boelenstraat 22;3900;Overpelt;België
-000016184;DGO;De Flamingo;Niet meer geregistreerd;2018-05-18;2022-05-18;Heistraat 23;9190;Stekene;België
 000016196;BSO;Pinokkio Kinderopvang Hees VZW;Geregistreerd;2018-05-24;2026-06-11;Heesstraat Z/N;3740;Hees (Bilzen);België
 000016202;DGO;Ter Duinen;Geregistreerd;2018-05-28;2026-02-18;Duinenstraat 15;3920;Lommel;België
 000016214;DGO;L'envol ASBL;Niet meer geregistreerd;2018-05-23;2022-05-23;Avenue Rodin 5-7;1050;Elsene;België
@@ -918,6 +916,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 048461726;DGO;Kinderdagverblijf Claartje;Geregistreerd;2024-09-25;2028-09-25;Clarissendreef 7;2300;Turnhout;België
 049245831;DGO;Molleke;Geregistreerd;2025-01-14;2029-01-14;Rivierstraat 11;2400;Mol;België
 050339527;DGO;Bilingual 'Wild Fox' Preschool with a Montessori Profile;Geregistreerd;2024-07-13;2028-07-13;Wejherowska 56;81-042;Gdynia;Polen
+050984263;DGO;Tutters & Bellen - De Unief;Geregistreerd;2025-04-07;2029-04-07;Keizerstraat 71;2000;Antwerpen;België
 052339671;DGO;Ladybug Creche & Montessori;Geregistreerd;2024-10-24;2025-12-31;85 Ranelagh Road;D06 FX53;Dublin;Ierland
 052340739;DGO;De Hummeltjes;Geregistreerd;2024-04-02;2028-04-02;Zuster Stanislaslaan 1;3500;Hasselt;België
 052526902;DGO;Zonnetje Brecht;Geregistreerd;2024-03-29;2028-03-29;Oostmalsebaan 13D;2960;Brecht;België
