@@ -45,7 +45,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000014692;DGO;Kinderdagverblijf  De Boelekes;Geregistreerd;2017-08-24;2025-06-16;Maastrichterstraat 1 bus B;3690;Zutendaal;België
 000014941;DGO;Mini-creche Ieniemienie;Geregistreerd;2017-09-18;2028-11-22;Nieuwstraat 2;9971;Lembeke;België
 000015210;DGO;De Vrolijke Vriendjes;Geregistreerd;2017-11-08;2025-07-13;Plezantstraat 348;9100;Sint-Niklaas;België
-000015222;BSO;Kinderopvang 't Mauriaantje;Geregistreerd;2017-11-08;2025-07-05;Pater Damiaanstraat 23;3740;Bilzen;België
+000015222;BSO;Kinderopvang 't Mauriaantje;Geregistreerd;2017-11-08;2029-04-23;Pater Damiaanstraat 23;3740;Bilzen;België
 000015362;DGO;Wiebelwijs;Geregistreerd;2017-12-08;2025-07-07;Ottergemsesteenweg Zuid 808 bus B8;9000;Gent;België
 000015441;GOO;Broux,  M.;Geregistreerd;2017-12-21;2025-09-16;Hoelbeekstraat 39;3746;Hoelbeek;België
 000015465;BSO;Hamont;Geregistreerd;2017-12-29;2025-10-05;Kloosterstraat 15;3930;Hamont-Achel;België
@@ -66,7 +66,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000016202;DGO;Ter Duinen;Geregistreerd;2018-05-28;2026-02-18;Duinenstraat 15;3920;Lommel;België
 000016299;BSO;'t Pierelierke;Geregistreerd;2018-06-05;2026-05-09;Heimeulenstraat 26 bus A;2328;Meerle (Hoogstraten);België
 000016329;BSO;'t Ankertje Centrum;Geregistreerd;2018-06-06;2026-02-24;Wijkstraat 16 bus 2;3590;Diepenbeek;België
-000016366;GOO;Duis, A.;Niet meer geregistreerd;2018-06-07;2019-04-03;Buchweizenkamp 59;26817;Rhauderfehn;Duitsland
 000016421;GOO;Brill-de Hoop, J.;Niet meer geregistreerd;2018-06-13;2023-01-10;Rather Mauspfad 81;51107;Köln;Duitsland
 000016445;GOO;Houx-Verhouven, J.;Niet meer geregistreerd;2018-06-13;2022-06-13;Akazienweg 12;41334;Nettetal;Duitsland
 000016457;BSO;De Piraat Kleuters;Niet meer geregistreerd;2018-06-13;2022-06-13;Kloosterwal 11;3740;Bilzen;België
@@ -882,6 +881,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 031563417;DGO;Fir Cones Day Nursery;Geregistreerd;2025-03-17;2029-03-17;Firs School, 45 Newton Lane;CH2 2HJ;Chester;Engeland
 033273169;DGO;le jardin d'enfants;Niet meer geregistreerd;2024-12-28;2025-04-24;Schotlandstraat 10;1060;Sint-Gillis;België
 034013441;DGO;A.D. Wombat;Geregistreerd;2024-10-25;2028-10-25;Synaps Park 1920;3600;Genk;België
+034318781;GOO;'t Koleneindje;Geregistreerd;2025-03-25;2029-03-25;Koleneind 52;3930;Hamont;België
 034834163;DGO;DolFijntjes;Geregistreerd;2025-01-26;2029-01-26;Dorpsstraat 88;9980;Sint-Laureins;België
 037011157;GOO;Van den Brink, V;Geregistreerd;2024-06-05;2028-06-05;Hoofdstraat 3;3640;Molenbeersel;België
 039320017;DGO;Pistache Baby Corner;Geregistreerd;2024-06-05;2028-06-05;Lage Kaart 462 D;2930;Brasschaat;België
@@ -971,6 +971,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 092628047;DGO;Städt. Tageseinr. für Kinder;Geregistreerd;2025-02-26;2029-02-26;Steppenbergallee 210;52074;Aachen;Duitsland
 092860989;DGO;KDV Piepss BV;Geregistreerd;2024-09-10;2028-09-10;August Van de Wielelei 288;2100;Deurne;België
 093270999;DGO;Kinderdagverblijf De Boomhut;Geregistreerd;2024-06-13;2028-06-13;Nieuwstraat 30;2910;Essen;België
+093907217;BSO;Speelkreek;Geregistreerd;2025-04-29;2029-04-29;Kreek 1 bus F;9130;Kieldrecht (Beveren);België
 094042998;DGO;Kinderdagverblijf Olli;Geregistreerd;2024-04-19;2028-04-19;Tielendorp 44;2460;Tielen;België
 094619931;BSO;Het Klokhuisje;Geregistreerd;2024-06-20;2028-06-20;Daaleindestraat 5;3720;Kortessem;België
 094704259;DGO;Kindertagesstätte Gädemji;Niet meer geregistreerd;2024-07-18;2025-03-31;Rathausgasse 8;7250;KLOSTERS;Zwitserland
