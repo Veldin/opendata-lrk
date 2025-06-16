@@ -67,7 +67,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000016299;BSO;'t Pierelierke;Geregistreerd;2018-06-05;2026-05-09;Heimeulenstraat 26 bus A;2328;Meerle (Hoogstraten);België
 000016329;BSO;'t Ankertje Centrum;Geregistreerd;2018-06-06;2026-02-24;Wijkstraat 16 bus 2;3590;Diepenbeek;België
 000016469;DGO;'t Blommeke;Geregistreerd;2018-06-14;2026-01-19;Gasthuisstraat 18;3620;Lanaken;België
-000016482;DGO;Kath. Kindertagesstätte St. Johannes der Täufer;Niet meer geregistreerd;2018-06-14;2022-06-14;Nordring 28;48455;Bad Bentheim;Duitsland
 000016494;BSO;'t Kadeeke;Geregistreerd;2018-06-20;2026-04-28;Spileind 45;3650;Dilsen-Stokkem;België
 000016500;BSO;IBO 't Kadeeke;Geregistreerd;2018-06-20;2026-05-17;Borreshoefstraat 10;3650;Dilsen-Stokkem;België
 000016512;BSO;Moppies;Niet meer geregistreerd;2018-06-19;2022-06-19;St. Catarinastraat;3740;Bilzen;België
@@ -976,3 +975,4 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 094898558;DGO;Kath. Kindertagesstätte Regenbogenland;Geregistreerd;2024-08-07;2028-08-07;Dorfstrasse 20;49777;Gross Berssen;Duitsland
 095138973;DGO;Päiväkoti Roba;Geregistreerd;2024-04-09;2028-04-09;Iso Roobertinkatu 23;00120;Helsinki;Finland
 099182968;DGO;Den Toeter BV;Geregistreerd;2024-06-12;2028-06-12;Achterstraat 27;2980;Zoersel;België
+099373737;DGO;Les Bidibules;Geregistreerd;2025-04-26;2029-04-26;41 Rue de Bleurmont;4053;Embourg;België
