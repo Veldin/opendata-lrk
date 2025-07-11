@@ -6,7 +6,7 @@
     "aantal_kindplaatsen": 6,
     "status": "Ingeschreven",
     "inschrijfdatum": "27-09-2012",
-    "opvanglocatie_adres": "Constantijn Huygensstr 50 ",
+    "opvanglocatie_adres": "Constantijn Huygensstraat 50 ",
     "opvanglocatie_postcode": "6445BE",
     "opvanglocatie_woonplaats": "Brunssum",
     "bag_id": "0899010000293676",
@@ -14,9 +14,8 @@
     "contact_telefoon": "''",
     "cbs_code": "899",
     "verantwoordelijke_gemeente": "Brunssum",
-    "gastouderbureau_1": "165519034",
-    "gastouderbureau_2": "210344465",
-    "gastouderbureau_3": "218034490",
-    "gastouderbureau_4": "233827158",
+    "gastouderbureau_1": "210344465",
+    "gastouderbureau_2": "218034490",
+    "gastouderbureau_3": "233827158",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/68a387a7-6b6e-41ac-b63c-7eb47d0b99bd"
 }
