@@ -3,7 +3,7 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "actuele_naam_oko": "Martina-Cathalina",
-    "aantal_kindplaatsen": 4,
+    "aantal_kindplaatsen": 6,
     "status": "Ingeschreven",
     "inschrijfdatum": "15-07-2015",
     "opvanglocatie_adres": "Wanninkhagen 18 ",
@@ -15,5 +15,6 @@
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
     "gastouderbureau_1": "117383521",
+    "gastouderbureau_2": "316496522",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/78afbd08-dd94-4f84-96b9-5b445a5274ce"
 }
