@@ -3,7 +3,7 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "actuele_naam_oko": "Jansen",
-    "aantal_kindplaatsen": 5,
+    "aantal_kindplaatsen": 3,
     "status": "Ingeschreven",
     "inschrijfdatum": "01-08-2012",
     "opvanglocatie_adres": "Lonnekerstraat 4 ",
@@ -14,5 +14,6 @@
     "contact_telefoon": "''",
     "cbs_code": "855",
     "verantwoordelijke_gemeente": "Tilburg",
+    "gastouderbureau_1": "122338479",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/19fa9f92-dd6e-46e4-94d6-0efcef1c2924"
 }

@@ -3,7 +3,7 @@
     "type_oko": "KDV",
     "opc": "Nee",
     "actuele_naam_oko": "Kinderfortje Muziekwijk",
-    "aantal_kindplaatsen": 12,
+    "aantal_kindplaatsen": 10,
     "ve": "Nee",
     "status": "Ingeschreven",
     "inschrijfdatum": "01-01-2021",
@@ -25,6 +25,7 @@
     "contact_persoon": "J.M. Tuinfort",
     "contact_telefoon": "'0648691212'",
     "contact_emailadres": "kinderfortje@gmail.com",
+    "contact_website": "https://www.kinderfortje-muziekwijk.nl",
     "cbs_code": "34",
     "verantwoordelijke_gemeente": "Almere",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/556dd208-f2ca-4c12-9e97-04963df9ae19"
