@@ -17,7 +17,7 @@ This dataset is privatly rehosted for ease of access.
     Contains all entries from the original CSV, split into individual JSON files for each record.
     
 -   **`latest/`**  
-    Contains the most recent dataset downloaded and split.
+    Contains the most recent dataset downloaded.
     
 -   **`raw/`**  
     Archives past datasets downloads in their original format. Each folder is named according to the date the dataset was retrieved, allowing for historical reference or change tracking.
