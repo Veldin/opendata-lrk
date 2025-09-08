@@ -490,7 +490,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000022779;DGO;DRK-Kindertagesstätte Grashüpfer;Niet meer geregistreerd;2021-08-17;2025-08-17;Akazienstrasse 22;47495;Rheinberg;Duitsland
 000022792;DGO;Hoppaz;Geregistreerd;2021-08-31;2029-07-10;Wilrijkstraat 12;2650;Edegem;België
 000022822;DGO;Kindertagesstätte Schurzelter Strasse;Niet meer geregistreerd;2021-08-31;2025-08-31;Schurzelter strasse 21;52074;Aachen;Duitsland
-000022846;DGO;Kindertagesstätte  Holtmannshof;Geregistreerd;2021-09-03;2025-09-03;Holtmannsweg 1;48157;Münster;Duitsland
+000022846;DGO;Kindertagesstätte  Holtmannshof;Niet meer geregistreerd;2021-09-03;2025-09-03;Holtmannsweg 1;48157;Münster;Duitsland
 000022871;GOO;Colla, M.;Geregistreerd;2021-09-10;2025-09-10;Gratumtraat 4;3630;Maasmechelen;België
 000022895;DGO;Kinderdagverblijf Pinguin;Geregistreerd;2021-09-17;2025-09-17;Graaf Jansdijk 1;8380;Zeebrugge;België
 000022913;GOO;Kinderopvang De Boelekes;Niet meer geregistreerd;2021-09-20;2021-10-30;Int Boelarvelt 18;3770;Zichen-Zussen-Bolder (Riemst);België
@@ -892,6 +892,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 066510053;GOO;Kreinbrink, A.;Geregistreerd;2024-11-25;2028-11-25;Dorfstrasse 20;48455;Bad Bentheim;Duitsland
 066539195;DGO;Kemelrijk;Geregistreerd;2024-10-07;2028-10-07;Kemelstraat 53;9190;Stekene;België
 067674859;DGO;Kath. KiGa St. Ansgar;Geregistreerd;2024-10-14;2028-10-14;Lange Wiese 20;49733;Haren;Duitsland
+068340035;DGO;Kath. Tageseinrichtung für  Kinder Am Marienheim;Geregistreerd;2025-08-13;2029-08-13;Bleichpfad 7;41751;Viersen;Duitsland
 068425752;DGO;Micro creche LPCR Le Bourget du Lac-Constance;Geregistreerd;2025-07-28;2029-07-28;02 Allee du Lac de Contance-Residence Van Gogh;73370;Le Bourget du Lac;Frankrijk
 068510068;DGO;Kindertagesstätte KinderReich Kaldenkirchen;Geregistreerd;2024-11-29;2028-11-29;Trappistenweg 5;41334;Nettetal;Duitsland
 068843392;DGO;Fondation de la Creche La Cigogne;Geregistreerd;2024-12-18;2028-12-18;Route de Veyrier 83;1234;Vessy;Zwitserland
