@@ -6,11 +6,15 @@
     "aantal_kindplaatsen": 6,
     "status": "Ingeschreven",
     "inschrijfdatum": "11-09-2025",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Maagdepalm 7 ",
+    "opvanglocatie_postcode": "8935NA",
+    "opvanglocatie_woonplaats": "Leeuwarden",
+    "bag_id": "0080010000451878",
     "naam_houder": "Birisu",
     "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "226938396",
+    "gastouderbureau_1": "146575891",
+    "gastouderbureau_2": "226938396",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b2de99e0-ad2a-434d-b389-5d9c1d9fe0ed"
 }
