@@ -70,16 +70,10 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000016895;DGO;De Ukkies;Geregistreerd;2018-07-31;2026-03-16;Erasmuslaan 14;3500;Hasselt;België
 000017036;DGO;Kath. Tageseinrichtung für Kinder St. Georg;Geregistreerd;2018-08-27;2026-04-06;Obere Laak 2;46446;Emmerich;Duitsland
 000017103;BSO;Pierewiet-Nachtegalenpark;Geregistreerd;2018-09-03;2026-04-13;Blookbergstraat 1;3690;Zutendaal;België
-000017267;DGO;Droomhuis;Niet meer geregistreerd;2018-09-20;2022-09-20;Bogaardestraat 171;9990;Maldegem;België
 000017280;DGO;AWO Kindertagesstätte Storchennest (Kranenburg);Geregistreerd;2018-09-21;2026-08-26;Grabenstrasse 1;47559;Kranenburg;Duitsland
-000017292;DGO;Villa Vrolijk Kaulille;Niet meer geregistreerd;2018-09-21;2022-09-21;Kaulillerdorp 78;3950;Kaulille;België
-000017309;DGO;Mansion House Day Nursey;Niet meer geregistreerd;2018-09-21;2022-09-21;Apsley Road;OX2 7QX;Oxford;Groot Brittannië
-000017310;DGO;Hopscoth International Kindergarten;Niet meer geregistreerd;2018-09-20;2022-09-20;Agias Triados 93;166 72;Vari;Griekenland
-000017322;DGO;Il Paese Dei Balocchi;Niet meer geregistreerd;2018-09-21;2019-02-16;Via Giovanni Paolo I n. 02/04;37029;San Pietro Cariano - Pedemonte (VR);Italië
 000017334;DGO;Escola Infantil Kasperle;Niet meer geregistreerd;2018-09-24;2022-09-24;c. Gran de Gràcia 97;8012;Barcelona;Spanje
 000017346;DGO;Onze Vriendjes;Niet meer geregistreerd;2018-09-25;2022-09-25;Frans Vekemansstraat 145;1120;Neder-Over-Heembeek (Brussel);België
 000017358;GOO;Rampen, J.;Niet meer geregistreerd;2018-09-25;2022-09-25;Avergat 53;3770;Kanne;België
-000017371;DGO;UAB Vaikystes Sodas- Laisves Sodelis;Niet meer geregistreerd;2018-09-21;2022-09-21;Latviu G. 16A;8123;Vilnius;Litouwen
 000017383;DGO;BébHibou;Geregistreerd;2018-09-27;2026-06-08;Kleine Omstraat 7 bus 1;3620;Veldwezelt;België
 000017395;DGO;Villa Vrolijk;Niet meer geregistreerd;2018-09-27;2022-09-27;Haagdoornstraat 66;3910;Neerpelt;België
 000017425;BSO;De Appelboom;Niet meer geregistreerd;2018-10-01;2022-10-01;Langstraat 29 bus 5;3770;Riemst;België
@@ -514,7 +508,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000023267;DGO;Ev. Tageseinrichtung für Kinder Jona;Geregistreerd;2021-11-25;2025-11-25;Heinestrasse 80A;47623;Kevelaar;Duitsland
 000023279;DGO;De Moekes;Geregistreerd;2021-12-03;2025-12-03;Roomstraat 42;9160;Lokeren;België
 000023280;DGO;De Witte Wolk;Geregistreerd;2021-12-08;2025-12-08;Frederik Peltzerstraat 6;2500;Lier;België
-000023292;DGO;Groepsopvang HUPSAKEE;Geregistreerd;2021-12-15;2025-12-15;Stationsstraat 182;3620;Lanaken;België
+000023292;DGO;Groepsopvang HUPSAKEE;Geregistreerd;2021-12-15;2029-07-11;Stationsstraat 182;3620;Lanaken;België
 000023309;DGO;Tingeling;Geregistreerd;2021-12-20;2025-12-20;Kreek 1;9130;Kieldrecht;België
 000023310;DGO;Kinderdagverblijf Koetje Boe;Geregistreerd;2021-12-21;2025-12-21;Oudstrijdersstraat 16;2910;Essen;België
 000023334;BSO;Villa Kakelbont Rekem;Geregistreerd;2021-12-28;2025-12-28;Populierenlaan 30;3621;Rekem (Lanaken);België
