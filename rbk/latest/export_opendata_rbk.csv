@@ -72,7 +72,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000017103;BSO;Pierewiet-Nachtegalenpark;Geregistreerd;2018-09-03;2026-04-13;Blookbergstraat 1;3690;Zutendaal;België
 000017280;DGO;AWO Kindertagesstätte Storchennest (Kranenburg);Geregistreerd;2018-09-21;2026-08-26;Grabenstrasse 1;47559;Kranenburg;Duitsland
 000017383;DGO;BébHibou;Geregistreerd;2018-09-27;2026-06-08;Kleine Omstraat 7 bus 1;3620;Veldwezelt;België
-000017395;DGO;Villa Vrolijk;Niet meer geregistreerd;2018-09-27;2022-09-27;Haagdoornstraat 66;3910;Neerpelt;België
 000017425;BSO;De Appelboom;Niet meer geregistreerd;2018-10-01;2022-10-01;Langstraat 29 bus 5;3770;Riemst;België
 000017437;GOO;Mimount, K.;Niet meer geregistreerd;2018-10-01;2022-10-01;Essen-Oldenburgstraat 9;2910;Essen;België
 000017449;BSO;BKO-Wortel Gemeentelijke Kleuterschool;Geregistreerd;2018-10-03;2026-05-31;Rooimans 5;2323;Wortel (Hoogstraten);België
@@ -869,6 +868,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 060500463;DGO;Kath. Tageseinrichtung für Kinder St. Markus;Geregistreerd;2024-04-09;2028-04-09;Büchel 18;52224;Stolberg;Duitsland
 060695596;GOO;van der Hurk, R.;Geregistreerd;2025-03-02;2029-03-02;Bergerstraat 50;3680;Neeroeteren;België
 061136712;DGO;Familienzentrum Morgenstern;Geregistreerd;2024-09-26;2028-09-26;Rolandstrasse 33;47533;Kleve;Duitsland
+061187501;DGO;De Speelboom Houthalen-Helchteren;Geregistreerd;2025-06-20;2029-06-20;Kastanjestraat 7A;3530;Houthalen-Helchteren;België
 062140838;GOO;Ballmann, M.;Geregistreerd;2025-02-04;2029-01-01;Bernte 27;48488;Emsbüren;Duitsland
 062846504;GOO;Koch, A.;Geregistreerd;2025-04-04;2028-12-19;Lindenstrasse 56;47559;Kranenburg;Duitsland
 063115438;GOO;Hamers, C.;Geregistreerd;2025-04-04;2029-04-04;Heirstraat 43A;3630;Maasmechelen;België
