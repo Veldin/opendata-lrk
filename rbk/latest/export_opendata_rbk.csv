@@ -5,7 +5,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000001053;DGO;Krippe Senfkorn;Geregistreerd;2007-03-26;2026-01-13;Wilsumer Strasse 2-4;49824;Emlichheim;Duitsland
 000001284;DGO;Kindergarten Amselstrolche;Geregistreerd;2008-01-16;2025-10-20;Amselstrasse 3;49843;Uelsen;Duitsland
 000001776;DGO;Kindertagesstätte Vechtespatzen;Geregistreerd;2010-04-26;2026-01-10;Hauptstrasse 47;49824;Laar;Duitsland
-000002021;DGO;Evangelisch-Reformierte Kindertagesstätte Bunde;Geregistreerd;2010-11-01;2025-10-12;Lindenstrasse 2;26831;Bunde;Duitsland
 000002203;DGO;Ev.-ref. Kita Regenbogen;Geregistreerd;2012-12-03;2025-12-01;Schulstraße 22;48455;Bad Bentheim;Duitsland
 000003876;GOO;Paula Vries;Geregistreerd;2014-03-14;2027-04-25;Smeetsstraat 36;3640;Molenbeersel;België
 000003992;DGO;Miep & Lies;Geregistreerd;2014-04-02;2027-01-13;Kapelstraat 2;3930;Hamont;België
@@ -73,7 +72,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000017280;DGO;AWO Kindertagesstätte Storchennest (Kranenburg);Geregistreerd;2018-09-21;2026-08-26;Grabenstrasse 1;47559;Kranenburg;Duitsland
 000017383;DGO;BébHibou;Geregistreerd;2018-09-27;2026-06-08;Kleine Omstraat 7 bus 1;3620;Veldwezelt;België
 000017449;BSO;BKO-Wortel Gemeentelijke Kleuterschool;Geregistreerd;2018-10-03;2026-05-31;Rooimans 5;2323;Wortel (Hoogstraten);België
-000017541;DGO;Kath. Tageseinrichtung für Kinder St. Bartholomäus;Niet meer geregistreerd;2018-10-19;2022-10-19;Kirchensträsschen 3;41372;Niederkrüchten;Duitsland
 000017553;BSO;Stekelbees Oud-Turnhout;Niet meer geregistreerd;2018-10-23;2022-10-23;Van Der Berkenlaan 13;2360;Oud-Turnhout;België
 000017565;DGO;Bibelotje;Niet meer geregistreerd;2018-10-24;2022-10-24;Steenweg op Oosthoven 250;2300;Turnhout;België
 000017577;GOO;Nemegeer, H.;Niet meer geregistreerd;2018-10-24;2022-10-24;Stroperstraat 12;9170;Sint-Gillis-Waas;België
