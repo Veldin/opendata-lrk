@@ -71,7 +71,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000017449;BSO;BKO-Wortel Gemeentelijke Kleuterschool;Geregistreerd;2018-10-03;2026-05-31;Rooimans 5;2323;Wortel (Hoogstraten);België
 000017620;DGO;'t Kroontje Oud-Turnhout;Geregistreerd;2018-11-01;2026-06-01;Koningin Fabiolalaan 7;2360;Oud-Turnhout;België
 000017723;DGO;Het Duizendpootje;Geregistreerd;2018-11-16;2026-06-17;Kerkplein 3;3665;As;België
-000017802;DGO;DRK Familienzentrum Nettetopia;Niet meer geregistreerd;2018-12-07;2022-12-07;Obere Färberstrasse 35;41334;Nettetal;Duitsland
 000017814;GOO;van Scharrel, K.;Niet meer geregistreerd;2019-01-24;2023-01-24;Hakenstrasse 2;48455;Bad Bentheim;Duitsland
 000017826;BSO;'t Speelhuis;Niet meer geregistreerd;2018-12-18;2023-12-18;Pastorieweg 19;8310;Sint-Kruis;België
 000017838;DGO;Bolleke De Beer;Geregistreerd;2018-12-18;2026-09-23;Minderhoutsestraat 71;2322;Minderhout;België
@@ -468,7 +467,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000023243;BSO;Stibo De Harp;Niet meer geregistreerd;2021-11-30;2025-11-30;Pollepelstraat 17;9000;Gent;België
 000023255;BSO;Uilennestje;Niet meer geregistreerd;2021-11-30;2025-11-30;Coupure Rechts 54;9000;Gent;België
 000023267;DGO;Ev. Tageseinrichtung für Kinder Jona;Geregistreerd;2021-11-25;2025-11-25;Heinestrasse 80A;47623;Kevelaar;Duitsland
-000023279;DGO;De Moekes;Geregistreerd;2021-12-03;2025-12-03;Roomstraat 42;9160;Lokeren;België
+000023279;DGO;De Moekes;Niet meer geregistreerd;2021-12-03;2025-12-03;Roomstraat 42;9160;Lokeren;België
 000023280;DGO;De Witte Wolk;Geregistreerd;2021-12-08;2025-12-08;Frederik Peltzerstraat 6;2500;Lier;België
 000023292;DGO;Groepsopvang HUPSAKEE;Geregistreerd;2021-12-15;2029-07-11;Stationsstraat 182;3620;Lanaken;België
 000023309;DGO;Tingeling;Geregistreerd;2021-12-20;2025-12-20;Kreek 1;9130;Kieldrecht;België
@@ -749,7 +748,9 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 012087348;DGO;Kath. Tageseinrichtung für Kinder 'Arche Noah';Geregistreerd;2025-05-28;2029-05-28;Overbergstrasse 3;47533;Kleve;Duitsland
 012500951;DGO;1,2,3 Mes petits pas;Geregistreerd;2025-03-26;2029-03-26;Berckmansstraat 117;1060;Sint-Gillis;België
 012704854;DGO;Apple Tree Creche;Geregistreerd;2025-03-30;2029-03-30;Chaussee de Charleroi  167;1060;Brussel - Saint Gilles;België
+012776865;GOO;Loock, S.;Geregistreerd;2025-11-18;2029-01-04;Robertstrasse 6;47533;Kleve;Duitsland
 014165284;BSO;Bengelbende Burgstraat;Geregistreerd;2025-02-13;2029-02-13;Burgstraat 27;2440;Geel;België
+014285526;GOO;Vandebroek, A.;Geregistreerd;2025-11-12;2029-11-12;Sint-Maertensgrachtstraat 14;3740;Beverst;België
 014464408;DGO;Kath. Tageseinrichtung für Kinder St. Peter;Geregistreerd;2025-09-17;2029-09-17;Altwettener Weg 2;47625;Kevelaer;Duitsland
 014498571;DGO;Outlaw  Kita Schützenstrasse;Geregistreerd;2025-06-19;2029-06-19;Schützenstrasse 133a;48607;Ochtrup;Duitsland
 014519082;DGO;Tageseinrichtung Für Kinder SOS-Kinderhaus;Geregistreerd;2024-06-06;2028-06-06;Kalkarer Strasse 10;47533;Kleve;Duitsland
