@@ -2,7 +2,9 @@
 
 This repository contains a rehosted version of the following datasets:
 
-**"[Gegevens kinderopvanglocaties LRK](https://data.overheid.nl/dataset/8f7b9021-7c70-4b84-a291-b932382cd0b6)"**, which includes all registered childcare locations from the **Landelijk Register Kinderopvang (LRK)**.
+**"[Gegevens kinderopvanglocaties LRK](https://data.overheid.nl/en/dataset/gegevens-kinderopvanglocaties-lrk#panel-resources)"**, which includes all registered childcare locations from the **Landelijk Register Kinderopvang (LRK)**.
+
+**"[Gegevens kinderopvanglocaties LRK 2](https://data.overheid.nl/en/dataset/gegevens-kinderopvanglocaties-lrk#panel-resources)"**, which contains all childcare locations that are or were registered in the Landelijk Register Kinderopvang (LRK), excluding records removed after the legal retention period expired.**.
 
 **"[Gegevens kinderopvanglocaties RBK](https://data.overheid.nl/dataset/198fb882-7491-49ea-85ab-5fa94c1afa4b)"**, which includes This dataset contains all registered foreign childcare locations from the **Register buitenlandse kinderopvang (RBK)**.
 
