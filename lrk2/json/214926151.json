@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "15-07-2016",
+    "uitschrijfdatum": "27-11-2025",
     "opvanglocatie_postcode": "2761MB",
     "opvanglocatie_woonplaats": "Zevenhuizen",
     "cbs_code": "1892",
     "verantwoordelijke_gemeente": "Zuidplas",
+    "gastouderbureau_1": "210229974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5fed521e-cf3f-40ca-8982-9b513bdc7bf8"
 }
