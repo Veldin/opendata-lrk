@@ -3,10 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "23-10-2017",
+    "uitschrijfdatum": "31-12-2025",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "150",
     "verantwoordelijke_gemeente": "Deventer",
+    "gastouderbureau_1": "162040349",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/52ef7f1b-df96-4033-ac5b-ce86fe1dd0a5"
 }

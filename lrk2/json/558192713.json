@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "17-09-2010",
+    "uitschrijfdatum": "01-10-2025",
     "opvanglocatie_postcode": "8032AN",
     "opvanglocatie_woonplaats": "Zwolle",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
+    "gastouderbureau_1": "295706442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9f3015b5-69c0-442f-9b17-87aaf294092c"
 }
