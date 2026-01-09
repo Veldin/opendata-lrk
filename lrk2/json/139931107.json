@@ -3,13 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "26-09-2018",
+    "uitschrijfdatum": "07-01-2026",
     "opvanglocatie_postcode": "8254AR",
     "opvanglocatie_woonplaats": "Dronten",
     "cbs_code": "303",
     "verantwoordelijke_gemeente": "Dronten",
-    "gastouderbureau_1": "208466496",
-    "gastouderbureau_2": "300232779",
+    "gastouderbureau_1": "300232779",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3b2d1ad3-8332-4fd1-8714-acc856d079c9"
 }

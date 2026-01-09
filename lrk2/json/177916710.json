@@ -3,10 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "10-11-2022",
+    "uitschrijfdatum": "08-01-2026",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "737",
     "verantwoordelijke_gemeente": "Tytsjerksteradiel",
+    "gastouderbureau_1": "190860169",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ea7757b8-68e4-43ef-91e6-ff2aca1d8720"
 }

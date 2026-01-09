@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "16-07-2010",
+    "uitschrijfdatum": "05-01-2026",
     "opvanglocatie_postcode": "1628XT",
     "opvanglocatie_woonplaats": "Hoorn",
     "cbs_code": "405",
     "verantwoordelijke_gemeente": "Hoorn",
+    "gastouderbureau_1": "150397525",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/13525bc5-1af1-49c4-82de-223ec995643c"
 }
