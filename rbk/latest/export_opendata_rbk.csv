@@ -17,7 +17,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000006130;BSO;'t Speel-nestje;Geregistreerd;2014-06-17;2029-06-26;Nelisveld 11;3640;Kinrooi;België
 000006853;DGO;Kath. KiGa St. Marien;Geregistreerd;2014-07-11;2026-03-25;Zum Jägersberg 5;49716;Meppen;Duitsland
 000007328;DGO;Kath. Kindertageseinrichtung St. Gertrud Tüddern;Geregistreerd;2014-07-15;2029-03-28;Messweg 15;52538;Selfkant - Tüddern;Duitsland
-000007377;DGO;Tageseinrichtung für Kinder Zipfelmütze;Geregistreerd;2014-08-15;2026-01-14;Kirchstrasse 95;47574;Goch;Duitsland
 000007705;DGO;De Bengelboot;Geregistreerd;2014-08-21;2029-11-11;Donkerstraat 4;2387;Baarle-Hertog;België
 000008333;BSO;Domino - Schoonbeek;Geregistreerd;2014-10-29;2029-12-08;Schoolstraat 23;3740;Bilzen;België
 000008564;DGO;Kath. Tageseinrichtung für Kinder St. Franziskus;Geregistreerd;2014-11-20;2029-07-30;Franziskanerstrasse 37;47652;Weeze;Duitsland
@@ -71,9 +70,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000017814;GOO;van Scharrel, K.;Niet meer geregistreerd;2019-01-24;2023-01-24;Hakenstrasse 2;48455;Bad Bentheim;Duitsland
 000017838;DGO;Bolleke De Beer;Geregistreerd;2018-12-18;2026-09-23;Minderhoutsestraat 71;2322;Minderhout;België
 000017905;DGO;De Kleine Uks;Geregistreerd;2019-01-03;2026-08-08;Antoine Coppenslaan 33;2300;Turnhout;België
-000017991;BSO;'t Warreltje;Niet meer geregistreerd;2019-01-17;2023-01-17;Eykantpad 4;2381;Ravels;België
-000018016;DGO;'t speelvogeltje;Niet meer geregistreerd;2019-01-17;2023-01-17;Sint-Bavostraat 59;2610;Wilrijk;België
-000018028;DGO;De Welpjes;Niet meer geregistreerd;2019-01-18;2023-01-18;Bilzersteenweg 350;3700;Tongeren;België
 000018041;DGO;'t Knuffeltje 2;Niet meer geregistreerd;2019-01-21;2023-01-21;Dorpsstraat 11;9130;Kieldrecht;België
 000018053;GOO;Schoefs, D.;Niet meer geregistreerd;2019-01-21;2023-01-21;Pannestraat 5;3770;VAL-MEER;België
 000018065;GOO;Howling, L. M.;Niet meer geregistreerd;2019-01-21;2023-01-21;6 Red House Close;SG12 9NW;Hertfordshire;Groot Brittannië
@@ -920,3 +916,4 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 097529758;DGO;Kita Lindenallee;Geregistreerd;2025-08-17;2029-08-17;Lindenallee 17;41751;Viersen;Duitsland
 099182968;DGO;Den Toeter BV;Geregistreerd;2024-06-12;2028-06-12;Achterstraat 27;2980;Zoersel;België
 099373737;DGO;Les Bidibules;Geregistreerd;2025-04-26;2029-04-26;41 Rue de Bleurmont;4053;Embourg;België
+099859695;DGO;Kindertagesstätte Nauenweg;Geregistreerd;2025-12-16;2029-12-16;Nauenweg 144;47798;Krefeld;Duitsland
