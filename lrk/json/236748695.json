@@ -6,11 +6,15 @@
     "aantal_kindplaatsen": 6,
     "status": "Ingeschreven",
     "inschrijfdatum": "08-01-2026",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Van Zuylenware 37 ",
+    "opvanglocatie_postcode": "8014WN",
+    "opvanglocatie_woonplaats": "Zwolle",
+    "bag_id": "0193010000033676",
     "naam_houder": "Nol",
     "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
     "gastouderbureau_1": "146575891",
+    "gastouderbureau_2": "918762352",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cd54acd1-131d-424c-b649-423be38cfde2"
 }

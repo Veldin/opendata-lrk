@@ -3,10 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "09-12-2024",
+    "uitschrijfdatum": "31-12-2025",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "1734",
     "verantwoordelijke_gemeente": "Overbetuwe",
+    "gastouderbureau_1": "285546582",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/71533db3-3736-4a4c-9144-f7773386b559"
 }

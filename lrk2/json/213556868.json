@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "25-06-2020",
+    "uitschrijfdatum": "01-01-2026",
     "opvanglocatie_postcode": "1706AT",
     "opvanglocatie_woonplaats": "Heerhugowaard",
     "cbs_code": "1980",
     "verantwoordelijke_gemeente": "Dijk en Waard",
+    "gastouderbureau_1": "150397525",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/243b79f2-523d-4950-82fc-f76d0c82034a"
 }

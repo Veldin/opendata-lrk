@@ -5,9 +5,11 @@
     "aantal_kindplaatsen": 6,
     "status": "Ingeschreven",
     "inschrijfdatum": "08-01-2026",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_postcode": "8014WN",
+    "opvanglocatie_woonplaats": "Zwolle",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
     "gastouderbureau_1": "146575891",
+    "gastouderbureau_2": "918762352",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cd54acd1-131d-424c-b649-423be38cfde2"
 }

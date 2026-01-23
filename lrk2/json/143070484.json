@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "27-09-2010",
+    "uitschrijfdatum": "01-01-2026",
     "opvanglocatie_postcode": "5081WD",
     "opvanglocatie_woonplaats": "Hilvarenbeek",
     "cbs_code": "798",
     "verantwoordelijke_gemeente": "Hilvarenbeek",
+    "gastouderbureau_1": "997832630",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f35f5fd6-5876-4643-aec4-ada982b6090a"
 }

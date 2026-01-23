@@ -3,11 +3,14 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "31-01-2024",
+    "uitschrijfdatum": "01-01-2026",
     "opvanglocatie_postcode": "3992BX",
     "opvanglocatie_woonplaats": "Houten",
     "cbs_code": "321",
     "verantwoordelijke_gemeente": "Houten",
+    "gastouderbureau_1": "146575891",
+    "gastouderbureau_2": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dcc603dd-1a07-4898-9e37-73f3122fe96a"
 }

@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "14-09-2018",
+    "uitschrijfdatum": "28-12-2025",
     "opvanglocatie_postcode": "6578AT",
     "opvanglocatie_woonplaats": "Leuth",
     "cbs_code": "1945",
     "verantwoordelijke_gemeente": "Berg en Dal",
+    "gastouderbureau_1": "191594519",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ed9f3973-0f58-40bc-a135-c6da9f145055"
 }

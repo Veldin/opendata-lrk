@@ -3,10 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "21-08-2025",
+    "uitschrijfdatum": "21-01-2026",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "553",
     "verantwoordelijke_gemeente": "Lisse",
+    "gastouderbureau_1": "320301898",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a5d8e5df-04c9-49ef-932f-63d1b6065f89"
 }
