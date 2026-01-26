@@ -3,10 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "01-07-2024",
+    "uitschrijfdatum": "23-01-2026",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
+    "gastouderbureau_1": "136524175",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1b2c0599-ed58-4cbe-aba3-6fcc93dbb103"
 }
