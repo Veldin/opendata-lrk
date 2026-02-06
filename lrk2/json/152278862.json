@@ -3,11 +3,14 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "12-03-2018",
+    "uitschrijfdatum": "01-11-2025",
     "opvanglocatie_postcode": "4382GH",
     "opvanglocatie_woonplaats": "Vlissingen",
     "cbs_code": "718",
     "verantwoordelijke_gemeente": "Vlissingen",
+    "gastouderbureau_1": "156668592",
+    "gastouderbureau_2": "333485932",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/38b7dadc-9ad8-491d-b34f-85dcc28ddd80"
 }

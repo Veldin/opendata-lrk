@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "17-06-2019",
+    "uitschrijfdatum": "03-02-2026",
     "opvanglocatie_postcode": "2216EG",
     "opvanglocatie_woonplaats": "Voorhout",
     "cbs_code": "1525",
     "verantwoordelijke_gemeente": "Teylingen",
+    "gastouderbureau_1": "320301898",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2ed30260-3a8b-46ad-96a0-21682976787b"
 }
