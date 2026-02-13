@@ -3,11 +3,14 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "01-11-2017",
+    "uitschrijfdatum": "01-11-2025",
     "opvanglocatie_postcode": "2952AN",
     "opvanglocatie_woonplaats": "Alblasserdam",
     "cbs_code": "482",
     "verantwoordelijke_gemeente": "Alblasserdam",
+    "gastouderbureau_1": "104000570",
+    "gastouderbureau_2": "181692363",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f554e7ef-59e8-4e91-a69d-ef1bbf1acfa3"
 }

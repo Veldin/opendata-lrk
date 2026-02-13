@@ -6,11 +6,15 @@
     "aantal_kindplaatsen": 6,
     "status": "Ingeschreven",
     "inschrijfdatum": "05-02-2026",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Kerkstraat 9 ",
+    "opvanglocatie_postcode": "4845EC",
+    "opvanglocatie_woonplaats": "Wagenberg",
+    "bag_id": "1719010000010696",
     "naam_houder": "Versleeuwen",
     "contact_telefoon": "''",
     "cbs_code": "1719",
     "verantwoordelijke_gemeente": "Drimmelen",
-    "gastouderbureau_1": "149711980",
+    "gastouderbureau_1": "122338479",
+    "gastouderbureau_2": "149711980",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/da6fd58a-4977-41c6-bf25-1dc583a22b30"
 }
