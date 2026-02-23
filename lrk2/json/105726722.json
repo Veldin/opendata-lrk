@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "24-11-2020",
+    "uitschrijfdatum": "01-02-2026",
     "opvanglocatie_postcode": "3343RD",
     "opvanglocatie_woonplaats": "Hendrik-Ido-Ambacht",
     "cbs_code": "531",
     "verantwoordelijke_gemeente": "Hendrik-Ido-Ambacht",
+    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f00d5730-b876-4399-bda5-286428b5eb10"
 }
