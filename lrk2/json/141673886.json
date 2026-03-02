@@ -3,13 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "17-09-2010",
+    "uitschrijfdatum": "01-03-2026",
     "opvanglocatie_postcode": "5121NH",
     "opvanglocatie_woonplaats": "Rijen",
     "cbs_code": "784",
     "verantwoordelijke_gemeente": "Gilze en Rijen",
     "gastouderbureau_1": "122338479",
-    "gastouderbureau_2": "913477187",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/da3af7c5-585b-41d3-8941-1e2c6b591708"
 }
