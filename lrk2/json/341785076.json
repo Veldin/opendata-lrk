@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "03-11-2017",
+    "uitschrijfdatum": "13-02-2026",
     "opvanglocatie_postcode": "1861SR",
     "opvanglocatie_woonplaats": "Bergen (NH)",
     "cbs_code": "373",
     "verantwoordelijke_gemeente": "Bergen (NH)",
+    "gastouderbureau_1": "766604895",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a383ddbb-9b44-46a4-94c0-9aeb021fa2ef"
 }
