@@ -3,11 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "14-02-2020",
+    "uitschrijfdatum": "28-02-2026",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "294",
     "verantwoordelijke_gemeente": "Winterswijk",
-    "gastouderbureau_1": "163832341",
+    "gastouderbureau_1": "207294847",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/989c415a-de29-4a73-9969-b401358979e4"
 }
