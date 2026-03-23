@@ -40,7 +40,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000016160;GOO;Van Steen, C.;Geregistreerd;2018-05-22;2029-11-10;Vaartstraat 46;2380;Ravels;België
 000016196;BSO;Pinokkio Kinderopvang Hees VZW;Geregistreerd;2018-05-24;2026-06-11;Heesstraat Z/N;3740;Hees (Bilzen);België
 000016202;DGO;Ter Duinen;Geregistreerd;2018-05-28;2029-10-29;Duinenstraat 15;3920;Lommel;België
-000016299;BSO;'t Pierelierke;Geregistreerd;2018-06-05;2026-05-09;Heimeulenstraat 26 bus A;2328;Meerle (Hoogstraten);België
+000016299;BSO;'t Pierelierke;Geregistreerd;2018-06-05;2030-03-11;Heimeulenstraat 26 bus A;2328;Meerle (Hoogstraten);België
 000016469;DGO;'t Blommeke;Geregistreerd;2018-06-14;2029-08-11;Gasthuisstraat 18;3620;Lanaken;België
 000016494;BSO;'t Kadeeke;Geregistreerd;2018-06-20;2026-04-28;Spileind 45;3650;Dilsen-Stokkem;België
 000016500;BSO;IBO 't Kadeeke;Geregistreerd;2018-06-20;2026-05-17;Borreshoefstraat 10;3650;Dilsen-Stokkem;België
@@ -469,7 +469,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024041;DGO;Bongo;Geregistreerd;2022-06-14;2030-01-05;Dorpsstraat 126;2940;Stabroek;België
 000024053;DGO;AWO-Kita Heinz-Trox- Strasse;Geregistreerd;2022-06-24;2026-06-24;Heinz-Trox-Strasse 22;46419;Isselburg;Duitsland
 000024065;DGO;Royal Kids Sarl;Geregistreerd;2022-06-28;2026-06-28;206 Route de Longwy;1940;Luxemburg;Luxemburg
-000024077;DGO;Clara's Hofke;Geregistreerd;2022-07-01;2026-07-01;Kloosterbaan 3;2370;Arendonk;België
+000024077;DGO;Clara's Hofke;Geregistreerd;2022-07-01;2030-03-12;Kloosterbaan 3;2370;Arendonk;België
 000024089;GOO;De tovertuin natuurlijk;Geregistreerd;2022-06-28;2026-06-28;Kleinvenstraat 2;3640;Kinrooi;België
 000024090;GOO;Van Eyck, E.;Geregistreerd;2022-07-01;2026-07-01;Watertorenstraat 22;3930;Hamont-Achel;België
 000024119;DGO;De Toverschommel;Geregistreerd;2022-07-11;2026-07-11;Otterstraat 29 bus 1;2300;Turnhout;België
@@ -717,6 +717,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 020292673;GOO;Claessen, D.;Geregistreerd;2025-04-16;2029-04-16;Kegelstraat 1;3900;Pelt;België
 020717015;GOO;Joormann-Framke, M.;Niet meer geregistreerd;2024-04-19;2024-07-24;Uferstrasse 3;46399;Bocholt;Duitsland
 021225837;DGO;Shepherds Hill Nursery;Geregistreerd;2025-10-20;2029-10-20;Shepherds Hill House, Northwood Road;UB9 6PT;Uxbridge Harefield;Engeland
+021828453;DGO;Ev.-ref. Kindertagesstätte Kökengoarm;Geregistreerd;2026-02-27;2030-02-27;Echteler Strasse 4;49849;Wilsum;Duitsland
 022625720;DGO;De Kleine Wereld;Geregistreerd;2025-07-02;2029-07-02;Ruddershove 5;8000;Brugge;België
 022694298;DGO;Joost-e-Fien;Geregistreerd;2024-06-23;2028-06-23;Braemtstraat 47;1210;Sint-Joost-ten-Node;België
 023439592;GOO;'t Uilennestje;Geregistreerd;2025-02-10;2029-02-10;Kraaienberg 70;2910;Essen;België
