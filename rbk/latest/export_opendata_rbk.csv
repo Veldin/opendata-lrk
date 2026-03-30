@@ -11,7 +11,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000005836;DGO;'t Herderhöfke;Geregistreerd;2014-06-04;2029-05-23;Sieberg 18;3770;Herderen;België
 000006002;DGO;Patapoef;Geregistreerd;2014-06-06;2026-05-12;Peperstraat 26;3770;Millen;België
 000006130;BSO;'t Speel-nestje;Geregistreerd;2014-06-17;2029-06-26;Nelisveld 11;3640;Kinrooi;België
-000006853;DGO;Kath. KiGa St. Marien;Geregistreerd;2014-07-11;2026-03-25;Zum Jägersberg 5;49716;Meppen;Duitsland
 000007328;DGO;Kath. Kindertageseinrichtung St. Gertrud Tüddern;Geregistreerd;2014-07-15;2029-03-28;Messweg 15;52538;Selfkant - Tüddern;Duitsland
 000007705;DGO;De Bengelboot;Geregistreerd;2014-08-21;2029-11-11;Donkerstraat 4;2387;Baarle-Hertog;België
 000008333;BSO;Domino - Schoonbeek;Geregistreerd;2014-10-29;2029-12-08;Schoolstraat 23;3740;Bilzen;België
@@ -63,8 +62,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000018296;DGO;Kath. Tageseinrichtung für Kinder St. Hubertus;Geregistreerd;2019-02-25;2027-01-12;Karl-Arnold-Strasse 8;52538;Selfkant;Duitsland
 000018338;GOO;Verlaak, S.;Geregistreerd;2019-03-04;2027-02-07;Daalstraat 8 B;3640;Kinrooi;België
 000018478;DGO;Kita Greifswalder Strasse;Geregistreerd;2019-03-26;2026-10-24;Greifswalder Strasse 38;20099;Hamburg;Duitsland
-000018545;DGO;Bridges Pre-school Nursery-Silverburn;Niet meer geregistreerd;2019-03-28;2023-03-28;Claymore Drive;AB23 8GD;Bridge of Don, Aberdeen;Groot Brittannië
-000018569;GOO;Van der Ploeg-Meineke, S.;Niet meer geregistreerd;2019-03-28;2021-02-28;Birkenweg 35;49843;Uelsen;Duitsland
 000018570;BSO;Domino Eigenbilzen;Niet meer geregistreerd;2019-04-01;2023-04-01;Eigenbilzenplein 4;3740;Bilzen;België
 000018582;DGO;Katholischer Kindergarten Marienheim;Niet meer geregistreerd;2019-04-02;2023-04-02;Pfarrer-Erbel-Weg 2;52525;Waldfeucht;Duitsland
 000018594;DGO;Emilien-Kindergartens;Niet meer geregistreerd;2019-04-02;2023-04-02;Geiststrasse 60;48151;Münster;Duitsland
@@ -438,7 +435,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000023656;GOO;Het Kinderbos;Niet meer geregistreerd;2022-03-09;2026-03-09;Bosstraat 270;3060;Bertem;België
 000023668;DGO;Tageseinrichtung für Kinder Lebensquelle;Niet meer geregistreerd;2022-03-16;2026-03-16;Schulstrasse 29;47559;Kranenburg;Duitsland
 000023681;DGO;Kath. Kindertagesstätte Pusteblume;Niet meer geregistreerd;2022-03-17;2026-03-17;Kornblumenweg 11;77656;Offenburg;Duitsland
-000023711;GOO;'t Zandkasteeltje;Geregistreerd;2022-03-25;2026-03-25;Zandstraat 116;9900;Eeklo;België
+000023711;GOO;'t Zandkasteeltje;Niet meer geregistreerd;2022-03-25;2026-03-25;Zandstraat 116;9900;Eeklo;België
 000023723;DGO;Kath. Kindertageseinrichtung St. Josef;Geregistreerd;2022-03-28;2026-03-28;Bahnhofstrasse 34;46459;Rees-Haldern;Duitsland
 000023747;BSO;Villa Nella;Geregistreerd;2022-04-04;2026-04-04;Brouwerijstraat 26;9880;Aalter;België
 000023772;DGO;Minitoba;Geregistreerd;2022-04-12;2026-04-12;Manitobalaan 48;8200;Sint-Andries;België
@@ -461,7 +458,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000023966;DGO;Kath. Kindertageseinrichtung St. Marien;Geregistreerd;2022-05-25;2026-05-25;Osnabrückerstrasse 339;48429;Rheine;Duitsland
 000023978;BSO;Pelterkids Grote Heide;Geregistreerd;2022-06-03;2026-06-03;Grote Heide 14;3910;Neerpelt (Pelt);België
 000024004;DGO;La Fée Clochette;Geregistreerd;2022-06-07;2026-06-07;Rue du Clocher 35;1040;Etterbeek;België
-000024028;BSO;Pelterkids Boseind;Geregistreerd;2022-06-09;2026-06-09;Haagdoornstraat 65;3910;Neerpelt (Pelt);België
+000024028;BSO;Pelterkids Boseind;Geregistreerd;2022-06-09;2030-03-19;Haagdoornstraat 65;3910;Neerpelt (Pelt);België
 000024041;DGO;Bongo;Geregistreerd;2022-06-14;2030-01-05;Dorpsstraat 126;2940;Stabroek;België
 000024053;DGO;AWO-Kita Heinz-Trox- Strasse;Geregistreerd;2022-06-24;2026-06-24;Heinz-Trox-Strasse 22;46419;Isselburg;Duitsland
 000024065;DGO;Royal Kids Sarl;Geregistreerd;2022-06-28;2026-06-28;206 Route de Longwy;1940;Luxemburg;Luxemburg
@@ -476,7 +473,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024181;BSO;Pelterkids Overpelt-Centrum;Geregistreerd;2022-07-19;2026-07-19;Ravotterkespad 1;3900;Overpelt (Pelt);België
 000024193;GOO;Queffeulou, E.;Niet meer geregistreerd;2022-07-20;2024-12-03;7 Place de L'Eglise;22140;Tonquédec;Frankrijk
 000024211;DGO;Städt. Tageseinrichtung für Kinder;Geregistreerd;2022-07-25;2026-07-25;Am Höfling 10;52066;Aachen;Duitsland
-000024223;BSO; 't Huis;Geregistreerd;2022-07-28;2026-07-28;Dorpsstraat 22 A-B;3630;Vucht (Maasmechelen);België
+000024223;BSO;'t Huis;Geregistreerd;2022-07-28;2030-03-23;Dorpsstraat 22 A-B;3630;Vucht (Maasmechelen);België
 000024247;DGO;'t Debberke 1;Geregistreerd;2022-08-04;2026-08-04;Boudewijnlaan 148;3630;Mechelen-Aan-De-Maas;België
 000024259;BSO;Kinderclub Pardoes;Geregistreerd;2022-08-08;2026-08-08;Sluis 159;2400;Mol;België
 000024260;BSO;Kinderclub Windekind;Geregistreerd;2022-08-08;2026-08-08;Achterbos 27;2400;Mol;België
