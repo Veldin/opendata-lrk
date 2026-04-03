@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "09-07-2012",
+    "uitschrijfdatum": "26-02-2026",
     "opvanglocatie_postcode": "6114GP",
     "opvanglocatie_woonplaats": "Susteren",
     "cbs_code": "1711",
     "verantwoordelijke_gemeente": "Echt-Susteren",
+    "gastouderbureau_1": "214471950",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/07607924-9f4d-4eea-8eb1-0fffe5048fa8"
 }
