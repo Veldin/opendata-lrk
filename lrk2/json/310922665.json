@@ -3,10 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "24-11-2025",
+    "uitschrijfdatum": "01-03-2026",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "1992",
     "verantwoordelijke_gemeente": "Voorne aan Zee",
+    "gastouderbureau_1": "171802093",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5be5f8d1-dd54-4719-b6c0-73adea98a347"
 }
