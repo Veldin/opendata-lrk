@@ -2,13 +2,15 @@
     "lrk_id": "131636078",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bax",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2018",
     "uitschrijfdatum": "15-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bax",
+    "contact_telefoon": "''",
     "cbs_code": "203",
     "verantwoordelijke_gemeente": "Barneveld",
-    "gastouderbureau_1": "131102369",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/66e1d19e-28db-4a59-98c7-4b628ad0644c"
 }

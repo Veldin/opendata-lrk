@@ -2,13 +2,15 @@
     "lrk_id": "896702893",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sieg",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-10-2016",
     "uitschrijfdatum": "27-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schattorie Sieg",
+    "contact_telefoon": "''",
     "cbs_code": "1641",
     "verantwoordelijke_gemeente": "Maasgouw",
-    "gastouderbureau_1": "146173685",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f585b289-c1d4-4519-93c6-6ba6a12499f3"
 }

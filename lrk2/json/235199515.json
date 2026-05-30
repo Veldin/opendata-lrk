@@ -2,13 +2,15 @@
     "lrk_id": "235199515",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Stuurman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-10-2018",
     "uitschrijfdatum": "30-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Stuurman",
+    "contact_telefoon": "''",
     "cbs_code": "590",
     "verantwoordelijke_gemeente": "Papendrecht",
-    "gastouderbureau_1": "125774060",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/33fbbe26-4108-44e4-ae11-fa7e1d270620"
 }

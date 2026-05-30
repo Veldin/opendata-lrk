@@ -2,13 +2,16 @@
     "lrk_id": "424264572",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dingemans Ritterbeeks",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-03-2017",
     "uitschrijfdatum": "01-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dingemans Ritterbeeks",
+    "contact_telefoon": "''",
+    "contact_emailadres": "sandyritterbeeks@hotmail.com",
     "cbs_code": "928",
     "verantwoordelijke_gemeente": "Kerkrade",
-    "gastouderbureau_1": "643125620",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ba648ca8-c7f6-4b70-a2c6-e7941a47d1bd"
 }

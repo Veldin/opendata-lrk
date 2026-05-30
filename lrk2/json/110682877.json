@@ -2,13 +2,15 @@
     "lrk_id": "110682877",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Landmeter Jansen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-07-2018",
     "uitschrijfdatum": "10-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Landmeter Jansen",
+    "contact_telefoon": "''",
     "cbs_code": "718",
     "verantwoordelijke_gemeente": "Vlissingen",
-    "gastouderbureau_1": "112085635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e607ce3e-f74e-42a2-ac19-5633ed85d9bc"
 }

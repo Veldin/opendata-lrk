@@ -2,13 +2,15 @@
     "lrk_id": "398304178",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van Steenbergen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-01-2014",
     "uitschrijfdatum": "06-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Steenbergen",
+    "contact_telefoon": "''",
     "cbs_code": "183",
     "verantwoordelijke_gemeente": "Tubbergen",
-    "gastouderbureau_1": "470783394",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/697d19f5-7260-42ee-99fc-0b6602d37a22"
 }

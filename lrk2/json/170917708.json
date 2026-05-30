@@ -2,13 +2,15 @@
     "lrk_id": "170917708",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Langeveld van Bohemen",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-03-2017",
     "uitschrijfdatum": "01-12-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Langeveld van Bohemen",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "131248224",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/66dd8e5e-b606-479e-836b-2348b353aff9"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "340013072",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kamphuis",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-01-2016",
     "uitschrijfdatum": "31-12-2017",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kamphuis",
+    "contact_telefoon": "''",
     "cbs_code": "1700",
     "verantwoordelijke_gemeente": "Twenterand",
-    "gastouderbureau_1": "837468863",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5dca43a2-1707-4ae5-957e-e5c1d191e52c"
 }

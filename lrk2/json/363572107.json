@@ -2,13 +2,15 @@
     "lrk_id": "363572107",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Heer van Vliet",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-09-2021",
     "uitschrijfdatum": "31-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Heer van Vliet",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/46a216e6-6ea7-4d9a-97e5-c5ad1b880517"
 }

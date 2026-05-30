@@ -2,13 +2,15 @@
     "lrk_id": "169562475",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Relker-Timmer",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-11-2010",
     "uitschrijfdatum": "13-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Relker-Timmer",
+    "contact_telefoon": "''",
     "cbs_code": "1859",
     "verantwoordelijke_gemeente": "Berkelland",
-    "gastouderbureau_1": "105447663",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/78cac938-1799-4d6b-adb6-f7fec9016c03"
 }

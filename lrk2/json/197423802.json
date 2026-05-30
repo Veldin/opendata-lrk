@@ -2,13 +2,15 @@
     "lrk_id": "197423802",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Van der Sluijs",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-05-2014",
     "uitschrijfdatum": "18-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Samani",
+    "contact_telefoon": "''",
     "cbs_code": "1978",
     "verantwoordelijke_gemeente": "Molenlanden",
-    "gastouderbureau_1": "826492496",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/925e36ac-77f5-46e2-9627-671d5b344225"
 }

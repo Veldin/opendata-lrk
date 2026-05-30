@@ -2,13 +2,16 @@
     "lrk_id": "692010658",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lipka",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-01-2020",
     "uitschrijfdatum": "15-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lipka",
+    "contact_telefoon": "'06- 54 37 71 62'",
+    "contact_emailadres": "ilselipka@hotmail.com",
     "cbs_code": "518",
     "verantwoordelijke_gemeente": "'s-Gravenhage",
-    "gastouderbureau_1": "176152453",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fe1b29d4-2acd-49d0-af9e-6137c513731a"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "928479146",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Genderen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-05-2014",
     "uitschrijfdatum": "06-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nijhoff van Genderen",
+    "contact_telefoon": "''",
     "cbs_code": "1978",
     "verantwoordelijke_gemeente": "Molenlanden",
-    "gastouderbureau_1": "104000570",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/92d9eae1-1510-4bd0-a9df-ba62e87db991"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "102260552",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Seijbel",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-05-2015",
     "uitschrijfdatum": "01-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Boer Seijbel",
+    "contact_telefoon": "''",
     "cbs_code": "678",
     "verantwoordelijke_gemeente": "Kapelle",
-    "gastouderbureau_1": "156668592",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/070958f8-9e55-42a3-92f3-3211a4ceac35"
 }

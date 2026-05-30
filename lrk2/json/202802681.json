@@ -2,13 +2,15 @@
     "lrk_id": "202802681",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zondag",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-01-2021",
     "uitschrijfdatum": "30-04-2026",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zondag",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "201268061",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e13d848c-547e-4359-9731-97d68dd591e4"
 }

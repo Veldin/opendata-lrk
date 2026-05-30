@@ -2,13 +2,15 @@
     "lrk_id": "303835874",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "El Mouaffak",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-03-2016",
     "uitschrijfdatum": "27-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "El Mouaffak",
+    "contact_telefoon": "''",
     "cbs_code": "518",
     "verantwoordelijke_gemeente": "'s-Gravenhage",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6284a305-41c2-40d5-a5d0-74b08b54ced6"
 }

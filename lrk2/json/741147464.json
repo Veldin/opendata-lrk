@@ -2,13 +2,15 @@
     "lrk_id": "741147464",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bastiaans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-10-2020",
     "uitschrijfdatum": "18-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Aoulad Abdelkrim",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b46954d6-d209-4dc0-95c4-f56d02c0d0de"
 }

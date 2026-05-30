@@ -2,13 +2,16 @@
     "lrk_id": "248423241",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zwinkels",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-03-2023",
     "uitschrijfdatum": "18-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zwinkels",
+    "contact_telefoon": "'0644790069'",
+    "contact_emailadres": "machteldzwinkels@hotmail.com",
     "cbs_code": "1894",
     "verantwoordelijke_gemeente": "Peel en Maas",
-    "gastouderbureau_1": "357692585",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/db8d3b65-c91b-4a94-81c5-5661d6450a10"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "124490517",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-11-2017",
     "uitschrijfdatum": "12-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meer",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/18fdcd92-698c-46f4-af7c-a1ea669260e2"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "228933456",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Roskam-Brandsma",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-07-2010",
     "uitschrijfdatum": "01-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Roskam Brandsma",
+    "contact_telefoon": "''",
     "cbs_code": "1708",
     "verantwoordelijke_gemeente": "Steenwijkerland",
-    "gastouderbureau_1": "839423111",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cb653da9-bede-4b56-aec9-deff5ef2fd9a"
 }

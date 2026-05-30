@@ -2,13 +2,15 @@
     "lrk_id": "118260170",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Roijter",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-06-2012",
     "uitschrijfdatum": "19-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Roijter",
+    "contact_telefoon": "''",
     "cbs_code": "402",
     "verantwoordelijke_gemeente": "Hilversum",
-    "gastouderbureau_1": "276344030",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/35ac4953-2f0c-4372-803e-028d281a6c3c"
 }

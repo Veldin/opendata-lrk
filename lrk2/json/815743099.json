@@ -2,13 +2,15 @@
     "lrk_id": "815743099",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Willemstein - Hollander",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-05-2012",
     "uitschrijfdatum": "05-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Willemstein - Hollander",
+    "contact_telefoon": "''",
     "cbs_code": "489",
     "verantwoordelijke_gemeente": "Barendrecht",
-    "gastouderbureau_1": "570617935",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e425d2b1-1fd7-4b23-a73e-27963ba0e1fe"
 }

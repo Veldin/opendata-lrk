@@ -2,13 +2,16 @@
     "lrk_id": "122999708",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Slager Friemann",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-11-2017",
     "uitschrijfdatum": "08-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Slager Friemann",
+    "contact_telefoon": "'06 16541231'",
+    "contact_emailadres": "strijnie@hotmail.com",
     "cbs_code": "1969",
     "verantwoordelijke_gemeente": "Westerkwartier",
-    "gastouderbureau_1": "134554747",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/620d4d61-9c42-4fa3-92d3-abb295d92207"
 }

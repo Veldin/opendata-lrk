@@ -2,13 +2,15 @@
     "lrk_id": "295140045",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van der Wal",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-03-2023",
     "uitschrijfdatum": "16-07-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wal",
+    "contact_telefoon": "''",
     "cbs_code": "203",
     "verantwoordelijke_gemeente": "Barneveld",
-    "gastouderbureau_1": "131102369",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/54f1d0c1-bb2f-405a-aa1e-9085f1e5a509"
 }

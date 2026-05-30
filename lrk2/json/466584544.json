@@ -2,13 +2,15 @@
     "lrk_id": "466584544",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Holkenbrink",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-10-2020",
     "uitschrijfdatum": "01-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Holkenbrink",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/04e42a2d-0f81-4c5b-853e-2f7e60e6f12f"
 }

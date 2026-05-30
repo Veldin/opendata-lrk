@@ -2,13 +2,15 @@
     "lrk_id": "117139816",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bos-Huizinga",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-12-2011",
     "uitschrijfdatum": "08-03-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bos-Huizinga",
+    "contact_telefoon": "''",
     "cbs_code": "114",
     "verantwoordelijke_gemeente": "Emmen",
-    "gastouderbureau_1": "872908495",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bf198c97-4845-452d-a126-46847806e80a"
 }

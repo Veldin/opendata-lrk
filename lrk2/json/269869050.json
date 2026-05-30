@@ -2,13 +2,15 @@
     "lrk_id": "269869050",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vosslamber Ensing",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-12-2017",
     "uitschrijfdatum": "01-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vosslamber Ensing",
+    "contact_telefoon": "''",
     "cbs_code": "50",
     "verantwoordelijke_gemeente": "Zeewolde",
-    "gastouderbureau_1": "151525924",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/04943020-384c-42e3-8b33-1172a82e6ea5"
 }

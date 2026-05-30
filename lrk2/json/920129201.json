@@ -2,13 +2,15 @@
     "lrk_id": "920129201",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wieskamp Harmsen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-03-2021",
     "uitschrijfdatum": "29-08-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wieskamp Harmsen",
+    "contact_telefoon": "''",
     "cbs_code": "197",
     "verantwoordelijke_gemeente": "Aalten",
-    "gastouderbureau_1": "207294847",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b6e53e83-63d1-4482-b0c1-f34d842812a6"
 }

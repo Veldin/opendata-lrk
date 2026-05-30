@@ -2,13 +2,15 @@
     "lrk_id": "178544309",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Jetten",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-05-2017",
     "uitschrijfdatum": "09-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jetten",
+    "contact_telefoon": "''",
     "cbs_code": "1945",
     "verantwoordelijke_gemeente": "Berg en Dal",
-    "gastouderbureau_1": "261224128",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/40fc6ed2-340e-45c3-adf3-2870e3919e20"
 }

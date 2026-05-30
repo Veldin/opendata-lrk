@@ -2,13 +2,15 @@
     "lrk_id": "172309037",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bosch-Knippels",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-10-2012",
     "uitschrijfdatum": "31-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bosch- Knippels",
+    "contact_telefoon": "''",
     "cbs_code": "274",
     "verantwoordelijke_gemeente": "Renkum",
-    "gastouderbureau_1": "201301969",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e39abe0f-dfbf-4a4c-9824-c6ba33bb2684"
 }

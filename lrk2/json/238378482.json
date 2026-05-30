@@ -2,13 +2,15 @@
     "lrk_id": "238378482",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Baalen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-01-2016",
     "uitschrijfdatum": "07-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Maurer van Baalen",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "178690326",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a4d6212f-47f0-4bdb-a873-de49f9ca449f"
 }

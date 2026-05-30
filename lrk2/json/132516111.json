@@ -2,13 +2,15 @@
     "lrk_id": "132516111",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Glashouwer Langenkamp",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-04-2017",
     "uitschrijfdatum": "04-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Glashouwer Langenkamp",
+    "contact_telefoon": "''",
     "cbs_code": "1940",
     "verantwoordelijke_gemeente": "De Fryske Marren",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a54f1be8-0162-4a97-983d-d27898a2d8a7"
 }

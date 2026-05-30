@@ -2,13 +2,15 @@
     "lrk_id": "172913548",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wijngaarden Geertman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-09-2022",
     "uitschrijfdatum": "08-05-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wijngaarden Geertman",
+    "contact_telefoon": "''",
     "cbs_code": "1681",
     "verantwoordelijke_gemeente": "Borger-Odoorn",
-    "gastouderbureau_1": "195998261",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dcf6c847-262a-45a6-afb6-2ba76ca03594"
 }

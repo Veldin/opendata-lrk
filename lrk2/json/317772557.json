@@ -2,13 +2,15 @@
     "lrk_id": "317772557",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dam",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-03-2017",
     "uitschrijfdatum": "13-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dam",
+    "contact_telefoon": "''",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "102281385",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bdb3fbe5-8f9f-4239-a0be-9ccb33238b79"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "291892589",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Handgraaf van Duijvenbode",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-11-2018",
     "uitschrijfdatum": "01-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Handgraaf van Duijvenbode",
+    "contact_telefoon": "''",
     "cbs_code": "537",
     "verantwoordelijke_gemeente": "Katwijk",
-    "gastouderbureau_1": "755893530",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/26ccca23-af7d-4f94-bf2d-15b573967a36"
 }

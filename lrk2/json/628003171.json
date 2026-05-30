@@ -2,13 +2,15 @@
     "lrk_id": "628003171",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mersmann van Onzenoort",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-03-2022",
     "uitschrijfdatum": "15-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Mersmann van Onzenoort",
+    "contact_telefoon": "''",
     "cbs_code": "453",
     "verantwoordelijke_gemeente": "Velsen",
-    "gastouderbureau_1": "120189197",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/009524f0-b459-4608-9366-167d5383ff50"
 }

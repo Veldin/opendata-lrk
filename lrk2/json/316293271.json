@@ -2,13 +2,15 @@
     "lrk_id": "316293271",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Eerenbeemt van Grotel",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2018",
     "uitschrijfdatum": "19-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Eerenbeemt van Grotel",
+    "contact_telefoon": "''",
     "cbs_code": "743",
     "verantwoordelijke_gemeente": "Asten",
-    "gastouderbureau_1": "107701212",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/aefd81e8-112c-45c1-95f2-3a7ceacb3fd5"
 }

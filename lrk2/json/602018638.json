@@ -2,13 +2,15 @@
     "lrk_id": "602018638",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Staaij - Sengers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-06-2012",
     "uitschrijfdatum": "15-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Staaij - Sengers",
+    "contact_telefoon": "''",
     "cbs_code": "1991",
     "verantwoordelijke_gemeente": "Maashorst",
-    "gastouderbureau_1": "199912774",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0b9b490c-8d05-471f-899b-e88174ba27e2"
 }

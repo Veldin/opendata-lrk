@@ -2,13 +2,15 @@
     "lrk_id": "517607347",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Keltjens",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-04-2010",
     "uitschrijfdatum": "17-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Keltjens",
+    "contact_telefoon": "''",
     "cbs_code": "983",
     "verantwoordelijke_gemeente": "Venlo",
-    "gastouderbureau_1": "357692585",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a48bcce5-fa17-4dd9-9f52-790e75904f58"
 }

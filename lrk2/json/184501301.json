@@ -2,13 +2,15 @@
     "lrk_id": "184501301",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Telkamp",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-01-2023",
     "uitschrijfdatum": "01-08-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Telkamp",
+    "contact_telefoon": "''",
     "cbs_code": "310",
     "verantwoordelijke_gemeente": "De Bilt",
-    "gastouderbureau_1": "147830965",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/258ad0a1-8942-4bb8-9ccc-ac63d0afe82e"
 }

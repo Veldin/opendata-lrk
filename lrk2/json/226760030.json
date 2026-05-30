@@ -2,13 +2,15 @@
     "lrk_id": "226760030",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zeeuw-Wijntjes",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-12-2010",
     "uitschrijfdatum": "08-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zeeuw-Wijntjes",
+    "contact_telefoon": "''",
     "cbs_code": "1955",
     "verantwoordelijke_gemeente": "Montferland",
-    "gastouderbureau_1": "510383154",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4324ca92-8cf0-454d-a740-4ff996ee0167"
 }

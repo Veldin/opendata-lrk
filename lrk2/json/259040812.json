@@ -2,13 +2,15 @@
     "lrk_id": "259040812",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Boonstra Wuts",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-07-2017",
     "uitschrijfdatum": "07-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Boonstra Wuts",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "831116183",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e798954e-677b-4a88-a362-8f624e3edfe7"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "120331901",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wiekema",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-09-2014",
     "uitschrijfdatum": "16-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wiekema",
+    "contact_telefoon": "'0617137087'",
+    "contact_emailadres": "femkewiekema@gmail.com",
     "cbs_code": "848",
     "verantwoordelijke_gemeente": "Son en Breugel",
-    "gastouderbureau_1": "187618161",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/35bd5d50-dbc7-474e-8527-1055b0aa8a2e"
 }

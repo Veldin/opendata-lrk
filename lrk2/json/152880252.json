@@ -2,13 +2,15 @@
     "lrk_id": "152880252",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "M.F. Spanjaards-Meulemans",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-10-2016",
     "uitschrijfdatum": "31-12-2017",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Spanjaards Meulemans",
+    "contact_telefoon": "''",
     "cbs_code": "296",
     "verantwoordelijke_gemeente": "Wijchen",
-    "gastouderbureau_1": "190312981",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/82deb345-3988-4b7f-a30e-7283a61b06d7"
 }

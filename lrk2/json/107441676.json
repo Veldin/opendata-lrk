@@ -2,13 +2,15 @@
     "lrk_id": "107441676",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Verzijl",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-04-2016",
     "uitschrijfdatum": "15-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Verzijl",
+    "contact_telefoon": "''",
     "cbs_code": "899",
     "verantwoordelijke_gemeente": "Brunssum",
-    "gastouderbureau_1": "210344465",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b9ecf331-5aa4-4879-823a-ed55825dbcfe"
 }

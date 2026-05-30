@@ -2,13 +2,16 @@
     "lrk_id": "201116753",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hof van 't-van Dijk",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-04-2019",
     "uitschrijfdatum": "08-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hof van Dijk",
+    "contact_telefoon": "'0643111342'",
+    "contact_emailadres": "gerjavanthofvandijk@kpnplanet.nl",
     "cbs_code": "1960",
     "verantwoordelijke_gemeente": "West Betuwe",
-    "gastouderbureau_1": "576811993",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/09dea22a-25b5-4a8c-9fd8-329cc0a522ed"
 }

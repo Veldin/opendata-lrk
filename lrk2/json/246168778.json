@@ -2,13 +2,15 @@
     "lrk_id": "246168778",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nanninga-Knol",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-10-2010",
     "uitschrijfdatum": "07-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nanninga Knol",
+    "contact_telefoon": "''",
     "cbs_code": "118",
     "verantwoordelijke_gemeente": "Hoogeveen",
-    "gastouderbureau_1": "853556829",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/57345c8d-cd87-4715-9f5d-6c90c7f7148c"
 }

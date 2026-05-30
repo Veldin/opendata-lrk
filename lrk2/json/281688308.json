@@ -2,13 +2,15 @@
     "lrk_id": "281688308",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sanden Moonen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-03-2015",
     "uitschrijfdatum": "01-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sanden Moonen",
+    "contact_telefoon": "''",
     "cbs_code": "797",
     "verantwoordelijke_gemeente": "Heusden",
-    "gastouderbureau_1": "208914973",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/802a236f-0d75-4aeb-a916-3b801105ec19"
 }

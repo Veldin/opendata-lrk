@@ -2,13 +2,15 @@
     "lrk_id": "269616275",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kuiper Sein",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2017",
     "uitschrijfdatum": "26-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kuiper Sein",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/860760d5-af3a-46fd-9a79-e702de1c8b7e"
 }

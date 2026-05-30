@@ -2,13 +2,15 @@
     "lrk_id": "825032684",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoogwerf-Kros",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-09-2010",
     "uitschrijfdatum": "30-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoogwerf-Kros",
+    "contact_telefoon": "''",
     "cbs_code": "489",
     "verantwoordelijke_gemeente": "Barendrecht",
-    "gastouderbureau_1": "164080855",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d52efceb-78d6-47f2-868c-4852583fc204"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "763280069",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Eikelboom",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-12-2015",
     "uitschrijfdatum": "01-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Eikelboom",
+    "contact_telefoon": "''",
     "cbs_code": "1911",
     "verantwoordelijke_gemeente": "Hollands Kroon",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c1f882fa-49df-4d31-b7a2-1544b2c6151c"
 }

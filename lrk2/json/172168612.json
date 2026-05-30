@@ -2,13 +2,15 @@
     "lrk_id": "172168612",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Okkes",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2017",
     "uitschrijfdatum": "31-12-2017",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Okkes",
+    "contact_telefoon": "''",
     "cbs_code": "417",
     "verantwoordelijke_gemeente": "Laren",
-    "gastouderbureau_1": "226759799",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e6b3a67f-bc06-4a20-abf5-374bcfb505a8"
 }

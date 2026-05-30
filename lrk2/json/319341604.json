@@ -2,13 +2,15 @@
     "lrk_id": "319341604",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Pullen-van Nieuwenhuizen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-01-2016",
     "uitschrijfdatum": "22-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Pullen van Nieuwenhuizen",
+    "contact_telefoon": "''",
     "cbs_code": "273",
     "verantwoordelijke_gemeente": "Putten",
-    "gastouderbureau_1": "283501844",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/93878f1d-3a63-46ba-ab55-4a1ea39a3225"
 }

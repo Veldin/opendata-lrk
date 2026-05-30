@@ -2,13 +2,15 @@
     "lrk_id": "115328312",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Korf-Wezenaar",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-10-2010",
     "uitschrijfdatum": "01-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Korf-Wezenaar",
+    "contact_telefoon": "''",
     "cbs_code": "394",
     "verantwoordelijke_gemeente": "Haarlemmermeer",
-    "gastouderbureau_1": "225800378",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/55f63f19-8770-4a48-b5f8-0ed4bfee41fa"
 }

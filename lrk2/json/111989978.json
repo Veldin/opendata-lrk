@@ -2,13 +2,15 @@
     "lrk_id": "111989978",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Broos",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-11-2014",
     "uitschrijfdatum": "15-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Broos",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "442836387",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cba5b761-bdbc-412b-b032-a63b73b1c1e4"
 }

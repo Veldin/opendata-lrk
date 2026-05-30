@@ -2,13 +2,15 @@
     "lrk_id": "312830804",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Oosenbrug",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2020",
     "uitschrijfdatum": "31-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Oosenbrug",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "385569786",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4b4e17a9-5dd5-4dd3-94ee-a4689c0e17ec"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "131028893",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Immink",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-12-2010",
     "uitschrijfdatum": "01-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Immink",
+    "contact_telefoon": "''",
     "cbs_code": "114",
     "verantwoordelijke_gemeente": "Emmen",
-    "gastouderbureau_1": "872908495",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f48ab13b-163f-47c3-82cd-f7b7bb1377ef"
 }

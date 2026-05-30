@@ -2,13 +2,15 @@
     "lrk_id": "214909517",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Laman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-10-2015",
     "uitschrijfdatum": "06-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Laman",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a23ba7d8-38ad-4352-a0ec-09ba00a5e723"
 }

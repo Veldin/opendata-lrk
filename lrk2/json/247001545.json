@@ -2,13 +2,15 @@
     "lrk_id": "247001545",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dieleman",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-12-2010",
     "uitschrijfdatum": "14-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoezen Dieleman",
+    "contact_telefoon": "''",
     "cbs_code": "957",
     "verantwoordelijke_gemeente": "Roermond",
-    "gastouderbureau_1": "146173685",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/628ed51e-49f1-4183-b02b-b7af2719f6b5"
 }

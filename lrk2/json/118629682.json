@@ -2,13 +2,15 @@
     "lrk_id": "118629682",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kempel",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-09-2017",
     "uitschrijfdatum": "01-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kempel",
+    "contact_telefoon": "''",
     "cbs_code": "197",
     "verantwoordelijke_gemeente": "Aalten",
-    "gastouderbureau_1": "126932621",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d5676521-39b3-4d9c-ab75-796b341845a6"
 }

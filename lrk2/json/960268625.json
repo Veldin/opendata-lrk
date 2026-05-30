@@ -2,13 +2,15 @@
     "lrk_id": "960268625",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wijnhoven-Groenen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-09-2010",
     "uitschrijfdatum": "01-10-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wijnhoven-Groenen",
+    "contact_telefoon": "''",
     "cbs_code": "893",
     "verantwoordelijke_gemeente": "Bergen (L)",
-    "gastouderbureau_1": "805672333",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cf7fc45d-7fce-4eee-b4a5-84750bbdb6b0"
 }

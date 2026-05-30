@@ -2,13 +2,15 @@
     "lrk_id": "365891514",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Steen",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-05-2013",
     "uitschrijfdatum": "20-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Steen",
+    "contact_telefoon": "''",
     "cbs_code": "1952",
     "verantwoordelijke_gemeente": "Midden-Groningen",
-    "gastouderbureau_1": "178452294",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3ed692c5-e1a6-4914-b08b-09171caf5cce"
 }

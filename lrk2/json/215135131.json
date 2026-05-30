@@ -2,13 +2,15 @@
     "lrk_id": "215135131",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Roelfs Nijdam",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-03-2016",
     "uitschrijfdatum": "05-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Roelfs Nijdam",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "111052804",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7ecc98ac-1a14-4f5b-9bd6-c6fa91643697"
 }

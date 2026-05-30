@@ -2,14 +2,15 @@
     "lrk_id": "124817841",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Klink-de Jong",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-10-2010",
     "uitschrijfdatum": "04-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jong van Klink",
+    "contact_telefoon": "'0297-273050'",
     "cbs_code": "736",
     "verantwoordelijke_gemeente": "De Ronde Venen",
-    "gastouderbureau_1": "123870513",
-    "gastouderbureau_2": "594786216",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/576bab63-d742-4b70-b132-905e5a812c7e"
 }

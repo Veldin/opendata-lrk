@@ -2,13 +2,15 @@
     "lrk_id": "978980281",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Leander Rinsma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-06-2020",
     "uitschrijfdatum": "15-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Leander Rinsma",
+    "contact_telefoon": "''",
     "cbs_code": "150",
     "verantwoordelijke_gemeente": "Deventer",
-    "gastouderbureau_1": "696820687",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5e603046-3309-496f-83aa-0f39806eaba8"
 }

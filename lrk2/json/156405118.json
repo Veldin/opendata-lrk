@@ -2,13 +2,15 @@
     "lrk_id": "156405118",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Clonie Mac Lennan",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-11-2021",
     "uitschrijfdatum": "01-08-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Clonie Mac Lennan",
+    "contact_telefoon": "''",
     "cbs_code": "988",
     "verantwoordelijke_gemeente": "Weert",
-    "gastouderbureau_1": "233827158",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9d4e12ea-e8dc-447c-bf14-126d72ff3b6d"
 }

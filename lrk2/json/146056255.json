@@ -2,13 +2,15 @@
     "lrk_id": "146056255",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ben Hammou",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-07-2016",
     "uitschrijfdatum": "16-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hammou",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "325501890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/784ca6a9-6f57-49c4-bca3-a7360df3a36f"
 }

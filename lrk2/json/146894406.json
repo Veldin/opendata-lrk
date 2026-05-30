@@ -2,13 +2,15 @@
     "lrk_id": "146894406",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Litjens",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-07-2015",
     "uitschrijfdatum": "01-01-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Litjens",
+    "contact_telefoon": "''",
     "cbs_code": "984",
     "verantwoordelijke_gemeente": "Venray",
-    "gastouderbureau_1": "976352941",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4126ba25-ea31-4719-9e5b-6b82e34cdbf8"
 }

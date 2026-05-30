@@ -2,13 +2,15 @@
     "lrk_id": "175770773",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kapitein",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-03-2017",
     "uitschrijfdatum": "01-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kapitein",
+    "contact_telefoon": "''",
     "cbs_code": "1655",
     "verantwoordelijke_gemeente": "Halderberge",
-    "gastouderbureau_1": "836058112",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/02ea1940-5055-43f8-8cf9-c2b0e718caba"
 }

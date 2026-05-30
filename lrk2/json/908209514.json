@@ -2,13 +2,15 @@
     "lrk_id": "908209514",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bilge Coskun",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-04-2017",
     "uitschrijfdatum": "17-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bilge Coskun",
+    "contact_telefoon": "''",
     "cbs_code": "606",
     "verantwoordelijke_gemeente": "Schiedam",
-    "gastouderbureau_1": "121964334",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1a9554df-a9ac-407a-9f60-1f6dfbc79c44"
 }

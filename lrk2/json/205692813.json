@@ -2,13 +2,15 @@
     "lrk_id": "205692813",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bourgonje",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-07-2010",
     "uitschrijfdatum": "18-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bourgonje",
+    "contact_telefoon": "''",
     "cbs_code": "232",
     "verantwoordelijke_gemeente": "Epe",
-    "gastouderbureau_1": "295706442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ea0d1310-0e64-4056-aa01-4148591a26fa"
 }

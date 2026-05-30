@@ -2,13 +2,15 @@
     "lrk_id": "183331679",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "A. van der Schaaf",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-07-2012",
     "uitschrijfdatum": "01-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "van der Schaaf",
+    "contact_telefoon": "''",
     "cbs_code": "1891",
     "verantwoordelijke_gemeente": "Dantumadiel",
-    "gastouderbureau_1": "226938396",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/12317b26-16f5-4699-ae04-f69e7c6a7808"
 }

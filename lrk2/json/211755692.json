@@ -2,13 +2,16 @@
     "lrk_id": "211755692",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bos Verbaenen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2021",
     "uitschrijfdatum": "26-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bos Verbaenen",
+    "contact_telefoon": "'0611470638'",
+    "contact_website": "http://www.thuiscreche.nl",
     "cbs_code": "1955",
     "verantwoordelijke_gemeente": "Montferland",
-    "gastouderbureau_1": "165968564",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f76914ba-a291-477c-a13c-bc4fbafb466a"
 }

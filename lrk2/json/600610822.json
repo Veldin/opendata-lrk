@@ -2,13 +2,16 @@
     "lrk_id": "600610822",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Blindeling",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-05-2017",
     "uitschrijfdatum": "07-04-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Blindeling",
+    "contact_telefoon": "'0648348732'",
+    "contact_emailadres": "Pamitrabou@gmail.com",
     "cbs_code": "308",
     "verantwoordelijke_gemeente": "Baarn",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/35327d99-87c0-479e-9e8a-fb58c128fa5f"
 }

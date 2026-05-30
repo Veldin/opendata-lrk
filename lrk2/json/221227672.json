@@ -2,13 +2,15 @@
     "lrk_id": "221227672",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mook",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2015",
     "uitschrijfdatum": "15-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dijk Mook",
+    "contact_telefoon": "''",
     "cbs_code": "228",
     "verantwoordelijke_gemeente": "Ede",
-    "gastouderbureau_1": "162801580",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a98813ca-46d4-4754-adc4-422972e63446"
 }

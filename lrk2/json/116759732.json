@@ -2,13 +2,15 @@
     "lrk_id": "116759732",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kuijpers-Burg",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-02-2020",
     "uitschrijfdatum": "31-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kuijpers-Burg",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "166373965",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ba40f845-68cc-4989-9fc2-e00ec185193c"
 }

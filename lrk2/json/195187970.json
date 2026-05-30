@@ -2,13 +2,15 @@
     "lrk_id": "195187970",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Heemskerk",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-03-2021",
     "uitschrijfdatum": "01-05-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Heemskerk",
+    "contact_telefoon": "''",
     "cbs_code": "473",
     "verantwoordelijke_gemeente": "Zandvoort",
-    "gastouderbureau_1": "120189197",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f82e340d-d39e-42bc-8a95-b46f96aa1b4e"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "300037065",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Beukers van Steijn",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-10-2017",
     "uitschrijfdatum": "27-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Beukers van Steijn",
+    "contact_telefoon": "'06-48031321'",
+    "contact_emailadres": "david_beukers@hotmail.com",
     "cbs_code": "579",
     "verantwoordelijke_gemeente": "Oegstgeest",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b80b4be9-19eb-4f50-86c9-b5ca44017286"
 }

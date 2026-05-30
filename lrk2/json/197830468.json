@@ -2,13 +2,16 @@
     "lrk_id": "197830468",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoogenboom",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-01-2019",
     "uitschrijfdatum": "20-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoogenboom",
+    "contact_telefoon": "'0653332156'",
+    "contact_emailadres": "j.hoogenboom@live.nl",
     "cbs_code": "826",
     "verantwoordelijke_gemeente": "Oosterhout",
-    "gastouderbureau_1": "142224686",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0ca1988c-c1fe-4624-95f9-d92e32e573b8"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "646999023",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Swijghuizen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-10-2016",
     "uitschrijfdatum": "01-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Swijghuizen",
+    "contact_telefoon": "''",
     "cbs_code": "1982",
     "verantwoordelijke_gemeente": "Land van Cuijk",
-    "gastouderbureau_1": "976352941",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/60273c98-3a50-4536-9e31-f2e37a602627"
 }

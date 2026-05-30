@@ -2,13 +2,15 @@
     "lrk_id": "299150975",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vries",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-05-2019",
     "uitschrijfdatum": "02-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vries",
+    "contact_telefoon": "''",
     "cbs_code": "213",
     "verantwoordelijke_gemeente": "Brummen",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6d57fd8a-5cbc-4a33-9d6a-57945ebcbef1"
 }

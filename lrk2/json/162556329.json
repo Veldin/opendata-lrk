@@ -2,13 +2,15 @@
     "lrk_id": "162556329",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Geris-Vogels",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-11-2010",
     "uitschrijfdatum": "01-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Geris-Vogels",
+    "contact_telefoon": "''",
     "cbs_code": "1894",
     "verantwoordelijke_gemeente": "Peel en Maas",
-    "gastouderbureau_1": "128064134",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/87aeecb8-f2cd-4084-a4b2-afa7ae8fc424"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "312859922",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Pijffers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-03-2017",
     "uitschrijfdatum": "01-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Pijkeren Pijffers",
+    "contact_telefoon": "''",
     "cbs_code": "1742",
     "verantwoordelijke_gemeente": "Rijssen-Holten",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/eb56e596-6809-407d-a9f7-4cd86a4c2560"
 }

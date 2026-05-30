@@ -2,13 +2,16 @@
     "lrk_id": "103992649",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hayati",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-12-2021",
     "uitschrijfdatum": "13-05-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hayati",
+    "contact_telefoon": "'0628770092'",
+    "contact_emailadres": "fatimahayati94@hotmail.com",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "103287127",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5b374553-dfde-491e-9cc5-995c34abbf6f"
 }

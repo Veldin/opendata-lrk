@@ -2,13 +2,15 @@
     "lrk_id": "949822206",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hagendoorn-Die",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-07-2014",
     "uitschrijfdatum": "31-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hagendoorn",
+    "contact_telefoon": "''",
     "cbs_code": "597",
     "verantwoordelijke_gemeente": "Ridderkerk",
-    "gastouderbureau_1": "570617935",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b35515e2-45a8-4b3b-be88-3ea3cc741815"
 }

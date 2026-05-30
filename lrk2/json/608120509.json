@@ -2,13 +2,15 @@
     "lrk_id": "608120509",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bosman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2024",
     "uitschrijfdatum": "15-05-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bosman",
+    "contact_telefoon": "''",
     "cbs_code": "1916",
     "verantwoordelijke_gemeente": "Leidschendam-Voorburg",
-    "gastouderbureau_1": "171802093",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e19473a3-56b2-416e-a2c5-e10c93af8028"
 }

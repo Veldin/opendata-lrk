@@ -2,13 +2,15 @@
     "lrk_id": "271834171",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Setten-Idzerda",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-10-2016",
     "uitschrijfdatum": "01-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Setten-Idzerda",
+    "contact_telefoon": "''",
     "cbs_code": "355",
     "verantwoordelijke_gemeente": "Zeist",
-    "gastouderbureau_1": "161848060",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/91248948-1fed-4f41-b5a2-49bb551a7eea"
 }

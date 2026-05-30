@@ -2,13 +2,15 @@
     "lrk_id": "193228555",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Piersma",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-01-2020",
     "uitschrijfdatum": "24-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Piersma",
+    "contact_telefoon": "''",
     "cbs_code": "1949",
     "verantwoordelijke_gemeente": "Waadhoeke",
-    "gastouderbureau_1": "818211118",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/07d42599-0c0e-4839-921d-cd1491c0857f"
 }

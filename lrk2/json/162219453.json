@@ -2,13 +2,15 @@
     "lrk_id": "162219453",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Jeurissen-Jaeqx",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-04-2015",
     "uitschrijfdatum": "25-05-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jeurissen-Jaeqx",
+    "contact_telefoon": "''",
     "cbs_code": "917",
     "verantwoordelijke_gemeente": "Heerlen",
-    "gastouderbureau_1": "165519034",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b636790c-2562-4f3c-9538-f5d79959d37f"
 }

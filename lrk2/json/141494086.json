@@ -2,13 +2,15 @@
     "lrk_id": "141494086",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hagman",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-10-2018",
     "uitschrijfdatum": "01-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hagman",
+    "contact_telefoon": "''",
     "cbs_code": "1783",
     "verantwoordelijke_gemeente": "Westland",
-    "gastouderbureau_1": "820712103",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bb397288-cbde-40b0-9c05-2f651bb74014"
 }

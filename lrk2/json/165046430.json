@@ -2,14 +2,15 @@
     "lrk_id": "165046430",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koning",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-09-2010",
     "uitschrijfdatum": "05-05-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koning",
+    "contact_telefoon": "''",
     "cbs_code": "1901",
     "verantwoordelijke_gemeente": "Bodegraven-Reeuwijk",
-    "gastouderbureau_1": "138358242",
-    "gastouderbureau_2": "176152453",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8cb1f97a-2da2-416c-97cd-e16ab3a35227"
 }

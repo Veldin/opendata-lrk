@@ -2,13 +2,16 @@
     "lrk_id": "993523481",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kalis",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-09-2019",
     "uitschrijfdatum": "07-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kalis",
+    "contact_telefoon": "'0639061664'",
+    "contact_emailadres": "debora_kalis@hotmail.com",
     "cbs_code": "523",
     "verantwoordelijke_gemeente": "Hardinxveld-Giessendam",
-    "gastouderbureau_1": "826492496",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f66a4d99-21f7-4d05-a289-dcc9ba670677"
 }

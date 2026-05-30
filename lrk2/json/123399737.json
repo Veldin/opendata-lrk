@@ -2,13 +2,15 @@
     "lrk_id": "123399737",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Cremers-Looijmans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-04-2017",
     "uitschrijfdatum": "01-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Cremers-Looijmans",
+    "contact_telefoon": "''",
     "cbs_code": "772",
     "verantwoordelijke_gemeente": "Eindhoven",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7b485091-cefa-4549-8fd9-77b3d3f84144"
 }

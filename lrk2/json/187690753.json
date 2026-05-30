@@ -2,13 +2,15 @@
     "lrk_id": "187690753",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Smit-Kloosterman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-10-2017",
     "uitschrijfdatum": "22-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Smit Kloosterman",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "818211118",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/187f05a9-f638-4548-9a74-98f6cbceeb98"
 }

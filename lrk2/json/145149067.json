@@ -2,13 +2,15 @@
     "lrk_id": "145149067",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Talens",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2021",
     "uitschrijfdatum": "12-10-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Talens",
+    "contact_telefoon": "''",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
-    "gastouderbureau_1": "385569786",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7db1bfa3-a391-4f0b-8f82-9d00abc8965c"
 }

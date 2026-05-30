@@ -2,13 +2,15 @@
     "lrk_id": "200505051",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Oosterhuis Martina",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-02-2021",
     "uitschrijfdatum": "01-11-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Oosterhuis Martina",
+    "contact_telefoon": "''",
     "cbs_code": "479",
     "verantwoordelijke_gemeente": "Zaanstad",
-    "gastouderbureau_1": "158005909",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0c50d894-30aa-471f-81b0-6a78181472bd"
 }

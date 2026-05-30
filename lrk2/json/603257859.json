@@ -2,13 +2,15 @@
     "lrk_id": "603257859",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Niet Hallie",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-07-2018",
     "uitschrijfdatum": "04-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Niet Hallie",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "300656683",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a46775c3-ba83-4dcb-a7ad-d25b2fb16487"
 }

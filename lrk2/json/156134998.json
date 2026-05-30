@@ -2,13 +2,15 @@
     "lrk_id": "156134998",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kelders",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-03-2018",
     "uitschrijfdatum": "15-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kelders",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "109212174",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/abe916ce-ed2d-4ea8-9ed3-d11ff9164650"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "139108944",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Groot-Tettelaar",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-12-2010",
     "uitschrijfdatum": "31-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Groot-Tettelaar",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "117383521",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/556e2b0a-67e1-45ee-85b1-cd1aa59e9b86"
 }

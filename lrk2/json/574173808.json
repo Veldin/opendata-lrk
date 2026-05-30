@@ -2,13 +2,15 @@
     "lrk_id": "574173808",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Visser-Post",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-08-2010",
     "uitschrijfdatum": "12-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Post",
+    "contact_telefoon": "''",
     "cbs_code": "498",
     "verantwoordelijke_gemeente": "Drechterland",
-    "gastouderbureau_1": "161812284",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/832c4a4b-77bd-43b0-9107-76a619952c69"
 }

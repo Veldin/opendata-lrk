@@ -2,13 +2,15 @@
     "lrk_id": "237294795",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "de Roo- Plas",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-04-2018",
     "uitschrijfdatum": "30-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Roo Plas",
+    "contact_telefoon": "''",
     "cbs_code": "1940",
     "verantwoordelijke_gemeente": "De Fryske Marren",
-    "gastouderbureau_1": "170370471",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/60d1697f-c157-41b5-a0d2-cec3c3185af2"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "321259154",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bakker Eggen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-11-2019",
     "uitschrijfdatum": "05-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bakker Eggen",
+    "contact_telefoon": "'0611739308'",
     "cbs_code": "1681",
     "verantwoordelijke_gemeente": "Borger-Odoorn",
-    "gastouderbureau_1": "196464316",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ed683a09-fd7d-486d-91d2-4c39ea927162"
 }

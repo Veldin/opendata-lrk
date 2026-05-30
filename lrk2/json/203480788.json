@@ -2,13 +2,15 @@
     "lrk_id": "203480788",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Jong ten Katen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-08-2017",
     "uitschrijfdatum": "01-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jong ten Katen",
+    "contact_telefoon": "''",
     "cbs_code": "1581",
     "verantwoordelijke_gemeente": "Utrechtse Heuvelrug",
-    "gastouderbureau_1": "213792849",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/81d8c968-8165-4d3a-9480-d289cac981b2"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "240023699",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schaik van Beek",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-09-2018",
     "uitschrijfdatum": "01-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schaik van Beek",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2abb5862-24ba-448d-aa4a-42e0925df05c"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "158518068",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Luten-Tabbert",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-01-2015",
     "uitschrijfdatum": "17-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Luten",
+    "contact_telefoon": "''",
     "cbs_code": "160",
     "verantwoordelijke_gemeente": "Hardenberg",
-    "gastouderbureau_1": "918762352",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/754b1717-b1d9-46c4-9846-0623743f4a35"
 }

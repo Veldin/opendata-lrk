@@ -2,13 +2,15 @@
     "lrk_id": "161545294",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Heijkans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-05-2017",
     "uitschrijfdatum": "25-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Heijkans",
+    "contact_telefoon": "''",
     "cbs_code": "1926",
     "verantwoordelijke_gemeente": "Pijnacker-Nootdorp",
-    "gastouderbureau_1": "230061643",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/95fa1b72-3031-4550-9169-a5356785ea66"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "367937463",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Thomassen van 't Foort",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-07-2018",
     "uitschrijfdatum": "01-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Thomassen van 't Foort",
+    "contact_telefoon": "''",
     "cbs_code": "228",
     "verantwoordelijke_gemeente": "Ede",
-    "gastouderbureau_1": "955688899",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7bc2f801-18da-446c-b5b8-b66f6d2b0a5f"
 }

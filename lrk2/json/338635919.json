@@ -2,13 +2,15 @@
     "lrk_id": "338635919",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Baaijens",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-04-2017",
     "uitschrijfdatum": "08-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Baaijens",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "107701212",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4338a057-ef3a-4d8d-abaf-e10199b71033"
 }

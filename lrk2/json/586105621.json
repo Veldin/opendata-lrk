@@ -2,13 +2,15 @@
     "lrk_id": "586105621",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "R.W.J Jacobs",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-04-2017",
     "uitschrijfdatum": "01-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jacobs",
+    "contact_telefoon": "''",
     "cbs_code": "296",
     "verantwoordelijke_gemeente": "Wijchen",
-    "gastouderbureau_1": "512128121",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/db70fbcf-dd11-49e3-9c1d-ee620d4b9667"
 }

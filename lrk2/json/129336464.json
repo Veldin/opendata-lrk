@@ -2,13 +2,15 @@
     "lrk_id": "129336464",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nobel",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-06-2018",
     "uitschrijfdatum": "01-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nobel",
+    "contact_telefoon": "''",
     "cbs_code": "484",
     "verantwoordelijke_gemeente": "Alphen aan den Rijn",
-    "gastouderbureau_1": "755893530",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/df270117-5d95-44e8-aabd-69e43db61814"
 }

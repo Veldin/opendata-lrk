@@ -2,13 +2,15 @@
     "lrk_id": "219489725",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Diesvelt",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-06-2018",
     "uitschrijfdatum": "10-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Scheerder Diesvelt",
+    "contact_telefoon": "''",
     "cbs_code": "226",
     "verantwoordelijke_gemeente": "Duiven",
-    "gastouderbureau_1": "172977241",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/36fe178c-2719-4290-98ff-30d092cb6c39"
 }

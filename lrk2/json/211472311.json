@@ -2,13 +2,15 @@
     "lrk_id": "211472311",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Baas",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2020",
     "uitschrijfdatum": "12-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Baas",
+    "contact_telefoon": "''",
     "cbs_code": "1916",
     "verantwoordelijke_gemeente": "Leidschendam-Voorburg",
-    "gastouderbureau_1": "137403112",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b6c14048-ff09-492f-9e4a-8d5ba98032ec"
 }

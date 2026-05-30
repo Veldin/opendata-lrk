@@ -2,13 +2,15 @@
     "lrk_id": "208158789",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ree-van Gameren",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-10-2016",
     "uitschrijfdatum": "19-08-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ree van Gameren",
+    "contact_telefoon": "''",
     "cbs_code": "1963",
     "verantwoordelijke_gemeente": "Hoeksche Waard",
-    "gastouderbureau_1": "144504509",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9641b131-5307-4d6a-aadb-d4869e53fdac"
 }

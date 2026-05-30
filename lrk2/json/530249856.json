@@ -2,13 +2,15 @@
     "lrk_id": "530249856",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tillemans",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-11-2010",
     "uitschrijfdatum": "01-02-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tillemans",
+    "contact_telefoon": "''",
     "cbs_code": "907",
     "verantwoordelijke_gemeente": "Gennep",
-    "gastouderbureau_1": "198695810",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/65729177-6bc5-40fd-9123-bc6f9d79e453"
 }

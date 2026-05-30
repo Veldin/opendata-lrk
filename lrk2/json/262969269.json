@@ -2,13 +2,15 @@
     "lrk_id": "262969269",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kleefman, Marjolein J.D.",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-02-2016",
     "uitschrijfdatum": "01-07-2017",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rovers Kleefman",
+    "contact_telefoon": "''",
     "cbs_code": "845",
     "verantwoordelijke_gemeente": "Sint-Michielsgestel",
-    "gastouderbureau_1": "157087487",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/57b5f92c-ead8-4cbe-8dbf-adb3fefba763"
 }

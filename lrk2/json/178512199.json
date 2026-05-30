@@ -2,13 +2,15 @@
     "lrk_id": "178512199",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Siegers-Pastoor",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-07-2018",
     "uitschrijfdatum": "01-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Siegers-Pastoor",
+    "contact_telefoon": "''",
     "cbs_code": "356",
     "verantwoordelijke_gemeente": "Nieuwegein",
-    "gastouderbureau_1": "823783145",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a38042cf-e412-4f3b-8b23-5e0c3cc5a4a4"
 }

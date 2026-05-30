@@ -2,13 +2,15 @@
     "lrk_id": "250815679",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Messaoudi El Masoudi",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-11-2010",
     "uitschrijfdatum": "31-05-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Messaoudi El Masoudi",
+    "contact_telefoon": "''",
     "cbs_code": "479",
     "verantwoordelijke_gemeente": "Zaanstad",
-    "gastouderbureau_1": "139848095",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ee31e6f1-3028-4e1d-a8be-474ebf99f6a6"
 }

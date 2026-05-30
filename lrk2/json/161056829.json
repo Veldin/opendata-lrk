@@ -2,13 +2,15 @@
     "lrk_id": "161056829",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Jeucken-Gommans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-10-2010",
     "uitschrijfdatum": "01-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jeucken-Gommans",
+    "contact_telefoon": "''",
     "cbs_code": "1507",
     "verantwoordelijke_gemeente": "Horst aan de Maas",
-    "gastouderbureau_1": "681840596",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a57da773-152a-4b70-9ca4-8e12cb2eac98"
 }

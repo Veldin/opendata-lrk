@@ -2,13 +2,15 @@
     "lrk_id": "334711022",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Medema",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-10-2017",
     "uitschrijfdatum": "15-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Medema",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "435819768",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0de8426d-ba5b-497c-aff9-13f21318b164"
 }

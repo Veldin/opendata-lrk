@@ -2,13 +2,15 @@
     "lrk_id": "289467809",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Beld Hoge",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-01-2022",
     "uitschrijfdatum": "29-03-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Beld Hoge",
+    "contact_telefoon": "''",
     "cbs_code": "1734",
     "verantwoordelijke_gemeente": "Overbetuwe",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/22fa37a2-17e2-42f2-b035-931930d140a8"
 }

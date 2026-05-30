@@ -2,13 +2,15 @@
     "lrk_id": "130683280",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bosma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-03-2016",
     "uitschrijfdatum": "19-05-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bosma",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "162798441",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1ad8a107-f93c-430d-ae1e-bc99462a83a8"
 }

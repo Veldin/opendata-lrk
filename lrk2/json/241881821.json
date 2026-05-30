@@ -2,13 +2,15 @@
     "lrk_id": "241881821",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Huijser Brandhorst",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-06-2023",
     "uitschrijfdatum": "01-10-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Baan Brandhorst",
+    "contact_telefoon": "''",
     "cbs_code": "531",
     "verantwoordelijke_gemeente": "Hendrik-Ido-Ambacht",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0bf2359e-af26-47f2-a7e5-06519011bf87"
 }

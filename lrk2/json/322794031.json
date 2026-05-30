@@ -2,13 +2,15 @@
     "lrk_id": "322794031",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zonder Boone",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-03-2017",
     "uitschrijfdatum": "14-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zonder Boone",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b179cda4-5506-4605-a2f8-304e3505f05d"
 }

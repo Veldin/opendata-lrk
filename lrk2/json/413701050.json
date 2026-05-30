@@ -2,13 +2,15 @@
     "lrk_id": "413701050",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Westendorp-Vos",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-08-2014",
     "uitschrijfdatum": "01-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Westendorp-Vos",
+    "contact_telefoon": "''",
     "cbs_code": "232",
     "verantwoordelijke_gemeente": "Epe",
-    "gastouderbureau_1": "295706442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6ba7a688-023f-4c03-bf27-bda901592012"
 }

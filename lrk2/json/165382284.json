@@ -2,13 +2,15 @@
     "lrk_id": "165382284",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Freriks",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-08-2010",
     "uitschrijfdatum": "18-06-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Freriks",
+    "contact_telefoon": "''",
     "cbs_code": "222",
     "verantwoordelijke_gemeente": "Doetinchem",
-    "gastouderbureau_1": "114912348",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a95b630e-eaa3-42dd-bc25-adc2a2753a1f"
 }

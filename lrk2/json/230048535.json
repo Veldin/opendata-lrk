@@ -2,13 +2,15 @@
     "lrk_id": "230048535",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Smit",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-11-2015",
     "uitschrijfdatum": "09-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Smit",
+    "contact_telefoon": "''",
     "cbs_code": "1969",
     "verantwoordelijke_gemeente": "Westerkwartier",
-    "gastouderbureau_1": "803845947",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/444e5fc4-c5ea-4edc-a7d6-358a22a11f08"
 }

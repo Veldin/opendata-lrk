@@ -2,13 +2,15 @@
     "lrk_id": "806029572",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kodde",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-04-2014",
     "uitschrijfdatum": "01-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kodde",
+    "contact_telefoon": "''",
     "cbs_code": "716",
     "verantwoordelijke_gemeente": "Tholen",
-    "gastouderbureau_1": "132893277",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c3fb4d0c-aaec-4157-b244-8aea16c831cf"
 }

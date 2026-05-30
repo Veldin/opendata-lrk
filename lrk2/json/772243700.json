@@ -2,13 +2,15 @@
     "lrk_id": "772243700",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Van de Worp - Ramakers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-04-2022",
     "uitschrijfdatum": "31-10-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Worp Ramakers",
+    "contact_telefoon": "''",
     "cbs_code": "935",
     "verantwoordelijke_gemeente": "Maastricht",
-    "gastouderbureau_1": "218034490",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ce2c08be-7946-40cd-a0f5-225643e7bbf2"
 }

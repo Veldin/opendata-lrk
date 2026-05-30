@@ -2,13 +2,15 @@
     "lrk_id": "169495449",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Waard Elenbaas",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-09-2017",
     "uitschrijfdatum": "15-03-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Waard Elenbaas",
+    "contact_telefoon": "''",
     "cbs_code": "718",
     "verantwoordelijke_gemeente": "Vlissingen",
-    "gastouderbureau_1": "193549517",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4fe1e596-eb45-408a-864b-ea09af309bc6"
 }

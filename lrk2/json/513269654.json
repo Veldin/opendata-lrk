@@ -2,13 +2,15 @@
     "lrk_id": "513269654",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Aarnink",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-11-2010",
     "uitschrijfdatum": "10-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Aarnink",
+    "contact_telefoon": "''",
     "cbs_code": "294",
     "verantwoordelijke_gemeente": "Winterswijk",
-    "gastouderbureau_1": "240232033",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/69f6914e-0e4c-4f67-824a-aab29f924213"
 }

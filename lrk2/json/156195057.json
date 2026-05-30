@@ -2,13 +2,16 @@
     "lrk_id": "156195057",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Maarl van der Lind",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-05-2019",
     "uitschrijfdatum": "01-07-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Maarl van der Lind",
+    "contact_telefoon": "'0320230223'",
+    "contact_emailadres": "mvdmaarl@live.nl",
     "cbs_code": "995",
     "verantwoordelijke_gemeente": "Lelystad",
-    "gastouderbureau_1": "354698047",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/11adab0f-4c96-4834-9a64-7614a30a4dff"
 }

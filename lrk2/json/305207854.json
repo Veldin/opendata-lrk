@@ -2,13 +2,16 @@
     "lrk_id": "305207854",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lindelauf",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-09-2017",
     "uitschrijfdatum": "29-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lindelauf",
+    "contact_telefoon": "'0629179671'",
+    "contact_emailadres": "joycelindelauf@hotmail.com",
     "cbs_code": "917",
     "verantwoordelijke_gemeente": "Heerlen",
-    "gastouderbureau_1": "171272171",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0db28cca-6af8-4f9b-9a8c-15bc637e1440"
 }

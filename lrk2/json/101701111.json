@@ -2,13 +2,15 @@
     "lrk_id": "101701111",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Eulderink-Postma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-09-2019",
     "uitschrijfdatum": "21-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Eulderink-Postma",
+    "contact_telefoon": "''",
     "cbs_code": "168",
     "verantwoordelijke_gemeente": "Losser",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/857cd68f-8351-4a8d-ac2b-e671f2c9108b"
 }

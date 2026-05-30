@@ -2,13 +2,15 @@
     "lrk_id": "180781856",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Witteveen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-07-2015",
     "uitschrijfdatum": "01-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Witteveen",
+    "contact_telefoon": "''",
     "cbs_code": "406",
     "verantwoordelijke_gemeente": "Huizen",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/81194ceb-0d52-4c27-8cf0-fa78c6dd1075"
 }

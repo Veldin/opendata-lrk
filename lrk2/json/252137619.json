@@ -2,13 +2,15 @@
     "lrk_id": "252137619",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Douma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-01-2018",
     "uitschrijfdatum": "24-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Douma",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cc7f4707-7588-4b8e-93ce-7f3e9a946a06"
 }

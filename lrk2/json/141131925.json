@@ -2,13 +2,15 @@
     "lrk_id": "141131925",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "E. Knol- Dubbink",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-11-2016",
     "uitschrijfdatum": "15-01-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Knol Dubbink",
+    "contact_telefoon": "''",
     "cbs_code": "1700",
     "verantwoordelijke_gemeente": "Twenterand",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/44c8be25-10d8-4ca5-9f03-89713695d8f1"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "341643403",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Pater Schaap",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-09-2019",
     "uitschrijfdatum": "07-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Pater Schaap",
+    "contact_telefoon": "''",
     "cbs_code": "34",
     "verantwoordelijke_gemeente": "Almere",
-    "gastouderbureau_1": "590127809",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/27164ab2-94de-439a-aaa1-8f62243cb8ed"
 }

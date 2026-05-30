@@ -2,13 +2,15 @@
     "lrk_id": "281292838",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sinot",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-06-2019",
     "uitschrijfdatum": "17-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sinot",
+    "contact_telefoon": "''",
     "cbs_code": "866",
     "verantwoordelijke_gemeente": "Waalre",
-    "gastouderbureau_1": "607610293",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8ec49be6-2616-4c90-a838-03f1b0b8936f"
 }

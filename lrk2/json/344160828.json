@@ -2,13 +2,16 @@
     "lrk_id": "344160828",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Donkers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2020",
     "uitschrijfdatum": "19-04-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Donkers",
+    "contact_telefoon": "'0413341170'",
+    "contact_emailadres": "shannen_donkers@hotmail.com",
     "cbs_code": "1948",
     "verantwoordelijke_gemeente": "Meierijstad",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5b676cdd-462c-4e9b-9c52-26740c7d022a"
 }

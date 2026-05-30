@@ -2,13 +2,15 @@
     "lrk_id": "150630013",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Stillebroer-Lekkerkerker",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-11-2010",
     "uitschrijfdatum": "08-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": " Lekkerkerker",
+    "contact_telefoon": "''",
     "cbs_code": "502",
     "verantwoordelijke_gemeente": "Capelle aan den IJssel",
-    "gastouderbureau_1": "223057265",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d61ddc9b-e29f-4fde-a180-123662d3bcf0"
 }

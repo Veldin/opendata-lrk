@@ -2,13 +2,15 @@
     "lrk_id": "295802479",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoekstra Jorna",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-08-2017",
     "uitschrijfdatum": "14-05-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoekstra Jorna",
+    "contact_telefoon": "''",
     "cbs_code": "90",
     "verantwoordelijke_gemeente": "Smallingerland",
-    "gastouderbureau_1": "191971868",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0362a234-989e-4b97-a143-2fa14fd91e77"
 }

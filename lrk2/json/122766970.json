@@ -2,13 +2,15 @@
     "lrk_id": "122766970",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Moenesar-Ghisai",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-05-2014",
     "uitschrijfdatum": "16-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Moenesar-Ghisai",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1203b624-fe90-49aa-8ba2-b0f87498235d"
 }

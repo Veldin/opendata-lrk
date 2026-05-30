@@ -2,13 +2,15 @@
     "lrk_id": "304273764",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mangar",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-11-2019",
     "uitschrijfdatum": "31-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Mangar",
+    "contact_telefoon": "''",
     "cbs_code": "1916",
     "verantwoordelijke_gemeente": "Leidschendam-Voorburg",
-    "gastouderbureau_1": "277494801",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e291b9d7-f7f0-4b7e-9830-e7d3d72f0fa5"
 }

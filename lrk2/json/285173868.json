@@ -2,13 +2,15 @@
     "lrk_id": "285173868",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nordbeck",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-11-2017",
     "uitschrijfdatum": "23-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nordbeck",
+    "contact_telefoon": "''",
     "cbs_code": "147",
     "verantwoordelijke_gemeente": "Borne",
-    "gastouderbureau_1": "561668085",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3b8145bf-6c21-4abb-8349-be504ad020ce"
 }

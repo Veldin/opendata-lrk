@@ -2,13 +2,15 @@
     "lrk_id": "207863672",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Remigius",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-07-2012",
     "uitschrijfdatum": "06-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Remigius",
+    "contact_telefoon": "''",
     "cbs_code": "396",
     "verantwoordelijke_gemeente": "Heemskerk",
-    "gastouderbureau_1": "158005909",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d354538f-d227-4dc6-994c-0e1cbb686107"
 }

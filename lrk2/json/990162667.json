@@ -2,13 +2,15 @@
     "lrk_id": "990162667",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoek",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-07-2018",
     "uitschrijfdatum": "04-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoek",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "102281385",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c0e4dd39-8063-480e-b95a-88f79a8c8361"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "210965411",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kalsbeek",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-03-2023",
     "uitschrijfdatum": "20-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kalsbeek",
+    "contact_telefoon": "''",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/704dfa68-5e70-4e81-a964-f1b6d56016cb"
 }

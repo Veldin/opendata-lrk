@@ -2,13 +2,15 @@
     "lrk_id": "152676314",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Brokking-Loozekoot",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-10-2010",
     "uitschrijfdatum": "19-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Blauw Loozekoot",
+    "contact_telefoon": "''",
     "cbs_code": "34",
     "verantwoordelijke_gemeente": "Almere",
-    "gastouderbureau_1": "161848060",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f952460e-08d1-47f7-9a25-2e29c7bc8760"
 }

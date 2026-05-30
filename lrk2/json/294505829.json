@@ -2,13 +2,15 @@
     "lrk_id": "294505829",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Boeschoten",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-11-2016",
     "uitschrijfdatum": "23-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Boeschoten",
+    "contact_telefoon": "''",
     "cbs_code": "1699",
     "verantwoordelijke_gemeente": "Noordenveld",
-    "gastouderbureau_1": "150872628",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/102c397b-8bb1-4a26-ac34-8aa91335c9ec"
 }

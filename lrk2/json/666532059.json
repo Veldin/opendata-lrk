@@ -2,13 +2,15 @@
     "lrk_id": "666532059",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rispens-Knol",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-05-2017",
     "uitschrijfdatum": "01-10-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rispens Knol",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "856284373",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b982deca-4900-482b-8c89-5112a29e1e8a"
 }

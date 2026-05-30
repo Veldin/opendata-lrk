@@ -2,13 +2,15 @@
     "lrk_id": "681340058",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Freriks-Kok",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-02-2016",
     "uitschrijfdatum": "11-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kok",
+    "contact_telefoon": "''",
     "cbs_code": "1708",
     "verantwoordelijke_gemeente": "Steenwijkerland",
-    "gastouderbureau_1": "216091196",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9141d65a-d142-4098-aac0-05a090891db2"
 }

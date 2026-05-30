@@ -2,13 +2,15 @@
     "lrk_id": "276844701",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kromhout",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-02-2017",
     "uitschrijfdatum": "01-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kromhout",
+    "contact_telefoon": "''",
     "cbs_code": "772",
     "verantwoordelijke_gemeente": "Eindhoven",
-    "gastouderbureau_1": "607610293",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6b1cb440-c22f-455e-9248-0fd478af0e25"
 }

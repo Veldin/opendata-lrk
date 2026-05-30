@@ -2,13 +2,15 @@
     "lrk_id": "245458165",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Brouwer",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-11-2017",
     "uitschrijfdatum": "05-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Brouwer",
+    "contact_telefoon": "''",
     "cbs_code": "417",
     "verantwoordelijke_gemeente": "Laren",
-    "gastouderbureau_1": "815625777",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0e126e0d-b3ed-4dd2-ada9-1753127ae280"
 }

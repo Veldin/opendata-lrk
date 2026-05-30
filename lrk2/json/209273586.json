@@ -2,13 +2,15 @@
     "lrk_id": "209273586",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Goedkoop",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-12-2014",
     "uitschrijfdatum": "16-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Goedkoop",
+    "contact_telefoon": "''",
     "cbs_code": "233",
     "verantwoordelijke_gemeente": "Ermelo",
-    "gastouderbureau_1": "604229070",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c74961aa-e7dd-4ae7-a777-9eb8a4bc597b"
 }

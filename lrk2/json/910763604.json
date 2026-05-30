@@ -2,13 +2,15 @@
     "lrk_id": "910763604",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ravensbergen",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-04-2022",
     "uitschrijfdatum": "12-12-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ravensbergen",
+    "contact_telefoon": "''",
     "cbs_code": "579",
     "verantwoordelijke_gemeente": "Oegstgeest",
-    "gastouderbureau_1": "300562020",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7a53a5a2-79a9-4426-9262-256516048194"
 }

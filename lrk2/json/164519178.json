@@ -2,13 +2,15 @@
     "lrk_id": "164519178",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Beld-Velthof",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-10-2010",
     "uitschrijfdatum": "01-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Beld-Velthof",
+    "contact_telefoon": "''",
     "cbs_code": "183",
     "verantwoordelijke_gemeente": "Tubbergen",
-    "gastouderbureau_1": "107852627",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e055734b-1e4c-45c9-a215-a20839427b9f"
 }

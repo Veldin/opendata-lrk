@@ -2,13 +2,15 @@
     "lrk_id": "910922573",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "El-Fezy Post",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-09-2022",
     "uitschrijfdatum": "01-08-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "El-Fezy Post",
+    "contact_telefoon": "''",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
-    "gastouderbureau_1": "103287127",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4a5193d1-52e0-4c0e-b1f8-52642bfef15e"
 }

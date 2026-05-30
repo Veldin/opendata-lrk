@@ -2,13 +2,15 @@
     "lrk_id": "311062465",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Berends",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-01-2018",
     "uitschrijfdatum": "21-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Berends",
+    "contact_telefoon": "''",
     "cbs_code": "1900",
     "verantwoordelijke_gemeente": "Súdwest-Fryslân",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a2ef4127-f8fc-4dc6-833f-62213e6ad710"
 }

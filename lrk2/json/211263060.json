@@ -2,13 +2,15 @@
     "lrk_id": "211263060",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Messiaen",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-11-2018",
     "uitschrijfdatum": "13-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Messiaen",
+    "contact_telefoon": "''",
     "cbs_code": "200",
     "verantwoordelijke_gemeente": "Apeldoorn",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/913ac7ea-e317-44a4-a44c-444c55a25bd6"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "290615240",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tulp Pijper",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-02-2018",
     "uitschrijfdatum": "01-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tulp Pijper",
+    "contact_telefoon": "'0628912130'",
+    "contact_emailadres": "marjon.tulp@gmail.com",
     "cbs_code": "505",
     "verantwoordelijke_gemeente": "Dordrecht",
-    "gastouderbureau_1": "300562020",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a18d3829-65f5-4b5c-8267-a56cbe045456"
 }

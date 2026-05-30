@@ -2,13 +2,15 @@
     "lrk_id": "194290499",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schoemaker-Oosterveen",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-07-2010",
     "uitschrijfdatum": "01-07-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schoemaker-Oosterveen",
+    "contact_telefoon": "''",
     "cbs_code": "148",
     "verantwoordelijke_gemeente": "Dalfsen",
-    "gastouderbureau_1": "123681716",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dc2318bf-5220-4511-a1ea-d7a4996e208f"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "126241971",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Brummer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-12-2016",
     "uitschrijfdatum": "01-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Brummer",
+    "contact_telefoon": "''",
     "cbs_code": "762",
     "verantwoordelijke_gemeente": "Deurne",
-    "gastouderbureau_1": "681840596",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/411c144e-d5ea-4e8f-990f-2d81a672ec7a"
 }

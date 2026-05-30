@@ -2,13 +2,15 @@
     "lrk_id": "172285872",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Jeurissen-Oostinjen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-11-2010",
     "uitschrijfdatum": "01-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jeurissen Oostinjen",
+    "contact_telefoon": "''",
     "cbs_code": "1926",
     "verantwoordelijke_gemeente": "Pijnacker-Nootdorp",
-    "gastouderbureau_1": "121964334",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/da69b456-c9a6-4aa6-ade5-5f424096a877"
 }

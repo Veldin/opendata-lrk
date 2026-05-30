@@ -2,13 +2,15 @@
     "lrk_id": "202672359",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Engen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-02-2014",
     "uitschrijfdatum": "30-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Engen",
+    "contact_telefoon": "''",
     "cbs_code": "114",
     "verantwoordelijke_gemeente": "Emmen",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5640dbb3-2702-4197-9d7c-fde0de33b370"
 }

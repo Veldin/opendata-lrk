@@ -2,13 +2,15 @@
     "lrk_id": "596893371",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sanders",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-12-2014",
     "uitschrijfdatum": "18-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sanders",
+    "contact_telefoon": "''",
     "cbs_code": "762",
     "verantwoordelijke_gemeente": "Deurne",
-    "gastouderbureau_1": "107701212",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c2e4adf9-417c-44dd-a3db-3b6042cc6645"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "112586193",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dijkstra",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-05-2014",
     "uitschrijfdatum": "02-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dijkstra van der Eems",
+    "contact_telefoon": "''",
     "cbs_code": "1900",
     "verantwoordelijke_gemeente": "Súdwest-Fryslân",
-    "gastouderbureau_1": "170370471",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ed516d5b-4ec9-4f45-9f7e-2dcb2fcf9e3b"
 }

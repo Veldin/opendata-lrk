@@ -2,13 +2,15 @@
     "lrk_id": "189129931",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "de Boer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-04-2015",
     "uitschrijfdatum": "01-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bloemert de Boer",
+    "contact_telefoon": "''",
     "cbs_code": "180",
     "verantwoordelijke_gemeente": "Staphorst",
-    "gastouderbureau_1": "139317521",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f391b11d-3420-42de-8554-a79cee5ee1ac"
 }

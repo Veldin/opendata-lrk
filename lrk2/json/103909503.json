@@ -2,13 +2,15 @@
     "lrk_id": "103909503",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zee Bouma",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-11-2017",
     "uitschrijfdatum": "01-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zee Bouma",
+    "contact_telefoon": "''",
     "cbs_code": "171",
     "verantwoordelijke_gemeente": "Noordoostpolder",
-    "gastouderbureau_1": "839423111",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/aa5cefae-647b-447c-b5ad-b5cd8bd7df6a"
 }

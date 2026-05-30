@@ -2,13 +2,16 @@
     "lrk_id": "143606888",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Liek",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-08-2022",
     "uitschrijfdatum": "30-05-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Liek",
+    "contact_telefoon": "'06- 48 61 44 39'",
+    "contact_emailadres": "brittliek@gmail.com",
     "cbs_code": "518",
     "verantwoordelijke_gemeente": "'s-Gravenhage",
-    "gastouderbureau_1": "678300008",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/aaa6cd05-06f8-4a10-84a3-c7e0df741342"
 }

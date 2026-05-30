@@ -2,13 +2,16 @@
     "lrk_id": "331240816",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hamilton",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-11-2016",
     "uitschrijfdatum": "09-04-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hamilton",
+    "contact_persoon": "K.M.A. Hamilton",
+    "contact_telefoon": "'06-45468887'",
     "cbs_code": "310",
     "verantwoordelijke_gemeente": "De Bilt",
-    "gastouderbureau_1": "210229974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8f4c9052-05bd-401c-bb7e-1a9313c00325"
 }

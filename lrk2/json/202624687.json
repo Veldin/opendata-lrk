@@ -2,13 +2,15 @@
     "lrk_id": "202624687",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Veneman-Haarkamp",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-11-2016",
     "uitschrijfdatum": "28-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Veneman-Haarkamp",
+    "contact_telefoon": "''",
     "cbs_code": "189",
     "verantwoordelijke_gemeente": "Wierden",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/99f6c867-4dca-40c1-af94-5c2011e5026a"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "837774792",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Jansen Aagten",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-05-2018",
     "uitschrijfdatum": "28-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jansen Aagten",
+    "contact_telefoon": "''",
     "cbs_code": "222",
     "verantwoordelijke_gemeente": "Doetinchem",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/76e5aee8-bdf1-4375-816f-049394a3a0c0"
 }

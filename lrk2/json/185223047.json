@@ -2,13 +2,15 @@
     "lrk_id": "185223047",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bouw-Verstraten",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-11-2010",
     "uitschrijfdatum": "01-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bouw-Verstraten",
+    "contact_telefoon": "''",
     "cbs_code": "1948",
     "verantwoordelijke_gemeente": "Meierijstad",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/530925fd-0084-4b11-8c69-7b948b30c230"
 }

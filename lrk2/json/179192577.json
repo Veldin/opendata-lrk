@@ -2,13 +2,15 @@
     "lrk_id": "179192577",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Aalders",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-04-2019",
     "uitschrijfdatum": "21-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Aalders",
+    "contact_telefoon": "''",
     "cbs_code": "275",
     "verantwoordelijke_gemeente": "Rheden",
-    "gastouderbureau_1": "124402550",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/48c09705-8269-4230-98a0-0637f39d5ba8"
 }

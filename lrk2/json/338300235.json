@@ -2,13 +2,16 @@
     "lrk_id": "338300235",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoogerdijk",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-02-2021",
     "uitschrijfdatum": "14-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoogerdijk",
+    "contact_telefoon": "'0625547151'",
+    "contact_emailadres": "sylviahoogerdijk@gmail.com",
     "cbs_code": "392",
     "verantwoordelijke_gemeente": "Haarlem",
-    "gastouderbureau_1": "320301898",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9f360097-6815-4a41-9fe0-1bfe9947e00a"
 }

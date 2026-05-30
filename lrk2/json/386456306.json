@@ -2,13 +2,15 @@
     "lrk_id": "386456306",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ulijn",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-09-2018",
     "uitschrijfdatum": "12-11-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schut Ulijn",
+    "contact_telefoon": "''",
     "cbs_code": "289",
     "verantwoordelijke_gemeente": "Wageningen",
-    "gastouderbureau_1": "210229974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c4c51943-51b5-4879-ba74-d64d87769fb7"
 }

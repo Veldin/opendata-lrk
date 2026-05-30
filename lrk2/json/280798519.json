@@ -2,13 +2,15 @@
     "lrk_id": "280798519",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Çetin",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-03-2017",
     "uitschrijfdatum": "06-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Çetin",
+    "contact_telefoon": "''",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "160395008",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a027749d-0d96-4ad5-aa39-e955f3e1f946"
 }

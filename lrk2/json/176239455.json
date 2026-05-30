@@ -2,13 +2,15 @@
     "lrk_id": "176239455",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meel Parigger",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-11-2017",
     "uitschrijfdatum": "04-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meel Parigger",
+    "contact_telefoon": "''",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "474021890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6534943d-c4a0-4cbc-8348-25ddbdbab4a6"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "140280571",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Noppen-Bevers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-11-2016",
     "uitschrijfdatum": "01-09-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Noppen-Bevers",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "208914973",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3e1cf418-5f16-4617-afa2-d0cb6ead2ce3"
 }

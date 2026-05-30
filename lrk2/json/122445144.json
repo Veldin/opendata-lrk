@@ -2,13 +2,15 @@
     "lrk_id": "122445144",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schuppert",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-09-2018",
     "uitschrijfdatum": "05-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schuppert",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "514367635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f1648a33-71a7-4369-b66a-ee960d89d566"
 }

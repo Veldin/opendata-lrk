@@ -2,13 +2,15 @@
     "lrk_id": "521069993",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "M. Fonken-Vorster",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-06-2023",
     "uitschrijfdatum": "24-05-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Fonken Vorster",
+    "contact_telefoon": "''",
     "cbs_code": "867",
     "verantwoordelijke_gemeente": "Waalwijk",
-    "gastouderbureau_1": "831116183",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/50d05fdf-2a7e-4843-a051-fc2858a94690"
 }

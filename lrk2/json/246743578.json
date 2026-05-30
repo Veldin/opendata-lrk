@@ -2,13 +2,15 @@
     "lrk_id": "246743578",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kleppe Ariese",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-10-2021",
     "uitschrijfdatum": "31-01-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kleppe Ariese",
+    "contact_telefoon": "''",
     "cbs_code": "321",
     "verantwoordelijke_gemeente": "Houten",
-    "gastouderbureau_1": "125774060",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/774b09a2-03e8-408e-b0d3-9bb2dcf3f098"
 }

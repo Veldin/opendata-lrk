@@ -2,13 +2,15 @@
     "lrk_id": "115115171",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "ten Hove van den Belt",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-11-2015",
     "uitschrijfdatum": "26-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hove van den Belt",
+    "contact_telefoon": "''",
     "cbs_code": "1742",
     "verantwoordelijke_gemeente": "Rijssen-Holten",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1098a2ef-96e4-4d2a-9dac-0a9fbca222a4"
 }

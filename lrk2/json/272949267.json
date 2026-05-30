@@ -2,13 +2,15 @@
     "lrk_id": "272949267",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kok Straijer",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-12-2020",
     "uitschrijfdatum": "01-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kok Straijer",
+    "contact_telefoon": "''",
     "cbs_code": "228",
     "verantwoordelijke_gemeente": "Ede",
-    "gastouderbureau_1": "836058112",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bfdc8654-e516-4eca-9726-ef065c72812b"
 }

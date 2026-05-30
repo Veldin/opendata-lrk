@@ -2,13 +2,15 @@
     "lrk_id": "662336689",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Gerritsen-Tijsma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-01-2011",
     "uitschrijfdatum": "30-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Gerritsen-Tijsma",
+    "contact_telefoon": "''",
     "cbs_code": "200",
     "verantwoordelijke_gemeente": "Apeldoorn",
-    "gastouderbureau_1": "295706442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2cb1c99c-3986-4b03-9584-c612a23178f0"
 }

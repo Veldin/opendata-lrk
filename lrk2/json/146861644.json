@@ -2,13 +2,15 @@
     "lrk_id": "146861644",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bekker",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-06-2012",
     "uitschrijfdatum": "25-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bekker",
+    "contact_telefoon": "''",
     "cbs_code": "1621",
     "verantwoordelijke_gemeente": "Lansingerland",
-    "gastouderbureau_1": "156725587",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9606de66-a212-48c0-b837-dd4e8059ea14"
 }

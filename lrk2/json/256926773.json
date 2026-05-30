@@ -2,13 +2,15 @@
     "lrk_id": "256926773",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "J.K. Smit",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-01-2017",
     "uitschrijfdatum": "31-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Smit",
+    "contact_telefoon": "''",
     "cbs_code": "1842",
     "verantwoordelijke_gemeente": "Midden-Delfland",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d35293e8-1148-41c7-9343-035f5f0fcf0b"
 }

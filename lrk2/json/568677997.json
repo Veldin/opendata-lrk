@@ -2,13 +2,15 @@
     "lrk_id": "568677997",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nijhuis",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-05-2013",
     "uitschrijfdatum": "31-12-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nijhuis",
+    "contact_telefoon": "''",
     "cbs_code": "183",
     "verantwoordelijke_gemeente": "Tubbergen",
-    "gastouderbureau_1": "470783394",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5706a29f-84a3-4a51-af17-5cd5de99954a"
 }

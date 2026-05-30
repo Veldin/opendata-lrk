@@ -2,13 +2,16 @@
     "lrk_id": "245114324",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tatalas",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-01-2018",
     "uitschrijfdatum": "05-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tatalas",
+    "contact_telefoon": "'06-12288908'",
+    "contact_emailadres": "A.tatalas@gmail.com",
     "cbs_code": "213",
     "verantwoordelijke_gemeente": "Brummen",
-    "gastouderbureau_1": "991230280",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6e3db69d-ffae-4e8e-9ad3-5e4fa1fdee3f"
 }

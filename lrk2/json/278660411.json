@@ -2,13 +2,15 @@
     "lrk_id": "278660411",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Purperhart",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-07-2021",
     "uitschrijfdatum": "09-11-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bluemers Purperhart",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "132016473",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/06f3b8e2-6f0c-4646-b7fb-e224865d9e07"
 }

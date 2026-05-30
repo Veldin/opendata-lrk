@@ -2,13 +2,15 @@
     "lrk_id": "213823974",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Keustermans Deckers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-10-2018",
     "uitschrijfdatum": "12-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Keustermans Deckers",
+    "contact_telefoon": "''",
     "cbs_code": "1948",
     "verantwoordelijke_gemeente": "Meierijstad",
-    "gastouderbureau_1": "868754146",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/99499869-6b21-423a-afaa-18d4948e3a19"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "563019311",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Veenstra",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-06-2021",
     "uitschrijfdatum": "01-03-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schouten Veenstra",
+    "contact_telefoon": "''",
     "cbs_code": "512",
     "verantwoordelijke_gemeente": "Gorinchem",
-    "gastouderbureau_1": "104000570",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/47e2cc10-1d9c-430a-833d-34a674f7728c"
 }

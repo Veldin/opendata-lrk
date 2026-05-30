@@ -2,13 +2,15 @@
     "lrk_id": "287851230",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schwencke",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-10-2014",
     "uitschrijfdatum": "03-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schwencke",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "489056908",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4a8ed9a6-c9c9-4f5d-81f1-b1f6dbd1f1ec"
 }

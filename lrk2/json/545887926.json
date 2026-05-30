@@ -2,13 +2,15 @@
     "lrk_id": "545887926",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Boer",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-04-2018",
     "uitschrijfdatum": "30-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meun de Boer",
+    "contact_telefoon": "''",
     "cbs_code": "171",
     "verantwoordelijke_gemeente": "Noordoostpolder",
-    "gastouderbureau_1": "187750154",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0fa08e4e-0b9c-4fd1-a72c-1fdeae966ca0"
 }

@@ -2,14 +2,15 @@
     "lrk_id": "818015585",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schipper",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-12-2015",
     "uitschrijfdatum": "30-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schipper",
+    "contact_telefoon": "''",
     "cbs_code": "406",
     "verantwoordelijke_gemeente": "Huizen",
-    "gastouderbureau_1": "136524175",
-    "gastouderbureau_2": "815625777",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d6b47bd5-2283-491a-904e-e65fbfa75d16"
 }

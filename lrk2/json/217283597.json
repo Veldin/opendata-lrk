@@ -2,13 +2,15 @@
     "lrk_id": "217283597",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dam",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-11-2017",
     "uitschrijfdatum": "21-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dam",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dbeb0529-45a2-4c56-8e4d-a57ba98f7e24"
 }

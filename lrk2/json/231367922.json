@@ -2,13 +2,15 @@
     "lrk_id": "231367922",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "S. V. Emmanuel",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-07-2023",
     "uitschrijfdatum": "30-11-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Emmanuel",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "144498224",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5aa09a12-3686-43d7-8449-f76568910955"
 }

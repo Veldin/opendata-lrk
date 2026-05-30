@@ -2,13 +2,15 @@
     "lrk_id": "119744284",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Erve-Hofman",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-12-2014",
     "uitschrijfdatum": "12-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Erve-Hofman",
+    "contact_telefoon": "''",
     "cbs_code": "232",
     "verantwoordelijke_gemeente": "Epe",
-    "gastouderbureau_1": "893856897",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/405367b8-d68b-43fb-afeb-66a315090cd5"
 }

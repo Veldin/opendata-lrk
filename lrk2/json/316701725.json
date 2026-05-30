@@ -2,13 +2,15 @@
     "lrk_id": "316701725",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bos Pietjou",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-04-2019",
     "uitschrijfdatum": "29-01-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bos Pietjou",
+    "contact_telefoon": "''",
     "cbs_code": "243",
     "verantwoordelijke_gemeente": "Harderwijk",
-    "gastouderbureau_1": "201124415",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d4ab7afe-9747-4601-8503-1f92e138c237"
 }

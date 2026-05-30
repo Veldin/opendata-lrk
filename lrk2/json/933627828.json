@@ -2,13 +2,15 @@
     "lrk_id": "933627828",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Smit",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-11-2018",
     "uitschrijfdatum": "15-01-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Smit",
+    "contact_telefoon": "''",
     "cbs_code": "1690",
     "verantwoordelijke_gemeente": "De Wolden",
-    "gastouderbureau_1": "154768200",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/edcf453b-3ebe-4b96-b43e-dba322f0363e"
 }

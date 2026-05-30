@@ -2,13 +2,15 @@
     "lrk_id": "348525394",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bruin Katuin",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-07-2018",
     "uitschrijfdatum": "18-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bruin Katuin",
+    "contact_telefoon": "''",
     "cbs_code": "202",
     "verantwoordelijke_gemeente": "Arnhem",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/568ef63b-4a33-4209-a6b0-4961613aea5c"
 }

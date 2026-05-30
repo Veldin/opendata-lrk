@@ -2,13 +2,15 @@
     "lrk_id": "495971820",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Punter-van der Veen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-06-2017",
     "uitschrijfdatum": "01-12-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Punter van der Veen",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "226938396",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a88a9857-a5a4-47b8-8efc-6a9e537ae78e"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "162272212",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bakker-Brink",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-06-2015",
     "uitschrijfdatum": "31-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Brink Bakker",
+    "contact_telefoon": "''",
     "cbs_code": "1940",
     "verantwoordelijke_gemeente": "De Fryske Marren",
-    "gastouderbureau_1": "737175485",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fd54eeae-0477-4445-a827-750ee1b9703b"
 }

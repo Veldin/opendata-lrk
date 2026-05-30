@@ -2,13 +2,15 @@
     "lrk_id": "200428548",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoffman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-04-2021",
     "uitschrijfdatum": "07-03-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoffman",
+    "contact_telefoon": "''",
     "cbs_code": "352",
     "verantwoordelijke_gemeente": "Wijk bij Duurstede",
-    "gastouderbureau_1": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cc88d2f9-b2ec-41d3-aa6e-9777acfeca67"
 }

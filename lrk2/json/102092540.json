@@ -2,13 +2,15 @@
     "lrk_id": "102092540",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Doorn van der Heijden",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-10-2020",
     "uitschrijfdatum": "01-04-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Doorn van der Heijden",
+    "contact_telefoon": "''",
     "cbs_code": "1948",
     "verantwoordelijke_gemeente": "Meierijstad",
-    "gastouderbureau_1": "921029494",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/adefb3fd-7f62-46e0-8bc4-1c3f95502620"
 }

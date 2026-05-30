@@ -2,13 +2,15 @@
     "lrk_id": "847850675",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bonnink",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-06-2021",
     "uitschrijfdatum": "21-02-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bonnink",
+    "contact_telefoon": "''",
     "cbs_code": "294",
     "verantwoordelijke_gemeente": "Winterswijk",
-    "gastouderbureau_1": "210758855",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/90c999b9-4862-49ab-bfea-1742bb1ef122"
 }

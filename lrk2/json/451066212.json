@@ -2,13 +2,15 @@
     "lrk_id": "451066212",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kalter",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-10-2017",
     "uitschrijfdatum": "06-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kalter",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "192463846",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/866921e1-fa86-4fcd-a696-2cf76cf8e57d"
 }

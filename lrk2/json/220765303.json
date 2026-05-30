@@ -2,13 +2,15 @@
     "lrk_id": "220765303",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Michel",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-11-2017",
     "uitschrijfdatum": "31-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Michel",
+    "contact_telefoon": "''",
     "cbs_code": "1883",
     "verantwoordelijke_gemeente": "Sittard-Geleen",
-    "gastouderbureau_1": "157169686",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a845557e-a0e7-4bbb-904b-6eac7e9d5a75"
 }

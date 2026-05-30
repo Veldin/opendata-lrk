@@ -2,13 +2,15 @@
     "lrk_id": "158221862",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Morsink",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-02-2018",
     "uitschrijfdatum": "13-01-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Morsink",
+    "contact_telefoon": "''",
     "cbs_code": "1690",
     "verantwoordelijke_gemeente": "De Wolden",
-    "gastouderbureau_1": "110672161",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/02c51d4f-03c3-4817-88c7-caf46ec69291"
 }

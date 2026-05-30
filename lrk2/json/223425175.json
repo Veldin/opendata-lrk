@@ -2,13 +2,15 @@
     "lrk_id": "223425175",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Serkan-Zeyrek",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-06-2015",
     "uitschrijfdatum": "11-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Serkan-Zeyrek",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f1090484-0060-40cb-bc1f-c81338cb1912"
 }

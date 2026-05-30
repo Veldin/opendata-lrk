@@ -2,13 +2,15 @@
     "lrk_id": "757097194",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bimbergen-van Koolwijk",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-10-2019",
     "uitschrijfdatum": "01-08-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bimbergen-van Koolwijk",
+    "contact_telefoon": "''",
     "cbs_code": "828",
     "verantwoordelijke_gemeente": "Oss",
-    "gastouderbureau_1": "921029494",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e30e79d4-c435-4761-ae82-10286d7e0d6e"
 }

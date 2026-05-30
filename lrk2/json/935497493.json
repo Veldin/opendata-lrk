@@ -2,13 +2,15 @@
     "lrk_id": "935497493",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wiersma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-02-2024",
     "uitschrijfdatum": "01-11-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wiersma",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "402222830",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/30fd98c0-74cf-4a9a-b4b3-f33e01ef8012"
 }

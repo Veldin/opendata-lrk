@@ -2,13 +2,15 @@
     "lrk_id": "299412544",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vlad",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-01-2019",
     "uitschrijfdatum": "22-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vlad",
+    "contact_telefoon": "''",
     "cbs_code": "1916",
     "verantwoordelijke_gemeente": "Leidschendam-Voorburg",
-    "gastouderbureau_1": "300562020",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cffb7819-c2b8-4d14-8ad5-51a00c3e6b7f"
 }

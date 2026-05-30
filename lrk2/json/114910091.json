@@ -2,13 +2,15 @@
     "lrk_id": "114910091",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Huttinga Valkema",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2019",
     "uitschrijfdatum": "31-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Valkema Wils",
+    "contact_telefoon": "''",
     "cbs_code": "1969",
     "verantwoordelijke_gemeente": "Westerkwartier",
-    "gastouderbureau_1": "152520703",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e658ccaa-3a5d-4e30-ad36-bd9b1053ece6"
 }

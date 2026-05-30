@@ -2,13 +2,16 @@
     "lrk_id": "542486027",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Basten Brons",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-09-2020",
     "uitschrijfdatum": "14-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Basten Brons",
+    "contact_telefoon": "'0485513543'",
+    "contact_emailadres": "bastenlisette@hotmail.com",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "167244000",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/522ae94f-0207-414e-85db-c6f2ad5ed043"
 }

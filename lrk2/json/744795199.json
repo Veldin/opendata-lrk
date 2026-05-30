@@ -2,13 +2,15 @@
     "lrk_id": "744795199",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lam",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-05-2021",
     "uitschrijfdatum": "31-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lam",
+    "contact_telefoon": "''",
     "cbs_code": "1961",
     "verantwoordelijke_gemeente": "Vijfheerenlanden",
-    "gastouderbureau_1": "576811993",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3f9db036-7053-4645-a415-e12a9d1c9adc"
 }

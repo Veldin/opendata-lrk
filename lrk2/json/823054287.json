@@ -2,13 +2,15 @@
     "lrk_id": "823054287",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Brouwer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-05-2016",
     "uitschrijfdatum": "01-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Brouwer Ramp",
+    "contact_telefoon": "''",
     "cbs_code": "376",
     "verantwoordelijke_gemeente": "Blaricum",
-    "gastouderbureau_1": "226759799",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1ffc4728-0130-40c6-aceb-b99cee01d8e2"
 }

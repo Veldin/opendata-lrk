@@ -2,13 +2,15 @@
     "lrk_id": "212030395",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "C. van de Sluis",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-03-2017",
     "uitschrijfdatum": "15-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sluis",
+    "contact_telefoon": "''",
     "cbs_code": "296",
     "verantwoordelijke_gemeente": "Wijchen",
-    "gastouderbureau_1": "512128121",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/90e8db2f-8f18-4dc9-ae2c-63887ca50bd5"
 }

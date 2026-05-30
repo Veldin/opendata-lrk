@@ -2,13 +2,15 @@
     "lrk_id": "259053466",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "P. Spoelstra Douma",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-07-2017",
     "uitschrijfdatum": "02-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Spoelstra Douma",
+    "contact_telefoon": "''",
     "cbs_code": "74",
     "verantwoordelijke_gemeente": "Heerenveen",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d1659be0-fabd-475d-a228-f3f388818c8d"
 }

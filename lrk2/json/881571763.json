@@ -2,13 +2,16 @@
     "lrk_id": "881571763",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Veenstra",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-08-2017",
     "uitschrijfdatum": "01-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Veenstra",
+    "contact_telefoon": "'06-22208856'",
+    "contact_emailadres": "kimveenstra@gmail.com",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f897ddf0-6040-481b-a724-10edfaf857b6"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "443217373",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Gelderloos",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-10-2010",
     "uitschrijfdatum": "01-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Gelderloos",
+    "contact_telefoon": "''",
     "cbs_code": "114",
     "verantwoordelijke_gemeente": "Emmen",
-    "gastouderbureau_1": "170319738",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b72fb840-6119-4f91-94fb-a8e292b97cf6"
 }

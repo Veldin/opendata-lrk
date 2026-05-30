@@ -2,13 +2,15 @@
     "lrk_id": "222733202",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Roo",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-10-2018",
     "uitschrijfdatum": "12-05-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Roo",
+    "contact_telefoon": "''",
     "cbs_code": "855",
     "verantwoordelijke_gemeente": "Tilburg",
-    "gastouderbureau_1": "709905579",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1b4cc584-e61b-4c1d-9257-1a9f6800c3e5"
 }

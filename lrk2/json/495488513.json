@@ -2,13 +2,15 @@
     "lrk_id": "495488513",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Groenendael",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-07-2018",
     "uitschrijfdatum": "28-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Groenendael",
+    "contact_telefoon": "''",
     "cbs_code": "214",
     "verantwoordelijke_gemeente": "Buren",
-    "gastouderbureau_1": "514367635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cae09a2a-d348-491d-b39c-50289a003319"
 }

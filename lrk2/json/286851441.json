@@ -2,13 +2,15 @@
     "lrk_id": "286851441",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Roelofsen Koskamp",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-02-2018",
     "uitschrijfdatum": "01-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Roelofsen Koskamp",
+    "contact_telefoon": "''",
     "cbs_code": "1586",
     "verantwoordelijke_gemeente": "Oost Gelre",
-    "gastouderbureau_1": "126932621",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a703c5be-4ceb-49fc-af38-505d42b3371a"
 }

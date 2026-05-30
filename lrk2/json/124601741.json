@@ -2,13 +2,15 @@
     "lrk_id": "124601741",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Stegeman van der Meer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-12-2018",
     "uitschrijfdatum": "01-10-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Stegeman van der Meer",
+    "contact_telefoon": "''",
     "cbs_code": "743",
     "verantwoordelijke_gemeente": "Asten",
-    "gastouderbureau_1": "149051232",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/78bb4834-ef4c-4b2f-ab36-3fc1ab3a1145"
 }

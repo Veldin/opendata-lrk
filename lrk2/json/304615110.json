@@ -2,13 +2,15 @@
     "lrk_id": "304615110",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Weegenaar Pit",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-05-2018",
     "uitschrijfdatum": "25-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Weegenaar Pit",
+    "contact_telefoon": "''",
     "cbs_code": "166",
     "verantwoordelijke_gemeente": "Kampen",
-    "gastouderbureau_1": "335782565",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f89f36f2-00e3-47ef-a227-4cd8a84bd704"
 }

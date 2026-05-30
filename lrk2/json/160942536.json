@@ -2,13 +2,15 @@
     "lrk_id": "160942536",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Molenkamp",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-08-2014",
     "uitschrijfdatum": "20-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Molenkamp",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/48eab08a-5fe0-4c8c-aa7f-e78e62ec4074"
 }

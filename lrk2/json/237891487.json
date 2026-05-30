@@ -2,13 +2,15 @@
     "lrk_id": "237891487",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Booi",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-01-2017",
     "uitschrijfdatum": "03-08-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Booi",
+    "contact_telefoon": "''",
     "cbs_code": "86",
     "verantwoordelijke_gemeente": "Opsterland",
-    "gastouderbureau_1": "209887503",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e1fe6673-3d40-40f9-9b40-7409b14c44ee"
 }

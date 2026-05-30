@@ -2,13 +2,15 @@
     "lrk_id": "264705099",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dokter",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-08-2020",
     "uitschrijfdatum": "05-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dokter",
+    "contact_telefoon": "''",
     "cbs_code": "632",
     "verantwoordelijke_gemeente": "Woerden",
-    "gastouderbureau_1": "119931758",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/29f6c664-0667-4817-82da-4770375ad4c1"
 }

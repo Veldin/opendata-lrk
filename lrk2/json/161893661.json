@@ -2,13 +2,15 @@
     "lrk_id": "161893661",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sterken Stadman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-05-2022",
     "uitschrijfdatum": "17-03-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sterken Stadman",
+    "contact_telefoon": "''",
     "cbs_code": "1680",
     "verantwoordelijke_gemeente": "Aa en Hunze",
-    "gastouderbureau_1": "117602176",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/54d7ed47-c839-48ef-9afc-94d0b7f574f7"
 }

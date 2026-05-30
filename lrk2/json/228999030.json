@@ -2,13 +2,15 @@
     "lrk_id": "228999030",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Graafmans",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-02-2018",
     "uitschrijfdatum": "01-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Graafmans",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "514367635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/47f9056f-a084-444b-a7e3-021c98d508d3"
 }

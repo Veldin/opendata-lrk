@@ -2,13 +2,16 @@
     "lrk_id": "137276138",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bergervoet",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2018",
     "uitschrijfdatum": "30-04-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bergervoet",
+    "contact_telefoon": "'06-4253181'",
+    "contact_emailadres": "marloes.live@live.nl",
     "cbs_code": "293",
     "verantwoordelijke_gemeente": "Westervoort",
-    "gastouderbureau_1": "172977241",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/30579f04-01eb-47da-9c89-30bbc4ea92ec"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "313212247",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schulting",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-09-2016",
     "uitschrijfdatum": "15-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schulting",
+    "contact_telefoon": "''",
     "cbs_code": "402",
     "verantwoordelijke_gemeente": "Hilversum",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/147967db-be38-4e60-8c85-9c50f8bc63ad"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "306301258",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ruitenbeek",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-07-2018",
     "uitschrijfdatum": "01-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ruitenbeek",
+    "contact_telefoon": "''",
     "cbs_code": "355",
     "verantwoordelijke_gemeente": "Zeist",
-    "gastouderbureau_1": "590127809",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d069e13c-cdb8-41ac-8b2b-9d123211883f"
 }

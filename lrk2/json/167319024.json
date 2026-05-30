@@ -2,13 +2,15 @@
     "lrk_id": "167319024",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vliet",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-01-2017",
     "uitschrijfdatum": "01-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vliet",
+    "contact_telefoon": "''",
     "cbs_code": "736",
     "verantwoordelijke_gemeente": "De Ronde Venen",
-    "gastouderbureau_1": "784798102",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/43800314-16ae-4f1d-a17c-1af4b9af87a0"
 }

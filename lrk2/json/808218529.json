@@ -2,13 +2,15 @@
     "lrk_id": "808218529",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kanninga Hommes",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-04-2017",
     "uitschrijfdatum": "01-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kanninga Hommes",
+    "contact_telefoon": "''",
     "cbs_code": "1680",
     "verantwoordelijke_gemeente": "Aa en Hunze",
-    "gastouderbureau_1": "657655739",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/98bb0b7b-ed3d-4683-a9ec-ddb96bb21b35"
 }

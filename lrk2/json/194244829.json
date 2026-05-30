@@ -2,13 +2,15 @@
     "lrk_id": "194244829",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Haan",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-05-2020",
     "uitschrijfdatum": "15-11-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Haan",
+    "contact_telefoon": "''",
     "cbs_code": "1699",
     "verantwoordelijke_gemeente": "Noordenveld",
-    "gastouderbureau_1": "162798441",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4fa909e9-35dd-4073-933b-dc7f88ed05cc"
 }

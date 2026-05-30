@@ -2,13 +2,15 @@
     "lrk_id": "155145885",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Levant",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-10-2014",
     "uitschrijfdatum": "06-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Levant",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/baacd8c3-cb5c-4302-93e3-c9daf434605c"
 }

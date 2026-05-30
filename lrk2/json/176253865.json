@@ -2,13 +2,15 @@
     "lrk_id": "176253865",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schilderinck",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-08-2016",
     "uitschrijfdatum": "20-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Overkamp Schilderinck",
+    "contact_telefoon": "''",
     "cbs_code": "1586",
     "verantwoordelijke_gemeente": "Oost Gelre",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f02e31c2-f814-444f-ad30-24b750d45dd9"
 }

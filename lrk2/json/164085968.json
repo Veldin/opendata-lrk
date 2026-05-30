@@ -2,13 +2,15 @@
     "lrk_id": "164085968",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hartsuiker",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-06-2015",
     "uitschrijfdatum": "01-05-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hartsuiker",
+    "contact_telefoon": "''",
     "cbs_code": "1783",
     "verantwoordelijke_gemeente": "Westland",
-    "gastouderbureau_1": "212533022",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f7998054-5854-43b7-8a1b-2e83eefd05ec"
 }

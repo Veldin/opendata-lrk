@@ -2,13 +2,15 @@
     "lrk_id": "334368480",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Helmus Lei",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-05-2019",
     "uitschrijfdatum": "28-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Helmus Lei",
+    "contact_telefoon": "''",
     "cbs_code": "86",
     "verantwoordelijke_gemeente": "Opsterland",
-    "gastouderbureau_1": "830987162",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0af8387e-8e15-4125-9714-646694a531d5"
 }

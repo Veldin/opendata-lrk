@@ -2,13 +2,16 @@
     "lrk_id": "149775246",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Booi-Postma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-01-2019",
     "uitschrijfdatum": "30-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Booi Postma",
+    "contact_telefoon": "'0613908829'",
+    "contact_emailadres": "germenbetty@live.nl",
     "cbs_code": "1949",
     "verantwoordelijke_gemeente": "Waadhoeke",
-    "gastouderbureau_1": "812033450",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a1da8f1a-d20c-4610-a881-aaeb84d5864d"
 }

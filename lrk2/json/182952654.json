@@ -2,13 +2,15 @@
     "lrk_id": "182952654",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bijwaard-Louter",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-01-2013",
     "uitschrijfdatum": "13-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Louter",
+    "contact_telefoon": "''",
     "cbs_code": "1980",
     "verantwoordelijke_gemeente": "Dijk en Waard",
-    "gastouderbureau_1": "305142562",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/68e8324e-9fc2-4ddb-90ab-9b7a1ec2ccfb"
 }

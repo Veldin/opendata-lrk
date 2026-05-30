@@ -2,13 +2,15 @@
     "lrk_id": "176531579",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kuil",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-07-2022",
     "uitschrijfdatum": "23-03-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bezemer",
+    "contact_telefoon": "''",
     "cbs_code": "1904",
     "verantwoordelijke_gemeente": "Stichtse Vecht",
-    "gastouderbureau_1": "955688899",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8155fd45-f2e6-4332-9bfb-5906fd18236b"
 }

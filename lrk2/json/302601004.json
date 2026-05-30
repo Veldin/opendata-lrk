@@ -2,13 +2,15 @@
     "lrk_id": "302601004",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Toor van Leeuwen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2018",
     "uitschrijfdatum": "09-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Toor van Leeuwen",
+    "contact_telefoon": "''",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
-    "gastouderbureau_1": "418689465",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a43be8e9-831b-4731-9664-018116c2e638"
 }

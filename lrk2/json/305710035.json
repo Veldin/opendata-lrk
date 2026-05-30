@@ -2,13 +2,15 @@
     "lrk_id": "305710035",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vliet",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-12-2015",
     "uitschrijfdatum": "10-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vliet",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "166040150",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dcd92c02-4ebf-4617-8e54-993d70fb904b"
 }

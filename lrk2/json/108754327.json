@@ -2,13 +2,15 @@
     "lrk_id": "108754327",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Duggan",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-04-2016",
     "uitschrijfdatum": "14-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Duggan",
+    "contact_telefoon": "''",
     "cbs_code": "312",
     "verantwoordelijke_gemeente": "Bunnik",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2e2b246b-7a8c-45e5-a464-490d93bc97bb"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "298693835",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Barends",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-06-2019",
     "uitschrijfdatum": "26-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Barends",
+    "contact_telefoon": "''",
     "cbs_code": "392",
     "verantwoordelijke_gemeente": "Haarlem",
-    "gastouderbureau_1": "120189197",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5f91ae2f-ad27-4ae2-80b6-b7180feb4949"
 }

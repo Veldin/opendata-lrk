@@ -2,13 +2,15 @@
     "lrk_id": "262936847",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koppes",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-09-2016",
     "uitschrijfdatum": "04-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koppes",
+    "contact_telefoon": "''",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "103287127",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e54621c1-8925-4d9c-9390-836c50aedec1"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "592021488",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Korsuize",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-08-2017",
     "uitschrijfdatum": "03-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Korsuize",
+    "contact_telefoon": "''",
     "cbs_code": "1525",
     "verantwoordelijke_gemeente": "Teylingen",
-    "gastouderbureau_1": "141733974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/df5cedee-2f49-4707-a062-fac31116cea1"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "565916580",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Salami",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-12-2017",
     "uitschrijfdatum": "01-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Salami",
+    "contact_telefoon": "''",
     "cbs_code": "355",
     "verantwoordelijke_gemeente": "Zeist",
-    "gastouderbureau_1": "135853692",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3e8cbe9f-f915-4ee5-8900-f4e119334891"
 }

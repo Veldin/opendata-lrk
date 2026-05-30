@@ -2,13 +2,15 @@
     "lrk_id": "212207507",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "ten Bloemendal-Buwalda",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-10-2016",
     "uitschrijfdatum": "06-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bloemendal Buwalda",
+    "contact_telefoon": "''",
     "cbs_code": "285",
     "verantwoordelijke_gemeente": "Voorst",
-    "gastouderbureau_1": "174815220",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7284c483-dde1-4efa-a275-7233f484c5aa"
 }

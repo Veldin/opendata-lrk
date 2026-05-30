@@ -2,13 +2,16 @@
     "lrk_id": "233782333",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Winkels Meeuwsen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-10-2018",
     "uitschrijfdatum": "01-11-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Winkels Meeuwsen",
+    "contact_telefoon": "'0384652839'",
+    "contact_emailadres": "jeaninewinkels@home.nl",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d1b449fc-84ff-452d-bf6b-65121702a3c5"
 }

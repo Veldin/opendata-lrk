@@ -2,13 +2,15 @@
     "lrk_id": "480761954",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Faber",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-07-2019",
     "uitschrijfdatum": "16-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Faber",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/386c1e53-d842-4908-a1cc-77a022cd025a"
 }

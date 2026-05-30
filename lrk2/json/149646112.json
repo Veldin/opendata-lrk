@@ -2,13 +2,15 @@
     "lrk_id": "149646112",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hel",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-03-2015",
     "uitschrijfdatum": "11-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tamboer van de Hel",
+    "contact_telefoon": "''",
     "cbs_code": "232",
     "verantwoordelijke_gemeente": "Epe",
-    "gastouderbureau_1": "918762352",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/170e181c-e851-47bf-9bd8-7e4dc1578342"
 }

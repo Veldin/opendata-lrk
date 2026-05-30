@@ -2,13 +2,15 @@
     "lrk_id": "202562591",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schans-van Hardeveld",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-08-2017",
     "uitschrijfdatum": "31-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "SChans-van Hardeveld",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "201268061",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3d25a1d9-f664-4959-ab93-10f565939de2"
 }

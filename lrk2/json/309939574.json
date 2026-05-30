@@ -2,13 +2,15 @@
     "lrk_id": "309939574",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bogert",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-04-2021",
     "uitschrijfdatum": "02-03-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bogert",
+    "contact_telefoon": "''",
     "cbs_code": "263",
     "verantwoordelijke_gemeente": "Maasdriel",
-    "gastouderbureau_1": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f823c289-ad26-47cc-a3c4-aacf63053e7a"
 }

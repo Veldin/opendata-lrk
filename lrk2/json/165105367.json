@@ -2,13 +2,15 @@
     "lrk_id": "165105367",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hatzmann",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-07-2012",
     "uitschrijfdatum": "01-01-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hatzmann",
+    "contact_telefoon": "''",
     "cbs_code": "148",
     "verantwoordelijke_gemeente": "Dalfsen",
-    "gastouderbureau_1": "123681716",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/087bf5d5-ebba-4e2d-98b3-08000fb8922a"
 }

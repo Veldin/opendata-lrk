@@ -2,13 +2,15 @@
     "lrk_id": "254672619",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Steenstra Beens",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-11-2017",
     "uitschrijfdatum": "06-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Steenstra Beens",
+    "contact_telefoon": "''",
     "cbs_code": "166",
     "verantwoordelijke_gemeente": "Kampen",
-    "gastouderbureau_1": "335782565",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8933aa83-2921-4d4d-9d70-c6f9df3b3ab2"
 }

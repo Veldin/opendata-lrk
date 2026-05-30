@@ -2,13 +2,15 @@
     "lrk_id": "288199078",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Been Alblas",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-10-2018",
     "uitschrijfdatum": "22-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Been Alblas",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "128966385",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/571ae81c-6719-4590-b829-2c223fd72ee1"
 }

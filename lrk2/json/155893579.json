@@ -2,13 +2,15 @@
     "lrk_id": "155893579",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Klein Koerkamp",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-03-2015",
     "uitschrijfdatum": "15-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Klein Koerkamp",
+    "contact_telefoon": "''",
     "cbs_code": "772",
     "verantwoordelijke_gemeente": "Eindhoven",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/226815f5-59c2-4281-acd8-baccb842e8e5"
 }

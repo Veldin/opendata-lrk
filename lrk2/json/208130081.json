@@ -2,13 +2,15 @@
     "lrk_id": "208130081",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "A.C. in 't Hout Stam",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-03-2022",
     "uitschrijfdatum": "16-08-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hout Stam",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "171802093",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0e6d5099-4772-4735-8a44-6e1d25e081a2"
 }

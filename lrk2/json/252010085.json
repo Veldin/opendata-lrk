@@ -2,13 +2,15 @@
     "lrk_id": "252010085",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vos Gerrits",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-06-2019",
     "uitschrijfdatum": "20-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vos Gerrits",
+    "contact_telefoon": "''",
     "cbs_code": "106",
     "verantwoordelijke_gemeente": "Assen",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fc2e98b0-ced7-4607-9e5b-2108bcac1dcd"
 }

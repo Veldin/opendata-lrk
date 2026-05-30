@@ -2,13 +2,15 @@
     "lrk_id": "652075903",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van de Vrugt",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-11-2014",
     "uitschrijfdatum": "01-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vrugt",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/82d8c404-6c0d-4fe9-aee6-29a66a71f116"
 }

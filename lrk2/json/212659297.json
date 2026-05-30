@@ -2,13 +2,15 @@
     "lrk_id": "212659297",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Aksan Bozkurt",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-12-2019",
     "uitschrijfdatum": "05-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Aksan Bozkurt",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cc66dd07-1ce8-4fda-9639-89b5d233a1c3"
 }

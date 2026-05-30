@@ -2,13 +2,15 @@
     "lrk_id": "327205568",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Farisi",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-06-2021",
     "uitschrijfdatum": "02-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Farisi",
+    "contact_telefoon": "''",
     "cbs_code": "392",
     "verantwoordelijke_gemeente": "Haarlem",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4cd6a3b4-ecd8-43cd-9358-4c649cd952db"
 }

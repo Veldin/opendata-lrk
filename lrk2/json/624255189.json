@@ -2,13 +2,15 @@
     "lrk_id": "624255189",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kampen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-03-2014",
     "uitschrijfdatum": "24-05-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kampen",
+    "contact_telefoon": "''",
     "cbs_code": "826",
     "verantwoordelijke_gemeente": "Oosterhout",
-    "gastouderbureau_1": "998001211",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dd7da5ff-9aa1-4523-8c07-d517f6237598"
 }

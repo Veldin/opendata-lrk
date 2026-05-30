@@ -2,13 +2,16 @@
     "lrk_id": "202373216",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Westenend",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-07-2019",
     "uitschrijfdatum": "15-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Westenend",
+    "contact_telefoon": "'0614458466'",
+    "contact_emailadres": "j.tenwestenend@gmail.com",
     "cbs_code": "202",
     "verantwoordelijke_gemeente": "Arnhem",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8dd257ee-9ec4-40b1-afef-5227620b94e9"
 }

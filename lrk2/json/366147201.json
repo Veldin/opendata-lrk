@@ -2,13 +2,15 @@
     "lrk_id": "366147201",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Annastatia",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-02-2018",
     "uitschrijfdatum": "04-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Annastatia",
+    "contact_telefoon": "''",
     "cbs_code": "518",
     "verantwoordelijke_gemeente": "'s-Gravenhage",
-    "gastouderbureau_1": "462252656",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6c82bc68-a9aa-4ecc-a3a5-13df32c9675c"
 }

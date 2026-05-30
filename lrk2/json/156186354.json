@@ -2,13 +2,16 @@
     "lrk_id": "156186354",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Scholten",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-03-2018",
     "uitschrijfdatum": "01-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Scholten",
+    "contact_telefoon": "'06-27822439'",
+    "contact_emailadres": "s.scholten@outlook.com",
     "cbs_code": "150",
     "verantwoordelijke_gemeente": "Deventer",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/64f48a24-9948-458e-991d-a460433dd6e3"
 }

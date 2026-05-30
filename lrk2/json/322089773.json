@@ -2,13 +2,15 @@
     "lrk_id": "322089773",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoekstra",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-01-2019",
     "uitschrijfdatum": "29-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoekstra",
+    "contact_telefoon": "''",
     "cbs_code": "59",
     "verantwoordelijke_gemeente": "Achtkarspelen",
-    "gastouderbureau_1": "130948007",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9633d421-41d5-4958-a9b1-46ee1eb3decb"
 }

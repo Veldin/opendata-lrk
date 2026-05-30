@@ -2,13 +2,15 @@
     "lrk_id": "339462553",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Heppener-van Biljouw",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-01-2018",
     "uitschrijfdatum": "01-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Heppener van Biljouw",
+    "contact_telefoon": "''",
     "cbs_code": "603",
     "verantwoordelijke_gemeente": "Rijswijk",
-    "gastouderbureau_1": "316496522",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bd29e9b3-7429-4465-ae58-091c06a0b6ee"
 }

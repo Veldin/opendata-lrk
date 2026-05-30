@@ -2,13 +2,15 @@
     "lrk_id": "139494583",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ijkhout-Bosch",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-11-2010",
     "uitschrijfdatum": "29-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ijkhout-Bosch",
+    "contact_telefoon": "''",
     "cbs_code": "753",
     "verantwoordelijke_gemeente": "Best",
-    "gastouderbureau_1": "397955790",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0405641f-18c0-4c34-a904-7f584ed6cd12"
 }

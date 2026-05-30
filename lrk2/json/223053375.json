@@ -2,13 +2,15 @@
     "lrk_id": "223053375",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schwagermann e/v Rietveld",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-06-2015",
     "uitschrijfdatum": "04-05-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schwagermann e/v Rietveld",
+    "contact_telefoon": "''",
     "cbs_code": "502",
     "verantwoordelijke_gemeente": "Capelle aan den IJssel",
-    "gastouderbureau_1": "636229944",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4ffa7d43-ce4c-4d90-bbad-35a576393965"
 }

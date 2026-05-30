@@ -2,13 +2,15 @@
     "lrk_id": "223282388",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dahman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-07-2016",
     "uitschrijfdatum": "07-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dahman",
+    "contact_telefoon": "''",
     "cbs_code": "518",
     "verantwoordelijke_gemeente": "'s-Gravenhage",
-    "gastouderbureau_1": "837471126",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cb3a86ce-4e82-40f0-9f50-de5851a5e9fd"
 }

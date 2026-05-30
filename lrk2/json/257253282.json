@@ -2,13 +2,15 @@
     "lrk_id": "257253282",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Gabriels",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-07-2017",
     "uitschrijfdatum": "01-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Gabriels",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a7a3201c-b8f2-4c62-b621-a4f5b91930b2"
 }

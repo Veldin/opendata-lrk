@@ -2,13 +2,15 @@
     "lrk_id": "310609598",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "M.J.L. van Turenhout-van Wijk",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-09-2018",
     "uitschrijfdatum": "15-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Turenhout van Wijk",
+    "contact_telefoon": "''",
     "cbs_code": "482",
     "verantwoordelijke_gemeente": "Alblasserdam",
-    "gastouderbureau_1": "181692363",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f776a332-95dc-45a9-9faf-541d352d6c3f"
 }

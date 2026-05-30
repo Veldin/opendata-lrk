@@ -2,13 +2,15 @@
     "lrk_id": "208607328",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Clevers-van den Beuken",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-10-2010",
     "uitschrijfdatum": "30-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Clevers-van den Beuken",
+    "contact_telefoon": "''",
     "cbs_code": "1507",
     "verantwoordelijke_gemeente": "Horst aan de Maas",
-    "gastouderbureau_1": "205480470",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2a0190ce-4128-41f2-a8d0-5e9c2589b08a"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "206050707",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Deckers",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-04-2016",
     "uitschrijfdatum": "23-12-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Deckers",
+    "contact_telefoon": "''",
     "cbs_code": "855",
     "verantwoordelijke_gemeente": "Tilburg",
-    "gastouderbureau_1": "190811766",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bd39ba85-dcc8-4a46-aaca-3c4d36f8099b"
 }

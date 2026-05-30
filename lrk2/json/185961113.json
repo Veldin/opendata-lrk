@@ -2,13 +2,15 @@
     "lrk_id": "185961113",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Beukers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-12-2022",
     "uitschrijfdatum": "01-02-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Beukers",
+    "contact_telefoon": "''",
     "cbs_code": "189",
     "verantwoordelijke_gemeente": "Wierden",
-    "gastouderbureau_1": "149157496",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/11061603-93a5-4cf8-a54f-76a6002dc72c"
 }

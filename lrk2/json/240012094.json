@@ -2,13 +2,16 @@
     "lrk_id": "240012094",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koning",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-04-2022",
     "uitschrijfdatum": "30-06-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koning",
+    "contact_telefoon": "'0620355898'",
+    "contact_emailadres": "gastouderlindakoning89@gmail.com",
     "cbs_code": "355",
     "verantwoordelijke_gemeente": "Zeist",
-    "gastouderbureau_1": "221881888",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1519b6ef-664d-45e8-bd8c-c786f4d86c77"
 }

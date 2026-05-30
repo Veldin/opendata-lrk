@@ -2,13 +2,15 @@
     "lrk_id": "244646983",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nelissen Reep",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-02-2018",
     "uitschrijfdatum": "14-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nelissen Reep",
+    "contact_telefoon": "''",
     "cbs_code": "1903",
     "verantwoordelijke_gemeente": "Eijsden-Margraten",
-    "gastouderbureau_1": "121575597",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bc425cfa-42dd-47bc-a307-f4e5f682d93a"
 }

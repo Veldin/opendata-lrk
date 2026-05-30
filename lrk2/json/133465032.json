@@ -2,13 +2,16 @@
     "lrk_id": "133465032",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Klis",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-10-2019",
     "uitschrijfdatum": "21-04-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Klis",
+    "contact_telefoon": "'0614638642'",
+    "contact_emailadres": "creationscristallines@outlook.com",
     "cbs_code": "1696",
     "verantwoordelijke_gemeente": "Wijdemeren",
-    "gastouderbureau_1": "226759799",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1d433987-83ee-46c4-90ee-15d217279246"
 }

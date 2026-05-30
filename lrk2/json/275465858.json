@@ -2,13 +2,16 @@
     "lrk_id": "275465858",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hage-Verboom",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-10-2021",
     "uitschrijfdatum": "17-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hage Verboom",
+    "contact_telefoon": "''",
+    "contact_emailadres": "sitihage@gmail.com",
     "cbs_code": "1916",
     "verantwoordelijke_gemeente": "Leidschendam-Voorburg",
-    "gastouderbureau_1": "160395008",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ce12c7d3-7ea6-4d39-9ba3-793d76421a70"
 }

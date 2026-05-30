@@ -2,13 +2,16 @@
     "lrk_id": "324278019",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bouwknegt",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-12-2021",
     "uitschrijfdatum": "18-10-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bouwknegt",
+    "contact_telefoon": "'06-39316085'",
+    "contact_emailadres": "julike_esther@msn.com",
     "cbs_code": "1699",
     "verantwoordelijke_gemeente": "Noordenveld",
-    "gastouderbureau_1": "759950258",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ff75588c-d4ef-4121-93eb-bd47c93a1616"
 }

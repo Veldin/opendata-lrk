@@ -2,13 +2,16 @@
     "lrk_id": "527599839",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nijenhuis",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-12-2019",
     "uitschrijfdatum": "21-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nijenhuis",
+    "contact_telefoon": "'0527204131'",
+    "contact_emailadres": "j.nijenhuis@hotmail.com",
     "cbs_code": "171",
     "verantwoordelijke_gemeente": "Noordoostpolder",
-    "gastouderbureau_1": "129322155",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c13b4c61-a400-4117-9e3c-a45abb870bee"
 }

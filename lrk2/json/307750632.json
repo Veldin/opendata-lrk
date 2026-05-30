@@ -2,13 +2,16 @@
     "lrk_id": "307750632",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bruin",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-02-2023",
     "uitschrijfdatum": "12-03-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bruin",
+    "contact_telefoon": "'0645132951'",
+    "contact_emailadres": "merel.bruin009@gmail.com",
     "cbs_code": "392",
     "verantwoordelijke_gemeente": "Haarlem",
-    "gastouderbureau_1": "139848095",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e0e7891d-3b80-4b4a-bfcf-a8453706576b"
 }

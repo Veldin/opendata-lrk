@@ -2,13 +2,15 @@
     "lrk_id": "144360196",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Luchies Hendriksen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-10-2020",
     "uitschrijfdatum": "01-11-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Luchies Hendriksen",
+    "contact_telefoon": "''",
     "cbs_code": "202",
     "verantwoordelijke_gemeente": "Arnhem",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/70e2f4a4-dca0-4f9a-91df-3ddd8a861170"
 }

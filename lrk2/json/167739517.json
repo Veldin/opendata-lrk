@@ -2,13 +2,15 @@
     "lrk_id": "167739517",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vos",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-02-2021",
     "uitschrijfdatum": "01-02-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vos",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/70ece128-9653-4816-ad95-5b04c6d5486d"
 }

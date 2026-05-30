@@ -2,13 +2,15 @@
     "lrk_id": "217212189",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Van Oosten - Roosje",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-11-2010",
     "uitschrijfdatum": "18-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Oosten - Roosje",
+    "contact_telefoon": "''",
     "cbs_code": "1895",
     "verantwoordelijke_gemeente": "Oldambt",
-    "gastouderbureau_1": "103773502",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b8d5ad93-2a7c-4181-abad-c72987d50490"
 }

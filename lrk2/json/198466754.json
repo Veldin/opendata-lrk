@@ -2,13 +2,15 @@
     "lrk_id": "198466754",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lemmens Berkelder",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-06-2022",
     "uitschrijfdatum": "19-05-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lemmens Berkelder",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "261224128",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/08998eaa-62b6-4cbb-8361-a98e6a46b43f"
 }

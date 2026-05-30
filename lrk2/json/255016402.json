@@ -2,13 +2,15 @@
     "lrk_id": "255016402",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Douma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-09-2018",
     "uitschrijfdatum": "12-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Douma",
+    "contact_telefoon": "''",
     "cbs_code": "1900",
     "verantwoordelijke_gemeente": "Súdwest-Fryslân",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/09acd282-68a4-4606-9f91-06de4aa1f39d"
 }

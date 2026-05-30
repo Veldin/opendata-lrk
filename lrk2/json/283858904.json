@@ -2,13 +2,15 @@
     "lrk_id": "283858904",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wiersma-Elzinga",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-03-2017",
     "uitschrijfdatum": "12-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wiersma Elzinga",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7754e954-f78c-446a-8fd0-5e2b11a85283"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "155597255",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Brinkman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-05-2023",
     "uitschrijfdatum": "02-11-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Brinkman",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5505a732-54ad-46b5-82a7-c20acd2e4543"
 }

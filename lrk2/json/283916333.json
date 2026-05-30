@@ -2,13 +2,15 @@
     "lrk_id": "283916333",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Baas Nienhuis",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-02-2019",
     "uitschrijfdatum": "01-12-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Baas Nienhuis",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "162798441",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/70fcf500-3712-4dd9-8b28-cf2a9431e445"
 }

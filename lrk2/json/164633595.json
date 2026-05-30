@@ -2,13 +2,15 @@
     "lrk_id": "164633595",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tuithof",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-02-2015",
     "uitschrijfdatum": "04-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tuithof",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "161848060",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/01a86813-7474-4350-85e8-251cbb11ca24"
 }

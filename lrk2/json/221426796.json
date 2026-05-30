@@ -2,13 +2,15 @@
     "lrk_id": "221426796",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lucia Albertha Rijpma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-08-2013",
     "uitschrijfdatum": "02-07-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rijpma",
+    "contact_telefoon": "''",
     "cbs_code": "1949",
     "verantwoordelijke_gemeente": "Waadhoeke",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/24209a9a-86f5-44a6-87ef-09c62bbbee0c"
 }

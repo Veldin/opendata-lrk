@@ -2,13 +2,15 @@
     "lrk_id": "188283006",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Snel",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-06-2019",
     "uitschrijfdatum": "21-04-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Snel",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/adbe4e0c-0d00-4a42-9fcd-475938127832"
 }

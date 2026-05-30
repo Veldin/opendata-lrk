@@ -2,13 +2,15 @@
     "lrk_id": "229986754",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Van Nimwegen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-10-2022",
     "uitschrijfdatum": "23-03-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nimwegen",
+    "contact_telefoon": "''",
     "cbs_code": "1961",
     "verantwoordelijke_gemeente": "Vijfheerenlanden",
-    "gastouderbureau_1": "160395008",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/40487db7-0123-45bc-96eb-a17c9d1b19bf"
 }

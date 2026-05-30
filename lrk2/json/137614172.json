@@ -2,13 +2,15 @@
     "lrk_id": "137614172",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tacken-Tiel Groenestege",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-09-2013",
     "uitschrijfdatum": "04-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tacken-Tiel Groenestege",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "154768200",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3ebd68b8-35de-4892-8f09-17c21c69c090"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "206789634",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Blekkink te Brinke",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-10-2010",
     "uitschrijfdatum": "18-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Blekkink te Brinke",
+    "contact_telefoon": "''",
     "cbs_code": "1731",
     "verantwoordelijke_gemeente": "Midden-Drenthe",
-    "gastouderbureau_1": "197991245",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/52d2b584-3066-42ab-a8ef-c2a28f9462a1"
 }

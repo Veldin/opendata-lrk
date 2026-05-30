@@ -2,13 +2,16 @@
     "lrk_id": "311284383",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Huting-Buil",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-09-2019",
     "uitschrijfdatum": "03-07-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Huting Buil",
+    "contact_telefoon": "'06-11204677'",
+    "contact_emailadres": "g.huting@chello.nl",
     "cbs_code": "299",
     "verantwoordelijke_gemeente": "Zevenaar",
-    "gastouderbureau_1": "124402550",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/84187119-595f-4eb2-a22c-80c62e82dad8"
 }

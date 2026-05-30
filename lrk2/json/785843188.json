@@ -2,13 +2,15 @@
     "lrk_id": "785843188",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vellinga",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-02-2019",
     "uitschrijfdatum": "01-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vellinga",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "800882192",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e04e6af9-181f-4ad0-992a-2916f18010ba"
 }

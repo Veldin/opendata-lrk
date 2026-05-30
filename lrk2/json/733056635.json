@@ -2,13 +2,15 @@
     "lrk_id": "733056635",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vorst Jansen",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-07-2019",
     "uitschrijfdatum": "05-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vorst Jansen",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d6b1a29c-d4c1-4a02-afcd-8ebbd165274e"
 }

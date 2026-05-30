@@ -2,13 +2,15 @@
     "lrk_id": "166580405",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hulskamp",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-12-2021",
     "uitschrijfdatum": "04-03-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hulskamp",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fe9c4e0e-0f8d-4fd2-ae1c-b0143c8c2415"
 }

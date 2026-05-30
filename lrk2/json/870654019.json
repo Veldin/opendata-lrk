@@ -2,13 +2,15 @@
     "lrk_id": "870654019",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "J.A. Oolbekkink",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-01-2011",
     "uitschrijfdatum": "31-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Oolbekkink",
+    "contact_telefoon": "''",
     "cbs_code": "164",
     "verantwoordelijke_gemeente": "Hengelo (O)",
-    "gastouderbureau_1": "169185412",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/75b8d73b-2f9b-4ff0-bf4d-d1f9e51401d0"
 }

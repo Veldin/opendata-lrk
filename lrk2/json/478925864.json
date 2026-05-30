@@ -2,13 +2,16 @@
     "lrk_id": "478925864",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "O. Arts Staal",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-07-2022",
     "uitschrijfdatum": "15-04-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Arts Staal",
+    "contact_telefoon": "'0630030939'",
+    "contact_emailadres": "olga@lagiraffa.nl",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "512128121",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8bd8aa9f-0302-499c-b763-8ba45f44f28b"
 }

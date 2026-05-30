@@ -2,13 +2,15 @@
     "lrk_id": "191357546",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hamming",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-04-2019",
     "uitschrijfdatum": "24-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hamming",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "162798441",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dae23054-2d58-4460-a004-9881252e9a68"
 }

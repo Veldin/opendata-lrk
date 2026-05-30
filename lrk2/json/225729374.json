@@ -2,13 +2,15 @@
     "lrk_id": "225729374",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Gielisse",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-10-2015",
     "uitschrijfdatum": "30-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Gielisse",
+    "contact_telefoon": "''",
     "cbs_code": "1916",
     "verantwoordelijke_gemeente": "Leidschendam-Voorburg",
-    "gastouderbureau_1": "636229944",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0fe3ca36-569b-4160-924f-8d44056e382c"
 }

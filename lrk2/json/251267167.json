@@ -2,13 +2,15 @@
     "lrk_id": "251267167",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Velden",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-06-2019",
     "uitschrijfdatum": "27-01-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Camara van der Velden",
+    "contact_telefoon": "''",
     "cbs_code": "946",
     "verantwoordelijke_gemeente": "Nederweert",
-    "gastouderbureau_1": "328939249",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d5d36d93-5da2-4994-a462-9f8a4f375772"
 }

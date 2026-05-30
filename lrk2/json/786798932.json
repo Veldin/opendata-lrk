@@ -2,13 +2,15 @@
     "lrk_id": "786798932",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Huisman-Exel",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-12-2012",
     "uitschrijfdatum": "31-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Huisman Exel",
+    "contact_telefoon": "''",
     "cbs_code": "148",
     "verantwoordelijke_gemeente": "Dalfsen",
-    "gastouderbureau_1": "189003431",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/23e32aaa-2d79-4446-93d3-01d7740e9326"
 }

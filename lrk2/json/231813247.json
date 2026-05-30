@@ -2,13 +2,15 @@
     "lrk_id": "231813247",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Heming-Vaags",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-12-2010",
     "uitschrijfdatum": "31-12-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Heming-Vaags",
+    "contact_telefoon": "''",
     "cbs_code": "1859",
     "verantwoordelijke_gemeente": "Berkelland",
-    "gastouderbureau_1": "178275517",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c21136bc-e3f5-41f9-ab0f-7dbb5f3c82db"
 }

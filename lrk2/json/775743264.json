@@ -2,13 +2,15 @@
     "lrk_id": "775743264",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "A. Londono",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-06-2024",
     "uitschrijfdatum": "31-01-2026",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Londono",
+    "contact_telefoon": "''",
     "cbs_code": "1696",
     "verantwoordelijke_gemeente": "Wijdemeren",
-    "gastouderbureau_1": "590127809",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/38f0c80f-4efe-48de-89b5-e2cc0bc00fc7"
 }

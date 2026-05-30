@@ -2,13 +2,15 @@
     "lrk_id": "144710110",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Slotboom",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-07-2021",
     "uitschrijfdatum": "09-11-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Döring Slotboom",
+    "contact_telefoon": "''",
     "cbs_code": "294",
     "verantwoordelijke_gemeente": "Winterswijk",
-    "gastouderbureau_1": "207294847",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/59f885d1-bea7-4106-a8bb-29c45ef0cab2"
 }

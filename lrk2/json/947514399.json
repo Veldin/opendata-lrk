@@ -2,13 +2,15 @@
     "lrk_id": "947514399",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Van der Lede-van der Loo",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-11-2010",
     "uitschrijfdatum": "22-06-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lede-van der Loo",
+    "contact_telefoon": "''",
     "cbs_code": "197",
     "verantwoordelijke_gemeente": "Aalten",
-    "gastouderbureau_1": "126932621",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8e9893c6-a180-4452-a3b6-1dc5667d350c"
 }

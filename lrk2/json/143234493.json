@@ -2,12 +2,15 @@
     "lrk_id": "143234493",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rooij-van Doorn",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "22-01-2016",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "uitschrijfdatum": "26-05-2026",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rooij van Doorn",
+    "contact_telefoon": "''",
     "cbs_code": "668",
     "verantwoordelijke_gemeente": "West Maas en Waal",
-    "gastouderbureau_1": "210229974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5ba95af0-c376-4cd6-a44a-977c6a3f351a"
 }

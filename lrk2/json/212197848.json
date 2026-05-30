@@ -2,13 +2,15 @@
     "lrk_id": "212197848",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schlichting",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-09-2018",
     "uitschrijfdatum": "12-12-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dam Schlichting",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "185514133",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/88b90856-5e08-485f-a363-81ce59f00e7f"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "171057533",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hooijmaijers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-03-2017",
     "uitschrijfdatum": "03-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hooijmaijers",
+    "contact_telefoon": "''",
     "cbs_code": "855",
     "verantwoordelijke_gemeente": "Tilburg",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5ba12eef-05a7-4e2c-9e1b-c19ad83bc802"
 }

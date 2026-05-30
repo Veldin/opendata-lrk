@@ -2,13 +2,15 @@
     "lrk_id": "927668737",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Heiligenberg-Eekels",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-05-2017",
     "uitschrijfdatum": "01-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Heiligenberg-Eekels",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "208914973",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c9169d04-2042-400f-9f6a-8438103d9d2f"
 }

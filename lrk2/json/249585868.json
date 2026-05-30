@@ -2,13 +2,15 @@
     "lrk_id": "249585868",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "J.M.W. Maas",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-03-2017",
     "uitschrijfdatum": "02-10-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Maas",
+    "contact_telefoon": "''",
     "cbs_code": "794",
     "verantwoordelijke_gemeente": "Helmond",
-    "gastouderbureau_1": "199306217",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f7dd3476-c22b-4961-9449-ed38fd983066"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "153513433",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wit",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-10-2010",
     "uitschrijfdatum": "31-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wit",
+    "contact_telefoon": "''",
     "cbs_code": "164",
     "verantwoordelijke_gemeente": "Hengelo (O)",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/55d4a0f3-8f13-4862-9515-e4dd6a6d4fd3"
 }

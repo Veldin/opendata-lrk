@@ -2,13 +2,16 @@
     "lrk_id": "148809327",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "A.A.M. Witlox",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-02-2022",
     "uitschrijfdatum": "01-12-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Witlox",
+    "contact_telefoon": "'06 - 510 15 965'",
+    "contact_emailadres": "a.witlox@naturenya.com",
     "cbs_code": "794",
     "verantwoordelijke_gemeente": "Helmond",
-    "gastouderbureau_1": "397955790",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cf0e6020-1dc3-4c2a-a8ae-628a78f717c4"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "231798477",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Geerings van den Hurk",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-01-2018",
     "uitschrijfdatum": "01-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Geerings van den Hurk",
+    "contact_telefoon": "''",
     "cbs_code": "861",
     "verantwoordelijke_gemeente": "Veldhoven",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b1c38930-657d-46ed-8ac9-aaf4e6d88e85"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "157273921",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "M.E.R. Oude Maatman",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-03-2018",
     "uitschrijfdatum": "15-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Oude Maatman",
+    "contact_telefoon": "''",
     "cbs_code": "301",
     "verantwoordelijke_gemeente": "Zutphen",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b225d91f-10e4-4de1-acfe-ff2c04b18001"
 }

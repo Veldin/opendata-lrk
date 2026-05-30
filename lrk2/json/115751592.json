@@ -2,13 +2,15 @@
     "lrk_id": "115751592",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meulenkamp",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-09-2020",
     "uitschrijfdatum": "01-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meulenkamp",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "997832630",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ffb76ee5-455c-4ebc-acda-9feae752fbcb"
 }

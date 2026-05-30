@@ -2,13 +2,15 @@
     "lrk_id": "702607952",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Huurman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-05-2014",
     "uitschrijfdatum": "22-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Huurman",
+    "contact_telefoon": "''",
     "cbs_code": "356",
     "verantwoordelijke_gemeente": "Nieuwegein",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c8f0db50-ae13-43b9-923f-f50c42150566"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "209657133",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van der Wal",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-09-2017",
     "uitschrijfdatum": "14-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wal",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "402222830",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/488c7108-069e-49bb-b999-5179fbf5c2cb"
 }

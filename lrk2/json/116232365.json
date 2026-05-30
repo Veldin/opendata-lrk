@@ -2,13 +2,15 @@
     "lrk_id": "116232365",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "I.A. Godfried- Pietersz",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-11-2016",
     "uitschrijfdatum": "12-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Pietersz Godfried",
+    "contact_telefoon": "''",
     "cbs_code": "794",
     "verantwoordelijke_gemeente": "Helmond",
-    "gastouderbureau_1": "385448636",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/df6db8d0-497d-49b6-bd93-15a4559477c4"
 }

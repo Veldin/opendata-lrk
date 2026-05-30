@@ -2,13 +2,16 @@
     "lrk_id": "286813373",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rijn Vogelezang",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-12-2018",
     "uitschrijfdatum": "01-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rijn Vogelezang",
+    "contact_telefoon": "'071-3012733'",
+    "contact_emailadres": "keesenlisette@ziggo.nl",
     "cbs_code": "553",
     "verantwoordelijke_gemeente": "Lisse",
-    "gastouderbureau_1": "131248224",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7e2bd1dd-7a43-4b1f-86f5-768b49f102bd"
 }

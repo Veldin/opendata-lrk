@@ -2,13 +2,15 @@
     "lrk_id": "313906300",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Klanderman-Damkot",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-11-2015",
     "uitschrijfdatum": "01-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Klanderman Damkot",
+    "contact_telefoon": "''",
     "cbs_code": "294",
     "verantwoordelijke_gemeente": "Winterswijk",
-    "gastouderbureau_1": "209750005",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ebdffb45-dab0-4489-a0f8-8ced9bda329f"
 }

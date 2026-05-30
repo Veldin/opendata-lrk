@@ -2,13 +2,15 @@
     "lrk_id": "409744591",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Desloover",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-08-2017",
     "uitschrijfdatum": "28-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Desloover",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "474021890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2a2656df-e614-4d7b-9048-01e705204ef6"
 }

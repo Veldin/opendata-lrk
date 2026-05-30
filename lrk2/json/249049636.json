@@ -2,14 +2,15 @@
     "lrk_id": "249049636",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Boksel Weijma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-04-2017",
     "uitschrijfdatum": "01-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Boksel Weijma",
+    "contact_telefoon": "''",
     "cbs_code": "263",
     "verantwoordelijke_gemeente": "Maasdriel",
-    "gastouderbureau_1": "166040150",
-    "gastouderbureau_2": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d7556916-d773-4022-9b49-0c6876ca7323"
 }

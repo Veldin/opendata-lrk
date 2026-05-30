@@ -2,13 +2,16 @@
     "lrk_id": "200104561",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Regelink",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2020",
     "uitschrijfdatum": "21-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Regelink",
+    "contact_telefoon": "'0652447543'",
+    "contact_emailadres": "jannekevanwissen@gmail.com",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "228536686",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d97539c6-8276-4d65-9dff-a8b279663c32"
 }

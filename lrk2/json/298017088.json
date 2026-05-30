@@ -2,13 +2,15 @@
     "lrk_id": "298017088",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "M. Plekkenpol",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-07-2017",
     "uitschrijfdatum": "09-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Plekkenpol",
+    "contact_telefoon": "''",
     "cbs_code": "794",
     "verantwoordelijke_gemeente": "Helmond",
-    "gastouderbureau_1": "107701212",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/41121776-35e3-4e96-b71e-c7432de66bb5"
 }

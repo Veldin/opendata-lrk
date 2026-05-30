@@ -2,13 +2,15 @@
     "lrk_id": "302384844",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van Zuidam",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-04-2016",
     "uitschrijfdatum": "01-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zuidam",
+    "contact_telefoon": "''",
     "cbs_code": "175",
     "verantwoordelijke_gemeente": "Ommen",
-    "gastouderbureau_1": "221881888",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6edbf911-185d-47b9-94b3-5632ee430a11"
 }

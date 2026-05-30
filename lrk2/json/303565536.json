@@ -2,13 +2,15 @@
     "lrk_id": "303565536",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Backes-Willemsen",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-07-2010",
     "uitschrijfdatum": "08-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Backes Willemsen",
+    "contact_telefoon": "''",
     "cbs_code": "983",
     "verantwoordelijke_gemeente": "Venlo",
-    "gastouderbureau_1": "357692585",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d6b8ab8e-19b9-40c1-b106-20639920b789"
 }

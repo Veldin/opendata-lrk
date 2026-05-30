@@ -2,13 +2,15 @@
     "lrk_id": "132607761",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Foulger - van der Made",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-08-2010",
     "uitschrijfdatum": "25-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Foulger van der Made",
+    "contact_telefoon": "''",
     "cbs_code": "826",
     "verantwoordelijke_gemeente": "Oosterhout",
-    "gastouderbureau_1": "149711980",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d224912e-9675-4154-9405-939c9587b81d"
 }

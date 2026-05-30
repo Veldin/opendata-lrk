@@ -2,13 +2,15 @@
     "lrk_id": "129912840",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Henning",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-12-2010",
     "uitschrijfdatum": "27-05-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Henning",
+    "contact_telefoon": "''",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "210229974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f4580792-0d3b-47d0-9960-cf5ac962ad3b"
 }

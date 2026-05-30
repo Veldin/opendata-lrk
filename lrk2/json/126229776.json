@@ -2,13 +2,15 @@
     "lrk_id": "126229776",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Baas van den Brink",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-12-2021",
     "uitschrijfdatum": "04-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Baas van den Brink",
+    "contact_telefoon": "''",
     "cbs_code": "297",
     "verantwoordelijke_gemeente": "Zaltbommel",
-    "gastouderbureau_1": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fa282d0c-4346-49c6-91ab-c6cc8c3f8d56"
 }

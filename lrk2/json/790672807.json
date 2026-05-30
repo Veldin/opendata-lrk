@@ -2,13 +2,15 @@
     "lrk_id": "790672807",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Arian",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-05-2018",
     "uitschrijfdatum": "01-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Arian",
+    "contact_telefoon": "''",
     "cbs_code": "1581",
     "verantwoordelijke_gemeente": "Utrechtse Heuvelrug",
-    "gastouderbureau_1": "911068697",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b1b4aa87-0553-414f-b65a-35db086bc8c5"
 }

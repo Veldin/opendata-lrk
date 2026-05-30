@@ -2,13 +2,15 @@
     "lrk_id": "562876182",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Van Vliet",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-01-2014",
     "uitschrijfdatum": "01-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vliet",
+    "contact_telefoon": "''",
     "cbs_code": "1960",
     "verantwoordelijke_gemeente": "West Betuwe",
-    "gastouderbureau_1": "192754063",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/029aadc1-15da-42f8-a690-c72e406c6146"
 }

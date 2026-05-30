@@ -2,13 +2,15 @@
     "lrk_id": "338738782",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Eek",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-06-2018",
     "uitschrijfdatum": "20-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Eek",
+    "contact_telefoon": "''",
     "cbs_code": "317",
     "verantwoordelijke_gemeente": "Eemnes",
-    "gastouderbureau_1": "875938449",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0b10746f-9419-45cf-9efd-6da3d95fd0ce"
 }

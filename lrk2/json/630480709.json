@@ -2,13 +2,15 @@
     "lrk_id": "630480709",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Danenberg",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-05-2016",
     "uitschrijfdatum": "09-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Danenberg",
+    "contact_telefoon": "''",
     "cbs_code": "1911",
     "verantwoordelijke_gemeente": "Hollands Kroon",
-    "gastouderbureau_1": "150397525",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/24793172-1793-4a17-b788-a510a7db6be7"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "114455405",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Polman-Swartjes",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-06-2017",
     "uitschrijfdatum": "01-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Polman-Swartjes",
+    "contact_telefoon": "''",
     "cbs_code": "296",
     "verantwoordelijke_gemeente": "Wijchen",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3216aa3c-2ded-48c3-a632-b8682c5ffc08"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "135476331",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Veen van der Spoel",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-03-2016",
     "uitschrijfdatum": "15-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Veen van der Spoel",
+    "contact_telefoon": "''",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
-    "gastouderbureau_1": "815625777",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4bbc9a5d-2716-49bb-9ac8-6072a28175bc"
 }

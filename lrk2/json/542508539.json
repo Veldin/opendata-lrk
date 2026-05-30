@@ -2,13 +2,15 @@
     "lrk_id": "542508539",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "J. Wustman-de Boer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2018",
     "uitschrijfdatum": "01-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wustman de Boer",
+    "contact_telefoon": "''",
     "cbs_code": "74",
     "verantwoordelijke_gemeente": "Heerenveen",
-    "gastouderbureau_1": "209887503",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/42178689-4f9f-4f6b-94b1-f958703b1d0f"
 }

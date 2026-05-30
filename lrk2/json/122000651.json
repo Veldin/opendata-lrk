@@ -2,13 +2,15 @@
     "lrk_id": "122000651",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Heuveling",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-10-2010",
     "uitschrijfdatum": "08-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Heuveling",
+    "contact_telefoon": "''",
     "cbs_code": "1728",
     "verantwoordelijke_gemeente": "Bladel",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0d8cd8ce-c4a1-4068-ab9d-0a1528096c69"
 }

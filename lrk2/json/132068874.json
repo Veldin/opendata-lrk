@@ -2,13 +2,15 @@
     "lrk_id": "132068874",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Boer",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-08-2017",
     "uitschrijfdatum": "06-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Boer",
+    "contact_telefoon": "''",
     "cbs_code": "202",
     "verantwoordelijke_gemeente": "Arnhem",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/79afcd7c-7ff7-4e5f-b963-28d947b13aa0"
 }

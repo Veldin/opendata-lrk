@@ -2,13 +2,15 @@
     "lrk_id": "621114868",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bakker",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-04-2017",
     "uitschrijfdatum": "01-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bakker",
+    "contact_telefoon": "''",
     "cbs_code": "302",
     "verantwoordelijke_gemeente": "Nunspeet",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c9bea0f9-3e83-4cd7-872b-3a78fd6eade0"
 }

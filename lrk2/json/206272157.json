@@ -2,13 +2,15 @@
     "lrk_id": "206272157",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Slamp",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-01-2018",
     "uitschrijfdatum": "26-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Slamp",
+    "contact_telefoon": "''",
     "cbs_code": "147",
     "verantwoordelijke_gemeente": "Borne",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c95b50ba-1ffe-4a1f-b27a-b763675ff7a5"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "147829926",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schoppema",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-09-2014",
     "uitschrijfdatum": "14-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schoppema",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b7ff853e-6386-4328-a75b-900387f9f3f9"
 }

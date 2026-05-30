@@ -2,13 +2,15 @@
     "lrk_id": "459931465",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Korthof",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-04-2016",
     "uitschrijfdatum": "09-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Korthof",
+    "contact_telefoon": "''",
     "cbs_code": "275",
     "verantwoordelijke_gemeente": "Rheden",
-    "gastouderbureau_1": "141733974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1a79a915-7244-4595-ac4b-20fbd9c1a95d"
 }

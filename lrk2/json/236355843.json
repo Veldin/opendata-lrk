@@ -2,13 +2,15 @@
     "lrk_id": "236355843",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Karsdorp",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-03-2017",
     "uitschrijfdatum": "27-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Karsdorp",
+    "contact_telefoon": "''",
     "cbs_code": "518",
     "verantwoordelijke_gemeente": "'s-Gravenhage",
-    "gastouderbureau_1": "474021890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/75ee9b31-1fb6-4754-ad3d-ccf6587f9894"
 }

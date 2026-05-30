@@ -2,13 +2,15 @@
     "lrk_id": "291624522",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vos van Duin",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-01-2017",
     "uitschrijfdatum": "09-07-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vos van Duin",
+    "contact_telefoon": "''",
     "cbs_code": "1911",
     "verantwoordelijke_gemeente": "Hollands Kroon",
-    "gastouderbureau_1": "172977241",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4216f932-0471-4670-a1a2-5f7ce64af071"
 }

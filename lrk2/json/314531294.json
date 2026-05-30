@@ -2,13 +2,16 @@
     "lrk_id": "314531294",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Philippa",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-02-2024",
     "uitschrijfdatum": "11-03-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Philippa",
+    "contact_telefoon": "'06-21646854'",
+    "contact_emailadres": "mw.philippa@live.nl",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "216444172",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0b10d61b-c75f-4366-af18-c60a5ff6ec80"
 }

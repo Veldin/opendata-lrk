@@ -2,13 +2,15 @@
     "lrk_id": "281876277",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Doomen Baaijens",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-04-2018",
     "uitschrijfdatum": "12-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Doomen Baaijens",
+    "contact_telefoon": "''",
     "cbs_code": "505",
     "verantwoordelijke_gemeente": "Dordrecht",
-    "gastouderbureau_1": "221881888",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bef233ec-4ab0-4fc0-8257-ac8d1c435a90"
 }

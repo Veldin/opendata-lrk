@@ -2,13 +2,15 @@
     "lrk_id": "322152380",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hobelman van Elsacker",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-12-2017",
     "uitschrijfdatum": "21-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hobelman van Elsacker",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "164936725",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2da70341-1da1-4366-a8e8-3afdda7050da"
 }

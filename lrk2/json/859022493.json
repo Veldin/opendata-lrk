@@ -2,13 +2,15 @@
     "lrk_id": "859022493",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vasmeer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-10-2017",
     "uitschrijfdatum": "01-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vasmeer",
+    "contact_telefoon": "''",
     "cbs_code": "1903",
     "verantwoordelijke_gemeente": "Eijsden-Margraten",
-    "gastouderbureau_1": "121575597",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cdd297c6-3d47-448d-a73f-e81925017a60"
 }

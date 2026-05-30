@@ -2,13 +2,15 @@
     "lrk_id": "252775648",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Paauw",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-04-2018",
     "uitschrijfdatum": "01-08-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Paauw",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "590127809",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f1eecd45-913d-400d-92d7-6f3c7d5021df"
 }

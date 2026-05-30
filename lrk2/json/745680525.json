@@ -2,13 +2,15 @@
     "lrk_id": "745680525",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Geus van der Vliet",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-01-2018",
     "uitschrijfdatum": "01-07-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Geus van der Vliet",
+    "contact_telefoon": "''",
     "cbs_code": "90",
     "verantwoordelijke_gemeente": "Smallingerland",
-    "gastouderbureau_1": "223671022",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/028f51c7-2f35-4399-a36d-a6bf5b376fb3"
 }

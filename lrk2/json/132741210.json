@@ -2,13 +2,15 @@
     "lrk_id": "132741210",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Boer",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-10-2018",
     "uitschrijfdatum": "13-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Braak de Boer",
+    "contact_telefoon": "''",
     "cbs_code": "1969",
     "verantwoordelijke_gemeente": "Westerkwartier",
-    "gastouderbureau_1": "170319738",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/71ffb964-fdcc-4981-91ce-175579f8ccd2"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "471579853",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Jong Tuinier",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-01-2017",
     "uitschrijfdatum": "05-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jong Tuinier",
+    "contact_telefoon": "''",
     "cbs_code": "141",
     "verantwoordelijke_gemeente": "Almelo",
-    "gastouderbureau_1": "106361466",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/73e287eb-7b12-4ec5-a5b7-17598849c7a5"
 }

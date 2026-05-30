@@ -2,13 +2,15 @@
     "lrk_id": "646708788",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Reijnders",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-07-2018",
     "uitschrijfdatum": "09-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Reijnders",
+    "contact_telefoon": "''",
     "cbs_code": "1969",
     "verantwoordelijke_gemeente": "Westerkwartier",
-    "gastouderbureau_1": "144498224",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9522c2c2-4664-4090-8f6f-2e7d1888d286"
 }

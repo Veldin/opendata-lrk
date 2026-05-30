@@ -2,13 +2,15 @@
     "lrk_id": "131369714",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Huijser Kleinendorst",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-08-2017",
     "uitschrijfdatum": "01-06-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Huijser Kleinendorst",
+    "contact_telefoon": "''",
     "cbs_code": "1963",
     "verantwoordelijke_gemeente": "Hoeksche Waard",
-    "gastouderbureau_1": "132893277",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/82419cc9-115b-41f3-ad3b-92a556029c0e"
 }

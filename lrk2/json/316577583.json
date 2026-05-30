@@ -2,13 +2,15 @@
     "lrk_id": "316577583",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Baan",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-02-2017",
     "uitschrijfdatum": "25-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Baan",
+    "contact_telefoon": "''",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
-    "gastouderbureau_1": "672279769",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/81032939-a221-44a6-940a-b8bf5607a5a8"
 }

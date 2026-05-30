@@ -2,13 +2,15 @@
     "lrk_id": "162236943",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kuhl-van der Veer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-01-2015",
     "uitschrijfdatum": "01-05-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kuhl-van der Veer",
+    "contact_telefoon": "''",
     "cbs_code": "114",
     "verantwoordelijke_gemeente": "Emmen",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fb6905a4-9142-4cc9-aa01-f7df890e2c4b"
 }

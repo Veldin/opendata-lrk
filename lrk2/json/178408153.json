@@ -2,13 +2,15 @@
     "lrk_id": "178408153",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Slagman-Anjema",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-08-2016",
     "uitschrijfdatum": "27-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Slagman-Anjema",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "800882192",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/09d788e5-b150-4fc0-a13f-0722ca75550d"
 }

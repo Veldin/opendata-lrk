@@ -2,13 +2,15 @@
     "lrk_id": "173805085",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Poel Letens",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-02-2019",
     "uitschrijfdatum": "15-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Poel Letens",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "144498224",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e1caa801-d9fd-41d3-938f-171038a2ac76"
 }

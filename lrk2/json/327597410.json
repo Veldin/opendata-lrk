@@ -2,13 +2,15 @@
     "lrk_id": "327597410",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Busman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-11-2017",
     "uitschrijfdatum": "01-08-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Busman",
+    "contact_telefoon": "''",
     "cbs_code": "1900",
     "verantwoordelijke_gemeente": "Súdwest-Fryslân",
-    "gastouderbureau_1": "170370471",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/35c2abab-c670-4f00-a267-b749ceee0c03"
 }

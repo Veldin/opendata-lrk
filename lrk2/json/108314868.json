@@ -2,13 +2,15 @@
     "lrk_id": "108314868",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Reinsma Grasman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-10-2018",
     "uitschrijfdatum": "02-04-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Reinsma Grasman",
+    "contact_telefoon": "''",
     "cbs_code": "1949",
     "verantwoordelijke_gemeente": "Waadhoeke",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b6e902eb-25fa-4261-ad07-0c9536778a06"
 }

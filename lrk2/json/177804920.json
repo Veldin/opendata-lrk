@@ -2,13 +2,15 @@
     "lrk_id": "177804920",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sante",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-11-2018",
     "uitschrijfdatum": "20-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sante",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "110672161",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/40e71822-4998-4845-a901-35f27d1c9f3b"
 }

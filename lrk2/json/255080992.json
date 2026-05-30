@@ -2,13 +2,15 @@
     "lrk_id": "255080992",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Smit",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-04-2017",
     "uitschrijfdatum": "06-12-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Smit",
+    "contact_telefoon": "''",
     "cbs_code": "118",
     "verantwoordelijke_gemeente": "Hoogeveen",
-    "gastouderbureau_1": "110672161",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/211ad083-3518-4e30-911b-10e6fb6d4fa7"
 }

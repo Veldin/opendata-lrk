@@ -2,13 +2,15 @@
     "lrk_id": "127311415",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Prick van Wely-Bouwman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-08-2010",
     "uitschrijfdatum": "01-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Prick van Wely Bouwman",
+    "contact_telefoon": "''",
     "cbs_code": "1705",
     "verantwoordelijke_gemeente": "Lingewaard",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e850d3f0-1b07-41a8-afaa-d49749cfa540"
 }

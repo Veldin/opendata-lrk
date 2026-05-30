@@ -2,13 +2,15 @@
     "lrk_id": "192644282",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bouma Valkema",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-11-2018",
     "uitschrijfdatum": "20-08-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Valkema",
+    "contact_telefoon": "''",
     "cbs_code": "1949",
     "verantwoordelijke_gemeente": "Waadhoeke",
-    "gastouderbureau_1": "818211118",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/baefa4cf-3dd2-4cd3-986e-57575e27e080"
 }

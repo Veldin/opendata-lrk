@@ -2,13 +2,15 @@
     "lrk_id": "198847038",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kip",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-12-2013",
     "uitschrijfdatum": "01-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kip",
+    "contact_telefoon": "''",
     "cbs_code": "141",
     "verantwoordelijke_gemeente": "Almelo",
-    "gastouderbureau_1": "190734243",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6a369d7b-da51-41f3-96a7-e16aac8317a7"
 }

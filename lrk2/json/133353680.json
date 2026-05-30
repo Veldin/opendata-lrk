@@ -2,13 +2,15 @@
     "lrk_id": "133353680",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Besselaar",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-08-2020",
     "uitschrijfdatum": "01-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Besselaar",
+    "contact_telefoon": "''",
     "cbs_code": "1982",
     "verantwoordelijke_gemeente": "Land van Cuijk",
-    "gastouderbureau_1": "512128121",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ac354ca4-49a4-440c-8cdf-850aa90097b4"
 }

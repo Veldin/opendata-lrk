@@ -2,13 +2,15 @@
     "lrk_id": "166967695",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Asnnosi",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-10-2017",
     "uitschrijfdatum": "23-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Asnnosi",
+    "contact_telefoon": "''",
     "cbs_code": "355",
     "verantwoordelijke_gemeente": "Zeist",
-    "gastouderbureau_1": "111688292",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cfd78dab-9bc7-4466-a518-8cadb53b46d3"
 }

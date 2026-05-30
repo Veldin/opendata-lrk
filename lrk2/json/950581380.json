@@ -2,13 +2,15 @@
     "lrk_id": "950581380",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sieg",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-01-2017",
     "uitschrijfdatum": "09-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schattorie Sieg",
+    "contact_telefoon": "''",
     "cbs_code": "957",
     "verantwoordelijke_gemeente": "Roermond",
-    "gastouderbureau_1": "146173685",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ee125ed6-59d1-4ad9-a5d3-e53ead213744"
 }

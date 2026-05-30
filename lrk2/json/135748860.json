@@ -2,13 +2,15 @@
     "lrk_id": "135748860",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Evenhuis Verhoeven",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-11-2017",
     "uitschrijfdatum": "18-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Evenhuis Verhoeven",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "514367635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/473da3e0-4dca-42ed-b00e-4d216887a947"
 }

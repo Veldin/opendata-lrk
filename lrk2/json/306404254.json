@@ -2,13 +2,15 @@
     "lrk_id": "306404254",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sissouani",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-03-2018",
     "uitschrijfdatum": "08-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sissouani",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "206714075",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/71984ce6-f610-4f97-989b-db2d28141084"
 }

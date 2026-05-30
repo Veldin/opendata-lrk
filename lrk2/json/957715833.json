@@ -2,13 +2,15 @@
     "lrk_id": "957715833",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Drunen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-10-2020",
     "uitschrijfdatum": "16-11-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Drunen",
+    "contact_telefoon": "''",
     "cbs_code": "867",
     "verantwoordelijke_gemeente": "Waalwijk",
-    "gastouderbureau_1": "147662904",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/836570e3-e485-45be-9676-037fc66ace0e"
 }

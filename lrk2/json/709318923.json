@@ -2,13 +2,15 @@
     "lrk_id": "709318923",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meijer-Timmerman (Langkamp 13)",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-05-2017",
     "uitschrijfdatum": "03-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meijer Timmerman",
+    "contact_telefoon": "''",
     "cbs_code": "148",
     "verantwoordelijke_gemeente": "Dalfsen",
-    "gastouderbureau_1": "123681716",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e678d092-5566-403d-bb49-2aa923a91f81"
 }

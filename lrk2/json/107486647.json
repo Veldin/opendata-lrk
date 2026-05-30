@@ -2,13 +2,15 @@
     "lrk_id": "107486647",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koning",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-08-2017",
     "uitschrijfdatum": "01-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koning",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "210229974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6faa55c0-d353-4d92-86b6-beec282af570"
 }

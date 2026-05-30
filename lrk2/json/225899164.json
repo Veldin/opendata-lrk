@@ -2,13 +2,15 @@
     "lrk_id": "225899164",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Visser",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-12-2018",
     "uitschrijfdatum": "01-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Visser",
+    "contact_telefoon": "''",
     "cbs_code": "737",
     "verantwoordelijke_gemeente": "Tytsjerksteradiel",
-    "gastouderbureau_1": "830987162",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e5d385ef-b065-46b1-86ca-ecb671ca519d"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "524041969",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Eenennaam",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-05-2017",
     "uitschrijfdatum": "08-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Eenennaam",
+    "contact_telefoon": "''",
     "cbs_code": "687",
     "verantwoordelijke_gemeente": "Middelburg",
-    "gastouderbureau_1": "112085635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f0933c9d-43de-4593-9bbd-59f9a07b0e97"
 }

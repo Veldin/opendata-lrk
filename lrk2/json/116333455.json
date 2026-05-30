@@ -2,13 +2,15 @@
     "lrk_id": "116333455",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sturm-Maljaars",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-10-2010",
     "uitschrijfdatum": "20-02-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sturm-Maljaars",
+    "contact_telefoon": "''",
     "cbs_code": "717",
     "verantwoordelijke_gemeente": "Veere",
-    "gastouderbureau_1": "305142562",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c7bca39e-9708-4224-91dd-111a1329d724"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "323268249",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Grinsven",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-04-2019",
     "uitschrijfdatum": "20-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Grinsven",
+    "contact_telefoon": "'06-27397212'",
+    "contact_emailadres": "doth.go@gmail.com",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/43ccc3ba-6bb7-46b2-becd-0c7b3c9f316d"
 }

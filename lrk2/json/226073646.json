@@ -2,13 +2,15 @@
     "lrk_id": "226073646",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bastiaans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-11-2015",
     "uitschrijfdatum": "06-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Aoulad Abdelkrim",
+    "contact_telefoon": "''",
     "cbs_code": "310",
     "verantwoordelijke_gemeente": "De Bilt",
-    "gastouderbureau_1": "138358242",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/24a78afc-d4bf-4015-ac71-1c9349bce2b8"
 }

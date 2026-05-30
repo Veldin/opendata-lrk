@@ -2,13 +2,15 @@
     "lrk_id": "290652832",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Plas",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-10-2019",
     "uitschrijfdatum": "01-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Plas",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "102281385",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fd29db8e-8b7f-438f-9393-310616c6125f"
 }

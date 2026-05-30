@@ -2,13 +2,15 @@
     "lrk_id": "279589876",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tijssen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-03-2017",
     "uitschrijfdatum": "01-11-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tijssen",
+    "contact_telefoon": "''",
     "cbs_code": "232",
     "verantwoordelijke_gemeente": "Epe",
-    "gastouderbureau_1": "295706442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e879b567-d573-4368-a2ea-7524fb5c0cb0"
 }

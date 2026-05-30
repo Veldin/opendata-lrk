@@ -2,13 +2,15 @@
     "lrk_id": "124484712",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zandvoort-Ooms",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-12-2017",
     "uitschrijfdatum": "06-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zandvoort-Ooms",
+    "contact_telefoon": "''",
     "cbs_code": "1742",
     "verantwoordelijke_gemeente": "Rijssen-Holten",
-    "gastouderbureau_1": "178275517",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f4f49f3f-a0e1-4ebb-975e-bad49480113f"
 }

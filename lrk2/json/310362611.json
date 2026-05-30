@@ -2,13 +2,15 @@
     "lrk_id": "310362611",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meiresonne",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-07-2016",
     "uitschrijfdatum": "26-08-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meiresonne",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "261224128",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6f3b7286-a69e-4807-b37a-5511ab48c646"
 }

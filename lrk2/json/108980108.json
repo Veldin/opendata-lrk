@@ -2,13 +2,15 @@
     "lrk_id": "108980108",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Leijen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-01-2019",
     "uitschrijfdatum": "01-11-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Leijen",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "236689010",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/77da8b5f-8fa9-4912-913a-22e572d637f0"
 }

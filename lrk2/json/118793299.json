@@ -2,13 +2,15 @@
     "lrk_id": "118793299",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Burg-van de Leur",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-05-2014",
     "uitschrijfdatum": "01-08-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Burg van de Leur",
+    "contact_telefoon": "''",
     "cbs_code": "1926",
     "verantwoordelijke_gemeente": "Pijnacker-Nootdorp",
-    "gastouderbureau_1": "121964334",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8b8e6879-90ea-47e7-b8be-017d8cba3164"
 }

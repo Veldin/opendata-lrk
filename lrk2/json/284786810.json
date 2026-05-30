@@ -2,13 +2,15 @@
     "lrk_id": "284786810",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Baal van Kilsdonk",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-05-2022",
     "uitschrijfdatum": "30-08-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Baal van Kilsdonk",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f180c75d-a8f4-4b56-a4c3-789c495b324c"
 }

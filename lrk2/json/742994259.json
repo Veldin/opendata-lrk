@@ -2,13 +2,15 @@
     "lrk_id": "742994259",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vries Odding",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-12-2019",
     "uitschrijfdatum": "02-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vries Odding",
+    "contact_telefoon": "''",
     "cbs_code": "1581",
     "verantwoordelijke_gemeente": "Utrechtse Heuvelrug",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a6152512-0200-4042-8d4e-15d4bda220d1"
 }

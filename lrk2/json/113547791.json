@@ -2,13 +2,15 @@
     "lrk_id": "113547791",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Does",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-01-2014",
     "uitschrijfdatum": "16-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Does",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "173680173",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b2a29278-79c3-4448-9aff-b8aa48c4ad25"
 }

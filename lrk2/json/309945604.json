@@ -2,13 +2,15 @@
     "lrk_id": "309945604",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hamilton",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-10-2017",
     "uitschrijfdatum": "03-08-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hamilton",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "522339207",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6941c602-cdd6-40a0-8c46-82527403d847"
 }

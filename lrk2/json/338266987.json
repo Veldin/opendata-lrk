@@ -2,13 +2,16 @@
     "lrk_id": "338266987",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dalali",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2018",
     "uitschrijfdatum": "28-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dalali",
+    "contact_telefoon": "'0623932884'",
+    "contact_emailadres": "dalali_85@hotmail.com",
     "cbs_code": "531",
     "verantwoordelijke_gemeente": "Hendrik-Ido-Ambacht",
-    "gastouderbureau_1": "300562020",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/695ec7da-9cfd-4b80-ac5e-55091cedbebf"
 }

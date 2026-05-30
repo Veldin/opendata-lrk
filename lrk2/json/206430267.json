@@ -2,13 +2,15 @@
     "lrk_id": "206430267",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nijman-de Vries",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-06-2014",
     "uitschrijfdatum": "26-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nijman de Vries",
+    "contact_telefoon": "''",
     "cbs_code": "158",
     "verantwoordelijke_gemeente": "Haaksbergen",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1e45af2f-7b68-4e2e-9909-d23e0e7fd76c"
 }

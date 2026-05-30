@@ -2,13 +2,15 @@
     "lrk_id": "448515568",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tolkamp",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-06-2015",
     "uitschrijfdatum": "01-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tolkamp",
+    "contact_telefoon": "''",
     "cbs_code": "1586",
     "verantwoordelijke_gemeente": "Oost Gelre",
-    "gastouderbureau_1": "126932621",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cefd3312-e32f-4397-b7f4-84e2bda2a61a"
 }

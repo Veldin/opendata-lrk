@@ -2,13 +2,16 @@
     "lrk_id": "285412991",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Theunissen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-05-2017",
     "uitschrijfdatum": "11-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Looij",
+    "contact_telefoon": "'06-53737900'",
+    "contact_emailadres": "gastouderopvangspelendleren@hotmail.com",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7f427575-cd10-4846-a93e-6c8021b353dd"
 }

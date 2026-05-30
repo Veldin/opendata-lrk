@@ -2,13 +2,15 @@
     "lrk_id": "288864931",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bakker",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-11-2020",
     "uitschrijfdatum": "30-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bakker",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "162798441",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f65cb11c-f16f-40fd-9047-65450708ec91"
 }

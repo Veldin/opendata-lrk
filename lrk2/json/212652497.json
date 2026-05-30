@@ -2,13 +2,16 @@
     "lrk_id": "212652497",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Verhoeven-Adriaans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-02-2020",
     "uitschrijfdatum": "16-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Verhoeven-Adriaans",
+    "contact_telefoon": "'06-11773227'",
+    "contact_emailadres": "shelly_adriaans@outlook.com",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "213760289",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dadc9bdc-b8c3-4aeb-bbe0-6778b7304351"
 }

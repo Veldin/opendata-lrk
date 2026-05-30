@@ -2,13 +2,15 @@
     "lrk_id": "123672363",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Huisman",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-08-2012",
     "uitschrijfdatum": "01-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bouleij Huisman",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "216444172",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b4e0aad2-fca0-40ab-85f3-d568eafce5b9"
 }

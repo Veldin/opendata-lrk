@@ -2,13 +2,15 @@
     "lrk_id": "131773392",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Razgui",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-10-2016",
     "uitschrijfdatum": "04-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Razgui",
+    "contact_telefoon": "''",
     "cbs_code": "228",
     "verantwoordelijke_gemeente": "Ede",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/38c21141-f58f-4874-acfb-95d55cebb01f"
 }

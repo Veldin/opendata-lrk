@@ -2,13 +2,15 @@
     "lrk_id": "184504259",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Moncherry ter Grote",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-11-2019",
     "uitschrijfdatum": "14-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Moncherry ter Grote",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/25aadd5d-5efb-4fd3-9f3a-e73c65b74944"
 }

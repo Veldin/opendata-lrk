@@ -2,13 +2,15 @@
     "lrk_id": "294250797",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koenen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-10-2019",
     "uitschrijfdatum": "16-07-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koenen",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "261224128",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/79434d82-5452-4a70-9240-0181c5130592"
 }

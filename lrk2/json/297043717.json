@@ -2,13 +2,15 @@
     "lrk_id": "297043717",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bastiaan Zweers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2020",
     "uitschrijfdatum": "18-05-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bastiaan Zweers",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "918762352",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/afaef765-2b92-4a13-91c0-5545250c7151"
 }

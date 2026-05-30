@@ -2,13 +2,15 @@
     "lrk_id": "141411454",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "L. van der Meer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-06-2022",
     "uitschrijfdatum": "22-05-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meer",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d77b62c7-5dc5-4cfa-92fe-ff53ab91de96"
 }

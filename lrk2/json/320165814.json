@@ -2,13 +2,15 @@
     "lrk_id": "320165814",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Manuela",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-05-2018",
     "uitschrijfdatum": "12-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Manuela",
+    "contact_telefoon": "''",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ca9e8ae5-22f8-4e5c-9af1-897f00119813"
 }

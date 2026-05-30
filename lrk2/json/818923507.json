@@ -2,13 +2,15 @@
     "lrk_id": "818923507",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bersma",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-10-2017",
     "uitschrijfdatum": "12-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bersma",
+    "contact_telefoon": "''",
     "cbs_code": "518",
     "verantwoordelijke_gemeente": "'s-Gravenhage",
-    "gastouderbureau_1": "678300008",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bc620ccd-f284-4f0d-807e-e1537b74f1ca"
 }

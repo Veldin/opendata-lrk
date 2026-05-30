@@ -2,13 +2,15 @@
     "lrk_id": "387218427",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ludeke",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-01-2019",
     "uitschrijfdatum": "31-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ludeke",
+    "contact_telefoon": "''",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a036a3fe-49fb-4fd2-b58c-2b1d84bf54d4"
 }

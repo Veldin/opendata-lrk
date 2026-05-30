@@ -2,13 +2,15 @@
     "lrk_id": "224125515",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schreur",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-05-2021",
     "uitschrijfdatum": "10-08-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schreur",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/52e56bc6-60da-49b0-83f9-e08d6e5a4804"
 }

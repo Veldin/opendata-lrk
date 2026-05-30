@@ -2,13 +2,15 @@
     "lrk_id": "128992748",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zamouri",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-10-2015",
     "uitschrijfdatum": "18-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zamouri",
+    "contact_telefoon": "''",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/057d8d9b-48aa-4aa2-98cb-966282ad01e4"
 }

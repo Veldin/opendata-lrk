@@ -2,13 +2,15 @@
     "lrk_id": "226378913",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bies-Willink",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-05-2011",
     "uitschrijfdatum": "10-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bies-Willink",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a7c9c920-805f-480b-a8b0-d2b416caf1a6"
 }

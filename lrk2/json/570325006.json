@@ -2,13 +2,15 @@
     "lrk_id": "570325006",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lenselink-Koopmans",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-08-2013",
     "uitschrijfdatum": "13-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lenselink Koopmans",
+    "contact_telefoon": "''",
     "cbs_code": "303",
     "verantwoordelijke_gemeente": "Dronten",
-    "gastouderbureau_1": "893856897",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c7932490-bfb6-45a5-878c-9233bdf0454a"
 }

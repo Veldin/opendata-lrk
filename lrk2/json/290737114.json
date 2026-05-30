@@ -2,13 +2,15 @@
     "lrk_id": "290737114",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Moes Doornbos",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-05-2017",
     "uitschrijfdatum": "30-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Moes Doornbos",
+    "contact_telefoon": "''",
     "cbs_code": "1969",
     "verantwoordelijke_gemeente": "Westerkwartier",
-    "gastouderbureau_1": "144498224",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cfe0ac6c-91f4-421f-a2bf-c2ca7119ae32"
 }

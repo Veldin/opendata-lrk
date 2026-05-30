@@ -2,13 +2,15 @@
     "lrk_id": "141897181",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Klein Nolten",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-01-2015",
     "uitschrijfdatum": "01-09-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Klein Nolten",
+    "contact_telefoon": "''",
     "cbs_code": "575",
     "verantwoordelijke_gemeente": "Noordwijk",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/993e66b5-98a2-4f47-abc6-675685ee4443"
 }

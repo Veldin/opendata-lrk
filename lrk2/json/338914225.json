@@ -2,13 +2,15 @@
     "lrk_id": "338914225",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Roon de Kamper",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-12-2019",
     "uitschrijfdatum": "22-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Roon de Kamper",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "160395008",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/71236624-27fd-4fd9-801c-22651b4971ae"
 }

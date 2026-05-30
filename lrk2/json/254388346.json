@@ -2,13 +2,15 @@
     "lrk_id": "254388346",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Selten Franck",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-01-2017",
     "uitschrijfdatum": "22-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Franck",
+    "contact_telefoon": "''",
     "cbs_code": "893",
     "verantwoordelijke_gemeente": "Bergen (L)",
-    "gastouderbureau_1": "220670067",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/676f45cc-0901-4f25-9b44-39b9488fdcf6"
 }

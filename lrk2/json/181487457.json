@@ -2,13 +2,15 @@
     "lrk_id": "181487457",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "G.H. Haasen-vd Vranden",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-09-2016",
     "uitschrijfdatum": "21-09-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Haasen-van de Vranden",
+    "contact_telefoon": "''",
     "cbs_code": "794",
     "verantwoordelijke_gemeente": "Helmond",
-    "gastouderbureau_1": "142652611",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f32a7100-8f4e-464f-acf4-600b26e99f80"
 }

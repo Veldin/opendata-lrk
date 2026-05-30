@@ -2,13 +2,15 @@
     "lrk_id": "339457545",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Geel",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-03-2018",
     "uitschrijfdatum": "04-12-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Geel",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "185514133",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/43f6c7d3-a254-4e2d-9f17-77a37289d2ce"
 }

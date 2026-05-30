@@ -2,13 +2,15 @@
     "lrk_id": "412286889",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zondag",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-11-2010",
     "uitschrijfdatum": "01-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zondag",
+    "contact_telefoon": "''",
     "cbs_code": "225",
     "verantwoordelijke_gemeente": "Druten",
-    "gastouderbureau_1": "512128121",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/805ac0a3-fae7-4d00-825d-88606d48f42d"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "172545110",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Corbeij",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-07-2020",
     "uitschrijfdatum": "01-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Corbeij",
+    "contact_telefoon": "'06-18413299'",
+    "contact_emailadres": "info@gastoudermikki.nl",
     "cbs_code": "1954",
     "verantwoordelijke_gemeente": "Beekdaelen",
-    "gastouderbureau_1": "171272171",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ab207052-014f-4a59-92b2-64e69e22e1d0"
 }

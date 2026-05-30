@@ -2,13 +2,15 @@
     "lrk_id": "233164832",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Los",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-03-2016",
     "uitschrijfdatum": "17-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Los",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c9cdd487-b9ca-4b86-b688-7ed34815ef5d"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "277163237",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "El-Fezy Post",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-09-2020",
     "uitschrijfdatum": "23-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "El-Fezy Post",
+    "contact_telefoon": "'0631336221'",
+    "contact_emailadres": "jannaelfezy@hotmail.com",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "103287127",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cce8b097-3074-44ea-a4b7-093bda233fc1"
 }

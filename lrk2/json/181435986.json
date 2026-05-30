@@ -2,13 +2,16 @@
     "lrk_id": "181435986",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vinckx Hendriks",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-01-2023",
     "uitschrijfdatum": "02-10-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vinckx Hendriks",
+    "contact_telefoon": "'0621302432'",
+    "contact_emailadres": "maaikeh13@hotmail.com",
     "cbs_code": "1740",
     "verantwoordelijke_gemeente": "Neder-Betuwe",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9ee995e0-0abc-41c5-8fcf-93d24142f421"
 }

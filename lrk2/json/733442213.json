@@ -2,13 +2,15 @@
     "lrk_id": "733442213",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Slamp",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-11-2017",
     "uitschrijfdatum": "04-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Slamp",
+    "contact_telefoon": "''",
     "cbs_code": "1735",
     "verantwoordelijke_gemeente": "Hof van Twente",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/535df7b4-02ed-4f0a-a1a7-14268e228b2c"
 }

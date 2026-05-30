@@ -2,13 +2,15 @@
     "lrk_id": "186261627",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hulst",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-12-2010",
     "uitschrijfdatum": "19-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hulst",
+    "contact_telefoon": "''",
     "cbs_code": "34",
     "verantwoordelijke_gemeente": "Almere",
-    "gastouderbureau_1": "453724395",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2ed8ae52-84a5-4af0-9163-a3274e5047a8"
 }

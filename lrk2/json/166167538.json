@@ -2,13 +2,15 @@
     "lrk_id": "166167538",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Boukharssa",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-02-2022",
     "uitschrijfdatum": "30-04-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Boukharssa",
+    "contact_telefoon": "''",
     "cbs_code": "362",
     "verantwoordelijke_gemeente": "Amstelveen",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e3963a3e-9437-4834-9dbc-ef7ce4042eca"
 }

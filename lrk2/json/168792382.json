@@ -2,13 +2,15 @@
     "lrk_id": "168792382",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hemmelder-Hilgeholt",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-04-2010",
     "uitschrijfdatum": "10-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hemmelder-Hilgeholt",
+    "contact_telefoon": "''",
     "cbs_code": "1859",
     "verantwoordelijke_gemeente": "Berkelland",
-    "gastouderbureau_1": "209750005",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7ad6597a-1004-4163-ae60-94e99df1bda6"
 }

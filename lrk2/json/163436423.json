@@ -2,13 +2,15 @@
     "lrk_id": "163436423",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Remmers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-09-2016",
     "uitschrijfdatum": "04-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Remmers",
+    "contact_telefoon": "''",
     "cbs_code": "1507",
     "verantwoordelijke_gemeente": "Horst aan de Maas",
-    "gastouderbureau_1": "182713878",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c7641be5-09bb-4b4c-b679-687030571973"
 }

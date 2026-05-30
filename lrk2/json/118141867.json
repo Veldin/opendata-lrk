@@ -2,13 +2,15 @@
     "lrk_id": "118141867",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Glasbergen",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-03-2016",
     "uitschrijfdatum": "01-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Glasbergen",
+    "contact_telefoon": "''",
     "cbs_code": "537",
     "verantwoordelijke_gemeente": "Katwijk",
-    "gastouderbureau_1": "755893530",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f78d07ab-47e5-4a31-8693-9910d82c14e9"
 }

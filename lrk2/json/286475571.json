@@ -2,13 +2,15 @@
     "lrk_id": "286475571",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Karimbux",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-02-2024",
     "uitschrijfdatum": "01-08-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Karimbux",
+    "contact_telefoon": "''",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "208914973",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8d2244b5-74f1-4faa-939b-575fa0499ca2"
 }

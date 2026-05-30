@@ -2,13 +2,15 @@
     "lrk_id": "789439530",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoekstra",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-09-2020",
     "uitschrijfdatum": "05-06-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoekstra",
+    "contact_telefoon": "''",
     "cbs_code": "171",
     "verantwoordelijke_gemeente": "Noordoostpolder",
-    "gastouderbureau_1": "129322155",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6d84f6ed-43d0-4d41-9cbe-a73550782902"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "202011422",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ballemans-Graafmans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-05-2013",
     "uitschrijfdatum": "01-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ballemans Graafmans",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4b9856a2-214c-4476-8660-a3ca260f1f9e"
 }

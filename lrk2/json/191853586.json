@@ -2,13 +2,15 @@
     "lrk_id": "191853586",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Besselink",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2015",
     "uitschrijfdatum": "04-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Stapelbroek Besselink",
+    "contact_telefoon": "''",
     "cbs_code": "222",
     "verantwoordelijke_gemeente": "Doetinchem",
-    "gastouderbureau_1": "165968564",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/83789dd2-279f-4ebf-96f1-e7c275d82086"
 }

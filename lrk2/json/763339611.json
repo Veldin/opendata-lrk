@@ -2,13 +2,15 @@
     "lrk_id": "763339611",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Donkers",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-09-2012",
     "uitschrijfdatum": "31-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Donkers",
+    "contact_telefoon": "''",
     "cbs_code": "828",
     "verantwoordelijke_gemeente": "Oss",
-    "gastouderbureau_1": "921029494",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0c235c1f-a109-4a6f-879c-4fd1096dee45"
 }

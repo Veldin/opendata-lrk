@@ -2,13 +2,16 @@
     "lrk_id": "326839392",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hajji",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-03-2016",
     "uitschrijfdatum": "05-10-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hajji",
+    "contact_telefoon": "'0648162151'",
+    "contact_emailadres": "L.hajji@hotmail.nl",
     "cbs_code": "479",
     "verantwoordelijke_gemeente": "Zaanstad",
-    "gastouderbureau_1": "305142562",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4cd89e5e-82f8-4830-9103-a196232c1ad4"
 }

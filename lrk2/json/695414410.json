@@ -2,13 +2,15 @@
     "lrk_id": "695414410",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lens",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-04-2013",
     "uitschrijfdatum": "02-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lens",
+    "contact_telefoon": "''",
     "cbs_code": "629",
     "verantwoordelijke_gemeente": "Wassenaar",
-    "gastouderbureau_1": "755893530",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0c1dbc13-9b35-4b4a-8c57-586230fff70e"
 }

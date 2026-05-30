@@ -2,13 +2,15 @@
     "lrk_id": "228654932",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dikke",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-03-2018",
     "uitschrijfdatum": "02-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dikke",
+    "contact_telefoon": "''",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
-    "gastouderbureau_1": "815625777",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/99625252-f178-4a9d-9b38-fcf51ac3f45d"
 }

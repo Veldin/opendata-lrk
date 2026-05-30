@@ -2,13 +2,15 @@
     "lrk_id": "303861952",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Clements",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-09-2020",
     "uitschrijfdatum": "14-07-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Clements",
+    "contact_telefoon": "''",
     "cbs_code": "865",
     "verantwoordelijke_gemeente": "Vught",
-    "gastouderbureau_1": "121514882",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/695b0771-0573-486f-b34b-4625d7f2a95f"
 }

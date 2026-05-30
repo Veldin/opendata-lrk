@@ -2,13 +2,15 @@
     "lrk_id": "559513033",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Starreveld",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-09-2012",
     "uitschrijfdatum": "13-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Starreveld",
+    "contact_telefoon": "''",
     "cbs_code": "362",
     "verantwoordelijke_gemeente": "Amstelveen",
-    "gastouderbureau_1": "783230497",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/956e90e2-1d55-4485-9ab5-6ce04b8ff947"
 }

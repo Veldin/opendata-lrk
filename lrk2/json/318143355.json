@@ -2,13 +2,15 @@
     "lrk_id": "318143355",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Foulger van der Made",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-02-2020",
     "uitschrijfdatum": "08-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Foulger van der Made",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "132726907",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fa3879cf-d094-4bb8-8eb5-c2ac7ccc295c"
 }

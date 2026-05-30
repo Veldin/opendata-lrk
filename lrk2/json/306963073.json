@@ -2,13 +2,15 @@
     "lrk_id": "306963073",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meijer",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-01-2017",
     "uitschrijfdatum": "01-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meijer",
+    "contact_telefoon": "''",
     "cbs_code": "114",
     "verantwoordelijke_gemeente": "Emmen",
-    "gastouderbureau_1": "872908495",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/87866009-0661-409e-906f-d3a9416671ae"
 }

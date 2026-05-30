@@ -2,13 +2,16 @@
     "lrk_id": "143203459",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Gravesteijn Bos",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-11-2019",
     "uitschrijfdatum": "22-09-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Gravesteijn Bos",
+    "contact_telefoon": "'0652146541'",
+    "contact_emailadres": "anneliesgravesteijn@live.nl",
     "cbs_code": "171",
     "verantwoordelijke_gemeente": "Noordoostpolder",
-    "gastouderbureau_1": "140767186",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ed2c6c16-9a5a-4f16-9d85-c12ba00a29f9"
 }

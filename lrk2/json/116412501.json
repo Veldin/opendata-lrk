@@ -2,13 +2,16 @@
     "lrk_id": "116412501",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Stappers",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-07-2022",
     "uitschrijfdatum": "01-01-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Stappers",
+    "contact_persoon": "inge.stappers54@gmail.com",
+    "contact_telefoon": "'0622169946'",
     "cbs_code": "957",
     "verantwoordelijke_gemeente": "Roermond",
-    "gastouderbureau_1": "862582209",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ce261f78-e6cb-47f3-8ed7-96c5b51451bf"
 }

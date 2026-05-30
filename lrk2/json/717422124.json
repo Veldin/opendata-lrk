@@ -2,13 +2,15 @@
     "lrk_id": "717422124",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Veen",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-10-2017",
     "uitschrijfdatum": "07-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Merkus van der Veen",
+    "contact_telefoon": "''",
     "cbs_code": "1734",
     "verantwoordelijke_gemeente": "Overbetuwe",
-    "gastouderbureau_1": "514367635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e4d84fcc-7728-4aac-a5d3-d69309102cd1"
 }

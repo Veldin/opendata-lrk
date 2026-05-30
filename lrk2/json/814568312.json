@@ -2,13 +2,15 @@
     "lrk_id": "814568312",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Klap",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-11-2020",
     "uitschrijfdatum": "01-08-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Klap",
+    "contact_telefoon": "''",
     "cbs_code": "310",
     "verantwoordelijke_gemeente": "De Bilt",
-    "gastouderbureau_1": "311595418",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5984dff0-38c2-4f17-a942-322c22b9d377"
 }

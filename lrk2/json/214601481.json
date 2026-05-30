@@ -2,13 +2,16 @@
     "lrk_id": "214601481",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "de Waal-Vroom",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-01-2017",
     "uitschrijfdatum": "01-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Waal Vroom",
+    "contact_telefoon": "'0621432513'",
+    "contact_emailadres": "esthervroom@hotmail.com",
     "cbs_code": "502",
     "verantwoordelijke_gemeente": "Capelle aan den IJssel",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9828da8a-a6f2-422d-9311-9e0e7d99d487"
 }

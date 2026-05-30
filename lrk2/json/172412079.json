@@ -2,13 +2,15 @@
     "lrk_id": "172412079",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kempe",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-09-2017",
     "uitschrijfdatum": "30-09-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kempe",
+    "contact_telefoon": "''",
     "cbs_code": "1734",
     "verantwoordelijke_gemeente": "Overbetuwe",
-    "gastouderbureau_1": "124402550",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/21bd29e5-688d-426c-a7ab-e7db3c63a305"
 }

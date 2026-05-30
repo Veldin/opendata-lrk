@@ -2,13 +2,15 @@
     "lrk_id": "606405483",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Spakman",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-12-2013",
     "uitschrijfdatum": "10-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Spakman",
+    "contact_telefoon": "''",
     "cbs_code": "1730",
     "verantwoordelijke_gemeente": "Tynaarlo",
-    "gastouderbureau_1": "285867118",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/190b8b14-03be-4e19-b73d-2f0c13cd3f01"
 }

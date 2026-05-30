@@ -2,13 +2,15 @@
     "lrk_id": "225205804",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Melchers-ten Berg",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-11-2014",
     "uitschrijfdatum": "08-09-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Melchers ten Berg",
+    "contact_telefoon": "''",
     "cbs_code": "917",
     "verantwoordelijke_gemeente": "Heerlen",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d3a981d2-5809-47ca-952e-adecaea563e3"
 }

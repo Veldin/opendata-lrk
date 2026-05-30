@@ -2,13 +2,15 @@
     "lrk_id": "182847433",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bökkerink",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-01-2016",
     "uitschrijfdatum": "26-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bökkerink",
+    "contact_telefoon": "''",
     "cbs_code": "164",
     "verantwoordelijke_gemeente": "Hengelo (O)",
-    "gastouderbureau_1": "145784162",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/817c32d4-a3c9-41d2-b8b6-2033419d54f0"
 }

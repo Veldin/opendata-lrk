@@ -2,13 +2,15 @@
     "lrk_id": "138257966",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koetzier",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-10-2017",
     "uitschrijfdatum": "31-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koetzier",
+    "contact_telefoon": "''",
     "cbs_code": "285",
     "verantwoordelijke_gemeente": "Voorst",
-    "gastouderbureau_1": "192896842",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/aae89059-dc36-46f0-a3de-3b71ecbfe456"
 }

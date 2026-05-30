@@ -2,13 +2,16 @@
     "lrk_id": "304667894",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Faes Meijers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-01-2019",
     "uitschrijfdatum": "31-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Faes Meijers",
+    "contact_telefoon": "'0630863566'",
+    "contact_emailadres": "raynameyers@hotmail.com",
     "cbs_code": "826",
     "verantwoordelijke_gemeente": "Oosterhout",
-    "gastouderbureau_1": "142224686",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6622b2de-6a75-4c3a-99fe-c55f477f6fa4"
 }

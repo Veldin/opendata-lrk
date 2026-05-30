@@ -2,13 +2,15 @@
     "lrk_id": "394460583",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Noort",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-01-2019",
     "uitschrijfdatum": "28-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Noort",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "831116183",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a192f39d-2a51-4585-8a66-dbc2978f4a9e"
 }

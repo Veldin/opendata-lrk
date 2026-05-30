@@ -2,13 +2,15 @@
     "lrk_id": "207424408",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Diaz Gautier",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-03-2017",
     "uitschrijfdatum": "05-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Diaz Gautier",
+    "contact_telefoon": "''",
     "cbs_code": "392",
     "verantwoordelijke_gemeente": "Haarlem",
-    "gastouderbureau_1": "180509007",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e05d380c-a6dc-48f9-a375-9029725ff424"
 }

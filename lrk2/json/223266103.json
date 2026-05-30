@@ -2,13 +2,15 @@
     "lrk_id": "223266103",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoogkamer Loeffen",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-08-2015",
     "uitschrijfdatum": "24-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoogkamer Loeffen",
+    "contact_telefoon": "''",
     "cbs_code": "995",
     "verantwoordelijke_gemeente": "Lelystad",
-    "gastouderbureau_1": "124853183",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c9f77f59-3bcb-4baf-9b41-3204947fc821"
 }

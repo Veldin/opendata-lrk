@@ -2,13 +2,15 @@
     "lrk_id": "509734285",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koning Jagersma",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-04-2020",
     "uitschrijfdatum": "19-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koning Jagersma",
+    "contact_telefoon": "''",
     "cbs_code": "1969",
     "verantwoordelijke_gemeente": "Westerkwartier",
-    "gastouderbureau_1": "759950258",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9e8e3426-4140-4938-9b1c-1c5c27b32395"
 }

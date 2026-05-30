@@ -2,13 +2,16 @@
     "lrk_id": "107689546",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Purperhart",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-02-2019",
     "uitschrijfdatum": "24-01-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Purperhart",
+    "contact_telefoon": "'0618876806'",
+    "contact_emailadres": "ampurperhart@hotmail.nl",
     "cbs_code": "34",
     "verantwoordelijke_gemeente": "Almere",
-    "gastouderbureau_1": "147092085",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c43e8661-d9a8-4a4b-94a7-ee875d30be2d"
 }

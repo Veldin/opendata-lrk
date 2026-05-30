@@ -2,13 +2,15 @@
     "lrk_id": "850070284",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zuijlen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-12-2013",
     "uitschrijfdatum": "17-07-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zuijlen",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "285546582",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3dc81acf-d5ca-4853-b6e6-75e82096f475"
 }

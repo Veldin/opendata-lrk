@@ -2,13 +2,15 @@
     "lrk_id": "728965057",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kaptein de Vries",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-10-2018",
     "uitschrijfdatum": "20-10-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kaptein de Vries",
+    "contact_telefoon": "''",
     "cbs_code": "184",
     "verantwoordelijke_gemeente": "Urk",
-    "gastouderbureau_1": "187750154",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0ba586db-8383-4494-8213-c8674e67924c"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "635935478",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dijkstra",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-12-2016",
     "uitschrijfdatum": "05-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dijkstra",
+    "contact_telefoon": "''",
     "cbs_code": "1949",
     "verantwoordelijke_gemeente": "Waadhoeke",
-    "gastouderbureau_1": "818211118",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7f37c311-0b10-4a54-8e8f-fcd6a9568925"
 }

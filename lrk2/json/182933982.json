@@ -2,13 +2,15 @@
     "lrk_id": "182933982",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mohangoo",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-07-2024",
     "uitschrijfdatum": "01-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Mohangoo",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "135853692",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/117e10b5-e476-43db-b7ec-adf05eb8af14"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "319051705",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Salet Demmer",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-07-2019",
     "uitschrijfdatum": "06-03-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Demmer",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "210176155",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c1959f27-365b-4b98-98ab-8e786b878631"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "227141775",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "M.J.M. Janssen-Lormans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-07-2018",
     "uitschrijfdatum": "01-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Janssen Lormans",
+    "contact_telefoon": "''",
     "cbs_code": "1894",
     "verantwoordelijke_gemeente": "Peel en Maas",
-    "gastouderbureau_1": "737818669",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/54dbab84-929a-46fc-93c9-9532bc3fe6d2"
 }

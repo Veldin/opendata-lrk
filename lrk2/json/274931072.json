@@ -2,13 +2,15 @@
     "lrk_id": "274931072",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Theunissen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-08-2019",
     "uitschrijfdatum": "17-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Theunissen",
+    "contact_telefoon": "''",
     "cbs_code": "289",
     "verantwoordelijke_gemeente": "Wageningen",
-    "gastouderbureau_1": "147830965",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9acc496c-d4fe-4ba3-8cca-9560b35ba655"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "856674321",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Brender á Brandis",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-06-2020",
     "uitschrijfdatum": "15-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Brender á Brandis",
+    "contact_telefoon": "''",
     "cbs_code": "579",
     "verantwoordelijke_gemeente": "Oegstgeest",
-    "gastouderbureau_1": "102281385",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a5871885-0ec5-4ee6-a1c7-ce1a989af37b"
 }

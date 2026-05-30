@@ -2,13 +2,15 @@
     "lrk_id": "645559702",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dijk Bloemendal",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-03-2017",
     "uitschrijfdatum": "02-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dijk Bloemendal",
+    "contact_telefoon": "''",
     "cbs_code": "1955",
     "verantwoordelijke_gemeente": "Montferland",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/72329778-453e-44a2-8491-218e530973af"
 }

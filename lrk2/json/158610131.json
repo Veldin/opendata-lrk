@@ -2,13 +2,16 @@
     "lrk_id": "158610131",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Keur",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-09-2020",
     "uitschrijfdatum": "22-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Keur",
+    "contact_persoon": "mylenekeur@gmail.com",
+    "contact_telefoon": "'0650535359'",
     "cbs_code": "37",
     "verantwoordelijke_gemeente": "Stadskanaal",
-    "gastouderbureau_1": "872908495",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8d79b4a2-a323-41a6-afc0-6dee33600016"
 }

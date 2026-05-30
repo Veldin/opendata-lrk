@@ -2,13 +2,15 @@
     "lrk_id": "236108694",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schuit Goes",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-01-2017",
     "uitschrijfdatum": "04-11-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schuit Goes",
+    "contact_telefoon": "''",
     "cbs_code": "512",
     "verantwoordelijke_gemeente": "Gorinchem",
-    "gastouderbureau_1": "104000570",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/565e53d8-aa46-44d3-96ca-555d931442d6"
 }

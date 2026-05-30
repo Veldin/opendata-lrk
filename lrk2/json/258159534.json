@@ -2,13 +2,15 @@
     "lrk_id": "258159534",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Speelman-Menting",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-10-2016",
     "uitschrijfdatum": "07-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Speelman-Menting",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d126580a-eed4-44df-943f-5f68d80b1309"
 }

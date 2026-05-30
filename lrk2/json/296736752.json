@@ -2,13 +2,15 @@
     "lrk_id": "296736752",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Oldersma",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-01-2018",
     "uitschrijfdatum": "04-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Oldersma",
+    "contact_telefoon": "''",
     "cbs_code": "1891",
     "verantwoordelijke_gemeente": "Dantumadiel",
-    "gastouderbureau_1": "402222830",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ec7eb78e-78f4-42d9-ac1e-4f278b9351ae"
 }

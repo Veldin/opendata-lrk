@@ -2,13 +2,15 @@
     "lrk_id": "557903129",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nimwegen Weerdenburg",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-05-2017",
     "uitschrijfdatum": "03-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nimwegen Weerdenburg",
+    "contact_telefoon": "''",
     "cbs_code": "1859",
     "verantwoordelijke_gemeente": "Berkelland",
-    "gastouderbureau_1": "178275517",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8a920f8f-6f17-46dc-847e-23b7d4b6283f"
 }

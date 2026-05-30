@@ -2,13 +2,15 @@
     "lrk_id": "224092224",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Smit",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-11-2013",
     "uitschrijfdatum": "12-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Smit",
+    "contact_telefoon": "''",
     "cbs_code": "1895",
     "verantwoordelijke_gemeente": "Oldambt",
-    "gastouderbureau_1": "103773502",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/beff9fcd-4d44-420c-89da-12d0712e3507"
 }

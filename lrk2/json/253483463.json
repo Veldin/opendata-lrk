@@ -2,13 +2,15 @@
     "lrk_id": "253483463",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wijering",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-12-2019",
     "uitschrijfdatum": "15-07-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wijering",
+    "contact_telefoon": "''",
     "cbs_code": "168",
     "verantwoordelijke_gemeente": "Losser",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/af4d45b1-92cd-4505-9ea2-e17d7000b8f5"
 }

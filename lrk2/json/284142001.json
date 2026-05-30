@@ -2,13 +2,16 @@
     "lrk_id": "284142001",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schoot Schreurs",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-03-2022",
     "uitschrijfdatum": "04-12-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schoot Schreurs",
+    "contact_telefoon": "'0637338845'",
+    "contact_emailadres": "joanne.schreurs@hotmail.com",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
-    "gastouderbureau_1": "216444172",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f27a6c5a-b25d-4f8b-a452-274ec5eac9ea"
 }

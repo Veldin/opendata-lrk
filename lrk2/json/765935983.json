@@ -2,13 +2,16 @@
     "lrk_id": "765935983",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Barge",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-05-2020",
     "uitschrijfdatum": "25-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Barge",
+    "contact_telefoon": "'0615545596'",
+    "contact_emailadres": "Annemarie97@live.nl",
     "cbs_code": "342",
     "verantwoordelijke_gemeente": "Soest",
-    "gastouderbureau_1": "226759799",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7fb7029a-a8d8-466d-be7f-2bf34300026c"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "160220737",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sikkema",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-05-2016",
     "uitschrijfdatum": "31-12-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sikkema",
+    "contact_telefoon": "''",
     "cbs_code": "498",
     "verantwoordelijke_gemeente": "Drechterland",
-    "gastouderbureau_1": "152838016",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ea8d6447-ffad-45c6-9b34-15fee937085a"
 }

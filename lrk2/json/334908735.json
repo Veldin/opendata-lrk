@@ -2,13 +2,15 @@
     "lrk_id": "334908735",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ophelders",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-01-2019",
     "uitschrijfdatum": "17-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ophelders",
+    "contact_telefoon": "''",
     "cbs_code": "1711",
     "verantwoordelijke_gemeente": "Echt-Susteren",
-    "gastouderbureau_1": "233827158",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f6400b53-a09f-426f-aef3-f32078d70916"
 }

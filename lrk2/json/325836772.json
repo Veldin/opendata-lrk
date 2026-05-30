@@ -2,13 +2,15 @@
     "lrk_id": "325836772",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vos",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-05-2017",
     "uitschrijfdatum": "31-01-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vos",
+    "contact_telefoon": "''",
     "cbs_code": "200",
     "verantwoordelijke_gemeente": "Apeldoorn",
-    "gastouderbureau_1": "228536686",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f8aeb0c0-3b84-488f-bea6-63ff9baeab73"
 }

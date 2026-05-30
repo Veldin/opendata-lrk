@@ -2,13 +2,15 @@
     "lrk_id": "137740529",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bonestroo Slagman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-12-2017",
     "uitschrijfdatum": "12-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bonestroo Slagman",
+    "contact_telefoon": "''",
     "cbs_code": "1742",
     "verantwoordelijke_gemeente": "Rijssen-Holten",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f31d4816-90fa-48b2-a85f-dd6d93fb3ff8"
 }

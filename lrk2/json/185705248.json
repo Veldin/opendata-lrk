@@ -2,13 +2,16 @@
     "lrk_id": "185705248",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van Kampen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-01-2017",
     "uitschrijfdatum": "11-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "van Kampen",
+    "contact_telefoon": "'0680085460'",
+    "contact_emailadres": "gerda351@hotmail.com",
     "cbs_code": "1674",
     "verantwoordelijke_gemeente": "Roosendaal",
-    "gastouderbureau_1": "863861349",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/14f4129c-fb98-4dba-a458-2a0e23e4100c"
 }

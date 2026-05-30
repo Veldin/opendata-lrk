@@ -2,13 +2,16 @@
     "lrk_id": "272884522",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Overeem",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-10-2018",
     "uitschrijfdatum": "28-04-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Overeem",
+    "contact_telefoon": "'06116151596'",
+    "contact_emailadres": "irisovereem91@hotmail.com",
     "cbs_code": "342",
     "verantwoordelijke_gemeente": "Soest",
-    "gastouderbureau_1": "385569786",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ad1995f4-c205-4389-a384-68a93056859e"
 }

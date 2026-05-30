@@ -2,13 +2,15 @@
     "lrk_id": "122483340",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Van Hal",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-02-2018",
     "uitschrijfdatum": "05-12-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hal",
+    "contact_telefoon": "''",
     "cbs_code": "200",
     "verantwoordelijke_gemeente": "Apeldoorn",
-    "gastouderbureau_1": "228536686",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9a4fdf3a-9bbc-4fd4-8e05-3cf5e64712c0"
 }

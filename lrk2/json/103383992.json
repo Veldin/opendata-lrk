@@ -2,13 +2,15 @@
     "lrk_id": "103383992",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dokter",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-02-2017",
     "uitschrijfdatum": "18-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dokter",
+    "contact_telefoon": "''",
     "cbs_code": "1730",
     "verantwoordelijke_gemeente": "Tynaarlo",
-    "gastouderbureau_1": "140697962",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ab6b17c8-e04a-49a3-9a1a-22f81477eb2f"
 }

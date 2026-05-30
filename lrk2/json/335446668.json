@@ -2,13 +2,15 @@
     "lrk_id": "335446668",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Raaij",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-07-2021",
     "uitschrijfdatum": "16-08-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Raaij",
+    "contact_telefoon": "''",
     "cbs_code": "297",
     "verantwoordelijke_gemeente": "Zaltbommel",
-    "gastouderbureau_1": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6f24436f-5808-4193-a415-c1294af0d9a1"
 }

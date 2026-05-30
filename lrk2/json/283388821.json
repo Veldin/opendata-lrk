@@ -2,13 +2,15 @@
     "lrk_id": "283388821",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kleefstra",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-03-2021",
     "uitschrijfdatum": "19-04-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kleefstra",
+    "contact_telefoon": "''",
     "cbs_code": "1708",
     "verantwoordelijke_gemeente": "Steenwijkerland",
-    "gastouderbureau_1": "154768200",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ebed6521-1db3-4b4a-8c5e-f9254f02695c"
 }

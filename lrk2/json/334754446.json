@@ -2,13 +2,15 @@
     "lrk_id": "334754446",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Stam",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-07-2019",
     "uitschrijfdatum": "01-05-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Stam",
+    "contact_telefoon": "''",
     "cbs_code": "513",
     "verantwoordelijke_gemeente": "Gouda",
-    "gastouderbureau_1": "305142562",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/42f5faf0-6a46-4dfb-8a72-f956f14f25b2"
 }

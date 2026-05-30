@@ -2,13 +2,15 @@
     "lrk_id": "174001563",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Brouwer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-09-2017",
     "uitschrijfdatum": "01-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Brouwer",
+    "contact_telefoon": "''",
     "cbs_code": "687",
     "verantwoordelijke_gemeente": "Middelburg",
-    "gastouderbureau_1": "112085635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c9ba1f04-a81e-4055-846f-ac062cc82540"
 }

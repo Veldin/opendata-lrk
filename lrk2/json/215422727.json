@@ -2,13 +2,15 @@
     "lrk_id": "215422727",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Iedema-Osinga",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-12-2014",
     "uitschrijfdatum": "12-06-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Iedema-Osinga",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "366157607",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bae7056e-f666-4d0e-a1bd-dfa1df6faec0"
 }

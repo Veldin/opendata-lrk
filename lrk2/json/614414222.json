@@ -2,13 +2,15 @@
     "lrk_id": "614414222",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vosters",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-04-2017",
     "uitschrijfdatum": "17-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vosters",
+    "contact_telefoon": "''",
     "cbs_code": "785",
     "verantwoordelijke_gemeente": "Goirle",
-    "gastouderbureau_1": "590085931",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/315bc0c8-fd5c-491e-8df0-c9d0cbd5cdc4"
 }

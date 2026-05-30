@@ -2,13 +2,15 @@
     "lrk_id": "343233411",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hafez",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-09-2019",
     "uitschrijfdatum": "23-04-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hafez",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "818211118",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b17a8dfa-89ad-45be-a84f-7648b2b129eb"
 }

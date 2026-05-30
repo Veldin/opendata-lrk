@@ -2,13 +2,15 @@
     "lrk_id": "142886518",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kooi",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-12-2013",
     "uitschrijfdatum": "16-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kooi",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "366157607",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0fd5f32c-6bb4-4e4e-b3fd-94a74a0e49b7"
 }

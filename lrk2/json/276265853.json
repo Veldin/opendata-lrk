@@ -2,13 +2,15 @@
     "lrk_id": "276265853",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meuwese",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-09-2020",
     "uitschrijfdatum": "01-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meuwese",
+    "contact_telefoon": "''",
     "cbs_code": "392",
     "verantwoordelijke_gemeente": "Haarlem",
-    "gastouderbureau_1": "102281385",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ee54495b-c662-4310-b34b-8b27a5f86ce2"
 }

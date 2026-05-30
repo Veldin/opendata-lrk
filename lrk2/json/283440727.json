@@ -2,13 +2,16 @@
     "lrk_id": "283440727",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hladik",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-01-2020",
     "uitschrijfdatum": "01-01-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hladik",
+    "contact_telefoon": "'0654318458'",
+    "contact_emailadres": "hladik73@yahoo.com",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "285546582",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6ae46699-199f-4820-aadc-56afb8ceaf47"
 }

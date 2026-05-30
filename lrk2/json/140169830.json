@@ -2,13 +2,15 @@
     "lrk_id": "140169830",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "ter Haar",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-03-2014",
     "uitschrijfdatum": "09-05-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Haar Engbers",
+    "contact_telefoon": "''",
     "cbs_code": "164",
     "verantwoordelijke_gemeente": "Hengelo (O)",
-    "gastouderbureau_1": "169185412",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3760f129-5299-474b-ab9f-d888f85c0af2"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "932818389",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lanphen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-08-2013",
     "uitschrijfdatum": "02-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lanphen",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "219222320",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d5cb2691-ac06-46db-a4c4-e3c9c963d446"
 }

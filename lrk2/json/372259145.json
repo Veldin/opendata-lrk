@@ -2,13 +2,15 @@
     "lrk_id": "372259145",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wilkens-Alkema",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-09-2010",
     "uitschrijfdatum": "31-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wilkens-Alkema",
+    "contact_telefoon": "''",
     "cbs_code": "177",
     "verantwoordelijke_gemeente": "Raalte",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8930b9a4-5c31-4ed0-aa2f-2d9da16d01b9"
 }

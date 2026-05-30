@@ -2,13 +2,15 @@
     "lrk_id": "184415524",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bos van den Broek",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-12-2020",
     "uitschrijfdatum": "01-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bos van den Broek",
+    "contact_telefoon": "''",
     "cbs_code": "228",
     "verantwoordelijke_gemeente": "Ede",
-    "gastouderbureau_1": "236689010",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f6293565-6071-49a4-9843-be2455a49589"
 }

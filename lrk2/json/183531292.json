@@ -2,13 +2,15 @@
     "lrk_id": "183531292",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Litjes",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-09-2016",
     "uitschrijfdatum": "01-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Litjes",
+    "contact_telefoon": "''",
     "cbs_code": "1955",
     "verantwoordelijke_gemeente": "Montferland",
-    "gastouderbureau_1": "165968564",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/473e5d77-0003-4100-a93c-f991a363ab59"
 }

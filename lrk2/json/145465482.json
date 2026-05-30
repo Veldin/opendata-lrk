@@ -2,13 +2,15 @@
     "lrk_id": "145465482",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van der wal",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-12-2017",
     "uitschrijfdatum": "09-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wal",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "190860169",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a59d5793-6732-4f33-ac58-605594589e23"
 }

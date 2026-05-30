@@ -2,13 +2,15 @@
     "lrk_id": "222468427",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rahmida Dewi Patmawati",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-05-2018",
     "uitschrijfdatum": "05-07-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rahmida Dewi Patmawati",
+    "contact_telefoon": "''",
     "cbs_code": "855",
     "verantwoordelijke_gemeente": "Tilburg",
-    "gastouderbureau_1": "190811766",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d9ea38a3-797d-4566-8ec3-0a2431d86c60"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "253526127",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kloe",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-12-2020",
     "uitschrijfdatum": "01-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kirindongo",
+    "contact_telefoon": "''",
     "cbs_code": "171",
     "verantwoordelijke_gemeente": "Noordoostpolder",
-    "gastouderbureau_1": "300232779",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3459938a-80f8-4f60-8303-19d699ef5767"
 }

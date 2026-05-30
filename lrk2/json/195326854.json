@@ -2,13 +2,16 @@
     "lrk_id": "195326854",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kampen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-03-2024",
     "uitschrijfdatum": "17-07-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kampen",
+    "contact_telefoon": "'0620646892'",
+    "contact_emailadres": "ericavankampen@gmail.com",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1a693e59-298c-4aa0-bb0e-0c3cd280379e"
 }

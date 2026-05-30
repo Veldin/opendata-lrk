@@ -2,13 +2,15 @@
     "lrk_id": "138473523",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Scholts-van Doornewaard",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-07-2019",
     "uitschrijfdatum": "30-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Scholts-van Doornewaard",
+    "contact_telefoon": "''",
     "cbs_code": "569",
     "verantwoordelijke_gemeente": "Nieuwkoop",
-    "gastouderbureau_1": "176152453",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/542a6b12-ba8c-49d7-b2cf-45a3801a24f2"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "685829728",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Deutekom",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-12-2010",
     "uitschrijfdatum": "06-10-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Deutekom",
+    "contact_telefoon": "''",
     "cbs_code": "1960",
     "verantwoordelijke_gemeente": "West Betuwe",
-    "gastouderbureau_1": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1dcbf68e-89f9-456a-a12a-826e8d7839ea"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "277716287",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Marinus",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-04-2019",
     "uitschrijfdatum": "17-02-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Marinus",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "283985318",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4f3e5fca-49bf-4a56-9377-610c1cb46954"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "170706138",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tiras-Ozturk",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-06-2011",
     "uitschrijfdatum": "10-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tiras Öztürk",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "227548516",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0faa847d-2f30-4647-a9a1-d85850822e22"
 }

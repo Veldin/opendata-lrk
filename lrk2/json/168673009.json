@@ -2,13 +2,15 @@
     "lrk_id": "168673009",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Damen-Koppert",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-11-2010",
     "uitschrijfdatum": "21-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Damen Koppert",
+    "contact_telefoon": "''",
     "cbs_code": "1783",
     "verantwoordelijke_gemeente": "Westland",
-    "gastouderbureau_1": "210229974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/da7b3fec-3e87-42a4-a3f2-765ec9298d9d"
 }

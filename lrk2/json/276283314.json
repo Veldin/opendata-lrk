@@ -2,13 +2,15 @@
     "lrk_id": "276283314",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Persoon",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-08-2018",
     "uitschrijfdatum": "15-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Persoon",
+    "contact_telefoon": "''",
     "cbs_code": "222",
     "verantwoordelijke_gemeente": "Doetinchem",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fe96db7a-3e94-4418-b303-d1e4f23a6440"
 }

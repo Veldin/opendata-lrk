@@ -2,13 +2,15 @@
     "lrk_id": "156011736",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schoot Villevoije",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-07-2017",
     "uitschrijfdatum": "07-05-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schoot Villevoije",
+    "contact_telefoon": "''",
     "cbs_code": "855",
     "verantwoordelijke_gemeente": "Tilburg",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4c91b97d-d9cf-4135-ac26-5710094e5ddb"
 }

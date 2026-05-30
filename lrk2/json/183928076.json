@@ -2,13 +2,15 @@
     "lrk_id": "183928076",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tichelaar",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-04-2015",
     "uitschrijfdatum": "31-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ceuninck van Capelle Tichelaar",
+    "contact_telefoon": "''",
     "cbs_code": "173",
     "verantwoordelijke_gemeente": "Oldenzaal",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/28383aa9-8574-49b6-8717-0d715401639b"
 }

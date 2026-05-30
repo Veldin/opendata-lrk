@@ -2,13 +2,15 @@
     "lrk_id": "171849814",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bijholt",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-06-2017",
     "uitschrijfdatum": "30-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bijholt",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/367ee275-5208-4d82-91f9-0fb5531e6a15"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "132085173",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Begieneman Meijer",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-07-2019",
     "uitschrijfdatum": "03-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Begieneman Meijer",
+    "contact_telefoon": "''",
     "cbs_code": "1735",
     "verantwoordelijke_gemeente": "Hof van Twente",
-    "gastouderbureau_1": "149157496",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3993af86-b4f1-4ad1-ab90-71a29c5632f4"
 }

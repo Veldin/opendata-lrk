@@ -2,13 +2,15 @@
     "lrk_id": "218668971",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Delft-Duquesnoy",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-12-2010",
     "uitschrijfdatum": "13-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Delft-Duquesnoy",
+    "contact_telefoon": "''",
     "cbs_code": "867",
     "verantwoordelijke_gemeente": "Waalwijk",
-    "gastouderbureau_1": "208914973",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/45648e25-0b00-49eb-b5eb-cbe534120cb9"
 }

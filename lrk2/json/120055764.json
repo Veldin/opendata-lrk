@@ -2,13 +2,15 @@
     "lrk_id": "120055764",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tolkamp",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-02-2017",
     "uitschrijfdatum": "01-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Tolkamp",
+    "contact_telefoon": "''",
     "cbs_code": "294",
     "verantwoordelijke_gemeente": "Winterswijk",
-    "gastouderbureau_1": "126932621",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/229997e2-c624-466b-af8f-2ed8e2b15f15"
 }

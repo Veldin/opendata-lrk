@@ -2,13 +2,15 @@
     "lrk_id": "205654794",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Willems - Brouwers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-10-2012",
     "uitschrijfdatum": "01-01-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Willems - Brouwers",
+    "contact_telefoon": "''",
     "cbs_code": "1945",
     "verantwoordelijke_gemeente": "Berg en Dal",
-    "gastouderbureau_1": "205480470",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/734d7fb5-d343-4241-96df-acf7ff7efe09"
 }

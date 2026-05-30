@@ -2,13 +2,15 @@
     "lrk_id": "136166635",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dijks Hugers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-09-2012",
     "uitschrijfdatum": "01-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dijks Hugers",
+    "contact_telefoon": "''",
     "cbs_code": "772",
     "verantwoordelijke_gemeente": "Eindhoven",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/568e397d-f8e6-4d20-bbc6-dcafa6d701a2"
 }

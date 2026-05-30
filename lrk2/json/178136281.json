@@ -2,13 +2,15 @@
     "lrk_id": "178136281",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Terpstra-Merkus",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-09-2010",
     "uitschrijfdatum": "01-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Terpstra-Merkus",
+    "contact_telefoon": "''",
     "cbs_code": "340",
     "verantwoordelijke_gemeente": "Rhenen",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7f96e957-47ef-41ea-aee3-66117a2c5c67"
 }

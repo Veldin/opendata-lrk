@@ -2,13 +2,15 @@
     "lrk_id": "487081213",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schijndel Passier",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-05-2020",
     "uitschrijfdatum": "01-08-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schijndel Passier",
+    "contact_telefoon": "''",
     "cbs_code": "1948",
     "verantwoordelijke_gemeente": "Meierijstad",
-    "gastouderbureau_1": "921029494",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5d7ab019-6500-48a6-9052-0a2518f3d430"
 }

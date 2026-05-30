@@ -2,13 +2,15 @@
     "lrk_id": "322926336",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lans",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-02-2018",
     "uitschrijfdatum": "20-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lans",
+    "contact_telefoon": "''",
     "cbs_code": "173",
     "verantwoordelijke_gemeente": "Oldenzaal",
-    "gastouderbureau_1": "145784162",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/aa3acf71-68ba-4d70-a069-4499ce26d5d3"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "198507100",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dohmen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-07-2017",
     "uitschrijfdatum": "31-12-2017",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dohmen",
+    "contact_telefoon": "''",
     "cbs_code": "1883",
     "verantwoordelijke_gemeente": "Sittard-Geleen",
-    "gastouderbureau_1": "165519034",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a3f402c5-ca72-4eda-9bf1-17fbdb86d87b"
 }

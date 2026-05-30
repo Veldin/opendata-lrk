@@ -2,13 +2,15 @@
     "lrk_id": "230605874",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vos",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-10-2018",
     "uitschrijfdatum": "18-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vos",
+    "contact_telefoon": "''",
     "cbs_code": "505",
     "verantwoordelijke_gemeente": "Dordrecht",
-    "gastouderbureau_1": "570617935",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/77f8b69e-99c9-4bf5-a469-59e0b5b70629"
 }

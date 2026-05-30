@@ -2,13 +2,15 @@
     "lrk_id": "158204864",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Pol",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-04-2018",
     "uitschrijfdatum": "24-05-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jong van de Pol",
+    "contact_telefoon": "''",
     "cbs_code": "770",
     "verantwoordelijke_gemeente": "Eersel",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/09b4b251-af13-4748-86e4-e72bf3032296"
 }

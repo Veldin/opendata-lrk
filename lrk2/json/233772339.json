@@ -2,13 +2,15 @@
     "lrk_id": "233772339",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wilkes Smit",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-09-2017",
     "uitschrijfdatum": "01-01-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wilkes Smit",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "232640646",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1826f0e6-9b8d-4df0-9626-4f50e4703377"
 }

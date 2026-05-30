@@ -2,13 +2,15 @@
     "lrk_id": "207772678",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Heuvel",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-12-2022",
     "uitschrijfdatum": "31-05-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Heuvel",
+    "contact_telefoon": "''",
     "cbs_code": "450",
     "verantwoordelijke_gemeente": "Uitgeest",
-    "gastouderbureau_1": "200883975",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7329f397-1137-4a2d-85c2-391ca38755bd"
 }

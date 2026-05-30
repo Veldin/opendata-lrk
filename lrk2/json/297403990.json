@@ -2,13 +2,16 @@
     "lrk_id": "297403990",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Urgert",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-03-2019",
     "uitschrijfdatum": "28-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Urgert",
+    "contact_telefoon": "'0638431946'",
+    "contact_emailadres": "Marjolijnurgert51@hotmail.nl",
     "cbs_code": "637",
     "verantwoordelijke_gemeente": "Zoetermeer",
-    "gastouderbureau_1": "219789654",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/44efe176-1053-4866-97f2-c63c93f65e7c"
 }

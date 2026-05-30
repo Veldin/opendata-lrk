@@ -2,13 +2,15 @@
     "lrk_id": "895701194",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Prins-de Boer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-09-2010",
     "uitschrijfdatum": "11-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Prins de Boer",
+    "contact_telefoon": "''",
     "cbs_code": "737",
     "verantwoordelijke_gemeente": "Tytsjerksteradiel",
-    "gastouderbureau_1": "830987162",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7a869363-9137-4c7c-a3a9-0db28798a6e8"
 }

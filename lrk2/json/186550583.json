@@ -2,13 +2,15 @@
     "lrk_id": "186550583",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Olde-Kikkert",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-12-2010",
     "uitschrijfdatum": "02-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Olde-Kikkert",
+    "contact_telefoon": "''",
     "cbs_code": "118",
     "verantwoordelijke_gemeente": "Hoogeveen",
-    "gastouderbureau_1": "156148250",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6e91ec88-abe0-413c-92e4-cedd654e1f79"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "134943582",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kooistra Huizinga",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-03-2021",
     "uitschrijfdatum": "07-04-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kooistra Huizinga",
+    "contact_telefoon": "''",
     "cbs_code": "1730",
     "verantwoordelijke_gemeente": "Tynaarlo",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/aaa6a775-5e06-4a19-af50-68f5edd0f8ef"
 }

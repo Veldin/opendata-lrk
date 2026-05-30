@@ -2,13 +2,15 @@
     "lrk_id": "770015074",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Buist",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-11-2010",
     "uitschrijfdatum": "01-08-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Caat Buist",
+    "contact_telefoon": "''",
     "cbs_code": "114",
     "verantwoordelijke_gemeente": "Emmen",
-    "gastouderbureau_1": "872908495",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/173167ff-f19b-40d4-9585-48688cf216e9"
 }

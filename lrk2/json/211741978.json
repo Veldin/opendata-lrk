@@ -2,13 +2,15 @@
     "lrk_id": "211741978",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lende Dam",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2019",
     "uitschrijfdatum": "31-12-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lende Dam",
+    "contact_telefoon": "''",
     "cbs_code": "1773",
     "verantwoordelijke_gemeente": "Olst-Wijhe",
-    "gastouderbureau_1": "189003431",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4c4157ab-7bcd-4dc0-a072-c9b7c5ffb6c5"
 }

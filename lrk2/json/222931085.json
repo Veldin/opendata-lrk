@@ -2,13 +2,16 @@
     "lrk_id": "222931085",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Pennings",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-05-2022",
     "uitschrijfdatum": "01-03-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Pennings",
+    "contact_telefoon": "'0651155259'",
+    "contact_emailadres": "glimkids@gmail.com",
     "cbs_code": "828",
     "verantwoordelijke_gemeente": "Oss",
-    "gastouderbureau_1": "216444172",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d04536f9-2e80-4dad-bac2-52a4787c1cfa"
 }

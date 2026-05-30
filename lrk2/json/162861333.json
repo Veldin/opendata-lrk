@@ -2,13 +2,15 @@
     "lrk_id": "162861333",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bunink",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-02-2017",
     "uitschrijfdatum": "01-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bunink",
+    "contact_telefoon": "''",
     "cbs_code": "1991",
     "verantwoordelijke_gemeente": "Maashorst",
-    "gastouderbureau_1": "921029494",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d59975c5-c132-4ba9-8c00-bf2375c7ac6b"
 }

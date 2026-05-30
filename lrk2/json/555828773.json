@@ -2,13 +2,15 @@
     "lrk_id": "555828773",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kruk",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-10-2017",
     "uitschrijfdatum": "01-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kruk",
+    "contact_telefoon": "''",
     "cbs_code": "118",
     "verantwoordelijke_gemeente": "Hoogeveen",
-    "gastouderbureau_1": "872908495",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/37149c24-0a97-472f-ad5d-5e6abd494535"
 }

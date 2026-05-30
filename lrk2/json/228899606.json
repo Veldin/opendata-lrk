@@ -2,13 +2,15 @@
     "lrk_id": "228899606",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "J.H. Janssen-Sonnemans",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-10-2010",
     "uitschrijfdatum": "05-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Janssen-Sonnemans",
+    "contact_telefoon": "''",
     "cbs_code": "1894",
     "verantwoordelijke_gemeente": "Peel en Maas",
-    "gastouderbureau_1": "128064134",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e14df5e4-4e56-483d-ae14-8a404529d177"
 }

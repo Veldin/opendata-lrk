@@ -2,13 +2,15 @@
     "lrk_id": "588567991",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Steenbergen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-10-2015",
     "uitschrijfdatum": "31-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Steenbergen",
+    "contact_telefoon": "''",
     "cbs_code": "1690",
     "verantwoordelijke_gemeente": "De Wolden",
-    "gastouderbureau_1": "110672161",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a8985107-20a7-4ab5-881e-ace32a1940b6"
 }

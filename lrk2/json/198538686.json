@@ -2,13 +2,15 @@
     "lrk_id": "198538686",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hessing",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-12-2016",
     "uitschrijfdatum": "28-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hessing",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "167213076",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ed5ea677-6270-43c7-902c-4a6cf0c688f0"
 }

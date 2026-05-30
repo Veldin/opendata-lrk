@@ -2,13 +2,15 @@
     "lrk_id": "685580532",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Levels",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-09-2015",
     "uitschrijfdatum": "01-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Levels",
+    "contact_telefoon": "''",
     "cbs_code": "1640",
     "verantwoordelijke_gemeente": "Leudal",
-    "gastouderbureau_1": "737818669",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1c70906b-9c4d-41fa-8c2c-ae06a775565b"
 }

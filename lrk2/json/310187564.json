@@ -2,13 +2,15 @@
     "lrk_id": "310187564",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Zwijnenburg ten Have",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-08-2018",
     "uitschrijfdatum": "27-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zwijnenburg ten Have",
+    "contact_telefoon": "''",
     "cbs_code": "632",
     "verantwoordelijke_gemeente": "Woerden",
-    "gastouderbureau_1": "119931758",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d4fff358-c9bc-4aed-a454-51bb3652992d"
 }

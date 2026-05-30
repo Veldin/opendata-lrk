@@ -2,13 +2,15 @@
     "lrk_id": "336869186",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Harsel",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2019",
     "uitschrijfdatum": "28-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vleeschdrager van Harsel",
+    "contact_telefoon": "''",
     "cbs_code": "858",
     "verantwoordelijke_gemeente": "Valkenswaard",
-    "gastouderbureau_1": "900644862",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a20fb03f-10b7-4947-8713-52a6d52f857a"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "298146162",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rötschke-Sedney",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-04-2017",
     "uitschrijfdatum": "01-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rötschke-Sedney",
+    "contact_telefoon": "''",
     "cbs_code": "855",
     "verantwoordelijke_gemeente": "Tilburg",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7d9bc9d2-dd88-479b-9558-9a52e8f90b9b"
 }

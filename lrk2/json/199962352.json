@@ -2,13 +2,15 @@
     "lrk_id": "199962352",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koning",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-10-2021",
     "uitschrijfdatum": "09-12-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koning",
+    "contact_telefoon": "''",
     "cbs_code": "216",
     "verantwoordelijke_gemeente": "Culemborg",
-    "gastouderbureau_1": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4154720b-a091-4294-908d-ab81cdba349f"
 }

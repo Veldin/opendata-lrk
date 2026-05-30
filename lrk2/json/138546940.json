@@ -2,13 +2,15 @@
     "lrk_id": "138546940",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meijer",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-04-2016",
     "uitschrijfdatum": "20-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meijer",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "366157607",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1765741e-1d8e-49dc-a74d-e407f07c19ac"
 }

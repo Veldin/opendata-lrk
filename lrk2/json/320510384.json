@@ -2,13 +2,15 @@
     "lrk_id": "320510384",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Brul Meijer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-08-2022",
     "uitschrijfdatum": "09-06-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Brul Meijer",
+    "contact_telefoon": "''",
     "cbs_code": "310",
     "verantwoordelijke_gemeente": "De Bilt",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6c251e2f-06ca-4a50-875d-224bebafa40b"
 }

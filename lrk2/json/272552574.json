@@ -2,13 +2,15 @@
     "lrk_id": "272552574",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Looy-de Bresser",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-09-2017",
     "uitschrijfdatum": "27-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Looy-de Bresser",
+    "contact_telefoon": "''",
     "cbs_code": "823",
     "verantwoordelijke_gemeente": "Oirschot",
-    "gastouderbureau_1": "161915061",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6f7f1a68-ce24-4702-a60b-1edff4bed779"
 }

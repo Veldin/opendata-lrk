@@ -2,13 +2,15 @@
     "lrk_id": "131046913",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dokter",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-04-2013",
     "uitschrijfdatum": "14-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dokter",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "138531870",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bb0df69b-4c34-4481-89e2-003dc71a95f0"
 }

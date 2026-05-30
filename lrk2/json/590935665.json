@@ -2,13 +2,15 @@
     "lrk_id": "590935665",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Goedhart",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-10-2016",
     "uitschrijfdatum": "15-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Goedhart",
+    "contact_telefoon": "''",
     "cbs_code": "610",
     "verantwoordelijke_gemeente": "Sliedrecht",
-    "gastouderbureau_1": "104000570",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/825d81ad-3915-4f76-844f-beadc56e07d7"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "246044329",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ommeren",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-02-2023",
     "uitschrijfdatum": "24-01-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ommeren",
+    "contact_telefoon": "'0683215802'",
+    "contact_emailadres": "carmenvanommeren@gmail.com",
     "cbs_code": "355",
     "verantwoordelijke_gemeente": "Zeist",
-    "gastouderbureau_1": "123729920",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1a2f4530-4da6-4b38-b131-fc6439688a83"
 }

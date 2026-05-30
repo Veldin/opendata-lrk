@@ -2,13 +2,15 @@
     "lrk_id": "187084154",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Middeljans",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-01-2013",
     "uitschrijfdatum": "30-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Middeljans",
+    "contact_telefoon": "''",
     "cbs_code": "498",
     "verantwoordelijke_gemeente": "Drechterland",
-    "gastouderbureau_1": "146908405",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/de48a704-9066-48e5-9a75-143b7c37c75e"
 }

@@ -2,14 +2,15 @@
     "lrk_id": "687509506",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "A.D.H. Zwiers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-03-2018",
     "uitschrijfdatum": "08-07-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Zwiers",
+    "contact_telefoon": "''",
     "cbs_code": "106",
     "verantwoordelijke_gemeente": "Assen",
-    "gastouderbureau_1": "146575891",
-    "gastouderbureau_2": "240676609",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5475ddbc-5ca4-48b6-999a-5a89909b0fbf"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "201776042",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meijer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-03-2019",
     "uitschrijfdatum": "11-01-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meijer",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e0dc79fb-f1da-46aa-ad17-acd89857b869"
 }

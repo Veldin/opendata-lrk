@@ -2,13 +2,15 @@
     "lrk_id": "678585519",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Verdonk",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-03-2020",
     "uitschrijfdatum": "01-01-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Verdonk",
+    "contact_telefoon": "''",
     "cbs_code": "1884",
     "verantwoordelijke_gemeente": "Kaag en Braassem",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2dc39377-3062-4692-90c6-d022648866f2"
 }

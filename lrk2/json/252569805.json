@@ -2,13 +2,15 @@
     "lrk_id": "252569805",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lammers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-06-2016",
     "uitschrijfdatum": "26-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lammers",
+    "contact_telefoon": "''",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "109212174",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/406681f3-3a67-4a52-a1ca-a37ce5b98cb8"
 }

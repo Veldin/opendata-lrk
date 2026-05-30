@@ -2,13 +2,15 @@
     "lrk_id": "137173441",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "maas",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-12-2010",
     "uitschrijfdatum": "30-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Maas",
+    "contact_telefoon": "''",
     "cbs_code": "785",
     "verantwoordelijke_gemeente": "Goirle",
-    "gastouderbureau_1": "121514882",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f6215445-f977-4ea8-a666-fad796adbe97"
 }

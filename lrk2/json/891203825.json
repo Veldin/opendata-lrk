@@ -2,13 +2,15 @@
     "lrk_id": "891203825",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Weijgertze Zech",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-01-2023",
     "uitschrijfdatum": "05-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Weijgertze Zech",
+    "contact_telefoon": "''",
     "cbs_code": "1978",
     "verantwoordelijke_gemeente": "Molenlanden",
-    "gastouderbureau_1": "104000570",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/938175a2-2ecf-42d8-bab1-03123b489983"
 }

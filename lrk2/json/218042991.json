@@ -2,13 +2,15 @@
     "lrk_id": "218042991",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Buiten",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-08-2010",
     "uitschrijfdatum": "04-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Buiten Burghart",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/de0b89de-ed69-40b0-83ce-d12bae6d242e"
 }

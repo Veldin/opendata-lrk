@@ -2,13 +2,15 @@
     "lrk_id": "267184050",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Visser",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-04-2018",
     "uitschrijfdatum": "19-10-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Visser",
+    "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "781269659",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/51fcd504-9fa3-4243-82c8-1544cb0b2dbf"
 }

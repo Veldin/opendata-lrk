@@ -2,13 +2,15 @@
     "lrk_id": "297755602",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Noort",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-10-2018",
     "uitschrijfdatum": "31-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Blois Noort",
+    "contact_telefoon": "''",
     "cbs_code": "629",
     "verantwoordelijke_gemeente": "Wassenaar",
-    "gastouderbureau_1": "837471126",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/837a8d30-4ad7-4bd3-955b-20eb94bd7e83"
 }

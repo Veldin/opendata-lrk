@@ -2,13 +2,15 @@
     "lrk_id": "750457430",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Arends",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-08-2012",
     "uitschrijfdatum": "01-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Arends",
+    "contact_telefoon": "''",
     "cbs_code": "1742",
     "verantwoordelijke_gemeente": "Rijssen-Holten",
-    "gastouderbureau_1": "149157496",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/051a7732-ff28-4010-9f6c-f828c48131b9"
 }

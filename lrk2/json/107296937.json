@@ -2,13 +2,15 @@
     "lrk_id": "107296937",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vliet",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-06-2019",
     "uitschrijfdatum": "07-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vliet",
+    "contact_telefoon": "''",
     "cbs_code": "1696",
     "verantwoordelijke_gemeente": "Wijdemeren",
-    "gastouderbureau_1": "226759799",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/14637788-1c46-4251-a250-8d09110fd4ae"
 }

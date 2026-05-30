@@ -2,13 +2,15 @@
     "lrk_id": "336423299",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wiggers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-07-2018",
     "uitschrijfdatum": "23-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rothengatter Wiggers",
+    "contact_telefoon": "''",
     "cbs_code": "150",
     "verantwoordelijke_gemeente": "Deventer",
-    "gastouderbureau_1": "192896842",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e26c470d-8fc6-4bec-a830-e55728ea0699"
 }

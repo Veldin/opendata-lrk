@@ -2,13 +2,15 @@
     "lrk_id": "266744369",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rink de Lange",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-01-2019",
     "uitschrijfdatum": "07-07-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rink de Lange",
+    "contact_telefoon": "''",
     "cbs_code": "114",
     "verantwoordelijke_gemeente": "Emmen",
-    "gastouderbureau_1": "200453075",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e06b35ad-460c-42f6-945c-1db2a564742d"
 }

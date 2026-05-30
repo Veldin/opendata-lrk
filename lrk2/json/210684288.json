@@ -2,13 +2,15 @@
     "lrk_id": "210684288",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Lange-Singer",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-09-2010",
     "uitschrijfdatum": "19-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lange-Singer",
+    "contact_telefoon": "''",
     "cbs_code": "498",
     "verantwoordelijke_gemeente": "Drechterland",
-    "gastouderbureau_1": "230820840",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/21d267de-d71f-49fe-9ade-383680b64284"
 }

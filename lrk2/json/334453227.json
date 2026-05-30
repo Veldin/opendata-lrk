@@ -2,13 +2,15 @@
     "lrk_id": "334453227",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Horst-Schreurs",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-10-2017",
     "uitschrijfdatum": "07-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Horst-Schreurs",
+    "contact_telefoon": "''",
     "cbs_code": "222",
     "verantwoordelijke_gemeente": "Doetinchem",
-    "gastouderbureau_1": "210758855",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cea07b98-ac46-4b81-99aa-5971bed6075d"
 }

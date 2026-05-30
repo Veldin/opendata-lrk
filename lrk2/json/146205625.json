@@ -2,13 +2,15 @@
     "lrk_id": "146205625",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sepers",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-01-2014",
     "uitschrijfdatum": "20-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sepers",
+    "contact_telefoon": "''",
     "cbs_code": "441",
     "verantwoordelijke_gemeente": "Schagen",
-    "gastouderbureau_1": "100219937",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d8a69526-7d22-48ac-a10f-b98ad39874e7"
 }

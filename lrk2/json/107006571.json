@@ -2,13 +2,15 @@
     "lrk_id": "107006571",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kruisinga",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-02-2019",
     "uitschrijfdatum": "29-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kruisinga",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ce6a348c-8af0-467a-8096-594c19603ef9"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "156579650",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schippers - van Asseldonk",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-04-2013",
     "uitschrijfdatum": "12-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schippers - van Asseldonk",
+    "contact_telefoon": "''",
     "cbs_code": "1721",
     "verantwoordelijke_gemeente": "Bernheze",
-    "gastouderbureau_1": "921029494",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a19a7c7d-b930-403d-8dad-9ce4b6f9d7b2"
 }

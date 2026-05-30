@@ -2,13 +2,16 @@
     "lrk_id": "638067339",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schouten",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-09-2019",
     "uitschrijfdatum": "01-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schouten",
+    "contact_telefoon": "'06 34827955'",
+    "contact_emailadres": "liz-schouten@hotmail.com",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "175389366",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/185e094b-c1c7-4350-b463-462899a9dd56"
 }

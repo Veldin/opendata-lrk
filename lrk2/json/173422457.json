@@ -2,13 +2,15 @@
     "lrk_id": "173422457",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Musters-Richart",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-09-2010",
     "uitschrijfdatum": "01-12-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Musters Richart",
+    "contact_telefoon": "''",
     "cbs_code": "37",
     "verantwoordelijke_gemeente": "Stadskanaal",
-    "gastouderbureau_1": "157030544",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/174ab02f-e7f7-46af-a76e-9b1663ed2b8c"
 }

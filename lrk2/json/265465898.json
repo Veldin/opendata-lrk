@@ -2,13 +2,15 @@
     "lrk_id": "265465898",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bogt",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-09-2022",
     "uitschrijfdatum": "15-09-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nales ter Bogt",
+    "contact_telefoon": "''",
     "cbs_code": "1586",
     "verantwoordelijke_gemeente": "Oost Gelre",
-    "gastouderbureau_1": "174815220",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dc9795e9-b960-435d-9204-809cfa5ef22a"
 }

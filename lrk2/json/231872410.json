@@ -2,13 +2,15 @@
     "lrk_id": "231872410",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koornneef",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-09-2017",
     "uitschrijfdatum": "31-12-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koornneef",
+    "contact_telefoon": "''",
     "cbs_code": "1783",
     "verantwoordelijke_gemeente": "Westland",
-    "gastouderbureau_1": "820712103",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cce50a12-efa9-49ef-afe9-74afd5579faa"
 }

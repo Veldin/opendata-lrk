@@ -2,13 +2,16 @@
     "lrk_id": "164278904",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Spies",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-11-2017",
     "uitschrijfdatum": "06-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Spies",
+    "contact_telefoon": "'06-22083796'",
+    "contact_emailadres": "willemiekespies@live.nl",
     "cbs_code": "1740",
     "verantwoordelijke_gemeente": "Neder-Betuwe",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/1a730215-716b-4c00-ac13-0dc2096f384e"
 }

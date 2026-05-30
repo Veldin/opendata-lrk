@@ -2,13 +2,16 @@
     "lrk_id": "113130788",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Louwers van de Ven",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-11-2018",
     "uitschrijfdatum": "16-08-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Louwers van de Ven",
+    "contact_telefoon": "'0622718461'",
+    "contact_emailadres": "annemiekvandeven@hotmail.com",
     "cbs_code": "848",
     "verantwoordelijke_gemeente": "Son en Breugel",
-    "gastouderbureau_1": "397955790",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/afa815b0-ef0b-4ca5-88eb-fc63378ef8c0"
 }

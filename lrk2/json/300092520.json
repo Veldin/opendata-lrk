@@ -2,13 +2,15 @@
     "lrk_id": "300092520",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Tijssen-Trenkwalder",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-12-2010",
     "uitschrijfdatum": "01-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "tijssen-Trenkwalder",
+    "contact_telefoon": "''",
     "cbs_code": "632",
     "verantwoordelijke_gemeente": "Woerden",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e6459bf8-a13d-4724-8e15-75a9c15d2123"
 }

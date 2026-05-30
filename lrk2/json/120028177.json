@@ -2,13 +2,15 @@
     "lrk_id": "120028177",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Burg Kreft",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-12-2019",
     "uitschrijfdatum": "30-09-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Burg Kreft",
+    "contact_telefoon": "''",
     "cbs_code": "1892",
     "verantwoordelijke_gemeente": "Zuidplas",
-    "gastouderbureau_1": "125774060",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/817f7daf-0488-4906-b922-3b2c65008b0f"
 }

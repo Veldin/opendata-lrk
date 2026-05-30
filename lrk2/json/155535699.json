@@ -2,13 +2,15 @@
     "lrk_id": "155535699",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Geerts",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-05-2016",
     "uitschrijfdatum": "15-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Geerts",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "474021890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3d7f2620-f75b-4e05-ab36-fb733059487f"
 }

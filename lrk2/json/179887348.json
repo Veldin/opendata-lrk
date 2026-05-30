@@ -2,13 +2,15 @@
     "lrk_id": "179887348",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Moed Reekers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-10-2018",
     "uitschrijfdatum": "31-08-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Moed Reekers",
+    "contact_telefoon": "''",
     "cbs_code": "1708",
     "verantwoordelijke_gemeente": "Steenwijkerland",
-    "gastouderbureau_1": "918762352",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6e2d37c4-675d-4df4-a9c9-da05be8addca"
 }

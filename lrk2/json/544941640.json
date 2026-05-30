@@ -2,13 +2,15 @@
     "lrk_id": "544941640",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wikkers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2016",
     "uitschrijfdatum": "14-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wikkers",
+    "contact_telefoon": "''",
     "cbs_code": "907",
     "verantwoordelijke_gemeente": "Gennep",
-    "gastouderbureau_1": "116285588",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3a254afb-a34a-4392-9d39-fbed0ed62c29"
 }

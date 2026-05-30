@@ -2,13 +2,15 @@
     "lrk_id": "222747250",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Koning",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-04-2013",
     "uitschrijfdatum": "18-10-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koning",
+    "contact_telefoon": "''",
     "cbs_code": "173",
     "verantwoordelijke_gemeente": "Oldenzaal",
-    "gastouderbureau_1": "106361466",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4c1b58b2-bbf6-4ad1-a9fd-61759cfcea16"
 }

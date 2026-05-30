@@ -2,13 +2,15 @@
     "lrk_id": "237350518",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Veenstra",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-02-2022",
     "uitschrijfdatum": "21-10-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Veenstra",
+    "contact_telefoon": "''",
     "cbs_code": "200",
     "verantwoordelijke_gemeente": "Apeldoorn",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/57dee732-a2a8-49a2-8cd2-1460fbe7167e"
 }

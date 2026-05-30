@@ -2,13 +2,15 @@
     "lrk_id": "143444050",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vroome van den Born",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-03-2022",
     "uitschrijfdatum": "07-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vroome van den Born",
+    "contact_telefoon": "''",
     "cbs_code": "197",
     "verantwoordelijke_gemeente": "Aalten",
-    "gastouderbureau_1": "207294847",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bf503c6d-9534-4567-b10b-464340bc6e9c"
 }

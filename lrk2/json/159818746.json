@@ -2,13 +2,15 @@
     "lrk_id": "159818746",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Pongers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-02-2024",
     "uitschrijfdatum": "09-10-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Pongers",
+    "contact_telefoon": "''",
     "cbs_code": "1742",
     "verantwoordelijke_gemeente": "Rijssen-Holten",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8ba15dd6-a2c1-4712-893f-dbd8ea44b6f0"
 }

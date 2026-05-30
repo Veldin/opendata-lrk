@@ -2,13 +2,15 @@
     "lrk_id": "122679088",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Harberink-Theijink",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-01-2015",
     "uitschrijfdatum": "11-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Harberink-Theijink",
+    "contact_telefoon": "''",
     "cbs_code": "164",
     "verantwoordelijke_gemeente": "Hengelo (O)",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e2c8b780-2ff3-4e44-936e-c9af3ae42953"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "101768989",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Buijsman-Tol",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-08-2010",
     "uitschrijfdatum": "10-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Buijsman-Tol",
+    "contact_telefoon": "''",
     "cbs_code": "420",
     "verantwoordelijke_gemeente": "Medemblik",
-    "gastouderbureau_1": "150397525",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/26d2e928-9c0a-4d06-8e23-736dbae9abcd"
 }

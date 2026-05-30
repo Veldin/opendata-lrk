@@ -2,13 +2,15 @@
     "lrk_id": "230293487",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Drooger-de Wit",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-10-2010",
     "uitschrijfdatum": "24-10-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Drooger-de Wit",
+    "contact_telefoon": "''",
     "cbs_code": "1963",
     "verantwoordelijke_gemeente": "Hoeksche Waard",
-    "gastouderbureau_1": "783230497",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/921a32fe-35ed-43f4-872a-e23a9d1f819a"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "236041460",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Verberne",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-05-2018",
     "uitschrijfdatum": "01-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Verberne",
+    "contact_telefoon": "''",
     "cbs_code": "757",
     "verantwoordelijke_gemeente": "Boxtel",
-    "gastouderbureau_1": "205322268",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cf7529c6-750d-4fa5-aaff-8fc27378dd43"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "544885879",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Joode",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-01-2020",
     "uitschrijfdatum": "12-11-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Joode",
+    "contact_telefoon": "''",
+    "contact_emailadres": "mariecke1@hotmail.com",
     "cbs_code": "1740",
     "verantwoordelijke_gemeente": "Neder-Betuwe",
-    "gastouderbureau_1": "274771329",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/94f39142-eaff-41a2-a514-a9b3b236afd5"
 }

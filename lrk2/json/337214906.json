@@ -2,13 +2,15 @@
     "lrk_id": "337214906",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "El-Ibrahimi",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-01-2017",
     "uitschrijfdatum": "27-07-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "El-Ibrahimi",
+    "contact_telefoon": "''",
     "cbs_code": "1904",
     "verantwoordelijke_gemeente": "Stichtse Vecht",
-    "gastouderbureau_1": "307867560",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/717ee08c-b075-4b21-9e2a-dc7aa8bdd5a9"
 }

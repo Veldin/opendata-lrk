@@ -2,13 +2,15 @@
     "lrk_id": "170918208",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Buurma - Eenink",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-02-2015",
     "uitschrijfdatum": "18-06-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Buurma - Eenink",
+    "contact_telefoon": "''",
     "cbs_code": "193",
     "verantwoordelijke_gemeente": "Zwolle",
-    "gastouderbureau_1": "191088055",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2b27e4ac-dee5-48a9-ba04-6501786c419e"
 }

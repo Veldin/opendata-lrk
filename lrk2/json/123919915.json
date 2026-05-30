@@ -2,13 +2,15 @@
     "lrk_id": "123919915",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Petronilla",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-09-2010",
     "uitschrijfdatum": "12-05-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Langeveld",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "178452294",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0d1fe2ef-a385-42ed-907b-df52b1da7bb8"
 }

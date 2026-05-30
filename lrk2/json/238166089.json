@@ -2,13 +2,16 @@
     "lrk_id": "238166089",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Warrink",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-09-2017",
     "uitschrijfdatum": "01-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Warrink",
+    "contact_telefoon": "'0613424879'",
+    "contact_emailadres": "warrink@famsinke.nl",
     "cbs_code": "275",
     "verantwoordelijke_gemeente": "Rheden",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/972fb285-872b-42a2-b1a9-984a40a90050"
 }

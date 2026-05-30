@@ -2,13 +2,15 @@
     "lrk_id": "727573676",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mw M.M.G. Dekkers",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-07-2015",
     "uitschrijfdatum": "14-05-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Lierop Dekkers",
+    "contact_telefoon": "''",
     "cbs_code": "847",
     "verantwoordelijke_gemeente": "Someren",
-    "gastouderbureau_1": "681840596",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/adb76384-1c6c-4998-9544-c780a739c1ac"
 }

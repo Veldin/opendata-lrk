@@ -2,13 +2,16 @@
     "lrk_id": "249322511",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Van Dun - Van Sleuwen",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2017",
     "uitschrijfdatum": "01-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dun van Sleuwen",
+    "contact_telefoon": "'0622660971'",
+    "contact_emailadres": "sabinevandun@hotmail.com",
     "cbs_code": "1652",
     "verantwoordelijke_gemeente": "Gemert-Bakel",
-    "gastouderbureau_1": "191027583",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/51bef5eb-7217-4eea-a79c-253183e106f7"
 }

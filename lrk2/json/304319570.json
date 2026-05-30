@@ -2,13 +2,15 @@
     "lrk_id": "304319570",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hoeksema",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-06-2016",
     "uitschrijfdatum": "01-06-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hoeksema",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "657655739",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/074f0900-c8ca-456e-921d-f67314197ef8"
 }

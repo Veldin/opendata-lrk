@@ -2,13 +2,15 @@
     "lrk_id": "125010655",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Versteeg",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-01-2017",
     "uitschrijfdatum": "26-04-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Versteeg",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "184355096",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bfd7d2b8-92e4-4c02-84cf-3b2e9b97b913"
 }

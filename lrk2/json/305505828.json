@@ -2,13 +2,15 @@
     "lrk_id": "305505828",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Drenthe",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-01-2013",
     "uitschrijfdatum": "12-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Drenthe",
+    "contact_telefoon": "''",
     "cbs_code": "14",
     "verantwoordelijke_gemeente": "Groningen",
-    "gastouderbureau_1": "138531870",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d81dea11-0bcb-4eec-9531-98d6a168c1a2"
 }

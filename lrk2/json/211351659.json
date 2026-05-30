@@ -2,13 +2,15 @@
     "lrk_id": "211351659",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Maessen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-03-2013",
     "uitschrijfdatum": "15-04-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Maessen",
+    "contact_telefoon": "''",
     "cbs_code": "1641",
     "verantwoordelijke_gemeente": "Maasgouw",
-    "gastouderbureau_1": "210344465",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8e9e9c19-7324-438b-95a0-a3e975fe474e"
 }

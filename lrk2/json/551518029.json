@@ -2,13 +2,15 @@
     "lrk_id": "551518029",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ettes",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-10-2019",
     "uitschrijfdatum": "24-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ettes",
+    "contact_telefoon": "''",
     "cbs_code": "392",
     "verantwoordelijke_gemeente": "Haarlem",
-    "gastouderbureau_1": "672279769",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/827e2060-b739-44ec-9d7d-54b084719c67"
 }

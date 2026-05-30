@@ -2,13 +2,15 @@
     "lrk_id": "297207416",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kreuwel Snijders",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-11-2020",
     "uitschrijfdatum": "01-08-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Snijders",
+    "contact_telefoon": "''",
     "cbs_code": "1774",
     "verantwoordelijke_gemeente": "Dinkelland",
-    "gastouderbureau_1": "190734243",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ba73dd34-141b-478f-9a27-893d5abd2df9"
 }

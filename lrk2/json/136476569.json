@@ -2,13 +2,15 @@
     "lrk_id": "136476569",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Os",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-08-2010",
     "uitschrijfdatum": "18-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Os van den Akker",
+    "contact_telefoon": "''",
     "cbs_code": "1783",
     "verantwoordelijke_gemeente": "Westland",
-    "gastouderbureau_1": "256894425",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7e78a48f-f480-43f3-8faa-bdc073ba21e1"
 }

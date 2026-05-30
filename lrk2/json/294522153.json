@@ -2,13 +2,15 @@
     "lrk_id": "294522153",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Smit Teuling",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-11-2017",
     "uitschrijfdatum": "23-01-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Smit Teuling",
+    "contact_telefoon": "''",
     "cbs_code": "141",
     "verantwoordelijke_gemeente": "Almelo",
-    "gastouderbureau_1": "221881888",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/15e21033-819f-4e57-b5bf-984be0fcca0e"
 }

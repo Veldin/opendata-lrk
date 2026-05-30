@@ -2,13 +2,15 @@
     "lrk_id": "179213817",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Muijen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-09-2015",
     "uitschrijfdatum": "01-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Muijen",
+    "contact_telefoon": "''",
     "cbs_code": "1652",
     "verantwoordelijke_gemeente": "Gemert-Bakel",
-    "gastouderbureau_1": "149051232",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f816eefb-7f06-4cce-adb4-fcbb8e8e1c81"
 }

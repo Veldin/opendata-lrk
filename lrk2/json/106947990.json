@@ -2,13 +2,15 @@
     "lrk_id": "106947990",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Jacobs",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-05-2015",
     "uitschrijfdatum": "01-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Jacobs",
+    "contact_telefoon": "''",
     "cbs_code": "1724",
     "verantwoordelijke_gemeente": "Bergeijk",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/31c9288c-3c96-47cf-a180-6b7c77513d6e"
 }

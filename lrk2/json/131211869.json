@@ -2,13 +2,15 @@
     "lrk_id": "131211869",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rooijakkers-Mengde",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-03-2012",
     "uitschrijfdatum": "04-04-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rooijakkers-Mengde",
+    "contact_telefoon": "''",
     "cbs_code": "772",
     "verantwoordelijke_gemeente": "Eindhoven",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fcd87854-fa84-4a9f-8f12-2cbc9e0cad49"
 }

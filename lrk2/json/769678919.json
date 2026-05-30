@@ -2,13 +2,15 @@
     "lrk_id": "769678919",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kelderman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-06-2020",
     "uitschrijfdatum": "16-07-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kelderman",
+    "contact_telefoon": "''",
     "cbs_code": "246",
     "verantwoordelijke_gemeente": "Heerde",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b1a64198-fa6d-4bf9-ad44-74c1d009c96e"
 }

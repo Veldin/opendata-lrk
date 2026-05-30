@@ -2,13 +2,16 @@
     "lrk_id": "237179209",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dijk Mook",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-10-2019",
     "uitschrijfdatum": "15-12-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dijk Mook",
+    "contact_telefoon": "'0318523145'",
+    "contact_emailadres": "annemieke1994@hotmail.com",
     "cbs_code": "1740",
     "verantwoordelijke_gemeente": "Neder-Betuwe",
-    "gastouderbureau_1": "162801580",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/31e14e7d-7598-49d8-a023-1568329a2e8d"
 }

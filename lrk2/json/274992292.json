@@ -2,13 +2,15 @@
     "lrk_id": "274992292",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mooijweer Roskam",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-08-2017",
     "uitschrijfdatum": "19-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Mooijweer Roskam",
+    "contact_telefoon": "''",
     "cbs_code": "1708",
     "verantwoordelijke_gemeente": "Steenwijkerland",
-    "gastouderbureau_1": "140767186",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/27c635a4-578a-4d26-bc88-0a7c9c5e2add"
 }

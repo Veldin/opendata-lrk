@@ -2,13 +2,15 @@
     "lrk_id": "913848360",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Dirks-de Best",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-08-2010",
     "uitschrijfdatum": "30-09-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Dirks-de Best",
+    "contact_telefoon": "''",
     "cbs_code": "1952",
     "verantwoordelijke_gemeente": "Midden-Groningen",
-    "gastouderbureau_1": "178452294",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d7f5a137-1642-469c-b412-78d9023d1069"
 }

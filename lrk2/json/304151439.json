@@ -2,13 +2,15 @@
     "lrk_id": "304151439",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Timmer",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-07-2019",
     "uitschrijfdatum": "09-03-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Timmer",
+    "contact_telefoon": "''",
     "cbs_code": "281",
     "verantwoordelijke_gemeente": "Tiel",
-    "gastouderbureau_1": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/eaf35740-5866-42d2-a039-19583a3bd2eb"
 }

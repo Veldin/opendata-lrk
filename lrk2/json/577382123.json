@@ -2,13 +2,15 @@
     "lrk_id": "577382123",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Leijdekkers",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "31-10-2014",
     "uitschrijfdatum": "01-02-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bouwens",
+    "contact_telefoon": "''",
     "cbs_code": "1991",
     "verantwoordelijke_gemeente": "Maashorst",
-    "gastouderbureau_1": "921029494",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/90323459-f053-44dc-92d3-00578f3c8424"
 }

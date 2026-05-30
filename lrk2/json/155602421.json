@@ -2,13 +2,15 @@
     "lrk_id": "155602421",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Poppel-van Eijk",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-04-2019",
     "uitschrijfdatum": "11-02-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Poppel van Eijk",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "831116183",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bb13084b-7816-4436-a497-bf8cc169278e"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "753721430",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Inan-Akfidan",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-12-2010",
     "uitschrijfdatum": "01-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Inan-Akfidan",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "106361466",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/6db68caf-4205-4740-bf7c-9ab00491d753"
 }

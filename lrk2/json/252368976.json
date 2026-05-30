@@ -2,13 +2,15 @@
     "lrk_id": "252368976",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Breuer",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2019",
     "uitschrijfdatum": "01-06-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Breuer",
+    "contact_telefoon": "''",
     "cbs_code": "994",
     "verantwoordelijke_gemeente": "Valkenburg aan de Geul",
-    "gastouderbureau_1": "200641748",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3e8a3d53-e40a-496f-8a4b-11c0b90d4d12"
 }

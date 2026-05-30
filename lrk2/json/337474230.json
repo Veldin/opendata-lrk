@@ -2,13 +2,15 @@
     "lrk_id": "337474230",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Burggraaf van Dansik",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2023",
     "uitschrijfdatum": "04-05-2023",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Burggraaf van Dansik",
+    "contact_telefoon": "''",
     "cbs_code": "375",
     "verantwoordelijke_gemeente": "Beverwijk",
-    "gastouderbureau_1": "120189197",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/97563334-4b32-4672-8680-5014fc12fdfd"
 }

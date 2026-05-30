@@ -2,13 +2,15 @@
     "lrk_id": "218167970",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Benkirane-Saadi",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-02-2018",
     "uitschrijfdatum": "15-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Benkirane-Saadi",
+    "contact_telefoon": "''",
     "cbs_code": "762",
     "verantwoordelijke_gemeente": "Deurne",
-    "gastouderbureau_1": "385448636",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c64c1245-704d-4ccf-a868-abd3982e6cc0"
 }

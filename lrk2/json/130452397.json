@@ -2,13 +2,15 @@
     "lrk_id": "130452397",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Nelis",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-05-2018",
     "uitschrijfdatum": "25-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nelis",
+    "contact_telefoon": "''",
     "cbs_code": "1509",
     "verantwoordelijke_gemeente": "Oude IJsselstreek",
-    "gastouderbureau_1": "114912348",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/27430e0a-50df-4f31-b64e-790c649eb911"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "256366706",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wursten - van der Steege",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-05-2022",
     "uitschrijfdatum": "01-08-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wursten - van der Steege",
+    "contact_telefoon": "''",
     "cbs_code": "1896",
     "verantwoordelijke_gemeente": "Zwartewaterland",
-    "gastouderbureau_1": "918762352",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f2d10a7c-e4ae-4ea9-918d-9e07034c9550"
 }

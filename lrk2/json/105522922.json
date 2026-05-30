@@ -2,13 +2,15 @@
     "lrk_id": "105522922",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Blankestijn Dekker",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-09-2017",
     "uitschrijfdatum": "13-12-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Blankestijn Dekker",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "561668085",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4dab99cb-1d50-4e23-b774-90b6c6b184ff"
 }

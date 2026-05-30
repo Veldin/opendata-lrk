@@ -2,13 +2,15 @@
     "lrk_id": "142419242",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Veltman",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-06-2016",
     "uitschrijfdatum": "20-05-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Veltman",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "474021890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f428d967-7ec4-4f36-80d4-fb42b75e41ea"
 }

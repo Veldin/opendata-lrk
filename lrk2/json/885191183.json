@@ -2,13 +2,15 @@
     "lrk_id": "885191183",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Berg - van Klaveren",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "13-07-2016",
     "uitschrijfdatum": "01-01-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Berg - van Klaveren",
+    "contact_telefoon": "''",
     "cbs_code": "310",
     "verantwoordelijke_gemeente": "De Bilt",
-    "gastouderbureau_1": "123870513",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/70701bdc-145f-4b14-ae35-f04896f138b3"
 }

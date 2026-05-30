@@ -2,13 +2,15 @@
     "lrk_id": "142705974",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rietman, Y.C.M. (Hoevendwarsweg 2a, Dalfsen)",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "21-06-2017",
     "uitschrijfdatum": "09-05-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rietman",
+    "contact_telefoon": "''",
     "cbs_code": "148",
     "verantwoordelijke_gemeente": "Dalfsen",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/853c044d-49a7-4b39-92a7-8e9c1bca67e1"
 }

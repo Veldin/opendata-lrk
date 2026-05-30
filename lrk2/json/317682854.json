@@ -2,13 +2,15 @@
     "lrk_id": "317682854",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Harmelink Klein Nagelvoort",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-03-2020",
     "uitschrijfdatum": "26-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Harmelink Klein Nagelvoort",
+    "contact_telefoon": "''",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b3bfac55-1de7-45b9-9f3e-d5eeb6e3763a"
 }

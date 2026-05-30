@@ -2,13 +2,15 @@
     "lrk_id": "177966373",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wit",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-08-2012",
     "uitschrijfdatum": "04-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Baars de Wit",
+    "contact_telefoon": "''",
     "cbs_code": "1992",
     "verantwoordelijke_gemeente": "Voorne aan Zee",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/adca10da-f103-4b4f-90d0-c9469e364975"
 }

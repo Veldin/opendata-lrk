@@ -2,13 +2,15 @@
     "lrk_id": "202637311",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ontrop-van Bergen",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-08-2015",
     "uitschrijfdatum": "04-11-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ontrop van Bergen",
+    "contact_telefoon": "''",
     "cbs_code": "344",
     "verantwoordelijke_gemeente": "Utrecht",
-    "gastouderbureau_1": "238072794",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cdee6017-49d0-4ced-92ed-e5054b769a78"
 }

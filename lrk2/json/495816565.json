@@ -2,13 +2,15 @@
     "lrk_id": "495816565",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "I.J.C. Hermens - Spoormakers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-09-2017",
     "uitschrijfdatum": "09-04-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Spoormakers",
+    "contact_telefoon": "''",
     "cbs_code": "794",
     "verantwoordelijke_gemeente": "Helmond",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ffb8272a-ae7f-48c8-aed5-5b99112c910e"
 }

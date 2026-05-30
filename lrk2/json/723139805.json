@@ -2,13 +2,15 @@
     "lrk_id": "723139805",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mens Princen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-01-2017",
     "uitschrijfdatum": "01-08-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Mens Princen",
+    "contact_telefoon": "''",
     "cbs_code": "1883",
     "verantwoordelijke_gemeente": "Sittard-Geleen",
-    "gastouderbureau_1": "210344465",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/75646b3d-e99f-4499-a66e-d8262aee379a"
 }

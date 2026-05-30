@@ -2,13 +2,15 @@
     "lrk_id": "252756149",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "J. Morpey",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2022",
     "uitschrijfdatum": "15-07-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Morpey",
+    "contact_telefoon": "''",
     "cbs_code": "164",
     "verantwoordelijke_gemeente": "Hengelo (O)",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4e7274a4-6515-4bc0-ac51-ead5fa56d27f"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "127493104",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bogaard",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-10-2018",
     "uitschrijfdatum": "04-09-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bogaard",
+    "contact_telefoon": "''",
     "cbs_code": "1942",
     "verantwoordelijke_gemeente": "Gooise Meren",
-    "gastouderbureau_1": "418689465",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5ffa672f-d8f8-4b5f-94be-b6fb51db3471"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "801974082",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Karel Siben",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-10-2017",
     "uitschrijfdatum": "02-08-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Karel Siben",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/58c1822d-ba93-4599-823d-47209715d4b4"
 }

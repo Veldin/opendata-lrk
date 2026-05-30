@@ -2,13 +2,15 @@
     "lrk_id": "263122372",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vossenberg",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-10-2019",
     "uitschrijfdatum": "04-10-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vossenberg",
+    "contact_telefoon": "''",
     "cbs_code": "310",
     "verantwoordelijke_gemeente": "De Bilt",
-    "gastouderbureau_1": "474021890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/19f150d2-fe72-44fd-a778-936ee17b1e69"
 }

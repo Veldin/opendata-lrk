@@ -2,13 +2,15 @@
     "lrk_id": "330228304",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Made",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-08-2018",
     "uitschrijfdatum": "31-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Made",
+    "contact_telefoon": "''",
     "cbs_code": "758",
     "verantwoordelijke_gemeente": "Breda",
-    "gastouderbureau_1": "132726907",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9471eae2-fa38-4b2e-935a-f0ec4f1048ad"
 }

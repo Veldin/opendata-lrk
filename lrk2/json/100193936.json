@@ -2,13 +2,15 @@
     "lrk_id": "100193936",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Groenewegen van der Weiden de Rijke",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-04-2019",
     "uitschrijfdatum": "21-05-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "de Rijke",
+    "contact_telefoon": "''",
     "cbs_code": "512",
     "verantwoordelijke_gemeente": "Gorinchem",
-    "gastouderbureau_1": "104000570",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3265aed8-7f36-494a-845b-885268c9d71f"
 }

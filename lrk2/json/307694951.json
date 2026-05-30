@@ -2,13 +2,15 @@
     "lrk_id": "307694951",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kocx",
     "aantal_kindplaatsen": 3,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-01-2019",
     "uitschrijfdatum": "05-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kocx",
+    "contact_telefoon": "''",
     "cbs_code": "855",
     "verantwoordelijke_gemeente": "Tilburg",
-    "gastouderbureau_1": "217241736",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/09e34d88-4299-49d0-9d9f-d9f5f6ac6e2d"
 }

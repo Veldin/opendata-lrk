@@ -2,13 +2,16 @@
     "lrk_id": "279909937",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bosch Nijboer",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-04-2019",
     "uitschrijfdatum": "23-03-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bosch Nijboer",
+    "contact_telefoon": "'06-31213850'",
+    "contact_emailadres": "f.bosch@boschsupplies.nl",
     "cbs_code": "153",
     "verantwoordelijke_gemeente": "Enschede",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/152fdc74-bfa1-439d-87f1-ac6f79f41d4a"
 }

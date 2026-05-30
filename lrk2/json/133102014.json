@@ -2,13 +2,15 @@
     "lrk_id": "133102014",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Afaratu I.Y.",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-06-2013",
     "uitschrijfdatum": "22-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Nuijtens Afaratu",
+    "contact_telefoon": "''",
     "cbs_code": "147",
     "verantwoordelijke_gemeente": "Borne",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b85cd054-99ba-4853-a3bd-6adab6ff6181"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "219972436",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mirjam van den Hoogen t.h.o.d.n. Franch & Free",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-07-2010",
     "uitschrijfdatum": "10-02-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Huisman",
+    "contact_telefoon": "''",
     "cbs_code": "498",
     "verantwoordelijke_gemeente": "Drechterland",
-    "gastouderbureau_1": "429285814",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/db095c3f-0a3e-4e43-a174-bda2c4f31a25"
 }

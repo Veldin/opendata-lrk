@@ -2,13 +2,15 @@
     "lrk_id": "214487568",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "M. Koolmees-Heuvelman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-07-2013",
     "uitschrijfdatum": "15-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Koolmees-Heuvelman",
+    "contact_telefoon": "''",
     "cbs_code": "542",
     "verantwoordelijke_gemeente": "Krimpen aan den IJssel",
-    "gastouderbureau_1": "135861330",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cff0a653-4d5f-4c18-85c1-abf0da26d150"
 }

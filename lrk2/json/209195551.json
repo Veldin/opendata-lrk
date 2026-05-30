@@ -2,13 +2,15 @@
     "lrk_id": "209195551",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kooten",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "22-12-2016",
     "uitschrijfdatum": "15-01-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kooten",
+    "contact_telefoon": "''",
     "cbs_code": "285",
     "verantwoordelijke_gemeente": "Voorst",
-    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f5d86100-7774-4bef-9725-40f60feb43d7"
 }

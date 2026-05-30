@@ -2,13 +2,15 @@
     "lrk_id": "269478346",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Leersum Evers",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "30-10-2017",
     "uitschrijfdatum": "15-09-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Leersum Evers",
+    "contact_telefoon": "''",
     "cbs_code": "546",
     "verantwoordelijke_gemeente": "Leiden",
-    "gastouderbureau_1": "167213076",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/435f5b3a-e696-4f2d-a777-b03368dafbc8"
 }

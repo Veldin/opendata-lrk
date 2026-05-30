@@ -2,13 +2,15 @@
     "lrk_id": "182168517",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Poppe",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "07-08-2013",
     "uitschrijfdatum": "01-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Poppe",
+    "contact_telefoon": "''",
     "cbs_code": "243",
     "verantwoordelijke_gemeente": "Harderwijk",
-    "gastouderbureau_1": "161328714",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4309e637-15b7-47c3-86ae-6c995065787e"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "170108260",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hems - Gerritsen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-05-2018",
     "uitschrijfdatum": "14-09-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hems - Gerritsen",
+    "contact_telefoon": "''",
     "cbs_code": "1721",
     "verantwoordelijke_gemeente": "Bernheze",
-    "gastouderbureau_1": "476474085",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e267caca-9f88-462e-923e-dc1a68fd3786"
 }

@@ -2,13 +2,16 @@
     "lrk_id": "275929814",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bartels",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "27-09-2021",
     "uitschrijfdatum": "24-08-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bartels",
+    "contact_telefoon": "'0610739092'",
+    "contact_emailadres": "yvonnebartels67@gmail.com",
     "cbs_code": "268",
     "verantwoordelijke_gemeente": "Nijmegen",
-    "gastouderbureau_1": "167244000",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/df99581f-0d7d-40ef-a733-a0af17449c62"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "182771556",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Gries-Wellink",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-10-2014",
     "uitschrijfdatum": "08-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Gries-Wellink",
+    "contact_telefoon": "''",
     "cbs_code": "1509",
     "verantwoordelijke_gemeente": "Oude IJsselstreek",
-    "gastouderbureau_1": "114912348",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/80719fe9-765d-4cd5-b583-c05795627662"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "241329164",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Carroccio El Harrak",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "25-02-2022",
     "uitschrijfdatum": "08-12-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Carroccio El Harrak",
+    "contact_telefoon": "''",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
-    "gastouderbureau_1": "539487636",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/96cf389f-2191-4b27-9f45-c285549a113b"
 }

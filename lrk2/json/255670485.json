@@ -2,13 +2,15 @@
     "lrk_id": "255670485",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Giesen Schriekenberg",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "02-06-2016",
     "uitschrijfdatum": "11-12-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Giesen Schriekenberg",
+    "contact_telefoon": "''",
     "cbs_code": "1581",
     "verantwoordelijke_gemeente": "Utrechtse Heuvelrug",
-    "gastouderbureau_1": "213792849",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/aa2e249c-8338-4989-acaf-0ce97fa3d307"
 }

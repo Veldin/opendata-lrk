@@ -2,13 +2,16 @@
     "lrk_id": "556453372",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rigó",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-10-2021",
     "uitschrijfdatum": "10-02-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rigó",
+    "contact_telefoon": "'0636383586'",
+    "contact_emailadres": "angelilonka.ir@gmail.com",
     "cbs_code": "363",
     "verantwoordelijke_gemeente": "Amsterdam",
-    "gastouderbureau_1": "210229974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e2b9dc14-2da4-412f-89a8-3e4a4c0cda01"
 }

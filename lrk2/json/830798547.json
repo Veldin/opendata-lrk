@@ -2,13 +2,15 @@
     "lrk_id": "830798547",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Wit",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "09-01-2019",
     "uitschrijfdatum": "21-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Wit",
+    "contact_telefoon": "''",
     "cbs_code": "353",
     "verantwoordelijke_gemeente": "IJsselstein",
-    "gastouderbureau_1": "164936725",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/aec4de87-2112-4b2f-b2fd-4c7b552a4491"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "649627726",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Drent-Ye",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-07-2014",
     "uitschrijfdatum": "13-03-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Drent Yč",
+    "contact_telefoon": "''",
     "cbs_code": "995",
     "verantwoordelijke_gemeente": "Lelystad",
-    "gastouderbureau_1": "191248113",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/3a02cbc0-14dc-40c0-8c3c-ca307c5c5007"
 }

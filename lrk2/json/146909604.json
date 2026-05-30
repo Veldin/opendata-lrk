@@ -2,13 +2,15 @@
     "lrk_id": "146909604",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Houtman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-01-2015",
     "uitschrijfdatum": "08-06-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Houtman",
+    "contact_telefoon": "''",
     "cbs_code": "995",
     "verantwoordelijke_gemeente": "Lelystad",
-    "gastouderbureau_1": "144627681",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fae16a7d-2df2-4727-ba54-a3b3f67d8673"
 }

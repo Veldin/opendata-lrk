@@ -2,13 +2,15 @@
     "lrk_id": "218462530",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Meerkerk",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-05-2023",
     "uitschrijfdatum": "29-05-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Meerkerk",
+    "contact_telefoon": "''",
     "cbs_code": "512",
     "verantwoordelijke_gemeente": "Gorinchem",
-    "gastouderbureau_1": "826492496",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b257971e-019a-453c-9c94-0e7daa38a9c7"
 }

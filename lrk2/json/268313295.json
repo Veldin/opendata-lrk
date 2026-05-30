@@ -2,13 +2,15 @@
     "lrk_id": "268313295",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bax",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "28-07-2016",
     "uitschrijfdatum": "25-10-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Larmit Bax",
+    "contact_telefoon": "''",
     "cbs_code": "1658",
     "verantwoordelijke_gemeente": "Heeze-Leende",
-    "gastouderbureau_1": "217241736",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b62618bd-95a7-4418-a4f7-8f9c6589bee4"
 }

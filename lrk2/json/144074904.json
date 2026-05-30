@@ -2,13 +2,15 @@
     "lrk_id": "144074904",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Kampen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-11-2018",
     "uitschrijfdatum": "22-05-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Kampen",
+    "contact_telefoon": "''",
     "cbs_code": "402",
     "verantwoordelijke_gemeente": "Hilversum",
-    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e46bd6c7-44b5-4302-9828-5c0579ca4d9c"
 }

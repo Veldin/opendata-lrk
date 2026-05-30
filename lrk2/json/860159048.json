@@ -2,13 +2,15 @@
     "lrk_id": "860159048",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Janssen Edens",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "17-04-2018",
     "uitschrijfdatum": "15-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Janssen Edens",
+    "contact_telefoon": "''",
     "cbs_code": "450",
     "verantwoordelijke_gemeente": "Uitgeest",
-    "gastouderbureau_1": "110615165",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e74ba4d2-e52c-45f4-928b-49da6c8fe06b"
 }

@@ -2,13 +2,15 @@
     "lrk_id": "435217021",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sande",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "12-07-2018",
     "uitschrijfdatum": "21-06-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sande",
+    "contact_telefoon": "''",
     "cbs_code": "479",
     "verantwoordelijke_gemeente": "Zaanstad",
-    "gastouderbureau_1": "474021890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/45428bcb-7e90-40d5-abc8-441dc94dae1e"
 }

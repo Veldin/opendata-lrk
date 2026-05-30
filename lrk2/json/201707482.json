@@ -2,13 +2,16 @@
     "lrk_id": "201707482",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Schipper",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "23-04-2015",
     "uitschrijfdatum": "13-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Schipper",
+    "contact_telefoon": "'06-24124460'",
+    "contact_emailadres": "annelies.schipper@hotmail.com",
     "cbs_code": "772",
     "verantwoordelijke_gemeente": "Eindhoven",
-    "gastouderbureau_1": "160012351",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/446c2580-61f8-46c2-aa73-1aff7cf21800"
 }

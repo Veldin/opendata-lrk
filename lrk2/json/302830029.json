@@ -2,13 +2,15 @@
     "lrk_id": "302830029",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Sengers",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-04-2018",
     "uitschrijfdatum": "08-07-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Sengers",
+    "contact_telefoon": "''",
     "cbs_code": "312",
     "verantwoordelijke_gemeente": "Bunnik",
-    "gastouderbureau_1": "198416635",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/bbaca9e5-6194-448a-933b-34045347e3b9"
 }

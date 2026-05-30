@@ -2,13 +2,15 @@
     "lrk_id": "130176175",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Vries",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "04-12-2017",
     "uitschrijfdatum": "16-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Vries",
+    "contact_telefoon": "''",
     "cbs_code": "737",
     "verantwoordelijke_gemeente": "Tytsjerksteradiel",
-    "gastouderbureau_1": "830987162",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b4c71638-cb9a-4910-adb1-dc3d386582ab"
 }

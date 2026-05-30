@@ -2,13 +2,15 @@
     "lrk_id": "817456533",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Knol",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-11-2018",
     "uitschrijfdatum": "20-08-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Knol",
+    "contact_telefoon": "''",
     "cbs_code": "164",
     "verantwoordelijke_gemeente": "Hengelo (O)",
-    "gastouderbureau_1": "464044911",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/f833c8fa-ed2b-4f7b-991d-89ae756bc170"
 }

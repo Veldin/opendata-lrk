@@ -2,13 +2,15 @@
     "lrk_id": "160397261",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van der Werff",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-06-2022",
     "uitschrijfdatum": "01-10-2024",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Werff",
+    "contact_telefoon": "''",
     "cbs_code": "301",
     "verantwoordelijke_gemeente": "Zutphen",
-    "gastouderbureau_1": "162040349",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/efa863dd-638f-4292-9e9c-f7cc75a70efb"
 }

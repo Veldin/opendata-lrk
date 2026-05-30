@@ -2,13 +2,15 @@
     "lrk_id": "321815208",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ratăo Da Cruz",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "20-07-2021",
     "uitschrijfdatum": "12-08-2022",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ratăo Da Cruz",
+    "contact_telefoon": "''",
     "cbs_code": "479",
     "verantwoordelijke_gemeente": "Zaanstad",
-    "gastouderbureau_1": "158005909",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/4b2df5c0-1676-4034-aa2a-ba257d87b0cd"
 }

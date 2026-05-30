@@ -2,13 +2,15 @@
     "lrk_id": "164385009",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "van Stam-van Gelder",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "16-11-2010",
     "uitschrijfdatum": "09-08-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Stam van Gelder",
+    "contact_telefoon": "''",
     "cbs_code": "228",
     "verantwoordelijke_gemeente": "Ede",
-    "gastouderbureau_1": "504137396",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/82614582-42ef-4065-a674-5f269f1c192f"
 }

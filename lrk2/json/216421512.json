@@ -2,13 +2,15 @@
     "lrk_id": "216421512",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Hones",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "14-01-2014",
     "uitschrijfdatum": "10-12-2020",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Hones",
+    "contact_telefoon": "''",
     "cbs_code": "163",
     "verantwoordelijke_gemeente": "Hellendoorn",
-    "gastouderbureau_1": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/0f8abbcb-31b9-49ce-b50e-2fc9fb857327"
 }

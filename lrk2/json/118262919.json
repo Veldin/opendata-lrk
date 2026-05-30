@@ -2,13 +2,15 @@
     "lrk_id": "118262919",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Rinkema",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "11-07-2017",
     "uitschrijfdatum": "18-02-2019",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Rinkema",
+    "contact_telefoon": "''",
     "cbs_code": "1970",
     "verantwoordelijke_gemeente": "Noardeast-Fryslân",
-    "gastouderbureau_1": "366157607",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/5df1c2d1-dcaf-4f33-92b6-50f34467997d"
 }

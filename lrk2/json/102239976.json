@@ -2,13 +2,15 @@
     "lrk_id": "102239976",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Haen van Peppen",
     "aantal_kindplaatsen": 1,
     "status": "Uitgeschreven",
     "inschrijfdatum": "19-10-2016",
     "uitschrijfdatum": "09-06-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Haen van Peppen",
+    "contact_telefoon": "''",
     "cbs_code": "299",
     "verantwoordelijke_gemeente": "Zevenaar",
-    "gastouderbureau_1": "228536686",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8345a696-c11b-42a0-9bdc-cbdf6f0f8431"
 }

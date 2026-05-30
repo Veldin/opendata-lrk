@@ -2,13 +2,15 @@
     "lrk_id": "212724800",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Broeren van der Linden",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "15-08-2017",
     "uitschrijfdatum": "01-07-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Broeren van der Linden",
+    "contact_telefoon": "''",
     "cbs_code": "1948",
     "verantwoordelijke_gemeente": "Meierijstad",
-    "gastouderbureau_1": "985438046",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b2cd3e34-cef4-4474-aa86-5f0dbcd04cf4"
 }

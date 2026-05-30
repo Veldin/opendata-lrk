@@ -2,13 +2,15 @@
     "lrk_id": "116071175",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Geldens",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "06-10-2014",
     "uitschrijfdatum": "26-11-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Geldens",
+    "contact_telefoon": "''",
     "cbs_code": "858",
     "verantwoordelijke_gemeente": "Valkenswaard",
-    "gastouderbureau_1": "896944190",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/18ee19fe-31c4-4473-adbe-eec96e3e79b8"
 }

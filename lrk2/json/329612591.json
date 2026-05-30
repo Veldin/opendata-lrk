@@ -2,13 +2,15 @@
     "lrk_id": "329612591",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Bos van der Molen",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "03-05-2019",
     "uitschrijfdatum": "03-11-2021",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Bos van der Molen",
+    "contact_telefoon": "''",
     "cbs_code": "1730",
     "verantwoordelijke_gemeente": "Tynaarlo",
-    "gastouderbureau_1": "880423043",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b2e4736f-931e-4cc3-9447-b71f3edd3be6"
 }

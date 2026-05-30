@@ -2,13 +2,15 @@
     "lrk_id": "144886716",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Mijderwijk-Nijhuis",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2018",
     "uitschrijfdatum": "01-03-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Mijderwijk-Nijhuis",
+    "contact_telefoon": "''",
     "cbs_code": "345",
     "verantwoordelijke_gemeente": "Veenendaal",
-    "gastouderbureau_1": "162801580",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/68e631b5-40bd-4361-928b-2e480ca52120"
 }

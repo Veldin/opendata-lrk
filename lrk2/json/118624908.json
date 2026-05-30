@@ -2,13 +2,15 @@
     "lrk_id": "118624908",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Piepers Jacobs",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "29-03-2018",
     "uitschrijfdatum": "12-12-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Piepers Jacobs",
+    "contact_telefoon": "''",
     "cbs_code": "957",
     "verantwoordelijke_gemeente": "Roermond",
-    "gastouderbureau_1": "146173685",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a7b68af7-6041-4b6f-9f72-8fd0635ea361"
 }

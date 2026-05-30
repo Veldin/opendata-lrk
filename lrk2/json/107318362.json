@@ -2,13 +2,15 @@
     "lrk_id": "107318362",
     "type_oko": "VGO",
     "opc": "Nee",
+    "actuele_naam_oko": "Ploeg",
     "aantal_kindplaatsen": 4,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2015",
     "uitschrijfdatum": "01-09-2018",
-    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
+    "opvanglocatie_adres": "Opvang bij de vraagouder",
+    "naam_houder": "Ploeg",
+    "contact_telefoon": "''",
     "cbs_code": "534",
     "verantwoordelijke_gemeente": "Hillegom",
-    "gastouderbureau_1": "141733974",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b01a8660-05d4-4a01-acd9-313423db6acd"
 }
