@@ -4,8 +4,9 @@
     "opc": "Nee",
     "actuele_naam_oko": "Berkhof",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "12-09-2023",
+    "uitschrijfdatum": "31-05-2026",
     "opvanglocatie_adres": "de Bongerd 10 ",
     "opvanglocatie_postcode": "8096MA",
     "opvanglocatie_woonplaats": "Oldebroek",
@@ -14,6 +15,5 @@
     "contact_telefoon": "''",
     "cbs_code": "269",
     "verantwoordelijke_gemeente": "Oldebroek",
-    "gastouderbureau_1": "918762352",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/9e21b097-671e-41e0-9731-e7e1ed7468f9"
 }

@@ -4,8 +4,9 @@
     "opc": "Nee",
     "actuele_naam_oko": "Ridder",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "31-10-2022",
+    "uitschrijfdatum": "31-05-2026",
     "opvanglocatie_adres": "Haam 35 ",
     "opvanglocatie_postcode": "6003GG",
     "opvanglocatie_woonplaats": "Weert",
@@ -14,6 +15,5 @@
     "contact_telefoon": "''",
     "cbs_code": "988",
     "verantwoordelijke_gemeente": "Weert",
-    "gastouderbureau_1": "233827158",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fdf06fb0-c8cb-4fc9-bace-8705e926f2f3"
 }

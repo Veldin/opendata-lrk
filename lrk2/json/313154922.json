@@ -4,8 +4,9 @@
     "opc": "Nee",
     "actuele_naam_oko": "Voorst-Goudzwaard",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "01-09-2023",
+    "uitschrijfdatum": "01-06-2026",
     "opvanglocatie_adres": "Margrietstraat 5 ",
     "opvanglocatie_postcode": "4532BJ",
     "opvanglocatie_woonplaats": "Terneuzen",
@@ -14,6 +15,5 @@
     "contact_telefoon": "''",
     "cbs_code": "715",
     "verantwoordelijke_gemeente": "Terneuzen",
-    "gastouderbureau_1": "296625346",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/7c646541-ebd3-4396-9ecd-9d6b28a8853d"
 }

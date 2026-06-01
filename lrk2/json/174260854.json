@@ -4,8 +4,9 @@
     "opc": "Nee",
     "actuele_naam_oko": "M. Merkus",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "14-02-2013",
+    "uitschrijfdatum": "31-05-2026",
     "opvanglocatie_adres": "De Bodding 11 ",
     "opvanglocatie_postcode": "9249MB",
     "opvanglocatie_woonplaats": "Frieschepalen",
@@ -14,6 +15,5 @@
     "contact_telefoon": "''",
     "cbs_code": "86",
     "verantwoordelijke_gemeente": "Opsterland",
-    "gastouderbureau_1": "130948007",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e3784856-b640-4dea-88be-64a84bbf5dc5"
 }

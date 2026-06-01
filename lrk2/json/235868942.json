@@ -4,8 +4,9 @@
     "opc": "Nee",
     "actuele_naam_oko": "Holwerda",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "01-10-2010",
+    "uitschrijfdatum": "31-05-2026",
     "opvanglocatie_adres": "Kotterstraat 47 ",
     "opvanglocatie_postcode": "8862ZL",
     "opvanglocatie_woonplaats": "Harlingen",
@@ -14,6 +15,5 @@
     "contact_telefoon": "''",
     "cbs_code": "72",
     "verantwoordelijke_gemeente": "Harlingen",
-    "gastouderbureau_1": "818211118",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/52dd1e61-2c44-488c-9606-63b843e76d36"
 }

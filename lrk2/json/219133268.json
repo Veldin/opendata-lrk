@@ -4,8 +4,9 @@
     "opc": "Nee",
     "actuele_naam_oko": "Bleijenberg-Klarenbeek",
     "aantal_kindplaatsen": 4,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "29-11-2010",
+    "uitschrijfdatum": "01-06-2026",
     "opvanglocatie_adres": "Zeisterweg 95 ",
     "opvanglocatie_postcode": "3984NK",
     "opvanglocatie_woonplaats": "Odijk",
@@ -14,6 +15,5 @@
     "contact_telefoon": "''",
     "cbs_code": "312",
     "verantwoordelijke_gemeente": "Bunnik",
-    "gastouderbureau_1": "217063408",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/c80bd4ea-83a7-42cf-92c0-2d1f87fe2877"
 }

@@ -4,8 +4,9 @@
     "opc": "Nee",
     "actuele_naam_oko": "Guzman Jara",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "28-10-2024",
+    "uitschrijfdatum": "31-05-2026",
     "opvanglocatie_adres": "Tsjerkepaed 16 ",
     "opvanglocatie_postcode": "9081AT",
     "opvanglocatie_woonplaats": "Lekkum",
@@ -14,6 +15,5 @@
     "contact_telefoon": "''",
     "cbs_code": "80",
     "verantwoordelijke_gemeente": "Leeuwarden",
-    "gastouderbureau_1": "226938396",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/fbfb66b1-4e70-4ab9-adaf-439370957053"
 }

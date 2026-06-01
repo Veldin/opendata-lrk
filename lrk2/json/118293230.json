@@ -4,8 +4,9 @@
     "opc": "Nee",
     "actuele_naam_oko": "Y van Ingen",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "01-03-2026",
+    "uitschrijfdatum": "01-06-2026",
     "opvanglocatie_adres": "Opvang bij de vraagouder",
     "naam_houder": "Ingen",
     "contact_persoon": "Y. van Ingen",
@@ -13,6 +14,5 @@
     "contact_emailadres": "yorindevi@gmail.com",
     "cbs_code": "392",
     "verantwoordelijke_gemeente": "Haarlem",
-    "gastouderbureau_1": "160395008",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d935a94d-397d-49d7-b936-351b765e018c"
 }
