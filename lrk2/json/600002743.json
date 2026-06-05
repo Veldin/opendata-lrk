@@ -2,15 +2,13 @@
     "lrk_id": "600002743",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "van der Ham-van Leeuwen",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "26-03-2015",
     "uitschrijfdatum": "01-02-2019",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Ham-van Leeuwen",
-    "contact_telefoon": "'0643849659'",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "629",
     "verantwoordelijke_gemeente": "Wassenaar",
+    "gastouderbureau_1": "100223278",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2fc0d7f4-1874-4783-b8e2-04a378ec5b54"
 }

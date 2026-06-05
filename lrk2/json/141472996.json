@@ -2,15 +2,13 @@
     "lrk_id": "141472996",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "Frieling",
     "aantal_kindplaatsen": 5,
     "status": "Uitgeschreven",
     "inschrijfdatum": "10-07-2018",
     "uitschrijfdatum": "03-04-2020",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Frieling",
-    "contact_telefoon": "''",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "202",
     "verantwoordelijke_gemeente": "Arnhem",
+    "gastouderbureau_1": "225000520",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8d132cef-6811-47fb-be06-1e1f66c65cc4"
 }

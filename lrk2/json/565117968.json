@@ -2,16 +2,13 @@
     "lrk_id": "565117968",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "Wijkmans Lombarts",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-09-2020",
     "uitschrijfdatum": "31-12-2020",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Wijkmans Lombarts",
-    "contact_telefoon": "'06-10223746'",
-    "contact_emailadres": "silvia.lombarts@ziggo.nl",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "796",
     "verantwoordelijke_gemeente": "'s-Hertogenbosch",
+    "gastouderbureau_1": "216444172",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/2cdbfd18-f14c-4254-b06e-17e99253df91"
 }

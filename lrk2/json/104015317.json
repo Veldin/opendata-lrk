@@ -2,16 +2,13 @@
     "lrk_id": "104015317",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "Jansen Aagten",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-08-2019",
     "uitschrijfdatum": "01-09-2021",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Jansen Aagten",
-    "contact_telefoon": "'024-3789348'",
-    "contact_emailadres": "gastouderbureau@kinop.nl",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "1705",
     "verantwoordelijke_gemeente": "Lingewaard",
+    "gastouderbureau_1": "283816442",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/afd47d1d-bc6d-44ba-92ef-4ec87d81cc25"
 }

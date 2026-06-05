@@ -2,16 +2,13 @@
     "lrk_id": "236706135",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "Greven",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-02-2018",
     "uitschrijfdatum": "01-03-2026",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Greven",
-    "contact_telefoon": "'06-18994849'",
-    "contact_emailadres": "Joepbakker@quicknet.nl",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "532",
     "verantwoordelijke_gemeente": "Stede Broec",
+    "gastouderbureau_1": "150397525",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b6527583-27c7-4763-9ca7-56481a0d33b3"
 }

@@ -2,16 +2,13 @@
     "lrk_id": "123526073",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "Nieman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "08-02-2018",
     "uitschrijfdatum": "01-11-2019",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Nieman",
-    "contact_telefoon": "'0651984941'",
-    "contact_emailadres": "niki_91@live.nl",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "307",
     "verantwoordelijke_gemeente": "Amersfoort",
+    "gastouderbureau_1": "724421890",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/55d6cdd3-60a1-407c-a741-b37e7b96c573"
 }

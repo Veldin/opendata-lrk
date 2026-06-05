@@ -2,15 +2,13 @@
     "lrk_id": "110825196",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "Weerman",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "24-09-2019",
     "uitschrijfdatum": "22-10-2020",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Weerman",
-    "contact_telefoon": "''",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "1940",
     "verantwoordelijke_gemeente": "De Fryske Marren",
+    "gastouderbureau_1": "257662601",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/cd2195a6-2168-447c-af16-573f5c445a23"
 }

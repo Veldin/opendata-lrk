@@ -2,15 +2,13 @@
     "lrk_id": "321653130",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "Nap-Burger",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "05-02-2024",
     "uitschrijfdatum": "04-12-2025",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Burger",
-    "contact_telefoon": "''",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "1901",
     "verantwoordelijke_gemeente": "Bodegraven-Reeuwijk",
+    "gastouderbureau_1": "125774060",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/ea55fb3f-bbd5-4e6d-914b-7997c2e704bb"
 }

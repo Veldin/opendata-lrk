@@ -2,15 +2,13 @@
     "lrk_id": "112682078",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "Wit",
     "aantal_kindplaatsen": 6,
     "status": "Uitgeschreven",
     "inschrijfdatum": "18-06-2018",
     "uitschrijfdatum": "20-12-2018",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Wit",
-    "contact_telefoon": "''",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "1901",
     "verantwoordelijke_gemeente": "Bodegraven-Reeuwijk",
+    "gastouderbureau_1": "305142562",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/be368f7e-3449-4b8f-bcfa-d6f260779cd2"
 }

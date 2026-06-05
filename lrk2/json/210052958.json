@@ -2,15 +2,13 @@
     "lrk_id": "210052958",
     "type_oko": "VGO",
     "opc": "Nee",
-    "actuele_naam_oko": "D.B.A. van der Straaten Verbeek",
     "aantal_kindplaatsen": 2,
     "status": "Uitgeschreven",
     "inschrijfdatum": "01-05-2023",
     "uitschrijfdatum": "31-12-2025",
-    "opvanglocatie_adres": "Opvang bij de vraagouder",
-    "naam_houder": "Straaten Verbeek",
-    "contact_telefoon": "''",
+    "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "599",
     "verantwoordelijke_gemeente": "Rotterdam",
+    "gastouderbureau_1": "117383521",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/36611ad2-e040-42f3-a8ff-c9b92d746328"
 }
