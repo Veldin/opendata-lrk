@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "21-12-2011",
+    "uitschrijfdatum": "15-06-2026",
     "opvanglocatie_postcode": "6717KL",
     "opvanglocatie_woonplaats": "Ede",
     "cbs_code": "228",
     "verantwoordelijke_gemeente": "Ede",
+    "gastouderbureau_1": "162801580",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/d42ab122-e728-442f-b10c-7cd00fe7cba6"
 }
