@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "09-08-2016",
+    "uitschrijfdatum": "30-06-2026",
     "opvanglocatie_postcode": "5711NA",
     "opvanglocatie_woonplaats": "Someren",
     "cbs_code": "847",
     "verantwoordelijke_gemeente": "Someren",
+    "gastouderbureau_1": "149051232",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/e9811934-9849-41ca-8f85-d47d3b0f202c"
 }
