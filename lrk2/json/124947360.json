@@ -3,10 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "02-09-2024",
+    "uitschrijfdatum": "07-07-2026",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "160",
     "verantwoordelijke_gemeente": "Hardenberg",
+    "gastouderbureau_1": "857358327",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/efec7b38-bfe3-428b-9c16-dae471c10dc6"
 }

@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "09-03-2017",
+    "uitschrijfdatum": "07-07-2026",
     "opvanglocatie_postcode": "8244CC",
     "opvanglocatie_woonplaats": "Lelystad",
     "cbs_code": "995",
     "verantwoordelijke_gemeente": "Lelystad",
+    "gastouderbureau_1": "194872099",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/8625002c-c4a9-4130-8612-a187b3d28ee6"
 }
