@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "02-08-2023",
+    "uitschrijfdatum": "30-06-2026",
     "opvanglocatie_postcode": "9602GR",
     "opvanglocatie_woonplaats": "Hoogezand",
     "cbs_code": "1952",
     "verantwoordelijke_gemeente": "Midden-Groningen",
+    "gastouderbureau_1": "135032337",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/dab32b71-84e5-465f-b210-814e92375138"
 }
