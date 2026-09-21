@@ -3,13 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "01-01-2024",
+    "uitschrijfdatum": "21-09-2026",
     "opvanglocatie_postcode": "8161ZX",
     "opvanglocatie_woonplaats": "Epe",
     "cbs_code": "232",
     "verantwoordelijke_gemeente": "Epe",
-    "gastouderbureau_1": "295706442",
-    "gastouderbureau_2": "893856897",
+    "gastouderbureau_1": "893856897",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/b247e3ac-8460-488b-8057-b0fc1a05a36c"
 }
