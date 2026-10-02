@@ -3,13 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "10-12-2025",
+    "uitschrijfdatum": "02-10-2026",
     "opvanglocatie_postcode": "7007AK",
     "opvanglocatie_woonplaats": "Doetinchem",
     "cbs_code": "222",
     "verantwoordelijke_gemeente": "Doetinchem",
     "gastouderbureau_1": "172977241",
-    "gastouderbureau_2": "207294847",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/a09cff07-82ec-4f50-99e2-c8698a2afaf6"
 }

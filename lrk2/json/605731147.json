@@ -3,12 +3,14 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 5,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "22-04-2022",
+    "uitschrijfdatum": "08-08-2026",
     "opvanglocatie_postcode": "3131VM",
     "opvanglocatie_woonplaats": "Vlaardingen",
     "cbs_code": "622",
     "verantwoordelijke_gemeente": "Vlaardingen",
     "gastouderbureau_1": "117383521",
+    "gastouderbureau_2": "146575891",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/35e2aee0-3a21-45ec-9f1b-1290a83deb74"
 }
