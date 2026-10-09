@@ -3,11 +3,13 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "01-07-2013",
+    "uitschrijfdatum": "01-07-2026",
     "opvanglocatie_postcode": "9265LR",
     "opvanglocatie_woonplaats": "Suwâld",
     "cbs_code": "737",
     "verantwoordelijke_gemeente": "Tytsjerksteradiel",
+    "gastouderbureau_1": "170370471",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/862520e3-b0cf-40d1-a19d-bc69bdd23622"
 }
