@@ -3,10 +3,12 @@
     "type_oko": "VGO",
     "opc": "Nee",
     "aantal_kindplaatsen": 6,
-    "status": "Ingeschreven",
+    "status": "Uitgeschreven",
     "inschrijfdatum": "01-09-2023",
+    "uitschrijfdatum": "13-10-2026",
     "opvanglocatie_woonplaats": "Opvang bij de vraagouder",
     "cbs_code": "717",
     "verantwoordelijke_gemeente": "Veere",
+    "gastouderbureau_1": "193549517",
     "lrk_url": "https://www.landelijkregisterkinderopvang.nl/pp/#/inzien/oko/gegevens/79b1d66b-5386-414e-8ca4-7a851605b3b5"
 }

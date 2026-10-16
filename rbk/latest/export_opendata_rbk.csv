@@ -54,10 +54,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000019197;GOO;Nuiten, L.;Geregistreerd;2019-07-15;2027-02-21;Postbaan 15;2910;Essen;België
 000019252;DGO;Kath. Kindergarten St. Marien;Geregistreerd;2019-07-24;2027-02-13;Hubertusweg 27;47665;Sonsbeck;Duitsland
 000019537;DGO;He Berenbos;Geregistreerd;2019-09-16;2027-07-24;Mieksebaan 144;2960;Brecht;België
-000019653;GOO;Vaesen, L.;Niet meer geregistreerd;2019-10-14;2023-10-14;Bleekstraat 7;3930;Achel;België
-000019665;DGO;Tageseinrichtung für Kinder Rasselbande;Niet meer geregistreerd;2019-10-14;2023-10-14;Steppenbergallee 7-11;52074;Aachen;Duitsland
-000019677;DGO;'t Lozana'tje;Niet meer geregistreerd;2019-10-16;2023-10-16;Lange Lozanastraat 108;2018;Antwerpen;België
-000019689;GOO;Gras, C.;Niet meer geregistreerd;2019-10-16;2021-03-10;Freiheitsstrasse 18;52531;Übach-Palenberg;Duitsland
 000019690;DGO;De Tovertuin Natuurlijk;Niet meer geregistreerd;2019-10-17;2023-10-17;Kleinvenstraat 2;3640;Kinrooi;België
 000019707;DGO;Kath. Kindertagesstätte St. Elisabeth;Niet meer geregistreerd;2019-10-22;2023-10-22;Vinzenzplatz 1a;40211;Düsseldorf;Duitsland
 000019719;GOO;Maes, S;Niet meer geregistreerd;2019-10-23;2023-10-23;Leustraat 22;3640;Kinrooi;België
@@ -415,7 +411,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024570;DGO;Partena Kinderopvang - Tovereik;Niet meer geregistreerd;2022-09-28;2026-09-28;Jezus Eiklaan 37;3080;Tervuren;België
 000024582;DGO;zkdv 't bijenkorfje 2;Niet meer geregistreerd;2022-09-21;2026-09-21;Vaartstraat 14;2330;Merksplas;België
 000024612;DGO;Outlaw Kita Steintorfeldmark;Niet meer geregistreerd;2022-10-05;2026-10-05;Steintorfeldmark 99;48565;Steinfurt;Duitsland
-000024624;DGO;Dol-Fijn;Geregistreerd;2022-10-10;2026-10-10;Tijl-en-Nelestraat 71;2300;Turnhout;België
+000024624;DGO;Dol-Fijn;Niet meer geregistreerd;2022-10-10;2026-10-10;Tijl-en-Nelestraat 71;2300;Turnhout;België
 000024636;GOO;Mannarino, S.;Niet meer geregistreerd;2022-10-11;2026-08-08;Fuchsweg 4;47652;Weeze;Duitsland
 000024661;GOO;List, P.;Geregistreerd;2022-09-01;2026-09-01;Grasriete 97;49824;Emlichheim;Duitsland
 000024673;DGO;Droomhuis;Geregistreerd;2022-10-20;2026-10-20;Bogaardestraat 171;9990;Maldegem;België
@@ -750,6 +746,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 057584680;DGO;Kath. Tageseinrichtung für Kinder  Liebfrauen;Geregistreerd;2024-10-16;2028-10-16;Kalkarer Str. 34;47574;Goch;Duitsland
 058029370;BSO;De Hummelhoek;Geregistreerd;2024-05-08;2028-05-08;Kerkstraat 20A;2480;Dessel;België
 058158005;DGO;Youpibugs;Geregistreerd;2025-01-31;2029-01-31;Gewijde Boomstraat 12;1050;Elsene;België
+059409174;BSO;BKO-Meer;Geregistreerd;2026-09-18;2030-09-18;Terbeeksestraat 6 A;2321;Meer (Hoogstraten);België
 059656153;BSO;BKO Pelterkids - Grote Heide;Geregistreerd;2026-07-17;2030-07-17;Grote Heide 14;3910;Pelt;België
 060500463;DGO;Kath. Tageseinrichtung für Kinder St. Markus;Geregistreerd;2024-04-09;2028-04-09;Büchel 18;52224;Stolberg;Duitsland
 060695596;GOO;van der Hurk, R.;Geregistreerd;2025-03-02;2029-03-02;Zonnelaan 34;3680;Maaseik;België
