@@ -124,7 +124,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000010911;DGO;Tageseinrichting für Kinder Johanniter-Kindergarten;Niet meer geregistreerd;2015-10-26;2019-10-26;Johanniterstrasse 25;52531;Uebach-Palenberg;Duitsland
 000010923;DGO;De Ster;Niet meer geregistreerd;2015-10-26;2019-10-26;Grotesteenweg 571;2600;Berchem;België
 000010935;GOO;Vos, M.;Niet meer geregistreerd;2015-10-27;2023-05-08;Grote Plekweg 12;3520;ZONHOVEN;België
-000010947;GOO;Horrix, P.;Niet meer geregistreerd;2015-10-23;2019-10-23;Hoekstraat 30;3630;Maasmechelen;België
 000010959;GOO;Bollen, A.;Niet meer geregistreerd;2015-10-28;2019-10-28;Pater Damiaanstraat 10A;3740;Bilzen;België
 000010972;GOO;Nooijens-Kilsdonk, E.J.F.;Niet meer geregistreerd;2015-11-02;2019-11-02;Nachtegaallaan 12;2321;Meer-Hoogstraten;België
 000010984;DGO;'t Speelhuis Achel;Niet meer geregistreerd;2015-11-03;2019-11-03;Thomas Watsonlaan 103;3930;Hamont-Achel;België
@@ -1112,8 +1111,8 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024624;DGO;Dol-Fijn;Niet meer geregistreerd;2022-10-10;2026-10-10;Tijl-en-Nelestraat 71;2300;Turnhout;België
 000024636;GOO;Mannarino, S.;Niet meer geregistreerd;2022-10-11;2026-08-08;Fuchsweg 4;47652;Weeze;Duitsland
 000024661;GOO;List, P.;Geregistreerd;2022-09-01;2027-09-30;Grasriete 97;49824;Emlichheim;Duitsland
-000024673;DGO;Droomhuis;Geregistreerd;2022-10-20;2026-10-20;Bogaardestraat 171;9990;Maldegem;België
-000024697;GOO;Moermans, M.;Geregistreerd;2022-10-20;2026-10-20;Boyen 9;3650;Stokkem;België
+000024673;DGO;Droomhuis;Niet meer geregistreerd;2022-10-20;2026-10-20;Bogaardestraat 171;9990;Maldegem;België
+000024697;GOO;Moermans, M.;Niet meer geregistreerd;2022-10-20;2026-10-20;Boyen 9;3650;Stokkem;België
 000024715;DGO;De Kleine Kameleon;Geregistreerd;2022-10-24;2030-08-17;Heikampstraat 35;3630;Maasmechelen;België
 000024727;DGO;Kath. Kindergarten St. Helena;Geregistreerd;2022-10-28;2026-10-28;Barloer Ringstrasse 68;46399;Bocholt;Duitsland
 000024739;BSO;Pelterkids Holheide;Geregistreerd;2022-10-25;2026-10-25;Holvenstraat 82;3900;Overpelt (Pelt);België
@@ -1460,6 +1459,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 064603830;DGO;Het Huppelhuisje;Geregistreerd;2026-01-21;2030-01-21;Dorpsstraat 20;3730;Bilzen-Hoeselt;België
 064717409;DGO;Yma's Droombosje;Geregistreerd;2025-10-04;2029-10-04;Prins Boudewijnlaan 98-100;2610;Antwerpen;België
 066403364;GOO;De Boskaboutertjes;Geregistreerd;2025-10-28;2029-10-28;Nachtegalendreef 20;2910;Essen;België
+066411865;DGO;ISF International Daycare;Geregistreerd;2026-09-08;2030-09-08;Stationsstraat 6;3080;Tervuren;België
 066428257;BSO;'t Klim-Op-Ke vestiging Boekt;Geregistreerd;2025-12-11;2029-12-11;Reitveld z/n;3550;Heusden-Zolder;België
 066510053;GOO;Kreinbrink, A.;Geregistreerd;2024-11-25;2028-11-25;Dorfstrasse 20;48455;Bad Bentheim;Duitsland
 066539195;DGO;Kemelrijk;Geregistreerd;2024-10-07;2028-10-07;Kemelstraat 53;9190;Stekene;België
