@@ -121,10 +121,8 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000010674;GOO;Luyten, N.;Niet meer geregistreerd;2015-09-09;2023-06-25;Wouwerstraat 25;2470;Retie;België
 000010790;GOO;Moradi, H.;Niet meer geregistreerd;2015-10-01;2024-06-01;Reutershagwinkel 16;52074;Aachen;Duitsland
 000010935;GOO;Vos, M.;Niet meer geregistreerd;2015-10-27;2023-05-08;Grote Plekweg 12;3520;ZONHOVEN;België
-000010959;GOO;Bollen, A.;Niet meer geregistreerd;2015-10-28;2019-10-28;Pater Damiaanstraat 10A;3740;Bilzen;België
 000010972;GOO;Nooijens-Kilsdonk, E.J.F.;Niet meer geregistreerd;2015-11-02;2019-11-02;Nachtegaallaan 12;2321;Meer-Hoogstraten;België
 000010984;DGO;'t Speelhuis Achel;Niet meer geregistreerd;2015-11-03;2019-11-03;Thomas Watsonlaan 103;3930;Hamont-Achel;België
-000010996;GOO;Arends-van Oosterhout, M.;Niet meer geregistreerd;2015-10-30;2019-10-30;Hegge 83;2381;Weelde;België
 000011010;DGO;KidsEnZo;Niet meer geregistreerd;2015-11-04;2019-11-04;Grotlaan 54;3680;Neeroeteren;België
 000011022;DGO;Tageseinrichtung für Kinder Löwenzahn;Niet meer geregistreerd;2015-11-03;2023-09-03;Kastanienweg 19;46446;Emmerich am Rhein;Duitsland
 000011034;GOO;Janssen, L.;Niet meer geregistreerd;2015-11-04;2019-11-04;Mgr. Gubbelsstraat 6;3631;Uikhoven;België
@@ -1111,7 +1109,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024673;DGO;Droomhuis;Niet meer geregistreerd;2022-10-20;2026-10-20;Bogaardestraat 171;9990;Maldegem;België
 000024697;GOO;Moermans, M.;Niet meer geregistreerd;2022-10-20;2026-10-20;Boyen 9;3650;Stokkem;België
 000024715;DGO;De Kleine Kameleon;Geregistreerd;2022-10-24;2030-08-17;Heikampstraat 35;3630;Maasmechelen;België
-000024727;DGO;Kath. Kindergarten St. Helena;Geregistreerd;2022-10-28;2026-10-28;Barloer Ringstrasse 68;46399;Bocholt;Duitsland
+000024727;DGO;Kath. Kindergarten St. Helena;Niet meer geregistreerd;2022-10-28;2026-10-28;Barloer Ringstrasse 68;46399;Bocholt;Duitsland
 000024739;BSO;Pelterkids Holheide;Niet meer geregistreerd;2022-10-25;2026-10-25;Holvenstraat 82;3900;Overpelt (Pelt);België
 000024740;BSO;Pelterkids Lindelhoeven;Niet meer geregistreerd;2022-10-25;2026-10-25;Parkstraat 19;3900;Overpelt (Pelt);België
 000024752;DGO;Le Jardin d 'Eden Europa;Geregistreerd;2022-10-31;2026-10-31;Tweekerkenstraat 18-20 bus 0;1000;Brussel;België
@@ -1319,6 +1317,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 017208956;DGO;Creche e Aparece;Geregistreerd;2025-11-08;2029-11-08;Rua do Polo Norte Lote 1.06.1.3 B;1990-265;Lissabon;Portugal
 017366306;DGO;Happy Ones Brusselstraat;Geregistreerd;2024-05-28;2028-05-28;Brusselstraat 96;1702;Groot-Bijgaarden;België
 017617303;DGO;'t Sloeberken;Geregistreerd;2026-01-29;2030-01-29;Schoolkaai 23;9000;Gent;België
+018187948;DGO;Micro-crèche SAS Petits pas au naturel;Geregistreerd;2026-10-10;2030-10-10;2, Rue de Juifs;59218;Poix du Nord;Frankrijk
 018560908;GOO;Janssen, P.;Geregistreerd;2024-06-20;2028-06-20;Bettemishoeve 5;3910;Neerpelt;België
 018709801;DGO;De Toverschommel Hoogstraten;Geregistreerd;2025-05-07;2029-05-07;Vrijheid 81;2320;Hoogstraten;België
 019287161;DGO;AWO Kita Spinnereistrasse;Geregistreerd;2025-05-15;2029-05-15;Spinnereistrasse 31;48599;Gronau;Duitsland
@@ -1374,6 +1373,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 036601639;DGO;De Knappe Kapoentjes BV;Geregistreerd;2026-09-07;2030-09-07;Weg naar AS 73;3660;Opglabbeek (Oudsbergen);België
 037011157;GOO;Van den Brink, V;Geregistreerd;2024-06-05;2028-06-05;Hoofdstraat 3;3640;Molenbeersel;België
 037258898;DGO;Woodland Wanderers Montessori Forest School - Rickmansworth;Geregistreerd;2026-07-06;2030-07-06;Church Street;WD3 1JB;Rickmansworth;Engeland
+038146204;GOO;Al-Bayati, M.;Geregistreerd;2026-08-30;2030-08-30;Auf Pastorsfeld 14;47918;Tönisvorst;Duitsland
 038583070;DGO;Kribbeliet Poppel;Geregistreerd;2025-07-30;2029-07-30;Tilburgseweg 202;2382;Poppel;België
 039320017;DGO;Pistache Baby Corner;Geregistreerd;2024-06-05;2028-06-05;Lage Kaart 462 D;2930;Brasschaat;België
 039327619;DGO;De Kleine Held;Geregistreerd;2025-01-29;2029-01-29;Wagenstraat 2;3740;Bilzen;België
