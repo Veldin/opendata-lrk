@@ -121,11 +121,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000010674;GOO;Luyten, N.;Niet meer geregistreerd;2015-09-09;2023-06-25;Wouwerstraat 25;2470;Retie;België
 000010790;GOO;Moradi, H.;Niet meer geregistreerd;2015-10-01;2024-06-01;Reutershagwinkel 16;52074;Aachen;Duitsland
 000010935;GOO;Vos, M.;Niet meer geregistreerd;2015-10-27;2023-05-08;Grote Plekweg 12;3520;ZONHOVEN;België
-000010984;DGO;'t Speelhuis Achel;Niet meer geregistreerd;2015-11-03;2019-11-03;Thomas Watsonlaan 103;3930;Hamont-Achel;België
-000011010;DGO;KidsEnZo;Niet meer geregistreerd;2015-11-04;2019-11-04;Grotlaan 54;3680;Neeroeteren;België
 000011022;DGO;Tageseinrichtung für Kinder Löwenzahn;Niet meer geregistreerd;2015-11-03;2023-09-03;Kastanienweg 19;46446;Emmerich am Rhein;Duitsland
-000011034;GOO;Janssen, L.;Niet meer geregistreerd;2015-11-04;2019-11-04;Mgr. Gubbelsstraat 6;3631;Uikhoven;België
-000011046;DGO;Daltoncrèche;Niet meer geregistreerd;2015-11-06;2019-11-06;Boomkensstraat 52;3500;Hasselt;België
 000011071;DGO;Babyplaneet;Niet meer geregistreerd;2015-11-10;2019-11-10;Leeuwlantstraat 89 bus 1;2100;Deurne;België
 000011095;DGO;Villa del Popolo;Niet meer geregistreerd;2015-11-12;2019-11-12;via Santissima Annunziata 20;61029;Urbino;Italië
 000011113;DGO;De Sijsjes;Niet meer geregistreerd;2015-11-17;2019-11-17;Pastorijstraat 30;3530;Houthalen-Helchteren;België
@@ -1111,9 +1107,9 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024727;DGO;Kath. Kindergarten St. Helena;Niet meer geregistreerd;2022-10-28;2026-10-28;Barloer Ringstrasse 68;46399;Bocholt;Duitsland
 000024739;BSO;Pelterkids Holheide;Niet meer geregistreerd;2022-10-25;2026-10-25;Holvenstraat 82;3900;Overpelt (Pelt);België
 000024740;BSO;Pelterkids Lindelhoeven;Niet meer geregistreerd;2022-10-25;2026-10-25;Parkstraat 19;3900;Overpelt (Pelt);België
-000024752;DGO;Le Jardin d 'Eden Europa;Geregistreerd;2022-10-31;2026-10-31;Tweekerkenstraat 18-20 bus 0;1000;Brussel;België
+000024752;DGO;Le Jardin d 'Eden Europa;Niet meer geregistreerd;2022-10-31;2026-10-31;Tweekerkenstraat 18-20 bus 0;1000;Brussel;België
 000024776;DGO;Villa Vrolijk Kaulille;Geregistreerd;2022-11-03;2026-11-03;Kaulillerdorp 78;3950;Kaulille;België
-000024788;BSO;Domino Munsterbilzen;Geregistreerd;2022-11-03;2026-11-03;Waterstraat 4;3740;Munsterbilzen (Bilzen);België
+000024788;BSO;Domino Munsterbilzen;Niet meer geregistreerd;2022-11-03;2026-11-03;Waterstraat 4;3740;Munsterbilzen (Bilzen);België
 000024818;DGO;Het Toverbos;Geregistreerd;2022-11-10;2030-08-05;Heikant 39;2370;Arendonk;België
 000024831;DGO;AWO-Kindertagesstätte;Geregistreerd;2022-11-09;2026-11-09;Wankumer Str. 8;47669;Wachtendonk;Duitsland
 000024843;DGO;Brabbel;Geregistreerd;2022-11-15;2026-11-15;Regentstraat 9;2060;Antwerpen;België
