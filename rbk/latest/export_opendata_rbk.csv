@@ -32,7 +32,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000003876;GOO;Paula Vries;Geregistreerd;2014-03-14;2027-04-25;Smeetsstraat 36;3640;Molenbeersel;België
 000003992;DGO;Miep & Lies;Geregistreerd;2014-04-02;2030-09-09;Kapelstraat 2;3930;Hamont;België
 000004005;DGO;Ikke 2;Geregistreerd;2014-04-03;2030-08-03;Nieuwstraat 11;2910;Essen;België
-000004029;GOO;Dijkstra-Bouland, E.E.;Niet meer geregistreerd;2014-04-07;2019-11-16;Am Feldweg 4a;26892;Wippingen;Duitsland
 000004054;DGO;Kids & Co;Niet meer geregistreerd;2014-04-08;2021-09-21;Kloosterstraat 21 bus 1;2990;Wuustwezel;België
 000004066;DGO;Zazoe FV;Niet meer geregistreerd;2014-04-08;2020-04-13;Sint Gillisstraat 23;9170;De Klinge;België
 000004157;DGO;Kindergarten Eulenspiegel;Niet meer geregistreerd;2014-04-14;2021-10-30;Tillerstrasse 8;47546;Kalkar;Duitsland
@@ -55,7 +54,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000005320;DGO;Villa Patapoef Rekem;Geregistreerd;2014-05-23;2029-08-21;Heirbaan 272 bus 1;3621;Rekem (Lanaken);België
 000005368;BSO;IBO 't Huis;Niet meer geregistreerd;2014-05-19;2022-02-26;Dorpsstraat 22 A-B;3630;Vucht;België
 000005496;GOO;Kidiboel;Niet meer geregistreerd;2014-05-27;2022-01-19;Viartenstraat 16;3520;Zonhoven;België
-000005551;DGO;VOF Brummi;Niet meer geregistreerd;2014-05-28;2019-11-13;Kloosterstraat 116;9910;Knesselare;België
 000005587;DGO;Dou-dou;Niet meer geregistreerd;2014-05-28;2022-04-13;Binnensingel 7;3920;Lommel;België
 000005824;GOO;Peers, L.;Niet meer geregistreerd;2014-06-04;2022-04-09;Meierstraat 18;3640;Kinrooi;België
 000005836;DGO;'t Herderhöfke;Geregistreerd;2014-06-04;2029-05-23;Sieberg 18;3770;Herderen;België
@@ -122,11 +120,8 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000010790;GOO;Moradi, H.;Niet meer geregistreerd;2015-10-01;2024-06-01;Reutershagwinkel 16;52074;Aachen;Duitsland
 000010935;GOO;Vos, M.;Niet meer geregistreerd;2015-10-27;2023-05-08;Grote Plekweg 12;3520;ZONHOVEN;België
 000011022;DGO;Tageseinrichtung für Kinder Löwenzahn;Niet meer geregistreerd;2015-11-03;2023-09-03;Kastanienweg 19;46446;Emmerich am Rhein;Duitsland
-000011071;DGO;Babyplaneet;Niet meer geregistreerd;2015-11-10;2019-11-10;Leeuwlantstraat 89 bus 1;2100;Deurne;België
-000011095;DGO;Villa del Popolo;Niet meer geregistreerd;2015-11-12;2019-11-12;via Santissima Annunziata 20;61029;Urbino;Italië
 000011113;DGO;De Sijsjes;Niet meer geregistreerd;2015-11-17;2019-11-17;Pastorijstraat 30;3530;Houthalen-Helchteren;België
 000011125;BSO;Het Bijennestje;Niet meer geregistreerd;2015-11-17;2019-11-17;Bakkerslaan 20 A;3500;Hasselt;België
-000011137;BSO;VOF Brummi;Niet meer geregistreerd;2015-11-13;2019-11-13;Kloosterstraat 116;9910;Knesselare;België
 000011149;GOO;Wolf, E.J.N.;Niet meer geregistreerd;2015-11-18;2020-03-31;Familie-Wertheim-Strasse 23;48455;Bad Bentheim;Duitsland
 000011150;DGO;Ev.-luth. Kindergarten Regenbogen;Niet meer geregistreerd;2015-11-18;2019-11-18;Fritz-Reuter-Strasse 13;26817;Rhauderfehn;Duitsland
 000011174;BSO;'t Molentje - Centrum;Niet meer geregistreerd;2015-11-24;2019-11-24;Papenakkerstraat 5;3570;Alken;België
@@ -1111,7 +1106,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024776;DGO;Villa Vrolijk Kaulille;Geregistreerd;2022-11-03;2026-11-03;Kaulillerdorp 78;3950;Kaulille;België
 000024788;BSO;Domino Munsterbilzen;Niet meer geregistreerd;2022-11-03;2026-11-03;Waterstraat 4;3740;Munsterbilzen (Bilzen);België
 000024818;DGO;Het Toverbos;Geregistreerd;2022-11-10;2030-08-05;Heikant 39;2370;Arendonk;België
-000024831;DGO;AWO-Kindertagesstätte;Geregistreerd;2022-11-09;2026-11-09;Wankumer Str. 8;47669;Wachtendonk;Duitsland
+000024831;DGO;AWO-Kindertagesstätte;Niet meer geregistreerd;2022-11-09;2026-11-09;Wankumer Str. 8;47669;Wachtendonk;Duitsland
 000024843;DGO;Brabbel;Geregistreerd;2022-11-15;2026-11-15;Regentstraat 9;2060;Antwerpen;België
 000024855;DGO;De Kinderkopjes;Geregistreerd;2022-11-16;2026-11-16;Leegstraat 17 c;9960;Assenede;België
 000024879;DGO;Baby Louise;Geregistreerd;2022-11-18;2026-11-18;Louizalaan 119;1000;Brussel;België
@@ -1120,7 +1115,7 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024910;GOO;Vandenberg, A.-S.;Geregistreerd;2022-11-25;2026-11-25;Elsaute 23;4890;Thimister;België
 000024922;DGO;Het Paddenstoeltje bvba;Geregistreerd;2022-11-28;2026-11-28;Brugstraat 6;3970;Leopoldsburg;België
 000024946;GOO;Tijink, I.;Niet meer geregistreerd;2023-01-01;2023-09-01;Mersch 20;48455;Bad Bentheim;Duitsland
-000024958;DGO;Villa Vrolijk Neerpelt;Geregistreerd;2022-11-29;2026-11-29;Haagdoornstraat 66;3910;Neerpelt (Pelt);België
+000024958;DGO;Villa Vrolijk Neerpelt;Geregistreerd;2022-11-29;2030-07-30;Haagdoornstraat 66;3910;Neerpelt (Pelt);België
 000024971;GOO;Wiggins, C.;Geregistreerd;2022-12-01;2026-12-01;15 Demontfort Rise;SG12 ODQ;Ware, Hertfordshire;Groot Brittannië
 000024983;DGO;Atlantis;Geregistreerd;2022-12-15;2026-12-15;Hanendreef 16 bus A;2930;Brasschaat;België
 000024995;DGO;Kinderdagverblijf Eigenwijs;Geregistreerd;2022-12-15;2026-12-15;Fortbaan 79;2900;Schoten;België
