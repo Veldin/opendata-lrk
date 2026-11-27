@@ -120,9 +120,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000010935;GOO;Vos, M.;Niet meer geregistreerd;2015-10-27;2023-05-08;Grote Plekweg 12;3520;ZONHOVEN;België
 000011022;DGO;Tageseinrichtung für Kinder Löwenzahn;Niet meer geregistreerd;2015-11-03;2023-09-03;Kastanienweg 19;46446;Emmerich am Rhein;Duitsland
 000011149;GOO;Wolf, E.J.N.;Niet meer geregistreerd;2015-11-18;2020-03-31;Familie-Wertheim-Strasse 23;48455;Bad Bentheim;Duitsland
-000011174;BSO;'t Molentje - Centrum;Niet meer geregistreerd;2015-11-24;2019-11-24;Papenakkerstraat 5;3570;Alken;België
-000011186;DGO;De Klodsberg;Niet meer geregistreerd;2015-11-26;2019-11-26;Klodsbergweg 23;3520;Zonhoven;België
-000011204;GOO;Maes-Verdonschot;Niet meer geregistreerd;2015-11-27;2019-11-27;Vaartstraat 30;3920;Lommel;België
 000011216;DGO;'t Oogappeltje;Niet meer geregistreerd;2015-12-01;2019-12-01;Gomarus van Geelstraat 5;2920;Kalmthout;België
 000011228;DGO;Tageseinrichtung für Kinder - Bergstrasse;Niet meer geregistreerd;2015-12-01;2019-12-01;Bergstrasse 16-18;52062;Aachen;Duitsland
 000011241;GOO;HappyKidz;Niet meer geregistreerd;2015-12-01;2019-12-01;Commandant Giddelostraat 8;3620;Lanaken;België
@@ -130,7 +127,6 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000011265;DGO;Städtliche Tageseinrichtung für Kinder;Niet meer geregistreerd;2015-12-02;2019-12-02;Parkstrasse 130;52072;Aachen;Duitsland
 000011277;GOO;Cyran, J.;Niet meer geregistreerd;2015-12-02;2019-12-02;Germersweg 14;52134;Herzogenrath;Duitsland
 000011289;DGO;De Spruitjes;Niet meer geregistreerd;2015-12-03;2019-12-03;Bilzersteenweg 42;3730;Hoeselt;België
-000011307;GOO;Verschueren, M (Maria);Niet meer geregistreerd;2015-11-25;2019-11-25;Hoge weg 16;2322;Minderhout;België
 000011319;GOO;Knaub, K. & Akgül-Beskes, N.;Niet meer geregistreerd;2015-12-10;2019-12-10;Dyck 6;41334;Nettetal;Duitsland
 000011344;DGO;Przedszkole Rodzinne 'Madrowscy';Niet meer geregistreerd;2015-12-16;2019-12-16;Wielkopolska 7;78-100;Kolobrzeg;Polen
 000011356;GOO;De Debberkes;Niet meer geregistreerd;2015-12-15;2019-12-15;Gasthuisveld 59;3680;Maaseik;België
@@ -1106,9 +1102,9 @@ lrk_id;type_oko;actuele_naam_oko;status;begin_datum_inschrijving;eind_datum_insc
 000024843;DGO;Brabbel;Niet meer geregistreerd;2022-11-15;2026-11-15;Regentstraat 9;2060;Antwerpen;België
 000024855;DGO;De Kinderkopjes;Niet meer geregistreerd;2022-11-16;2026-11-16;Leegstraat 17 c;9960;Assenede;België
 000024879;DGO;Baby Louise;Niet meer geregistreerd;2022-11-18;2026-11-18;Louizalaan 119;1000;Brussel;België
-000024892;DGO;Zwilly-Zwolly;Geregistreerd;2022-11-23;2026-11-23;Kampweg 142 bus A;2990;Wuustwezel;België
+000024892;DGO;Zwilly-Zwolly;Niet meer geregistreerd;2022-11-23;2026-11-23;Kampweg 142 bus A;2990;Wuustwezel;België
 000024909;GOO;Navarro, N.;Geregistreerd;2022-11-18;2028-04-24;171 Chemin des Faisses;34480;Puissalicon;Frankrijk
-000024910;GOO;Vandenberg, A.-S.;Geregistreerd;2022-11-25;2026-11-25;Elsaute 23;4890;Thimister;België
+000024910;GOO;Vandenberg, A.-S.;Niet meer geregistreerd;2022-11-25;2026-11-25;Elsaute 23;4890;Thimister;België
 000024922;DGO;Het Paddenstoeltje bvba;Geregistreerd;2022-11-28;2026-11-28;Brugstraat 6;3970;Leopoldsburg;België
 000024946;GOO;Tijink, I.;Niet meer geregistreerd;2023-01-01;2023-09-01;Mersch 20;48455;Bad Bentheim;Duitsland
 000024958;DGO;Villa Vrolijk Neerpelt;Geregistreerd;2022-11-29;2030-07-30;Haagdoornstraat 66;3910;Neerpelt (Pelt);België
